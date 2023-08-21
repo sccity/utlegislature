@@ -1,0 +1,28 @@
+# Utah Legislature Automation
+
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+
+## Overview
+
+The **Utah Legislature Automation** project employs a suite of Python scripts developed to aid Government Affairs teams in automating and enhancing the analysis and evaluation of legislative bills within the state of Utah. These tools extend beyond the mere extraction of legislative data, facilitating rapid prioritization and the discernment of potential impacts bills might impose on local jurisdictions. Through the utilization of Artificial Intelligence, the project autonomously generates impact ratings, assesses potential impacts, and offers explanations thereof.
+
+However, it is crucial to acknowledge that the application of AI serves the purpose of streamlining the prioritization of bills for subsequent manual review and analysis based on their projected impacts. The project is intentionally designed to supplement and complement the efforts of proficient Government Affairs teams in various municipalities, rather than substituting their expertise.
+
+## Key Objectives
+The aim of the Utah Legislature Automation project is to create a new level of operational efficiency within Government Affairs teams. While preserving the significance of human insight and judgment, these tools help to expedite the analysis and assessment of legislative bills. In doing so, the project effectively streamlines the decision-making process by identifying and prioritizing bills that warrant heightened scrutiny. It is essential to recognize that the project is designed to complement the manual review process, rather than supplant it.
+
+## License
+This project is developed under the Apache License 2.0. Refer to the LICENSE file for a comprehensive overview.
+
+## Example Usage
+python app.py bills\
+python app.py --year 2023 --session S1\
+python app.py impact
+
+## Author
+Lance Haynie\
+Government Affairs Director\
+Santa Clara City
+
+## Disclaimer
+The Utah Legislature Automation project is a critical asset designed to enhance the Government Affairs team's operational efficacy. It is essential to underscore that while these tools augment the decision-making process, they are designed to complement, rather than substitute, the nuanced insight inherent in human review. The automated assessments and generated explanations are valuable adjuncts, facilitating more expedient prioritization and comprehensive understanding. This project is still under active development and refinement and may not work as expected -- it may not work at all. Once the code is stable, this disclaimer will be removed/modified.

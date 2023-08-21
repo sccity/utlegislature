@@ -1,0 +1,8 @@
+database:
+    schema: ""
+    user: ""
+    password: ""
+    host: ""
+api:
+    utle: ""
+    openai: ""
