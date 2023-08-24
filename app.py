@@ -26,10 +26,6 @@ def bills(year, session):
         print("Processing bills for current year and general session")
         le.UtahLegislature.import_bills()
 
-def calculate_impact():
-    print("Calculating impact ratings")
-    le.process_impact()
-
 def main():
     parser = argparse.ArgumentParser(description="Utah Legislature Automation")
     subparsers = parser.add_subparsers(dest="command", help="Choose a Command")
@@ -38,14 +34,18 @@ def main():
     bills_parser.add_argument("--year", type=int, help="Specify the Year")
     bills_parser.add_argument("--session", type=str, help="Specify the Session")
 
-    impact_parser = subparsers.add_parser("impact", help="Calculate Impact Ratings")
+    analysis_parser = subparsers.add_parser("impact", help="Provide an in-depth analysis")
+    
+    impact_parser = subparsers.add_parser("analysis", help="Calculate Impact Ratings")
 
     args = parser.parse_args()
 
     if args.command == "bills":
         bills(args.year, args.session)
     elif args.command == "impact":
-        calculate_impact()
+        le.process_impact()
+    elif args.command == "analysis":
+        le.process_analysis()
     else:
         print("Invalid command. Use 'bills' or 'impact'.")
 

@@ -15,7 +15,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import argparse, requests, json, pymysql, logging, uuid, openai
+import argparse, requests, json, pymysql, logging, uuid
 import os, sys, yaml
 from datetime import datetime
 from cachetools import cached, TTLCache
@@ -24,9 +24,8 @@ from .settings import settings_data
 class UtahLegislature:
     cache = TTLCache(maxsize=100, ttl=3600)
     
-    def __init__(self, db_host, db_user, db_password, db_name, api_key, ai_api_key, session, year):
+    def __init__(self, db_host, db_user, db_password, db_name, api_key, session, year):
         self.api_key = api_key
-        self.ai_api_key = ai_api_key
         self.db_host = db_host
         self.db_user = db_user
         self.db_password = db_password
@@ -39,7 +38,7 @@ class UtahLegislature:
         self.cursor = None
 
     def setup(self):
-        logging.basicConfig(level=logging.DEBUG, filename='bills.log', format='%(asctime)s - %(levelname)s - %(message)s')
+        logging.basicConfig(level=logging.WARNING, filename='bills.log', format='%(asctime)s - %(levelname)s - %(message)s')
         logging.debug("Setting up UtahLegislature instance...")
         self.base_bill_url = "https://glen.le.utah.gov/bills/{year}{session}/".format(year=self.year, session=self.session)
         self.bill_list_url = "{base_bill_url}billlist/{api_key}".format(base_bill_url=self.base_bill_url, api_key=self.api_key)
@@ -119,22 +118,21 @@ class UtahLegislature:
                 subjects = ', '.join(bill_data.get('subjects', []))
                 code_sections = ', '.join(bill_data.get('codesections', []))
                 appropriations = bill_data['monies'].encode('utf-8', 'replace') if 'monies' in bill_data else b''
-                analyzed_provisions = self.analyze_provisions(highlighted_provisions)
                 bill_link = f"https://le.utah.gov/~{self.year}/bills/static/{bill_number}.html"
                 
                 insert_query = (
                     "INSERT INTO bills "
                     "(guid, bill_year, session, bill_number, short_title, general_provisions, highlighted_provisions, "
                     "subjects, code_sections, appropriations, last_action, last_action_owner, last_action_date, "
-                    "bill_link, sponsor, floor_sponsor, ai_analysis) "
-                    "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+                    "bill_link, sponsor, floor_sponsor) "
+                    "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
                 )
                 insert_values = (
                     guid, self.year, self.session, bill_number,
                     bill_data.get('shorttitle', ''), bill_data.get('generalprovisions', ''),
                     highlighted_provisions, subjects, code_sections, appropriations,
                     last_action, last_action_owner, last_action_date,
-                    bill_link, sponsor, floor_sponsor, analyzed_provisions
+                    bill_link, sponsor, floor_sponsor
                 )
                 
                 self.cursor.execute(insert_query, insert_values)
@@ -142,16 +140,6 @@ class UtahLegislature:
                 logging.debug("Inserted bill: {} (Year: {}, Session: {})".format(bill_number, self.year, self.session))
         except pymysql.Error as db_error:
             logging.error("MySQL error: {}".format(db_error))
-
-    @cached(cache)
-    def analyze_provisions(self, provisions):
-        openai.api_key = self.ai_api_key
-        prompt = "Summarize in a single sentence whether the highlighted provisions have a potential impact on municipalities in Utah. Then, provide an in-depth analysis of the following provisions: {}\n\nFocus on both positive and negative effects across economic, social, and legal dimensions. Provide insights into local government operations, community resources, resident well-being, and legal frameworks. In your analysis, address specific examples: How might these provisions affect local businesses and tax revenue? Are there implications for community services and residents' quality of life? Do the provisions align with existing municipal laws and regulations? Craft a comprehensive analysis that guides decision-makers in understanding the consequences of these provisions for municipalities.".format(provisions)
-        logging.debug("Generating AI analysis for provisions: {}".format(provisions))
-        response = openai.Completion.create(
-            engine="text-davinci-003", prompt=prompt, max_tokens=1500
-        )
-        return response.choices[0].text.strip()
 
     @cached(cache)
     def get_formatted_name(self, legislator_id):
@@ -202,7 +190,6 @@ class UtahLegislature:
 
         etlProcessor = UtahLegislature(
             api_key=settings_data["api"]["utle"],
-            ai_api_key=settings_data["api"]["openai"],
             db_host=settings_data["database"]["host"],
             db_user=settings_data["database"]["user"],
             db_password=settings_data["database"]["password"],

@@ -18,3 +18,4 @@
 # limitations under the License.
 from .bills import *
 from .impact import *
+from .analysis import *

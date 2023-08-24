@@ -54,45 +54,36 @@ class OpenAIConnector:
     def rate_impact(self, text, highlighted_provisions, code_sections, max_retries=5, retry_delay=5):
         for attempt in range(max_retries):
             try:
-                prompt = (
-                    "Rate the potential negative impact of the following text on municipalities in Utah on a scale of 1 to 5, using whole numbers only. "
-                    "Consider the highlighted provisions and impact analysis in the text for your rating. "
-                    "However, if the mentioned Utah Code titles' first digits and/or first digits and letter are not within 10, 11, 13, 17, 17B, 35A, 52, 53, 54, 59, or 63A, automatically rate it as 1."
-                    "Also, if the primary focus in highlighted provisions is on school districts or special service districts automatically rate it as 1. "
-                    "Carefully consider if there is an actual impact to municipalities in your rating. "
-                    "Areas to consider, but not limited to, when rating are local government operations, local revenue and taxation, local budgets, local ordinances, and any new restrictions placed on municipalities."
-                    "Be objective in your rating, for instance, bills relating to leisure activities, and parks and recreation have less impact that revenue and taxation."
-                    "However, any bill that would require municipalities to make local changes in how they operate would have more of an impact."
-                    "Please provide only the numeric rating based on the criteria mentioned without any other text.\n\n"
-                    "Highlighted Provisions: {}\n\nImpact Analysis: {}\n\n Utah Code Impacted: {}."
-                ).format(highlighted_provisions, text, code_sections)
+                role_system = {"role": "system", "content": "You're a legislative analyst for a Utah municipality, tasked with rating the impact of legislative bills on cities in Utah."}
                 
+                prompt = (
+                    "Rate the potential negative impact on Utah municipalities from the provided text on a scale of 1 to 5, using whole numbers only. "
+                    "Consider highlighted provisions, impact analysis, and Utah Code references for your rating. "
+                    "If the referenced Utah Code is not in the specified categories (10, 11, 13, 17, 17B, 35A, 52, 53, 54, 59, 63A), rate it as 1. "
+                    "Also, rate as 1 if the focus isschool, special service districts, or state operations. "
+                    "Areas to consider include local government operations, revenue, budgets, ordinances, and new restrictions on municipalities. "
+                    "Be objective; bills related to leisure have less impact than revenue-related bills. "
+                    "Bills necessitating local operational changes have a higher impact. "
+                    "Provide only the numeric rating based on the mentioned criteria.\n\n"
+                    "Provisions: {}\n\nAnalysis: {}\n\nImpacted Utah Code: {}."
+                ).format(highlighted_provisions, text, code_sections)
+
                 response = openai.ChatCompletion.create(
                     model="gpt-3.5-turbo",
-                    messages=[
-                        {"role": "system", "content": "You are a legislative analyst working for a Utah municipality. Your job is to rate legislative bills to rate the impact to cities in Utah."},
-                        {"role": "user", "content": prompt}
-                    ],
+                    messages=[role_system, {"role": "user", "content": prompt}],
                     max_tokens=1
                 )
     
-                response_text = response.choices[0].message["content"].strip()
-                rating = int(response_text)
+                rating = int(response.choices[0].message["content"].strip())
                 
                 explanation_prompt = f"Why did you rate the impact as {rating}? Please provide an explanation in 500 characters or less."
-                messages_with_explanation = [
-                    {"role": "system", "content": "You are a legislative analyst working for a Utah municipality. Your job is to rate legislative bills to rate the impact to cities in Utah."},
-                    {"role": "user", "content": prompt},
-                    {"role": "system", "content": "Now, please provide an explanation for your rating in 500 characters or less."},
-                    {"role": "user", "content": explanation_prompt}
-                ]
                 
                 explanation_response = openai.ChatCompletion.create(
                     model="gpt-3.5-turbo",
-                    messages=messages_with_explanation,
-                    max_tokens=500  # You can adjust the max_tokens value as needed
+                    messages=[role_system, {"role": "user", "content": prompt}, role_system, {"role": "user", "content": explanation_prompt}],
+                    max_tokens=500
                 )
-                
+
                 explanation = explanation_response.choices[0].message["content"].strip()
                     
                 return rating, explanation
@@ -120,7 +111,7 @@ class BillProcessor:
             self.db_connector.conn.begin()  # Begin a transaction
 
             self.db_connector.cursor.execute(
-                "SELECT guid, ai_analysis, highlighted_provisions, code_sections FROM bills WHERE ai_impact_rating IS NULL OR ai_impact_rating = 0 AND last_action_owner NOT LIKE '%not pass%'"
+                "SELECT guid, ai_analysis, highlighted_provisions, code_sections FROM bills WHERE ai_impact_rating IS NULL OR ai_impact_rating = 0 AND level != 5 AND last_action_owner NOT LIKE '%not pass%'"
             )
             rows = self.db_connector.cursor.fetchall()
 
