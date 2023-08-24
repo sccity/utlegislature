@@ -15,39 +15,34 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import argparse
+import click
 import utle as le
 
-def bills(year, session):
-    if year and session:
-        print(f"Processing bills for year {year} and session {session}")
-        le.UtahLegislature.import_bills(year=year, session=f"{session}")
-    else:
-        print("Processing bills for current year and general session")
-        le.UtahLegislature.import_bills()
-
+@click.group()
 def main():
-    parser = argparse.ArgumentParser(description="Utah Legislature Automation")
-    subparsers = parser.add_subparsers(dest="command", help="Choose a Command")
+    """Utah Legislature Automation"""
 
-    bills_parser = subparsers.add_parser("bills", help="Process Legislative Bills")
-    bills_parser.add_argument("--year", type=int, help="Specify the Year")
-    bills_parser.add_argument("--session", type=str, help="Specify the Session")
-
-    analysis_parser = subparsers.add_parser("impact", help="Provide an in-depth analysis")
-    
-    impact_parser = subparsers.add_parser("analysis", help="Calculate Impact Ratings")
-
-    args = parser.parse_args()
-
-    if args.command == "bills":
-        bills(args.year, args.session)
-    elif args.command == "impact":
-        le.process_impact()
-    elif args.command == "analysis":
-        le.process_analysis()
+@main.command()
+@click.option("--year", type=int, help="Specify the Year")
+@click.option("--session", type=str, help="Specify the Session")
+def bills(year, session):
+    """Process Legislative Bills"""
+    if year and session:
+        click.echo(f"Processing bills for year {year} and session {session}")
+        le.UtahLegislature.import_bills(year=year, session=session)
     else:
-        print("Invalid command. Use 'bills' or 'impact'.")
+        click.echo("Processing bills for current year and general session")
+        le.UtahLegislature.import_bills()
+        
+@main.command()
+def analysis():
+    """Provide an in-depth analysiss"""
+    le.process_analysis()
+
+@main.command()
+def impact():
+    """Calculate impact analysis"""
+    le.process_impact()
 
 if __name__ == "__main__":
     main()
