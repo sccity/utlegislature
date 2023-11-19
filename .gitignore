@@ -43,4 +43,4 @@ venv/
 ENV/
 *.png
 *.profile
-data/*
+data/*.json
