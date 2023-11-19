@@ -20,6 +20,8 @@ Once these procedures have concluded, the server can be initiated. Built on Flas
 {"response":"CodeLogic AI: Utah Code Annotated § 59-12-301 and Utah Code Annotated § 59-12-405 mention the Transient Room Tax."}
 ```
 
+Precision in prompts is crucial when interacting with Large Language Models. Despite having vast knowledge, AI lacks inherent wisdom. For instance, a broad query like "Where is TRT referenced?" may not yield the desired results. It is essential to be explicit and clear in your prompts, specifying details such as "transient room tax" instead of just "TRT." A more effective example would be: "Where is the Transient Room Tax referenced in the Utah Code?""
+
 ## Example Usage - Bill Analysis
 python app.py bills\
 python app.py --year 2023 --session S1\
