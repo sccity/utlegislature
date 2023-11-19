@@ -20,9 +20,6 @@ Once these procedures have concluded, the server can be initiated. Built on Flas
 {"response":"CodeLogic AI: Utah Code Annotated § 59-12-301 and Utah Code Annotated § 59-12-405 mention the Transient Room Tax."}
 ```
 
-## License
-This project is developed under the Apache License 2.0. Refer to the LICENSE file for a comprehensive overview.
-
 ## Example Usage - Bill Analysis
 python app.py bills\
 python app.py --year 2023 --session S1\
@@ -45,13 +42,16 @@ The "server" function starts the API server so that it can be incorprated into y
 
 This system is designed to be easy to run and maintain, but you will need some basic understanding of databases, python, and server administration to get it up and running. We are running this on Ubuntu Server and use the included service file for the API, and Cron to automate the bill tasks.
 
+## License
+This project is developed under the Apache License 2.0. Refer to the LICENSE file for a comprehensive overview.
+
+## Disclaimer
+The Utah Legislature Automation project is a critical asset designed to enhance the Government Affairs team's operational efficacy. It is essential to underscore that while these tools augment the decision-making process, they are designed to complement, rather than substitute, the nuanced insight inherent in human review. The automated assessments and generated explanations are valuable adjuncts, facilitating more expedient prioritization and comprehensive understanding. This project is still under active development and refinement and may not work as expected -- it may not work at all. Once the code is stable, this disclaimer will be removed/modified.
+
 ## Author
 Lance Haynie\
 Government Affairs Director\
 Santa Clara City
-
-## Disclaimer
-The Utah Legislature Automation project is a critical asset designed to enhance the Government Affairs team's operational efficacy. It is essential to underscore that while these tools augment the decision-making process, they are designed to complement, rather than substitute, the nuanced insight inherent in human review. The automated assessments and generated explanations are valuable adjuncts, facilitating more expedient prioritization and comprehensive understanding. This project is still under active development and refinement and may not work as expected -- it may not work at all. Once the code is stable, this disclaimer will be removed/modified.
 
 ## Example GUI
 ![Language Model](https://raw.githubusercontent.com/sccity/utlegislature/master/img/llm_mobile.png)
