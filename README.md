@@ -22,7 +22,7 @@ python app.py impact
 ## Example Usage - Generative AI (LLM) trained on Utah Code
 python app.py updatecode\
 python app.py train\
-python app.py server\
+python app.py server
 
 The "updatecode" function will pull down the most recent version of Utah Code. This will need to be run after each legislative session after the updated code is available online. 
 
