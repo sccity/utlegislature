@@ -1,0 +1,13 @@
+[Unit]
+Description=CodeLogic AI Service
+After=syslog.target network.target
+
+[Service]
+WorkingDirectory=/opt/utlegislature
+ExecStart=/usr/bin/python3 /opt/utlegislature/app.py server
+
+Restart=always
+RestartSec=120
+
+[Install]
+WantedBy=multi-user.target
