@@ -11,6 +11,15 @@ However, it is crucial to acknowledge that the application of AI serves the purp
 ## Key Objectives
 The aim of the Utah Legislature Automation project is to create a new level of operational efficiency within Government Affairs teams. While preserving the significance of human insight and judgment, these tools help to expedite the analysis and assessment of legislative bills. In doing so, the project effectively streamlines the decision-making process by identifying and prioritizing bills that warrant heightened scrutiny. It is essential to recognize that the project is designed to complement the manual review process, rather than supplant it.
 
+## Large Language Model
+The fine-tuned large language model adheres to a straightforward workflow. Initially, it retrieves the latest Utah Code and structures it in a format optimized for model embedding creation. This data is then downloaded into a designated folder named "utcode" and organized into individual files according to Title. Subsequently, the model training process ensues.
+
+Once these procedures have concluded, the server can be initiated. Built on Flask, the server establishes an API endpoint that seamlessly integrates into various applications. The API output is a JSON response delivered through GET requests. Example response:
+
+```
+{"response":"CodeLogic AI: Utah Code Annotated § 59-12-301 and Utah Code Annotated § 59-12-405 mention the Transient Room Tax."}
+```
+
 ## License
 This project is developed under the Apache License 2.0. Refer to the LICENSE file for a comprehensive overview.
 
@@ -30,6 +39,12 @@ The "train" function will train the Large Language Model (LLM) on Utah Code. Eac
 
 The "server" function starts the API server so that it can be incorprated into your program.
 
+## REQUIREMENTS
+*  A MySQL/MariaDB database with proper access rights. Currently, we are using Amazon AWS RDS.
+*  Python 3.7+.
+
+This system is designed to be easy to run and maintain, but you will need some basic understanding of databases, python, and server administration to get it up and running. We are running this on Ubuntu Server and use the included service file for the API, and Cron to automate the bill tasks.
+
 ## Author
 Lance Haynie\
 Government Affairs Director\
@@ -39,5 +54,5 @@ Santa Clara City
 The Utah Legislature Automation project is a critical asset designed to enhance the Government Affairs team's operational efficacy. It is essential to underscore that while these tools augment the decision-making process, they are designed to complement, rather than substitute, the nuanced insight inherent in human review. The automated assessments and generated explanations are valuable adjuncts, facilitating more expedient prioritization and comprehensive understanding. This project is still under active development and refinement and may not work as expected -- it may not work at all. Once the code is stable, this disclaimer will be removed/modified.
 
 ## Example GUI
-<img src="https://raw.githubusercontent.com/sccity/utlegislature/master/img/llm_mobile.png" alt="Language Model" height="50%">
+![Language Model](https://raw.githubusercontent.com/sccity/utlegislature/master/img/llm_mobile.png)
 ![Legislative Bill Tracking](https://raw.githubusercontent.com/sccity/utlegislature/b38da668d3a266cc31a1f4bf56d876c763575e9d/img/utle.png)
