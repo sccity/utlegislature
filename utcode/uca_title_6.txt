@@ -1,0 +1,97 @@
+Utah Code Annotated - Title 6 - Assignment for Benefit of Creditors
+===================================================================
+
+Utah Code Annotated - Title 6 - Chapter 1 - General Provisions Relating to Assignment for Benefit of Creditors
+**************************************************************************************************************
+
+Utah Code Annotated § 6-1-1 Insolvent debtor may assign.
+--------------------------------------------------------
+An insolvent debtor may, in good faith, execute an assignment of property to one or more assignees in trust for the benefit of creditors in conformity with the provisions of this title.
+
+Utah Code Annotated § 6-1-2 When assignment void.
+-------------------------------------------------
+An assignment for the benefit of creditors is void against any creditor of the assignor not assenting thereto in the following cases:Utah Code Annotated § 6-1-2(1): if it gives a preference dependent upon any condition or contingency, or with any power of revocation reserved;
+Utah Code Annotated § 6-1-2(2): if it tends to coerce any creditor to release or compromise his demand;
+Utah Code Annotated § 6-1-2(3): if it provides for the payment of any claim known by the assignor to be false or fraudulent, or for the payment of more upon any claim than is known to be justly due from the assignor;
+Utah Code Annotated § 6-1-2(4): if it reserves any interest in the assigned property or in any part thereof to the assignor or for his benefit before all his existing debts are paid; and
+Utah Code Annotated § 6-1-2(5): if it confers upon the assignee any power which, if exercised, might prevent or delay the immediate conversion of the assigned property to the purposes of the trust; provided, that the assignment may provide reasonable terms and manner of sale to be carried out only so far as practicable and not prejudicial to the interest of the estate in the discretion of the court.
+
+
+Utah Code Annotated § 6-1-3 Assignment to be written -- Contents -- Recording.
+------------------------------------------------------------------------------
+Every such assignment shall be by an instrument in writing, setting forth the name of the assignor, his residence and business, the name of the assignee and his residence and business, and in a general way describing the property assigned with its location, and stating the purpose of the assignment.  It shall be executed and acknowledged in the manner prescribed for the execution and acknowledgment of deeds, and recorded in the office of the recorder of the county where the property assigned is located.  The assignor shall annex to such instrument an inventory, under oath, of his estate, real and personal, according to the best of his knowledge, and a list of his creditors and the amount of their respective demands; but such inventory is not conclusive as to the amount of the debtor's estate, and such assignment shall vest in the assignee the title to any other property belonging to the debtor at the time of making the assignment, except property exempt from execution and insurance upon the life of the assignor, unless the instrument mentions such exempt property and insurance and declares an intention of the assignor that they shall pass thereby.  As soon as such instrument is recorded it shall be filed, with the inventory and list of creditors, in the office of the clerk of the district court of the county in which the property so assigned is located; as shall all subsequent papers connected with such proceedings.
+
+Utah Code Annotated § 6-1-4 Inventory -- Bond.
+----------------------------------------------
+The assignee shall forthwith file with the clerk of the district court of the county where the property assigned is located a true and full inventory and valuation of said estate, under oath, so far as the same has come to his knowledge, and shall then enter into bonds to the state for the use of the creditors in double the amount of the inventory and valuation, with one or more sureties to be approved by said clerk, for the faithful performance of said trust; and the assignee may thereupon proceed to perform any duty necessary to carry into effect the purpose of said assignment.
+
+Utah Code Annotated § 6-1-5 Notice of assignment.
+-------------------------------------------------
+The assignee shall forthwith give notice of such assignment:Utah Code Annotated § 6-1-5(1): (1)(a)(i); 45-1-101
+Utah Code Annotated § 6-1-5(1)(a): (1)(a)(i) by publication once a week for six weeks:
+Utah Code Annotated § 6-1-5(1)(a)(i): in a newspaper published in the county; or
+Utah Code Annotated § 6-1-5(1)(a)(ii): (1)(a)(i) if there is not a newspaper as described in Subsection
+Utah Code Annotated § 6-1-5(1)(b): 45-1-101 by publication as required in Section
+Utah Code Annotated § 6-1-5(2): by mail to each creditor of whom he shall be informed, directed to his usual place of residence, requiring such creditor to present to him within three months thereafter his claims under oath.
+
+
+Utah Code Annotated § 6-1-6 Claims to be filed.
+-----------------------------------------------
+The claims of all creditors, clearly and distinctly stated and sworn to by the claimant, or by some person acquainted with the facts, shall be filed with the assignee within three months of the date of the first publication provided for in the preceding section, unless the court extends such time for all or some of such claimants, which it may do in its discretion where peculiar circumstances seem to justify such extension, but in no case shall such extension be extended beyond nine months.
+
+Utah Code Annotated § 6-1-7 Assignee to make report.
+----------------------------------------------------
+At the expiration of three months from the time of first publishing notice the assignee shall report and file with the clerk of the court a true and full list, under oath, of all such creditors of the assignor as shall have claimed to be such, with a statement of their claims, an affidavit of publication of notice, and a list of the creditors with their places of residence to whom notice has been sent by mail, and the date of mailing the same.
+
+Utah Code Annotated § 6-1-8 Objections to claims -- Hearing.
+------------------------------------------------------------
+Any person interested may appear within one month after such report is filed and contest the claim or demand of any creditor by written exceptions thereto filed with the clerk, who shall forthwith cause notice thereof to be given to the creditor, which shall be served as in case of a summons and returnable at a time to be named therein, not less than 10 nor more than 40 days; at which time the court shall proceed to hear the proofs and allegations of the parties in the matter and render such judgment thereon as shall be just.
+
+Utah Code Annotated § 6-1-9 Taxes to be paid.
+---------------------------------------------
+In all assignments of property for the benefit of creditors, assessments and taxes levied thereon either under the laws of the state or ordinances of municipal corporations shall be entitled to priority, and paid in full by the assignee, and claims therefor need not be filed with him.
+
+Utah Code Annotated § 6-1-10 Dividends to creditors.
+----------------------------------------------------
+If no exception is made and filed to the claim of any creditor, or if the same has been adjudicated, the court shall order the assignee to make from time to time fair and equal dividends among the creditors of the assets in his hands in proportion to their claims and according to the preferences or classes, if any, named in the assignment, and as soon as may be to render a final account of his trust to the court. If upon making the final dividend to creditors the assignee shall be unable after reasonable efforts to ascertain the place of residence of any creditor or the person who is authorized to receive the dividend due any creditor, he shall report the same to the court, with evidence showing diligent attempts to find such creditor or person authorized to receive the dividend; whereupon the court may in its discretion order the distribution of the unclaimed dividend among the other creditors.
+
+Utah Code Annotated § 6-1-11 Court to supervise administration.
+---------------------------------------------------------------
+The assignee shall at all times be subject to the order and supervision of the court or judge and from time to time may be compelled, by citation or attachment, to file reports of his proceedings and of the situation and condition of the trust, and to proceed in the execution of the duties required by this title.
+
+Utah Code Annotated § 6-1-12 Time for disposing of property.
+------------------------------------------------------------
+The assignee shall dispose of all personal property and divide the proceeds of the same among the creditors as they may be entitled thereto within six months from the date of the assignment, unless further time is given for good cause by the court, and shall dispose of real estate within one year from such date, and make full settlement by that time, unless the court or judge, for good reason shown, shall extend the time therefor.
+
+Utah Code Annotated § 6-1-13 Failure to file inventory -- Examination of debtor.
+--------------------------------------------------------------------------------
+No assignment shall be declared fraudulent or void for want of any list or inventory as provided in this title. The court or judge may, upon application of the assignee or any creditor, compel the appearance in person of the debtor before such court or judge, forthwith or at the next term, to answer under oath such matters as may be inquired of him, and such debtor may be fully examined under oath as to the amount and situation of his estate, and the names of the creditors and amounts due to each with their places of residence, and may be compelled to deliver to the assignee any property or estate embraced in the assignment.
+
+Utah Code Annotated § 6-1-14 Subsequent inventory -- Additional bond.
+---------------------------------------------------------------------
+The assignee shall from time to time file with the clerk of the court an inventory and valuation of any additional property which may come into his hands under the assignment after the filing of the first inventory, and the clerk or the judge of the court may thereupon require him to give additional security.
+
+Utah Code Annotated § 6-1-15 Debts not matured -- Delay in filing claims.
+-------------------------------------------------------------------------
+Any creditor may claim debts to become due as well as debts due, but on debts not due a reasonable rebate shall be made when the same are not drawing interest.  Creditors who do not file their claims within three months from the publication of notice as aforesaid may not participate in dividends until after payment in full of all claims presented within said time and allowed by the court, unless the court has extended the time for filing such claims.
+
+Utah Code Annotated § 6-1-16 Sales -- Confirmation.
+---------------------------------------------------
+The assignee may dispose of and sell all the estate assigned, real and personal, which the debtor had at the time of the assignment, may sue for and recover in his own name everything belonging or appertaining to said estate, and generally do whatever the debtor might have done in the premises; but no sale of real estate belonging to said trust shall be made without notice published as in case of sales of real estate on execution, unless the court or judge shall otherwise order, and no such sales shall be valid until approved by the court or judge.
+
+Utah Code Annotated § 6-1-17 Removal of assignee.
+-------------------------------------------------
+Upon a written application of a majority of the creditors in amount the court shall remove the assignee and appoint in his stead a person approved by the creditors in the same number and amount, and the person so removed shall immediately turn over to the clerk of the court, or any person appointed by the court, all money and property of the estate in his hands.
+
+Utah Code Annotated § 6-1-18 Death or neglect of assignee.
+----------------------------------------------------------
+If an assignee dies before the closing of his trust, or shall fail or neglect for the period of 20 days after making of any assignment to file an inventory and valuation and give bond as required in this title, the district court or any judge thereof of the county where such assignment may be recorded, on the application of any person interested, shall appoint some person to execute the trust, who shall on giving bond have all the powers of the assignee first appointed and be subject to all the duties hereby imposed. If it is shown to the court at any time that an assignee is guilty of wasting or misapplying the trust fund, he may be removed, and a successor appointed in the same manner.
+
+Utah Code Annotated § 6-1-19 Compensation of assignee.
+------------------------------------------------------
+In the absence of any provision in the assignment to the contrary an assignee for the benefit of creditors is entitled to the same commissions as are allowed by law to executors and administrators as compensation in full for all services.
+
+Utah Code Annotated § 6-1-20 Right to prefer creditor.
+------------------------------------------------------
+Nothing in this title contained shall affect the power of a person, although insolvent, residing either within or without this state, to transfer property in this state in good faith to a particular creditor for the purpose of paying or securing the whole or a part of a debt owing to such creditor; provided, that joint, or joint and several, debtors can prefer their joint creditors only out of joint property, and can prefer the individual creditors of each only out of the separate property of each.
+

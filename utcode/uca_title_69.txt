@@ -1,0 +1,501 @@
+Utah Code Annotated - Title 69 - Telegraphic and Telephonic Transactions
+========================================================================
+
+Utah Code Annotated - Title 69 - Chapter 1 - General Provisions
+***************************************************************
+
+Utah Code Annotated § 69-1-1 Notice by, authorized.
+---------------------------------------------------
+Whenever any notice, information or intelligence is required to be given the same may be given by telegraph or telephone. Any such notice, information or intelligence shall be delivered to the telegraph or telephone operator in writing and shall be delivered to the person for whom it is intended in writing by the operator at the receiving office, who shall, on request, certify thereon that the writing so delivered is a true copy of the original. Notice by telegraph or telephone shall be deemed actual notice.
+
+Utah Code Annotated § 69-1-2 Transmitting written instruments by telegraph or telephone authorized -- Entitled to record -- Force and effect of copies -- Documents submitted to recorder -- Requirements.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Any power of attorney or other instrument in writing duly proved or acknowledged and certified so as to be entitled to record may, together with the certificate of its proof or acknowledgment, be sent by telegraph or telephone, and the telegraphic or telephonic copy shall prima facie have the same force and effect in all respects, and may be admitted to record and recorded in the same manner and with the same effect, as the original.  Documents submitted to the county recorder for recording shall be original or certified copies from other offices of public record, as required by
+
+Utah Code Annotated § 69-1-3 Transmitting agreements for payment of money -- Burden of proof.
+---------------------------------------------------------------------------------------------
+Checks, due bills, promissory notes, bills of exchange and all orders or agreements for the payment or delivery of money or other thing of value may be made or drawn by telegraph, and when so made or drawn shall have the same force and effect to charge the maker, drawer, endorser or acceptor thereof, and shall create the same rights and equities in favor of the payee, drawee, endorsee, acceptor, holder or bearer thereof, as if duly made or drawn and delivered in writing. Except as provided in Section
+
+Utah Code Annotated § 69-1-4 Transmitting certified instruments -- Burden of proof.
+-----------------------------------------------------------------------------------
+Except as hereinbefore otherwise provided, any instrument in writing, duly certified under his hand and official seal by a notary public, commissioner of deeds or clerk of a court of record to be genuine to the personal knowledge of such officer, may, together with such certificate, be sent by telegraph or telephone. The telegraphic or telephonic copy thereof shall, prima facie only, have the same force, effect and validity in all respects as the original, and the burden of proof shall be on the party denying the genuineness or due execution of the original.
+
+Utah Code Annotated - Title 69 - Chapter 2 - Emergency Service and Prepaid Wireless Telecommunications Service
+**************************************************************************************************************
+
+Utah Code Annotated § 69-2-101 Title.
+-------------------------------------
+This chapter is known as "Emergency Service and Prepaid Wireless Telecommunications Service."
+
+Utah Code Annotated § 69-2-102 Definitions.
+-------------------------------------------
+As used in this chapter:Utah Code Annotated § 69-2-102(1): "911 emergency communication" means a direct 911 communication received by a public safety answering point.
+Utah Code Annotated § 69-2-102(2): "911 emergency service" means a unified statewide communication system that provides a user with direct access to a public safety answering point by dialing or accessing 911.
+Utah Code Annotated § 69-2-102(3): 
+Utah Code Annotated § 69-2-102(3)(a): "Access line" means a circuit-switched connection, or the functional equivalent of a circuit-switched connection, from an end user to the public switched network.
+Utah Code Annotated § 69-2-102(3)(b): "Access line" includes:
+Utah Code Annotated § 69-2-102(3)(b)(i): a local exchange service switched access line within the state;
+Utah Code Annotated § 69-2-102(3)(b)(ii): a revenue producing radio communications access line with a billing address within the state; and
+Utah Code Annotated § 69-2-102(3)(b)(iii): a line provided by a service, including voice over Internet protocol, to a user with an address within the state, that allows the user to receive a call that originates on the public switched network and terminate a call to the public switched network.
+Utah Code Annotated § 69-2-102(4): "Commission" means the State Tax Commission.
+Utah Code Annotated § 69-2-102(5): 63H-7a-103 "Dispatch center" means the same as that term is defined in Section
+Utah Code Annotated § 69-2-102(6): "Local exchange service" means the provision of public telecommunications services by a wireline common carrier to customers within a geographic area encompassing one or more local communities as described in the carrier's service territory maps, tariffs, price lists, or rate schedules filed with and approved by the Public Service Commission.
+Utah Code Annotated § 69-2-102(7): "Local exchange service switched access line" means the transmission facility and local switching equipment used by a wireline common carrier to connect a customer location to a carrier's local exchange switching network for providing two-way interactive voice, or voice capable, services.
+Utah Code Annotated § 69-2-102(8): "Mobile telecommunications service" means the same as that term is defined in 4 U.S.C. Sec. 124.
+Utah Code Annotated § 69-2-102(9): "Public agency" means a state government entity, a political subdivision of the state, a special service district, or an entity created by interlocal agreement that provides or has authority to provide fire fighting, law enforcement, ambulance, medical, or other emergency services.
+Utah Code Annotated § 69-2-102(10): "Public safety agency" means a functional division of a public agency which provides fire fighting, law enforcement, medical, or other emergency services.
+Utah Code Annotated § 69-2-102(11): 63H-7a-103 "Public safety answering point" means the same as that term is defined in Section
+Utah Code Annotated § 69-2-102(12): "Public switched network" means the same as that term is defined in 47 C.F.R. Sec. 20.3.
+Utah Code Annotated § 69-2-102(13): "Radio communications access line" means the radio equipment and assigned customer identification number used to connect a mobile or fixed radio customer in Utah to a radio communication service provider's network for two-way interactive voice, or voice capable, services.
+Utah Code Annotated § 69-2-102(14): (14)(b)
+Utah Code Annotated § 69-2-102(14)(a): "Radio communications service" means a public telecommunications service providing the capability of two-way interactive telecommunications between mobile and fixed radio customers, and between mobile or fixed radio customers and the local exchange service network customers of a wireline common carrier.
+Utah Code Annotated § 69-2-102(14)(b): (14)(b) "Radio communications service" includes:
+Utah Code Annotated § 69-2-102(14)(b)(i): cellular telephone service;
+Utah Code Annotated § 69-2-102(14)(b)(ii): enhanced specialized mobile radio service;
+Utah Code Annotated § 69-2-102(14)(b)(iii): rural radio service;
+Utah Code Annotated § 69-2-102(14)(b)(iv): a radio common carrier;
+Utah Code Annotated § 69-2-102(14)(b)(v): a personal communications service; and
+Utah Code Annotated § 69-2-102(14)(b)(vi): (14)(b) any wireless public telecommunications service equivalent to the services described in this Subsection
+Utah Code Annotated § 69-2-102(15): 54-19-102 "Voice over Internet protocol service" means the same as that term is defined in Section
+Utah Code Annotated § 69-2-102(16): "Wireline common carrier" means a public telecommunications service provider that primarily uses metallic or nonmetallic cables and wires for connecting customers to its local exchange service networks.
+
+
+Utah Code Annotated § 69-2-201 Public safety answering point -- Establishment -- Administration -- Consolidation.
+-----------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-201(1): (1)(b); (1)(b); (c); (1)(a)(iv); 63H-7a-304.5; 26B-4-117
+Utah Code Annotated § 69-2-201(1)(a): (1)(b); (1)(b); (c) A public agency may:
+Utah Code Annotated § 69-2-201(1)(a)(i): operate a public safety answering point to provide 911 emergency service to any part of the geographic area within the public  agency's jurisdiction;
+Utah Code Annotated § 69-2-201(1)(a)(ii): (1)(b) subject to Subsection
+Utah Code Annotated § 69-2-201(1)(a)(iii): operate a public safety answering point under an agreement with another public agency that existed before January 1, 2017, to provide 911 emergency service to any part of the geographic area within the public agencies' jurisdictions; or
+Utah Code Annotated § 69-2-201(1)(a)(iv): (1)(b); (c) subject to Subsections
+Utah Code Annotated § 69-2-201(1)(b): A public agency that operates a public safety answering point in connection with another public agency shall:
+Utah Code Annotated § 69-2-201(1)(b)(i): provide for the operation of the public safety answering point by interlocal agreement between the public agencies; and
+Utah Code Annotated § 69-2-201(1)(b)(ii): submit a copy of the interlocal agreement each year to the director of the Utah Communications Authority.
+Utah Code Annotated § 69-2-201(1)(c): (1)(a)(iv); 63H-7a-304.5; 26B-4-117 A public agency that operates a public safety answering point described in Subsection
+Utah Code Annotated § 69-2-201(1)(c)(i): promote interoperability among the public agencies served;
+Utah Code Annotated § 69-2-201(1)(c)(ii): positively impact a large service territory;
+Utah Code Annotated § 69-2-201(1)(c)(iii): 63H-7a-304.5 annually qualify for disbursements as described in Section
+Utah Code Annotated § 69-2-201(1)(c)(iv): 26B-4-117 maintain a designation as an emergency medical service dispatch center as described in Section
+Utah Code Annotated § 69-2-201(2): (3) Except as provided in Subsection
+Utah Code Annotated § 69-2-201(3): (1)(a)(iv)
+Utah Code Annotated § 69-2-201(3)(a): (1)(a)(iv) A public agency that operates a public safety answering point established before January 1, 2017, may:
+Utah Code Annotated § 69-2-201(3)(a)(i): continue to operate the public safety answering point; or
+Utah Code Annotated § 69-2-201(3)(a)(ii): (1)(a)(iv) physically consolidate the public safety answering point with another public safety answering point operated by another contiguous public agency or consolidate with a non-contiguous county in accordance with Subsection
+Utah Code Annotated § 69-2-201(3)(b): A county may establish a public safety answering point on or after January 1, 2017, if no public safety answering point exists in the county.
+Utah Code Annotated § 69-2-201(4): A public agency may, in order to provide funding for operating a public safety answering point:
+Utah Code Annotated § 69-2-201(4)(a): seek funds from the federal or state government;
+Utah Code Annotated § 69-2-201(4)(b): seek funds appropriated by local governmental taxing authorities to fund a public safety agency; or
+Utah Code Annotated § 69-2-201(4)(c): seek gifts, donations, or grants from a private person.
+Utah Code Annotated § 69-2-201(5): (5)(a); 63H-7a-304.5
+Utah Code Annotated § 69-2-201(5)(a): Each dispatch center in the state shall enter into an interlocal agreement with the governing authority of a public safety answering point that serves the county for which the dispatch center provides dispatch services.
+Utah Code Annotated § 69-2-201(5)(b): (5)(a); 63H-7a-304.5 The agreement listed in Subsection
+Utah Code Annotated § 69-2-201(5)(b)(i): functional consolidation of the dispatch center with the public safety answering point that allows for dispatching to occur without the caller being transferred; and
+Utah Code Annotated § 69-2-201(5)(b)(ii): 63H-7a-304.5 a plan for the public safety answering point to provide 911 emergency service to the geographic area served by the dispatch center that meets the requirements of Section
+Utah Code Annotated § 69-2-201(6): (6)(a)
+Utah Code Annotated § 69-2-201(6)(a): No public entity may cause or allow a 911 or emergency call box communication to be redirected to any network other than to the 911 emergency service network.
+Utah Code Annotated § 69-2-201(6)(b): (6)(a) Each public entity shall comply with Subsection
+Utah Code Annotated § 69-2-201(7): Title 17D, Chapter 1, Special Service District Act; 17D-1-105; 17D-1-103 A special service district that operates a public safety answering point or a dispatch center:
+Utah Code Annotated § 69-2-201(7)(a): Title 17D, Chapter 1, Special Service District Act shall administer the public safety answering point or dispatch center in accordance with
+Utah Code Annotated § 69-2-201(7)(b): 17D-1-105; 17D-1-103 may raise funds, borrow money, or incur indebtedness for the purpose of maintaining the public safety answering point or the dispatch center in accordance with:
+Utah Code Annotated § 69-2-201(7)(b)(i): 17D-1-105 Section
+Utah Code Annotated § 69-2-201(7)(b)(ii): 17D-1-103 Section
+Utah Code Annotated § 69-2-201(8): 63H-7a-204(17) A public safety answering point and dispatch center shall adopt the statewide CAD-to-CAD call handling and 911 call transfer protocol adopted by the Utah Communications Authority board under Subsection
+
+
+Utah Code Annotated § 69-2-202 Agreement between Department of Public Safety and public safety answering point for dispatch services -- Agreement for improving dispatch services.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-202(1): A public safety answering point shall, before providing dispatch services to the Department of Public Safety:
+Utah Code Annotated § 69-2-202(1)(a): enter into a written agreement with the Department of Public Safety for providing dispatch services that specifies:
+Utah Code Annotated § 69-2-202(1)(a)(i): the scope of the services that the public safety answering point will provide; and
+Utah Code Annotated § 69-2-202(1)(a)(ii): the rate that the public safety answering point will charge the Department of Public Safety for dispatch services; and
+Utah Code Annotated § 69-2-202(1)(b): submit a copy of the agreement to:
+Utah Code Annotated § 69-2-202(1)(b)(i): the director of the Utah Communications Authority; and
+Utah Code Annotated § 69-2-202(1)(b)(ii): the commissioner of the Department of Public Safety.
+Utah Code Annotated § 69-2-202(2): The Department of Public Safety shall, before providing dispatch services to a public agency as a public safety answering point:
+Utah Code Annotated § 69-2-202(2)(a): enter into a written agreement with the public agency for providing dispatch services that specifies:
+Utah Code Annotated § 69-2-202(2)(a)(i): the scope of the services that the Department of Public Safety will provide; and
+Utah Code Annotated § 69-2-202(2)(a)(ii): the rate that the Department of Public Safety will charge the public agency for dispatch services; and
+Utah Code Annotated § 69-2-202(2)(b): submit a copy of the agreement to:
+Utah Code Annotated § 69-2-202(2)(b)(i): the director of the Utah Communications Authority; and
+Utah Code Annotated § 69-2-202(2)(b)(ii): the commissioner of the Department of Public Safety.
+Utah Code Annotated § 69-2-202(3): (3)
+Utah Code Annotated § 69-2-202(3)(a): (3) As used in this Subsection
+Utah Code Annotated § 69-2-202(3)(b): No later than December 31, 2020, the Department of Public Safety and a single answering point shall enter into an agreement:
+Utah Code Annotated § 69-2-202(3)(b)(i): to reduce or eliminate 911 call transfers, reduce 911 call response time, implement a successful CAD-to-CAD call handling system, and increase the efficiency of the dispatch services, within the geographical area served by the single answering point; or
+Utah Code Annotated § 69-2-202(3)(b)(ii): providing for the single answering point to provide dispatch services to the Department of Public Safety within the geographical area served by the single answering point.
+
+
+Utah Code Annotated § 69-2-203 Audit of public safety answering points within a county -- Reports -- Consequence of failure to comply.
+--------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-203(1): 69-2-204 A county that by June 30, 2024, has not achieved a transfer rate, as defined in Section
+Utah Code Annotated § 69-2-203(1)(a): utilize a qualified third party to conduct an audit of each public safety answering point within the county; and
+Utah Code Annotated § 69-2-203(1)(b): require the audit to be completed no later than January 1, 2025.
+Utah Code Annotated § 69-2-203(2): (1); 69-2-204; 63H-7a-304.5 The audit described in Subsection
+Utah Code Annotated § 69-2-203(2)(a): how best to provide the emergency services within the county;
+Utah Code Annotated § 69-2-203(2)(b): 69-2-204 what needs to happen for the PSAPs within the county to achieve a transfer rate, as defined in Section
+Utah Code Annotated § 69-2-203(2)(c): whether the county could provide more cost efficient emergency service or improve public safety by establishing a single public safety answering point for the county; and
+Utah Code Annotated § 69-2-203(2)(d): 63H-7a-304.5 the extent to which the dispatch center's policies, procedures, or interlocal agreements cause a PSAP to experience difficulty in meeting the requirements of Section
+Utah Code Annotated § 69-2-203(3): (1); (1); 63H-7a-304
+Utah Code Annotated § 69-2-203(3)(a): (1) Each public safety answering point shall participate and cooperate in the audit described in Subsection
+Utah Code Annotated § 69-2-203(3)(b): (1); 63H-7a-304 A public safety answering point that fails to participate and cooperate in the audit as described in Subsection
+Utah Code Annotated § 69-2-203(4): (1) No later than February 28, 2025, a county required to have an audit conducted under Subsection
+Utah Code Annotated § 69-2-203(4)(a): a copy of the audit report; and
+Utah Code Annotated § 69-2-203(4)(b): a written plan of how and when the county will implement the audit recommendations.
+Utah Code Annotated § 69-2-203(5): 63H-7a-304.5 A PSAP in a county that fails to comply with the requirements of this section does not qualify for a distribution of funds under Section
+
+
+Utah Code Annotated § 69-2-204 Public safety answering point 911 call transfer rate requirements.
+-------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-204(1): As used in this section:
+Utah Code Annotated § 69-2-204(1)(a): "Fiscal year" means the period from July 1 of one year to June 30 of the following year.
+Utah Code Annotated § 69-2-204(1)(b): 
+Utah Code Annotated § 69-2-204(1)(b)(i): "Transfer rate" means the percentage of 911 calls that are:
+Utah Code Annotated § 69-2-204(1)(b)(i)(A): received by a public safety answering point during a fiscal year; and
+Utah Code Annotated § 69-2-204(1)(b)(i)(B): transferred to another location in the state.
+Utah Code Annotated § 69-2-204(1)(b)(ii): "Transfer rate" does not include transfers from a public safety answering point to 988 services or poison control.
+Utah Code Annotated § 69-2-204(2): (3) Subject to Subsection
+Utah Code Annotated § 69-2-204(3): A public safety answering point with a transfer rate for the fiscal year ending June 30, 2020, that is greater than 2% shall:
+Utah Code Annotated § 69-2-204(3)(a): for the fiscal year ending June 30, 2021, reduce the public safety answering point's transfer rate to at least 5% less than the transfer rate for the fiscal year ending June 30, 2020;
+Utah Code Annotated § 69-2-204(3)(b): for the fiscal year ending June 30, 2022, reduce the public safety answering point's transfer rate:
+Utah Code Annotated § 69-2-204(3)(b)(i): to at least 15% less than the transfer rate for the fiscal year ending June 30, 2020; or
+Utah Code Annotated § 69-2-204(3)(b)(ii): to at least 10% less than the transfer rate for the fiscal year ending June 30, 2021; and
+Utah Code Annotated § 69-2-204(3)(c): for the fiscal year ending June 30, 2023, reduce the public safety answering point's transfer rate to no more than 5%.
+
+
+Utah Code Annotated § 69-2-301 Public safety answering point -- 911 emergency service account -- Permitted uses of funds.
+-------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-301(1): 69-2-302; 69-2-402 A public safety answering point shall maintain in a separate emergency telecommunications service fund any funds dispersed to the public safety answering point from the commission under Section
+Utah Code Annotated § 69-2-301(2): (1) A public safety answering point may expend the money in the emergency telecommunications service fund described in Subsection
+Utah Code Annotated § 69-2-301(2)(a): establishing, installing, maintaining, and operating a 911 emergency service system;
+Utah Code Annotated § 69-2-301(2)(b): receiving and processing emergency communications from the 911 system or other communications or requests for emergency services;
+Utah Code Annotated § 69-2-301(2)(c): integrating a 911 emergency service system into an established public safety answering point, including contracting with an access line provider or a vendor of appropriate terminal equipment as necessary to implement the 911 emergency services; or
+Utah Code Annotated § 69-2-301(2)(d): indirect costs associated with the maintaining and operating of a 911 emergency services system.
+Utah Code Annotated § 69-2-301(3): (1) A public safety answering point may expend revenue derived from the emergency telecommunications service fund described in Subsection
+Utah Code Annotated § 69-2-301(4): (1) Any unexpended funds at the end of a fiscal year in a public safety answering point's emergency telecommunications service fund described in Subsection
+
+
+Utah Code Annotated § 69-2-302 Distribution of 911 emergency service charge revenue.
+------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-302(1): (3) As used in this section:
+Utah Code Annotated § 69-2-302(1)(a): (3) "Proportional distribution" means the amount of a public safety answering point's proportion of 911 emergency service charge revenue calculated under Subsection
+Utah Code Annotated § 69-2-302(1)(b): "Proportion of total call volume" means the number of 911 emergency communications that a public safety answering point receives in a year divided by the number of total 911 emergency communications for the state for the year.
+Utah Code Annotated § 69-2-302(2): 69-2-402 The commission shall transmit funds collected under Section
+Utah Code Annotated § 69-2-302(2)(a): for fiscal years 2018 and 2019 only, an amount equal to the greater of:
+Utah Code Annotated § 69-2-302(2)(a)(i): the amount of 911 emergency service charge revenue distributed to the public safety answering point for the same month in fiscal year 2017; or
+Utah Code Annotated § 69-2-302(2)(a)(ii): the public safety answering point's proportional distribution for the month; and
+Utah Code Annotated § 69-2-302(2)(b): for a fiscal year after fiscal year 2019, the public safety answering point's proportional distribution for the month.
+Utah Code Annotated § 69-2-302(3): 69-2-402 A public safety answering point's proportion of 911 emergency service charge revenue is an amount equal to the total funds collected under Section
+Utah Code Annotated § 69-2-302(4): (3); (4)(a)
+Utah Code Annotated § 69-2-302(4)(a): (3) For the purpose of the calculation described in Subsection
+Utah Code Annotated § 69-2-302(4)(a)(i): the number of total 911 emergency communications for the state;
+Utah Code Annotated § 69-2-302(4)(a)(ii): the number of 911 emergency communications received by each public safety answering point; and
+Utah Code Annotated § 69-2-302(4)(a)(iii): the average per year, over the last three years before the current year, of total 911 emergency communications for the state and 911 emergency communications received by each public safety answering point in the state.
+Utah Code Annotated § 69-2-302(4)(b): (4)(a) The Utah Communications Authority shall report the numbers described in Subsection
+
+
+Utah Code Annotated § 69-2-303 State Tax Commission -- Redistribution of emergency service charges revenue.
+-----------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-303(1): Part 4, Prepaid Wireless Telecommunications Service Charges; Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)(f)(ii)(A) As used in this section:
+Utah Code Annotated § 69-2-303(1)(a): " Alternate recipient public safety answering point" means a public safety answering point that the commission determines should receive a redistribution.
+Utah Code Annotated § 69-2-303(1)(b): "Eligible portion of qualifying telecommunications charge revenues" means the portion of qualifying telecommunications charge revenues that:
+Utah Code Annotated § 69-2-303(1)(b)(i): were part of an original distribution; and
+Utah Code Annotated § 69-2-303(1)(b)(ii): the commission determines should have been transmitted:
+Utah Code Annotated § 69-2-303(1)(b)(ii)(A): to an alternate recipient public safety answering point; and
+Utah Code Annotated § 69-2-303(1)(b)(ii)(B): during the redistribution period.
+Utah Code Annotated § 69-2-303(1)(c): "Original distribution" means that the commission:
+Utah Code Annotated § 69-2-303(1)(c)(i): collects an amount of qualifying telecommunications charge revenues; and
+Utah Code Annotated § 69-2-303(1)(c)(ii): transmits the amount of qualifying telecommunications charge revenues to an original recipient public safety answering point.
+Utah Code Annotated § 69-2-303(1)(d): "Original recipient public safety answering point" means a public safety answering point to which the commission makes an original distribution.
+Utah Code Annotated § 69-2-303(1)(e): Part 4, Prepaid Wireless Telecommunications Service Charges "Qualifying telecommunications charge revenues" means revenues the commission collects from a charge under
+Utah Code Annotated § 69-2-303(1)(f): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)(f)(ii)(A) "Redistribution" means that the commission:
+Utah Code Annotated § 69-2-303(1)(f)(i): makes an original distribution of qualifying telecommunications charge revenues to an original recipient public safety answering point;
+Utah Code Annotated § 69-2-303(1)(f)(ii): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)(f)(ii)(A) after the commission makes the original distribution of qualifying telecommunications charge revenues to the original recipient public safety answering point, determines that an eligible portion of qualifying telecommunications charge revenues should have been transmitted to an alternate recipient public safety answering point as a result of:
+Utah Code Annotated § 69-2-303(1)(f)(ii)(A): a public safety answering point providing written notice to the commission that qualifying telecommunications charge revenues that the commission distributed to an original recipient public safety answering point should have been transmitted to an alternate recipient public safety answering point; or
+Utah Code Annotated § 69-2-303(1)(f)(ii)(B): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)(f)(ii)(A) the commission finding that an extraordinary circumstance, as defined by rule made in accordance with
+Utah Code Annotated § 69-2-303(1)(f)(iii): in accordance with this section, transmits to the alternate recipient public safety answering point the eligible portion of qualifying telecommunications charge revenues for the redistribution period.
+Utah Code Annotated § 69-2-303(1)(g): "Redistribution determination date" means the date the commission determines that an alternate recipient public safety answering point should have received a redistribution, regardless of the date the commission actually transmits the redistribution to the alternate recipient public safety answering point.
+Utah Code Annotated § 69-2-303(1)(h): "Redistribution period" means the time period:
+Utah Code Annotated § 69-2-303(1)(h)(i): if the commission determines that an eligible portion of qualifying telecommunications charge revenues should have been transmitted to an alternate recipient public safety answering point beginning on a date that is 90 or more days before the redistribution determination date:
+Utah Code Annotated § 69-2-303(1)(h)(i)(A): beginning 90 days before the redistribution determination date; and
+Utah Code Annotated § 69-2-303(1)(h)(i)(B): ending on the redistribution determination date; or
+Utah Code Annotated § 69-2-303(1)(h)(ii): if the commission determines that an eligible portion of qualifying telecommunications charge revenues should have been transmitted to an alternate recipient public safety answering point beginning on a date that is less than 90 days before the redistribution determination date:
+Utah Code Annotated § 69-2-303(1)(h)(ii)(A): beginning on the date the eligible portion of qualifying telecommunications charge revenues should have been transmitted to the alternate recipient public safety answering point; and
+Utah Code Annotated § 69-2-303(1)(h)(ii)(B): ending on the redistribution determination date.
+Utah Code Annotated § 69-2-303(2): (3); (2)(b)(i) Subject to Subsection
+Utah Code Annotated § 69-2-303(2)(a): the commission provides written notice to the following within 15 days after the commission determines to make the redistribution:
+Utah Code Annotated § 69-2-303(2)(a)(i): the original recipient public safety answering point; and
+Utah Code Annotated § 69-2-303(2)(a)(ii): the alternate recipient public safety answering point; and
+Utah Code Annotated § 69-2-303(2)(b): (2)(b)(i) the commission obtains:
+Utah Code Annotated § 69-2-303(2)(b)(i): an amended return from each person that reports a transaction that will be subject to the redistribution; or
+Utah Code Annotated § 69-2-303(2)(b)(ii): (2)(b)(i) if the commission determines that an amended return described in Subsection
+Utah Code Annotated § 69-2-303(2)(b)(ii)(A): supporting the redistribution; and
+Utah Code Annotated § 69-2-303(2)(b)(ii)(B): supplied by a person who collects qualifying telecommunications charge revenues, a public safety answering point, or the commission.
+Utah Code Annotated § 69-2-303(3): (2) The commission shall make a redistribution within 60 days after the requirements of Subsection
+Utah Code Annotated § 69-2-303(4): This section does not limit the commission's authority to make a distribution of revenues under this chapter for a time period other than the redistribution period.
+
+
+Utah Code Annotated § 69-2-401 State Tax Commission -- Administration of 911 emergency service charges.
+-------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-401(1): Title 59, Chapter 1, General Taxation Policies; Title 59, Chapter 12, Part 1, Tax Collection; 59-12-104; 59-12-104.1; 59-12-104.2; 59-12-104.6; 59-12-107.1; 59-12-123 The commission shall collect, enforce, and administer the charges levied under this part using the same procedures used in the administration, collection, and enforcement of state sales and use taxes under:
+Utah Code Annotated § 69-2-401(1)(a): Title 59, Chapter 1, General Taxation Policies
+Utah Code Annotated § 69-2-401(1)(b): Title 59, Chapter 12, Part 1, Tax Collection; 59-12-104; 59-12-104.1; 59-12-104.2; 59-12-104.6; 59-12-107.1; 59-12-123
+Utah Code Annotated § 69-2-401(1)(b)(i): 59-12-104 Section
+Utah Code Annotated § 69-2-401(1)(b)(ii): 59-12-104.1 Section
+Utah Code Annotated § 69-2-401(1)(b)(iii): 59-12-104.2 Section
+Utah Code Annotated § 69-2-401(1)(b)(iv): 59-12-104.6 Section
+Utah Code Annotated § 69-2-401(1)(b)(v): 59-12-107.1 Section
+Utah Code Annotated § 69-2-401(1)(b)(vi): 59-12-123 Section
+Utah Code Annotated § 69-2-401(2): Title 59, Chapter 1, Part 14, Assessment, Collections, and Refunds Act The commission shall act on a provider that is delinquent in remitting a charge levied under this part in accordance with
+Utah Code Annotated § 69-2-401(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The commission may determine by rule made in accordance with
+Utah Code Annotated § 69-2-401(4): 59-1-306 The commission shall retain and deposit an administrative charge in accordance with Section
+Utah Code Annotated § 69-2-401(5): 69-2-303 The charges levied under this part are subject to Section
+
+
+Utah Code Annotated § 69-2-402 911 emergency service charge.
+------------------------------------------------------------
+Utah Code Annotated § 69-2-402(1): (2) As used in this section, "911 emergency service charge" means the 911 emergency service charge levied by the state under Subsection
+Utah Code Annotated § 69-2-402(2): (6); (6); (2)(a); (b); Title 59, Chapter 12, Sales and Use Tax Act; 59-12-215
+Utah Code Annotated § 69-2-402(2)(a): (6) Before January 1, 2025, and subject to Subsection
+Utah Code Annotated § 69-2-402(2)(b): (6) On and after January 1, 2025, and subject to Subsection
+Utah Code Annotated § 69-2-402(2)(c): (2)(a); (b); Title 59, Chapter 12, Sales and Use Tax Act; 59-12-215 An access line is within the state for the purposes of Subsections
+Utah Code Annotated § 69-2-402(2)(c)(i): Title 59, Chapter 12, Sales and Use Tax Act for the purposes of sales and use taxes under
+Utah Code Annotated § 69-2-402(2)(c)(ii): 59-12-215 as determined in accordance with Section
+Utah Code Annotated § 69-2-402(3): (6); (3)(g)(iii); 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act; 59-12-107; (3)(d); (e); 69-2-403; 69-2-404
+Utah Code Annotated § 69-2-402(3)(a): (6) Subject to Subsection
+Utah Code Annotated § 69-2-402(3)(b): (3)(g)(iii); 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act; 59-12-107 A person that bills and collects the 911 emergency service charge shall, except for costs retained under Subsection
+Utah Code Annotated § 69-2-402(3)(b)(i): 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act monthly on or before the last day of the month immediately following the last day of the previous month if:
+Utah Code Annotated § 69-2-402(3)(b)(i)(A): 59-12-108 the person is required to file a sales and use tax return with the commission monthly under Section
+Utah Code Annotated § 69-2-402(3)(b)(i)(B): Title 59, Chapter 12, Sales and Use Tax Act the person is not required to file a sales and use tax return under
+Utah Code Annotated § 69-2-402(3)(b)(ii): 59-12-107 quarterly on or before the last day of the month immediately following the last day of the previous quarter if the person is required to file a sales and use tax return with the commission quarterly under Section
+Utah Code Annotated § 69-2-402(3)(c): (3)(d); (e) Except as provided in Subsections
+Utah Code Annotated § 69-2-402(3)(d): The 911 emergency service charge is not imposed on a provider of a consumer of federal wireless lifeline service if the consumer does not pay the provider for the service.
+Utah Code Annotated § 69-2-402(3)(e): A consumer of federal wireless lifeline service shall pay, and the provider of the service shall collect and remit, the 911 emergency service charge when the consumer purchases from the provider optional services in addition to the federally funded lifeline benefit.
+Utah Code Annotated § 69-2-402(3)(f): The 911 emergency service charge is not imposed on an access line provided for public pay telecommunications service.
+Utah Code Annotated § 69-2-402(3)(g): 69-2-403; 69-2-404 The person that bills and collects the 911 emergency service charge:
+Utah Code Annotated § 69-2-402(3)(g)(i): shall remit the 911 emergency service charge along with a form prescribed by the commission;
+Utah Code Annotated § 69-2-402(3)(g)(ii): 69-2-403; 69-2-404 may bill the 911 emergency service charge in combination with the charges levied under Sections
+Utah Code Annotated § 69-2-402(3)(g)(iii): may retain an amount not to exceed 1.5% of the 911 emergency service charge as reimbursement for the cost of billing, collecting, and remitting the 911 emergency service charge.
+Utah Code Annotated § 69-2-402(4): 69-2-302 The commission shall transmit the funds the commission collects from the 911 emergency service charge monthly to a public safety answering point in accordance with Section
+Utah Code Annotated § 69-2-402(5): 59-1-401; 59-1-402 An access line provider that fails to comply with this section is subject to penalties and interest as provided in Sections
+Utah Code Annotated § 69-2-402(6): The state may impose, bill, and collect the 911 emergency service charge on a mobile telecommunications service only to the extent permitted by the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 116 et seq.
+
+
+Utah Code Annotated § 69-2-403 Unified statewide 911 emergency service charge to fund Unified Statewide 911 Emergency Service Account.
+--------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-403(1): (2) As used in this section, "unified statewide 911 emergency service charge" means the unified statewide 911 emergency service charge imposed under Subsection
+Utah Code Annotated § 69-2-403(2): (6); (2)(a); Title 59, Chapter 12, Sales and Use Tax Act; 59-12-215
+Utah Code Annotated § 69-2-403(2)(a): (6) Subject to Subsection
+Utah Code Annotated § 69-2-403(2)(a)(i): until June 30, 2019, 9 cents per month; and
+Utah Code Annotated § 69-2-403(2)(a)(ii): beginning July 1, 2019, 25 cents per month.
+Utah Code Annotated § 69-2-403(2)(b): (2)(a); Title 59, Chapter 12, Sales and Use Tax Act; 59-12-215 An access line is within the state for the purposes of Subsection
+Utah Code Annotated § 69-2-403(2)(b)(i): Title 59, Chapter 12, Sales and Use Tax Act for the purposes of sales and use taxes under
+Utah Code Annotated § 69-2-403(2)(b)(ii): 59-12-215 as determined in accordance with Section
+Utah Code Annotated § 69-2-403(3): 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act; 59-12-107; 69-2-402; 69-2-404
+Utah Code Annotated § 69-2-403(3)(a): The person that provides service to an access line shall bill and collect the unified statewide 911 emergency service charge.
+Utah Code Annotated § 69-2-403(3)(b): 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act; 59-12-107 A person that bills and collects the unified statewide 911 emergency service charge shall pay the unified statewide 911 emergency service charge to the commission:
+Utah Code Annotated § 69-2-403(3)(b)(i): 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act monthly on or before the last day of the month immediately following the last day of the previous month if:
+Utah Code Annotated § 69-2-403(3)(b)(i)(A): 59-12-108 the person is required to file a sales and use tax return with the commission monthly under Section
+Utah Code Annotated § 69-2-403(3)(b)(i)(B): Title 59, Chapter 12, Sales and Use Tax Act the person is not required to file a sales and use tax return under
+Utah Code Annotated § 69-2-403(3)(b)(ii): 59-12-107 quarterly on or before the last day of the month immediately following the last day of the previous quarter if the person is required to file a sales and use tax return with the commission quarterly under Section
+Utah Code Annotated § 69-2-403(3)(c): If an access line user is not required to pay for the access line, the access line provider shall collect the unified statewide 911 emergency service charge from the person that is required to pay for the access line.
+Utah Code Annotated § 69-2-403(3)(d): 69-2-402; 69-2-404 The person that bills and collects the unified statewide 911 emergency service charge:
+Utah Code Annotated § 69-2-403(3)(d)(i): shall remit the unified statewide 911 emergency service charge along with a form prescribed by the commission;
+Utah Code Annotated § 69-2-403(3)(d)(ii): 69-2-402; 69-2-404 may bill the unified statewide 911 emergency service charge in combination with the charges levied under Sections
+Utah Code Annotated § 69-2-403(3)(d)(iii): may retain an amount not to exceed 1.5% of the unified statewide 911 emergency service charge collected under this section as reimbursement for the cost of billing, collecting, and remitting the unified statewide 911 emergency service charge.
+Utah Code Annotated § 69-2-403(4): 63H-7a-304 The commission shall deposit any unified 911 emergency service charge remitted to the commission into the Unified Statewide 911 Emergency Service Account created in Section
+Utah Code Annotated § 69-2-403(5): 59-1-401; 59-1-402 An access line provider that fails to comply with this section is subject to penalties and interest as provided in Sections
+Utah Code Annotated § 69-2-403(6): The state may impose, bill, and collect an emergency services telecommunications charge under this section on a mobile telecommunications service only to the extent permitted by the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 116 et seq.
+
+
+Utah Code Annotated § 69-2-404 Radio network charge to fund the Utah Statewide Radio System Restricted Account.
+---------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-404(1): (2) As used in this section, "radio network charge" means the radio network charge imposed under Subsection
+Utah Code Annotated § 69-2-404(2): (6); (2)(a); Title 59, Chapter 12, Sales and Use Tax Act; 59-12-215
+Utah Code Annotated § 69-2-404(2)(a): (6) Subject to Subsection
+Utah Code Annotated § 69-2-404(2)(a)(i): on and after July 1, 2017, and before January 1, 2018, 18 cents per month;
+Utah Code Annotated § 69-2-404(2)(a)(ii): on and after January 1, 2018, and before January 1, 2025, 52 cents per month; and
+Utah Code Annotated § 69-2-404(2)(a)(iii): on and after January 1, 2025, and before July 1, 2033, 27 cents per month.
+Utah Code Annotated § 69-2-404(2)(b): (2)(a); Title 59, Chapter 12, Sales and Use Tax Act; 59-12-215 An access line is within the state for the purposes of Subsection
+Utah Code Annotated § 69-2-404(2)(b)(i): Title 59, Chapter 12, Sales and Use Tax Act for the purposes of sales and use taxes under
+Utah Code Annotated § 69-2-404(2)(b)(ii): 59-12-215 as determined in accordance with Section
+Utah Code Annotated § 69-2-404(3): 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act; 59-12-107; 69-2-402; 69-2-403
+Utah Code Annotated § 69-2-404(3)(a): The person that provides service to an access line shall bill and collect the radio network charge.
+Utah Code Annotated § 69-2-404(3)(b): 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act; 59-12-107 A person that bills and collects the radio network charge shall pay the radio network charge to the commission:
+Utah Code Annotated § 69-2-404(3)(b)(i): 59-12-108; Title 59, Chapter 12, Sales and Use Tax Act monthly on or before the last day of the month immediately following the last day of the previous month if:
+Utah Code Annotated § 69-2-404(3)(b)(i)(A): 59-12-108 the person is required to file a sales and use tax return with the commission monthly under Section
+Utah Code Annotated § 69-2-404(3)(b)(i)(B): Title 59, Chapter 12, Sales and Use Tax Act the person is not required to file a sales and use tax return under
+Utah Code Annotated § 69-2-404(3)(b)(ii): 59-12-107 quarterly on or before the last day of the month immediately following the last day of the previous quarter if the person is required to file a sales and use tax return with the commission quarterly under Section
+Utah Code Annotated § 69-2-404(3)(c): If an access line user is not required to pay for the access line, the access line provider shall collect the radio network charge from the person that is required to pay for the access line.
+Utah Code Annotated § 69-2-404(3)(d): 69-2-402; 69-2-403 The person that bills and collects a radio network charge:
+Utah Code Annotated § 69-2-404(3)(d)(i): shall remit the radio network charge along with a form prescribed by the commission; and
+Utah Code Annotated § 69-2-404(3)(d)(ii): 69-2-402; 69-2-403 may bill the radio network charge in combination with the charges levied under Sections
+Utah Code Annotated § 69-2-404(4): 63H-7a-403 The commission shall deposit any radio network charge remitted to the commission into the Utah Statewide Radio System Restricted Account created in Section
+Utah Code Annotated § 69-2-404(5): 59-1-401; 59-1-402 An access line provider that fails to comply with this section is subject to penalties and interest as provided in Sections
+Utah Code Annotated § 69-2-404(6): The state may impose, bill, and collect the radio network charge under this section on a mobile telecommunications service only to the extent permitted by the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 116 et seq.
+
+
+Utah Code Annotated § 69-2-405 Service charges -- Collection and distribution of revenue.
+-----------------------------------------------------------------------------------------
+Utah Code Annotated § 69-2-405(1): (2); 69-2-402; 69-2-403; 69-2-404 As used in this section:
+Utah Code Annotated § 69-2-405(1)(a): "Consumer" means a person who purchases prepaid wireless telecommunications service in a transaction.
+Utah Code Annotated § 69-2-405(1)(b): (2) "Prepaid wireless 911 service charge" means the charge that is required to be collected by a seller from a consumer in the amount established under Subsection
+Utah Code Annotated § 69-2-405(1)(c): 69-2-402; 69-2-403; 69-2-404
+Utah Code Annotated § 69-2-405(1)(c)(i): "Prepaid wireless telecommunications service" means a wireless telecommunications service that:
+Utah Code Annotated § 69-2-405(1)(c)(i)(A): is paid for in advance;
+Utah Code Annotated § 69-2-405(1)(c)(i)(B): is sold in predetermined units of time or dollars that decline with use in a known amount or provides unlimited use of the service for a fixed amount or time; and
+Utah Code Annotated § 69-2-405(1)(c)(i)(C): allows a caller to access 911 emergency service.
+Utah Code Annotated § 69-2-405(1)(c)(ii): 69-2-402; 69-2-403; 69-2-404 "Prepaid wireless telecommunications service" does not include a wireless telecommunications service that is billed:
+Utah Code Annotated § 69-2-405(1)(c)(ii)(A): to a customer on a recurring basis; and
+Utah Code Annotated § 69-2-405(1)(c)(ii)(B): 69-2-402; 69-2-403; 69-2-404 in a manner that includes the charges levied under Sections
+Utah Code Annotated § 69-2-405(1)(d): "Seller" means a person that sells prepaid wireless telecommunications service to a consumer.
+Utah Code Annotated § 69-2-405(1)(e): "Transaction" means each purchase of prepaid wireless telecommunications service from a seller.
+Utah Code Annotated § 69-2-405(1)(f): "Wireless telecommunications service" means commercial mobile radio service as defined by 47 C.F.R. Sec. 20.3, as amended.
+Utah Code Annotated § 69-2-405(2): There is imposed:
+Utah Code Annotated § 69-2-405(2)(a): 
+Utah Code Annotated § 69-2-405(2)(a)(i): before January 1, 2025, a prepaid wireless 911 service charge of 3.7% of the sales price per transaction; and
+Utah Code Annotated § 69-2-405(2)(a)(ii): on and after January 1, 2025, a prepaid wireless 911 service charge of 3.13% of the sales price per transaction; and
+Utah Code Annotated § 69-2-405(2)(b): a prepaid wireless telecommunications service charge of 1.2% of the sales price per transaction.
+Utah Code Annotated § 69-2-405(3): (2); (3)(b)(ii); (iii); (2); (2); (2)
+Utah Code Annotated § 69-2-405(3)(a): (2) Each charge described in Subsection
+Utah Code Annotated § 69-2-405(3)(b): (3)(b)(ii); (iii); (2); (2); (2)
+Utah Code Annotated § 69-2-405(3)(b)(i): (3)(b)(ii); (iii); (2) Except as provided in Subsections
+Utah Code Annotated § 69-2-405(3)(b)(ii): (2) A charge described in Subsection
+Utah Code Annotated § 69-2-405(3)(b)(iii): (2) A consumer of federal wireless lifeline service shall pay, and the seller of the service shall collect and remit, each charge described in Subsection
+Utah Code Annotated § 69-2-405(4): (2) Each charge described in Subsection
+Utah Code Annotated § 69-2-405(5): (3); 59-12-211; 59-12-215 For purposes of Subsection
+Utah Code Annotated § 69-2-405(6): (2) When prepaid wireless telecommunications service is sold with one or more other products or services for a single non-itemized price, then the percentage specified in Subsection
+Utah Code Annotated § 69-2-405(7): (2) A seller may retain 3% of the charges described in Subsection
+Utah Code Annotated § 69-2-405(8): (2); (7); Title 59, Chapter 12, Sales and Use Tax Act A person that collects a charge described in Subsection
+Utah Code Annotated § 69-2-405(9): 69-2-302; 63H-7a-304; 63H-7a-403; 54-8b-15; 69-2-302; 63H-7a-304; 63H-7a-403; 54-8b-15; 63H-7a-403(2)(b); 63I-2-263; 69-2-302; 63H-7a-304; 54-8-15 The commission shall distribute revenues collected under this section as follows:
+Utah Code Annotated § 69-2-405(9)(a): 69-2-302; 63H-7a-304; 63H-7a-403; 54-8b-15 Before January 1, 2025:
+Utah Code Annotated § 69-2-405(9)(a)(i): 69-2-302 47.97% of the prepaid wireless 911 service charge revenue to a public safety answering point in accordance with Section
+Utah Code Annotated § 69-2-405(9)(a)(ii): 63H-7a-304 16.89% of the prepaid wireless 911 service charge revenue to the Unified Statewide 911 Emergency Service Account created in Section
+Utah Code Annotated § 69-2-405(9)(a)(iii): 63H-7a-403 35.14% of the prepaid wireless 911 service charge revenue to the Utah Statewide Radio System Restricted Account created in Section
+Utah Code Annotated § 69-2-405(9)(a)(iv): 54-8b-15 100% of the prepaid wireless telecommunications service charge revenue to the Universal Public Telecommunications Service Support Fund created in Section
+Utah Code Annotated § 69-2-405(9)(b): 69-2-302; 63H-7a-304; 63H-7a-403; 54-8b-15 after January 1, 2025, and before July 1, 2033:
+Utah Code Annotated § 69-2-405(9)(b)(i): 69-2-302 58.4% of the prepaid wireless 911 service charge revenue to a public safety answering point in accordance with Section
+Utah Code Annotated § 69-2-405(9)(b)(ii): 63H-7a-304 20% of the prepaid wireless 911 service charge revenue to the Unified Statewide 911 Emergency Service Account created in Section
+Utah Code Annotated § 69-2-405(9)(b)(iii): 63H-7a-403 21.6% of the prepaid wireless 911 service charge revenue to the Utah Statewide Radio System Restricted Account created in Section
+Utah Code Annotated § 69-2-405(9)(b)(iv): 54-8b-15 100% of the prepaid wireless telecommunications service charge revenue to the Universal Public Telecommunications Service Support Fund created in Section
+Utah Code Annotated § 69-2-405(9)(c): 63H-7a-403(2)(b); 63I-2-263; 69-2-302; 63H-7a-304; 54-8-15 after July 1, 2033, when Subsection
+Utah Code Annotated § 69-2-405(9)(c)(i): 69-2-302 74.49 % of the prepaid wireless 911 service charge revenue to a public safety answering point in accordance with Section
+Utah Code Annotated § 69-2-405(9)(c)(ii): 63H-7a-304 25.51 % of the prepaid wireless 911 service charge revenue to the Unified Statewide 911 Emergency Service Account created in Section
+Utah Code Annotated § 69-2-405(9)(c)(iii): 54-8-15 100% of the prepaid wireless telecommunications service charge revenue to the Universal Public Telecommunications Service Support Fund created in Section
+
+
+Utah Code Annotated § 69-2-501 Jurisdiction and employee immunity.
+------------------------------------------------------------------
+Utah Code Annotated § 69-2-501(1): In implementing 911 emergency service, any public agency and public safety agency shall cooperate in establishing and providing 911 emergency service.
+Utah Code Annotated § 69-2-501(2): Any employee of any public safety agency which is a participant in 911 emergency service may respond and take any action to any call whether within or without the authorized territorial jurisdiction of the public safety agency.
+Utah Code Annotated § 69-2-501(3): In response to an emergency communication, an employee of a public safety agency shall have the same immunity for any acts performed in the line of duty outside the public safety agency's authorized jurisdiction as the public safety agency employee has within the public safety agency's authorized jurisdiction.
+Utah Code Annotated § 69-2-501(4): No cause of action is created by any incorrect dispatch or response by any system or any public safety agency or by reason of elapsed response time.
+
+
+Utah Code Annotated § 69-2-502 Limitation of duties and liabilities.
+--------------------------------------------------------------------
+Except as provided in Section
+
+Utah Code Annotated § 69-2-503 Liabilities of providers.
+--------------------------------------------------------
+Utah Code Annotated § 69-2-503(1): A provider of local exchange service, radio communications service, or voice over Internet protocol service may by tariff or agreement with a customer provide for the customer's release of any claim, suit, or demand against the provider based upon a disclosure or a nondisclosure of an unlisted or nonpublished telephone number and address, and the related address, if a call for any 911 emergency service is made from the customer's telephone.
+Utah Code Annotated § 69-2-503(2): A provider of local exchange service, radio communications service, voice over Internet protocol service, or telephone terminal equipment needed to implement or enhance 911 emergency service, and their employees and agents, are not liable for any damages in a civil action for injuries, death, or loss to person or property incurred as a result of any act or omission of the provider, employee, or agent, in connection with developing, adopting, implementing, maintaining, enhancing, or operating a 911 emergency service, except for damages or injury intentionally caused by or resulting from gross negligence of the provider or person.
+
+
+Utah Code Annotated - Title 69 - Chapter 3 - Telecommunication Towers and Related Facilities
+********************************************************************************************
+
+Utah Code Annotated § 69-3-1 Authority to acquire sites -- Title.
+-----------------------------------------------------------------
+The state, counties, cities, and towns may create or acquire sites to accommodate the erection of telecommunication towers and related facilities.  Title to these sites shall be retained by the state, county, city, or town acquiring such sites in order to promote the location of such towers in a manageable area and to protect the aesthetics and environment of the area.
+
+Utah Code Annotated § 69-3-2 Acquisition of sites by eminent domain.
+--------------------------------------------------------------------
+The state, counties, cities, and towns may acquire land for the creation of such tower sites by eminent domain or otherwise.
+
+Utah Code Annotated § 69-3-3 Use of sites.
+------------------------------------------
+The state, county, city, or town after acquiring a site shall permit the public use of such site subject to the following conditions:Utah Code Annotated § 69-3-3(1): the facilities and access roads are designed and constructed so as to minimally disturb the natural terrain;
+Utah Code Annotated § 69-3-3(2): the owner of any tower on such site agrees to accommodate the multiple use of the tower where feasible; and
+Utah Code Annotated § 69-3-3(3): the owner of any tower agrees to pay to the state, county, city, or town, as the case may be, the fair market rental value for the use of the site.
+
+
+Utah Code Annotated § 69-3-4 Grandfather clause.
+------------------------------------------------
+This chapter shall not affect the use, operation, expansion, or construction of towers and related facilities on property owned by telecommunication companies as of January 1, 1986.
+
+Utah Code Annotated - Title 69 - Chapter 4 - Telecommunication Network Review
+*****************************************************************************
+
+Utah Code Annotated § 69-4-1 Telecommunication network review.
+--------------------------------------------------------------
+Utah Code Annotated § 69-4-1(1): Before the creation, expansion, or upgrade of a state-owned or state-funded telecommunication network, whether voice, data, or video transmission, the agency or entity proposing any change shall submit a plan to the governor detailing the proposed changes.
+Utah Code Annotated § 69-4-1(2): If, after consultation with the agency or entity it is the opinion of the governor that implementation of the plan would result in significant impact on telephone ratepayers, the governor shall direct the Public Service Commission to prepare an advisory report detailing how implementing the plan will affect telephone ratepayers where the plan would be in effect.
+Utah Code Annotated § 69-4-1(3): The Public Service Commission shall complete and provide the advisory report to the governor, the agency or entity involved, and the Public Utilities, Energy, and Technology Interim Committee within 60 days after receiving the governor's request.
+
+
+Utah Code Annotated - Title 69 - Chapter 5 - Enhanced 911 for Multi-line Telephones
+***********************************************************************************
+
+Utah Code Annotated § 69-5-101 Title.
+-------------------------------------
+This chapter is known as "Enhanced 911 for Multi-Line Telephones."
+
+Utah Code Annotated § 69-5-102 Definitions.
+-------------------------------------------
+As used in this chapter:Utah Code Annotated § 69-5-102(1): 29-2-102 "Lodging establishment" means the same as that term is defined in Section
+Utah Code Annotated § 69-5-102(2): "Multi-line telephone system" means a network- or premises-based telephone system installed at an end-use location that uses common control units, common telephones, and common control hardware and software to provide a connection to the public switched network to multiple end-users at the end-use location.
+
+
+Utah Code Annotated § 69-5-201 Applicability.
+---------------------------------------------
+An owner or operator of a multi-line telephone system is required to comply with this chapter if, after July 1, 2017, the owner:Utah Code Annotated § 69-5-201(1): upgrades an existing multi-line telephone system; or
+Utah Code Annotated § 69-5-201(2): installs a new multi-line telephone system.
+
+
+Utah Code Annotated § 69-5-202 Location identification information shared with public safety answering point.
+-------------------------------------------------------------------------------------------------------------
+An owner or operator of a multi-line telephone system shall configure the multi-line telephone system in such a manner that, when an individual makes a 911 call using the multi-line telephone system, the multi-line telephone system automatically provides the public safety answering point that receives the call verified automated number information and automated location information that includes:Utah Code Annotated § 69-5-202(1): the street address, and, if applicable, the business name, of the location of the communications device from which the call is made;
+Utah Code Annotated § 69-5-202(2): the direct call-back telephone number for the location from which the call is made;
+Utah Code Annotated § 69-5-202(3): any applicable office, unit, or building number of the location from which the call is made;
+Utah Code Annotated § 69-5-202(4): the room number, or other equivalent designation, of the location from which the call is made; and
+Utah Code Annotated § 69-5-202(5): 
+Utah Code Annotated § 69-5-202(5)(a): if the multi-line telephone system operates for a multi-story building, the building floor from which the call is made; and
+Utah Code Annotated § 69-5-202(5)(b): if the multi-line telephone system operates for two or more buildings:
+Utah Code Annotated § 69-5-202(5)(b)(i): the building number, or other equivalent designation, of the location from which the call is made; and
+Utah Code Annotated § 69-5-202(5)(b)(ii): the building floor from which the call is made.
+
+
+Utah Code Annotated § 69-5-203 Emergency location information for a lodging establishment.
+------------------------------------------------------------------------------------------
+A lodging establishment that owns or operates a multi-line telephone system shall configure the multi-line telephone system in such a manner that, when an individual makes a 911 call through the multi-line telephone system, the multi-line telephone system will automatically:Utah Code Annotated § 69-5-203(1): send the public safety answering point that receives the call:
+Utah Code Annotated § 69-5-203(1)(a): if the lodging establishment contains more than one occupied building, the building number, or other equivalent designation, of the location from which the call is made; and
+Utah Code Annotated § 69-5-203(1)(b): the room number, or other equivalent designation, from which the call is made; or
+Utah Code Annotated § 69-5-203(2): connect the individual, the public safety answering point, and an individual that is designated by the lodging establishment to provide the public safety answering point:
+Utah Code Annotated § 69-5-203(2)(a): if the lodging establishment contains more than one occupied building, the building number, or other equivalent designation, of the location from which the call is made; and
+Utah Code Annotated § 69-5-203(2)(b): the room number, or other equivalent designation, of the location from which the call is made.
+
+
+Utah Code Annotated § 69-5-204 Location database -- Updates.
+------------------------------------------------------------
+Utah Code Annotated § 69-5-204(1): (1)(a) An owner or operator of a multi-line telephone system shall ensure that the multi-line telephone system has a location database that stores the information a multi-line telephone system is required to provide to a public safety answering point under this chapter that is accurately updated:
+Utah Code Annotated § 69-5-204(1)(a): as soon as practicable after the multi-line telephone system is installed; or
+Utah Code Annotated § 69-5-204(1)(b): (1)(a) within one business day of the completion of any changes to the physical characteristics of the facility where the multi-line telephone system is used or changes to the multi-line telephone system, not including changes incurred during an installation described in Subsection
+Utah Code Annotated § 69-5-204(2): (1) The information in a location database described in Subsection
+Utah Code Annotated § 69-5-204(2)(a): is owned by the multi-line telephone system owner or operator that supplied the information; and
+Utah Code Annotated § 69-5-204(2)(b): except as required by state law, is not required to be shared with another person.
+Utah Code Annotated § 69-5-204(3): (1) A public safety answering point may not use the information supplied from a database described in Subsection
+
+
+Utah Code Annotated § 69-5-205 Direct 911 dial for multi-line telephone systems -- Notice.
+------------------------------------------------------------------------------------------
+Utah Code Annotated § 69-5-205(1): An owner or operator of a multi-line telephone system shall configure a multi-line telephone system in a manner that allows an individual to place a 911 call by dialing the digits 9-1-1 without an additional code, digit, prefix, postfix, or trunk-access code.
+Utah Code Annotated § 69-5-205(2): 69-5-201; (1) A person that is exempt from this chapter under Section
+Utah Code Annotated § 69-5-205(2)(a): states that the phone may not be used to directly access 911 services by dialing 9-1-1;
+Utah Code Annotated § 69-5-205(2)(b): indicates how an individual may access 911 services through the telephone;
+Utah Code Annotated § 69-5-205(2)(c): is printed in contrasting colors in at least 16-point boldface type; and
+Utah Code Annotated § 69-5-205(2)(d): includes the following information for the location of the telephone:
+Utah Code Annotated § 69-5-205(2)(d)(i): the street address, and, if applicable, the business name, of the location of the telephone;
+Utah Code Annotated § 69-5-205(2)(d)(ii): any applicable office, unit, or building number of the location of the telephone; and
+Utah Code Annotated § 69-5-205(2)(d)(iii): an applicable room number, or other equivalent designation, of the location of the telephone.
+
+

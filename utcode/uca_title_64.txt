@@ -1,0 +1,1429 @@
+Utah Code Annotated - Title 64 - State Institutions
+===================================================
+
+Utah Code Annotated - Title 64 - Chapter 9b - Work Programs for Prisoners
+*************************************************************************
+
+Utah Code Annotated § 64-9b-1 Legislative findings.
+---------------------------------------------------
+Utah Code Annotated § 64-9b-1(1): The Legislature finds that it is in the best interest of the state for the department to:
+Utah Code Annotated § 64-9b-1(1)(a): develop job opportunities to further enhance the rehabilitation of inmates of the Utah state prison;
+Utah Code Annotated § 64-9b-1(1)(b): establish and actively work toward the goal that all inmates shall be productively involved in a treatment, education, or work program, or a combination of these programs, as appropriate, except for inmates who the department determines have a physical or mental disability, or pose a danger to the public, so that they are unable to engage in these activities; and
+Utah Code Annotated § 64-9b-1(1)(c): submit a comprehensive management plan outlining the department's plan to meet this goal to the Legislature on or before November 1 of each even-numbered year, and the plan shall include:
+Utah Code Annotated § 64-9b-1(1)(c)(i): a cost-effective analysis of current inmate education, treatment, and work programs; and
+Utah Code Annotated § 64-9b-1(1)(c)(ii): a study of the feasibility of expanding inmate work programs, particularly in regard to programs that:
+Utah Code Annotated § 64-9b-1(1)(c)(ii)(A): are not capital intensive;
+Utah Code Annotated § 64-9b-1(1)(c)(ii)(B): do not unfairly compete with existing Utah industry; and
+Utah Code Annotated § 64-9b-1(1)(c)(ii)(C): are designed to increase the motivation, develop the work capabilities, and foster the cooperation of inmates.
+Utah Code Annotated § 64-9b-1(2): The Legislature further finds that a proper means to accomplish this is through a liberal application of this chapter.
+
+
+Utah Code Annotated § 64-9b-2 Definitions.
+------------------------------------------
+As used in this chapter:Utah Code Annotated § 64-9b-2(1): "Department" means the Department of Corrections.
+Utah Code Annotated § 64-9b-2(2): "Inmate" means any man or woman who is under the jurisdiction of the department and who is assigned to the Utah state prison or to a county jail.
+
+
+Utah Code Annotated § 64-9b-3 Encouragement of private industry -- Types of employers to be sought.
+---------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-9b-3(1): The department is authorized to encourage private industry to locate and provide rehabilitative and job opportunities for inmates at the Utah state prison and county jails housing inmates under the jurisdiction of the department.
+Utah Code Annotated § 64-9b-3(2): The department shall determine what type of employer is to be allowed to locate at the prison or county jail, taking into consideration the physical facilities and space at the prison or county jail, the abilities of the inmates, and the type of product to be produced by the employer.
+
+
+Utah Code Annotated § 64-9b-4 Work to be voluntary -- Payment of prevailing wages.
+----------------------------------------------------------------------------------
+Utah Code Annotated § 64-9b-4(1): Rehabilitative and job opportunities at the Utah state prison and participating county jails shall not be forced upon any inmate contrary to the
+Utah Code Annotated § 64-9b-4(2): Private businesses that manufacture products for sale in Utah or in interstate commerce shall pay inmates the prevailing wage for similar work in local private industry.  Private businesses that provide services, agricultural products, or manufactured products for export shall pay inmates wages determined by the department, but should not displace local Utah workers as a result of their employment of inmates.
+
+
+Utah Code Annotated § 64-9b-5 Intent of Legislature.
+----------------------------------------------------
+It is the legislative intent, and inmates are encouraged, to use their personal earnings from jobs created under this chapter for the following:Utah Code Annotated § 64-9b-5(1): for restitution to the victims of the inmate's criminal offense, where applicable;
+Utah Code Annotated § 64-9b-5(2): for support of the inmate's family, where applicable;
+Utah Code Annotated § 64-9b-5(3): for the inmate's personal use; and
+Utah Code Annotated § 64-9b-5(4): for reimbursement of security, operational, and other costs incurred by the Utah Correctional Industries Division of the department in administering these projects.
+
+
+Utah Code Annotated § 64-9b-6 Rules.
+------------------------------------
+The department is authorized to promulgate rules in accordance with
+
+Utah Code Annotated - Title 64 - Chapter 13 - Department of Corrections - State Prison
+**************************************************************************************
+
+Utah Code Annotated § 64-13-1 Definitions.
+------------------------------------------
+As used in this chapter:Utah Code Annotated § 64-13-1(1): "Behavioral health transition facility" means a nonsecure correctional facility operated by the department for the purpose of providing a therapeutic environment for offenders receiving mental health services.
+Utah Code Annotated § 64-13-1(2): "Case action plan" means a document developed by the Department of Corrections that identifies:
+Utah Code Annotated § 64-13-1(2)(a): the program priorities for the treatment of the offender, including the criminal risk factors as determined by risk, needs, and responsivity assessments conducted by the department; and
+Utah Code Annotated § 64-13-1(2)(b): clearly defined completion requirements.
+Utah Code Annotated § 64-13-1(3): 64-13f-103 "Community correctional center" means a nonsecure correctional facility operated by the department, but does not include a behavioral health transition facility for the purposes of Section
+Utah Code Annotated § 64-13-1(4): "Correctional facility" means any facility operated to house offenders in a secure or nonsecure setting:
+Utah Code Annotated § 64-13-1(4)(a): by the department; or
+Utah Code Annotated § 64-13-1(4)(b): under a contract with the department.
+Utah Code Annotated § 64-13-1(5): "Criminal risk factors" means an individual's characteristics and behaviors that:
+Utah Code Annotated § 64-13-1(5)(a): affect the individual's risk of engaging in criminal behavior; and
+Utah Code Annotated § 64-13-1(5)(b): are diminished when addressed by effective treatment, supervision, and other support resources, resulting in a reduced risk of criminal behavior.
+Utah Code Annotated § 64-13-1(6): "Department" means the Department of Corrections.
+Utah Code Annotated § 64-13-1(7): 64-13-14(5); 64-13-14(6) "Direct supervision" means a housing and supervision system that is designed to meet the goals described in Subsection
+Utah Code Annotated § 64-13-1(8): "Emergency" means any riot, disturbance, homicide, inmate violence occurring in any correctional facility, or any situation that presents immediate danger to the safety, security, and control of the department.
+Utah Code Annotated § 64-13-1(9): "Evidence-based" means a program or practice that has had multiple randomized control studies or a meta-analysis demonstrating that the program or practice is effective for a specific population or has been rated as effective by a standardized program evaluation tool.
+Utah Code Annotated § 64-13-1(10): "Evidence-informed" means a program or practice that is based on research and the experience and expertise of the department.
+Utah Code Annotated § 64-13-1(11): "Executive director" means the executive director of the Department of Corrections.
+Utah Code Annotated § 64-13-1(12): "Inmate" means an individual who is:
+Utah Code Annotated § 64-13-1(12)(a): committed to the custody of the department; and
+Utah Code Annotated § 64-13-1(12)(b): housed at a correctional facility or at a county jail at the request of the department.
+Utah Code Annotated § 64-13-1(13): "Offender" means an individual who has been convicted of a crime for which the individual may be committed to the custody of the department and is at least one of the following:
+Utah Code Annotated § 64-13-1(13)(a): committed to the custody of the department;
+Utah Code Annotated § 64-13-1(13)(b): on probation; or
+Utah Code Annotated § 64-13-1(13)(c): on parole.
+Utah Code Annotated § 64-13-1(14): "Recidivism" means a return to criminal activity after a previous criminal conviction.
+Utah Code Annotated § 64-13-1(15): 77-38b-102 "Restitution" means the same as that term is defined in Section
+Utah Code Annotated § 64-13-1(16): "Risk and needs assessment" means an actuarial tool validated on criminal offenders that determines:
+Utah Code Annotated § 64-13-1(16)(a): an individual's risk of reoffending; and
+Utah Code Annotated § 64-13-1(16)(b): the criminal risk factors that, when addressed, reduce the individual's risk of reoffending.
+Utah Code Annotated § 64-13-1(17): "Secure correctional facility" means any prison, penitentiary, or other institution operated by the department or under contract for the confinement of offenders, where force may be used to restrain an offender if the offender attempts to leave the institution without authorization.
+Utah Code Annotated § 64-13-1(18): "Serious illness" means, as determined by the inmate's physician, an illness that substantially impairs the inmate's quality of life.
+Utah Code Annotated § 64-13-1(19): "Serious injury" means, as determined by the inmate's physician, bodily injury that involves a substantial risk of death, prolonged unconsciousness, prolonged and obvious disfigurement, or prolonged loss or impairment of the function of a bodily member, organ, or mental faculty.
+Utah Code Annotated § 64-13-1(20): Title 53, Chapter 3, Part 2, Driver Licensing Act "State-issued driver license" means a driver license issued in accordance with
+Utah Code Annotated § 64-13-1(21): Title 53, Chapter 3, Part 8, Identification Card Act "State-issued identification card" means an identification card issued in accordance with
+
+
+Utah Code Annotated § 64-13-2 Creation of department.
+-----------------------------------------------------
+There is created a Department of Corrections, under the general supervision of the executive director of the department.  The department is the state authority for corrections.
+
+Utah Code Annotated § 64-13-3 Executive director.
+-------------------------------------------------
+Utah Code Annotated § 64-13-3(1): The executive director shall be appointed by the governor with the advice and consent of the Senate.
+Utah Code Annotated § 64-13-3(2): The executive director shall be experienced and knowledgeable in the field of corrections and shall have training in criminology and penology.
+Utah Code Annotated § 64-13-3(3): Title 67, Chapter 22, State Officer Compensation The governor shall establish the executive director's salary within the salary range fixed by the Legislature in
+
+
+Utah Code Annotated § 64-13-6 Department duties.
+------------------------------------------------
+Utah Code Annotated § 64-13-6(1): (1)(c); (1)(c); (2); Title 77, Chapter 28c, Interstate Compact for Adult Offender Supervision; 63G-22-102; Title 63G, Chapter 22, State Training and Certification Requirements; 63M-7-102 The department shall:
+Utah Code Annotated § 64-13-6(1)(a): protect the public through institutional care and confinement, and supervision in the community of offenders where appropriate;
+Utah Code Annotated § 64-13-6(1)(b): implement court-ordered punishment of offenders;
+Utah Code Annotated § 64-13-6(1)(c): provide evidence-based and evidence-informed program opportunities for offenders designed to reduce offenders' criminogenic and recidivism risks, including behavioral, cognitive, educational, and career-readiness program opportunities;
+Utah Code Annotated § 64-13-6(1)(d): (1)(c) ensure that offender participation in all program opportunities described in Subsection
+Utah Code Annotated § 64-13-6(1)(e): (1)(c) where appropriate, utilize offender volunteers as mentors in the program opportunities described in Subsection
+Utah Code Annotated § 64-13-6(1)(f): provide treatment for sex offenders who are found to be treatable based upon criteria developed by the department;
+Utah Code Annotated § 64-13-6(1)(g): provide the results of ongoing clinical assessment of sex offenders and objective diagnostic testing to sentencing and release authorities;
+Utah Code Annotated § 64-13-6(1)(h): manage programs that take into account the needs and interests of victims, where reasonable;
+Utah Code Annotated § 64-13-6(1)(i): supervise probationers and parolees as directed by statute and implemented by the courts and the Board of Pardons and Parole;
+Utah Code Annotated § 64-13-6(1)(j): (2) subject to Subsection
+Utah Code Annotated § 64-13-6(1)(k): cooperate and exchange information with other state, local, and federal law enforcement agencies to achieve greater success in prevention and detection of crime and apprehension of criminals;
+Utah Code Annotated § 64-13-6(1)(l): Title 77, Chapter 28c, Interstate Compact for Adult Offender Supervision implement the provisions of
+Utah Code Annotated § 64-13-6(1)(m): establish a case action plan based on appropriate validated risk, needs, and responsivity assessments for each offender as follows:
+Utah Code Annotated § 64-13-6(1)(m)(i): 
+Utah Code Annotated § 64-13-6(1)(m)(i)(A): if an offender is to be supervised in the community, the department shall establish a case action plan for the offender no later than 60 days after the day on which the department's community supervision of the offender begins; and
+Utah Code Annotated § 64-13-6(1)(m)(i)(B): if the offender is committed to the custody of the department, the department shall establish a case action plan for the offender no later than 90 days after the day on which the offender is committed to the custody of the department;
+Utah Code Annotated § 64-13-6(1)(m)(ii): each case action plan shall integrate an individualized, evidence-based, and evidence-informed treatment and program plan with clearly defined completion requirements;
+Utah Code Annotated § 64-13-6(1)(m)(iii): the department shall share each newly established case action plan with the sentencing and release authority within 30 days after the day on which the case action plan is established; and
+Utah Code Annotated § 64-13-6(1)(m)(iv): the department shall share any changes to a case action plan, including any change in an offender's risk assessment, with the sentencing and release authority within 30 days after the day of the change;
+Utah Code Annotated § 64-13-6(1)(n): 63G-22-102; Title 63G, Chapter 22, State Training and Certification Requirements ensure that any training or certification required of a public official or public employee, as those terms are defined in Section
+Utah Code Annotated § 64-13-6(1)(n)(i): under this title;
+Utah Code Annotated § 64-13-6(1)(n)(ii): by the department; or
+Utah Code Annotated § 64-13-6(1)(n)(iii): by an agency or division within the department; and
+Utah Code Annotated § 64-13-6(1)(o): 63M-7-102 when reporting on statewide recidivism, include the metrics and requirements described in Section
+Utah Code Annotated § 64-13-6(2): 63M-7-404(6) The department may in the course of supervising probationers and parolees:
+Utah Code Annotated § 64-13-6(2)(a): 63M-7-404(6) respond in accordance with the graduated and evidence-based processes established by the Utah Sentencing Commission under Subsection
+Utah Code Annotated § 64-13-6(2)(b): upon approval by the court or the Board of Pardons and Parole, impose as a sanction for an individual's violation of the terms of probation or parole a period of incarceration of not more than three consecutive days and not more than a total of five days within a period of 30 days.
+Utah Code Annotated § 64-13-6(3): (3)(b); (3)(a); (3)(a); (3)(a)
+Utah Code Annotated § 64-13-6(3)(a): (3)(b) By following the procedures in Subsection
+Utah Code Annotated § 64-13-6(3)(a)(i): criminal conduct of departmental employees;
+Utah Code Annotated § 64-13-6(3)(a)(ii): felony crimes resulting in serious bodily injury;
+Utah Code Annotated § 64-13-6(3)(a)(iii): death of any person; or
+Utah Code Annotated § 64-13-6(3)(a)(iv): aggravated kidnaping.
+Utah Code Annotated § 64-13-6(3)(b): (3)(a); (3)(a); (3)(a) Before investigating any occurrence specified in Subsection
+Utah Code Annotated § 64-13-6(3)(b)(i): (3)(a) notify the sheriff or other appropriate law enforcement agency promptly after ascertaining facts sufficient to believe an occurrence specified in Subsection
+Utah Code Annotated § 64-13-6(3)(b)(ii): (3)(a) obtain consent of the sheriff or other appropriate law enforcement agency to conduct an investigation involving an occurrence specified in Subsection
+Utah Code Annotated § 64-13-6(4): Upon request, the department shall provide copies of investigative reports of criminal conduct to the sheriff or other appropriate law enforcement agencies.
+Utah Code Annotated § 64-13-6(5): 
+Utah Code Annotated § 64-13-6(5)(a): The executive director of the department, or the executive director's designee if the designee possesses expertise in correctional programming, shall consult at least annually with cognitive and career-readiness staff experts from the Utah system of higher education and the State Board of Education to review the department's evidence-based and evidence-informed treatment and program opportunities.
+Utah Code Annotated § 64-13-6(5)(b): Beginning in the 2022 interim, the department shall provide an annual report to the Law Enforcement and Criminal Justice Interim Committee regarding the department's implementation of and offender participation in evidence-based and evidence-informed treatment and program opportunities designed to reduce the criminogenic and recidivism risks of offenders over time.
+Utah Code Annotated § 64-13-6(6): (6); 64-13-21; (6)(c); 77-18-105(7); 77-18-114; 77-18-114; (6)
+Utah Code Annotated § 64-13-6(6)(a): (6) As used in this Subsection
+Utah Code Annotated § 64-13-6(6)(a)(i): "Accounts receivable" means any amount owed by an offender arising from a criminal judgment that has not been paid.
+Utah Code Annotated § 64-13-6(6)(a)(ii): "Accounts receivable" includes unpaid fees, overpayments, fines, forfeitures, surcharges, costs, interest, penalties, restitution to victims, third-party claims, claims, reimbursement of a reward, and damages that an offender is ordered to pay.
+Utah Code Annotated § 64-13-6(6)(b): 64-13-21; (6)(c); 77-18-105(7) The department shall collect and disburse, with any interest and any other costs assessed under Section
+Utah Code Annotated § 64-13-6(6)(b)(i): (6)(c) the parole period and any extension of that period in accordance with Subsection
+Utah Code Annotated § 64-13-6(6)(b)(ii): 77-18-105(7) the probation period for which the court orders supervised probation and any extension of that period by the department in accordance with Subsection
+Utah Code Annotated § 64-13-6(6)(c): 77-18-114; 77-18-114
+Utah Code Annotated § 64-13-6(6)(c)(i): 77-18-114 If an offender has an unpaid balance of the offender's accounts receivable at the time that the offender's sentence expires or terminates, the department shall be referred to the sentencing court for the sentencing court to enter a civil judgment of restitution and a civil accounts receivable as described in Section
+Utah Code Annotated § 64-13-6(6)(c)(ii): 77-18-114 If the board makes an order for restitution within 60 days from the day on which the offender's sentence expires or terminates, the board shall refer the order for restitution to the sentencing court to be entered as a civil judgment of restitution as described in Section
+Utah Code Annotated § 64-13-6(6)(d): (6) This Subsection
+
+
+Utah Code Annotated § 64-13-7 Offenders in custody of department.
+-----------------------------------------------------------------
+All offenders committed for incarceration in a state correctional facility or for supervision on probation or parole, shall be placed in the custody of the department. The department shall establish procedures and is responsible for the appropriate assignment or transfer of public offenders to facilities or programs.
+
+Utah Code Annotated § 64-13-7.5 Persons in need of mental health services -- Contracts.
+---------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-7.5(1): (2) Except as provided for in Subsection
+Utah Code Annotated § 64-13-7.5(2): (1); 64-13-25; (2)
+Utah Code Annotated § 64-13-7.5(2)(a): (1) If the Division of Substance Abuse and Mental Health, a local mental health authority, or the state hospital notifies the department that it is unable to provide mental health services under Subsection
+Utah Code Annotated § 64-13-7.5(2)(b): 64-13-25; (2) The standards established by rule under Section
+Utah Code Annotated § 64-13-7.5(3): 64-13-6; Title 58, Chapter 60, Mental Health Professional Practice Act; Title 58, Chapter 61, Psychologist Licensing Act A person who provides mental health services for sex offender treatment as required in Section
+
+
+Utah Code Annotated § 64-13-8 Designation of employee powers.
+-------------------------------------------------------------
+The department shall designate by policy which of its employees have the authority and powers of peace officers, the power to administer oaths, and other powers the department considers appropriate, including but not limited to the responsibility to bear firearms.
+
+Utah Code Annotated § 64-13-10 Department duties -- Rulemaking authority.
+-------------------------------------------------------------------------
+Utah Code Annotated § 64-13-10(1): The department shall provide probation supervision programs, parole supervision programs, correctional facilities, community correctional centers, and other programs or facilities as necessary and as required to accomplish its purposes.
+Utah Code Annotated § 64-13-10(2): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department may make rules in accordance with
+
+
+Utah Code Annotated § 64-13-10.4 Entry of an inmate -- Identification application requests.
+-------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-10.4(1): 64-13-10.6(3); (1)(a); (1)(a); (1)(a); (1)(a); (5); (2); (4); (1)(a)
+Utah Code Annotated § 64-13-10.4(1)(a): 64-13-10.6(3) Within 15 days after the date on which an inmate enters incarceration in a state correctional facility, and, if applicable, approximately six months before the date of the inmate's anticipated release as described in Subsection
+Utah Code Annotated § 64-13-10.4(1)(a)(i): a certified copy of the inmate's birth certificate;
+Utah Code Annotated § 64-13-10.4(1)(a)(ii): a copy of the inmate's social security card; and
+Utah Code Annotated § 64-13-10.4(1)(a)(iii): a current state-issued driver license or state-issued identification card.
+Utah Code Annotated § 64-13-10.4(1)(b): (1)(a); (1)(a); (1)(a); (1)(a); (5); (2); (4); (1)(a) For any document described in Subsection
+Utah Code Annotated § 64-13-10.4(1)(b)(i): (1)(a) inform the inmate that each document listed in Subsection
+Utah Code Annotated § 64-13-10.4(1)(b)(ii): (1)(a) inquire whether the inmate would like to apply for and obtain any of the documents described in Subsection
+Utah Code Annotated § 64-13-10.4(1)(b)(iii): (1)(a); (5); (2); (4); (1)(a)
+Utah Code Annotated § 64-13-10.4(1)(b)(iii)(A): (1)(a); (5); (2); (4) if the inmate accepts assistance in obtaining the documents described in Subsection
+Utah Code Annotated § 64-13-10.4(1)(b)(iii)(B): (1)(a) if the inmate refuses assistance in obtaining the documents described in Subsection
+Utah Code Annotated § 64-13-10.4(2): (2)(a)(i); (2)(a)
+Utah Code Annotated § 64-13-10.4(2)(a): (2)(a)(i) If an inmate was born in the United States and accepts assistance in obtaining a certified copy of the inmate's birth certificate, the department shall:
+Utah Code Annotated § 64-13-10.4(2)(a)(i): request that the inmate pay the fee for obtaining the certified copy of the inmate's birth certificate; or
+Utah Code Annotated § 64-13-10.4(2)(a)(ii): (2)(a)(i) if the department determines that the inmate is unable to pay the fee as described in Subsection
+Utah Code Annotated § 64-13-10.4(2)(b): (2)(a) If funds are available to pay the fee for obtaining a certified copy of a birth certificate as described in Subsection
+Utah Code Annotated § 64-13-10.4(3): If an inmate accepts assistance in obtaining a copy of the inmate's social security card and does not have a copy of the inmate's social security card, the department shall coordinate with the Social Security Administration in obtaining a copy of the inmate's social security card, unless the inmate previously requested the maximum number of yearly or lifetime requests.
+Utah Code Annotated § 64-13-10.4(4): 64-13-10.6(4) If an inmate accepts assistance in obtaining a state-issued identification card or driver license, the department shall follow the procedure described in Subsection
+Utah Code Annotated § 64-13-10.4(5): The requirements of this section do not apply if the inmate is not:
+Utah Code Annotated § 64-13-10.4(5)(a): a citizen of the United States; or
+Utah Code Annotated § 64-13-10.4(5)(b): a lawful resident of the United States who has legal authorization to work in the United States.
+
+
+Utah Code Annotated § 64-13-10.6 Transition and reentry of an inmate at termination of incarceration.
+-----------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-10.6(1): 35A-2-204 The department shall evaluate the case action plan and update the case action plan as necessary to prepare for the offender's transition from incarceration to release, including:
+Utah Code Annotated § 64-13-10.6(1)(a): establishing the supervision level and program needs, based on the offender's criminal risk factors;
+Utah Code Annotated § 64-13-10.6(1)(b): identifying barriers to the offender's ability to obtain housing, food, clothing, and transportation;
+Utah Code Annotated § 64-13-10.6(1)(c): identifying community-based treatment resources that are reasonably accessible to the offender;
+Utah Code Annotated § 64-13-10.6(1)(d): establishing the initial supervision procedures and strategy for the offender's parole officer ; and
+Utah Code Annotated § 64-13-10.6(1)(e): 35A-2-204 ensuring that the offender has access to the web portal described in Section
+Utah Code Annotated § 64-13-10.6(2): The department shall notify the Board of Pardons and Parole not fewer than 30 days prior to an offender's release of:
+Utah Code Annotated § 64-13-10.6(2)(a): the offender's case action plan; and
+Utah Code Annotated § 64-13-10.6(2)(b): any specific conditions of parole necessary to better facilitate transition to the community.
+Utah Code Annotated § 64-13-10.6(3): 64-13-10.4; 64-13-10.4
+Utah Code Annotated § 64-13-10.6(3)(a): 64-13-10.4 At least six months before the projected date of an inmate's release from incarceration, if practicable, the department shall follow the procedures described in Section
+Utah Code Annotated § 64-13-10.6(3)(b): 64-13-10.4 If the department is notified of the inmate's release and the remaining term of incarceration is for less than six months, the department shall follow the procedures described in Section
+Utah Code Annotated § 64-13-10.6(4): 64-13-10.4 If the inmate's term of incarceration is for longer than six months, the department shall follow procedures described in Section
+Utah Code Annotated § 64-13-10.6(4)(a): approximately six months before the date of the inmate's anticipated release, if the inmate's term of incarceration is for longer than six months; or
+Utah Code Annotated § 64-13-10.6(4)(b): as soon as possible, upon notification of the inmate's release, if the release is in shorter than six months.
+Utah Code Annotated § 64-13-10.6(5): 64-13-10.4(4); 53-3-215; 53-3-214; 53-3-807; 53-3-805(10); (5)(b)(ii); (5)(a); (5)(b)(i); (5)(a); (5)(a); 53-3-805(10)
+Utah Code Annotated § 64-13-10.6(5)(a): 64-13-10.4(4); 53-3-215; 53-3-214; 53-3-807; 53-3-805(10) If an inmate accepts assistance in obtaining a current state-issued identification card or driver license, as described in Subsection
+Utah Code Annotated § 64-13-10.6(5)(a)(i): 53-3-215; 53-3-214
+Utah Code Annotated § 64-13-10.6(5)(a)(i)(A): 53-3-215 obtain a duplicate of the inmate's state-issued driver license, as described in Section
+Utah Code Annotated § 64-13-10.6(5)(a)(i)(B): 53-3-214 renew the inmate's state-issued driver license, if the inmate meets the criteria listed in Section
+Utah Code Annotated § 64-13-10.6(5)(a)(ii): 53-3-807; 53-3-805(10)
+Utah Code Annotated § 64-13-10.6(5)(a)(ii)(A): 53-3-807 extend the inmate's state-issued regular identification card, as described in Section
+Utah Code Annotated § 64-13-10.6(5)(a)(ii)(B): 53-3-805(10) issue the inmate a temporary regular identification card as described in Subsection
+Utah Code Annotated § 64-13-10.6(5)(b): (5)(b)(ii); (5)(a)
+Utah Code Annotated § 64-13-10.6(5)(b)(i): (5)(b)(ii); (5)(a) Subject to Subsection
+Utah Code Annotated § 64-13-10.6(5)(b)(ii): If an inmate is released from a facility other than a state correctional facility, the department shall coordinate with that correctional facility and the Driver License Division in assisting the inmate in meeting with the Driver License Division.
+Utah Code Annotated § 64-13-10.6(5)(c): (5)(b)(i); (5)(a); (5)(a); 53-3-805(10) Before the inmate meets with the Driver License Division, as described in Subsection
+Utah Code Annotated § 64-13-10.6(5)(c)(i): all personal identification documentation; and
+Utah Code Annotated § 64-13-10.6(5)(c)(ii): (5)(a); 53-3-805(10) a voucher for payment toward any one of the documents listed in Subsection
+Utah Code Annotated § 64-13-10.6(6): (4); (5) Subsections
+Utah Code Annotated § 64-13-10.6(6)(a): a citizen of the United States; or
+Utah Code Annotated § 64-13-10.6(6)(b): a lawful resident of the United States and has legal authorization to work in the United States.
+
+
+Utah Code Annotated § 64-13-12 Assistance to sheriffs.
+------------------------------------------------------
+Where resources permit, the department may assist county sheriffs in the development of jail standards, in the review of jail facilities, and shall provide other services as requested by the sheriffs.
+
+Utah Code Annotated § 64-13-13 Administrators.
+----------------------------------------------
+The executive director shall appoint deputy directors, wardens, regional administrators, and other administrators as necessary to administer correctional programs.   Deputy directors, wardens, and regional administrators shall have experience in corrections, related criminal justice fields, law, or criminology, and experience in administration.
+
+Utah Code Annotated § 64-13-14 Secure correctional facilities.
+--------------------------------------------------------------
+Utah Code Annotated § 64-13-14(1): The department shall maintain and operate secure correctional facilities for the incarceration of offenders.
+Utah Code Annotated § 64-13-14(2): For each compound of secure correctional facilities, as established by the executive director, wardens shall be appointed as the chief administrative officers by the executive director.
+Utah Code Annotated § 64-13-14(3): The department may transfer offenders from one correctional facility to another and may, with the consent of the sheriff, transfer any offender to a county jail.
+Utah Code Annotated § 64-13-14(4): (5); (6) Where new or modified facilities are designed appropriately, the department shall implement an evidence-based direct supervision system in accordance with Subsections
+Utah Code Annotated § 64-13-14(5): A direct supervision system shall be designed to meet the goals of:
+Utah Code Annotated § 64-13-14(5)(a): reducing offender violence;
+Utah Code Annotated § 64-13-14(5)(b): enhancing offenders' participation in treatment, program, and work opportunities;
+Utah Code Annotated § 64-13-14(5)(c): managing and reducing offender risk;
+Utah Code Annotated § 64-13-14(5)(d): promoting pro-social offender behaviors;
+Utah Code Annotated § 64-13-14(5)(e): providing a tiered-housing structure that:
+Utah Code Annotated § 64-13-14(5)(e)(i): rewards an offender's pro-social behaviors and progress toward the completion requirements of the offender's individual case action plan with less restrictive housing and increased privileges; and
+Utah Code Annotated § 64-13-14(5)(e)(ii): houses similarly behaving offenders together; and
+Utah Code Annotated § 64-13-14(5)(f): reducing departmental costs.
+Utah Code Annotated § 64-13-14(6): A direct supervision system shall include the following elements:
+Utah Code Annotated § 64-13-14(6)(a): department staff will interact continuously with offenders to actively manage offenders' behavior and to identify problems at early stages;
+Utah Code Annotated § 64-13-14(6)(b): department staff will use management techniques designed to prevent and discourage negative offender behavior and encourage positive offender behavior;
+Utah Code Annotated § 64-13-14(6)(c): department staff will establish and maintain a professional supervisory relationship with offenders; and
+Utah Code Annotated § 64-13-14(6)(d): barriers separating department staff and offenders shall be removed.
+Utah Code Annotated § 64-13-14(7): Beginning in the 2022 interim, the department shall provide an annual report to the Law Enforcement and Criminal Justice Interim Committee regarding the status of the implementation of direct supervision.
+
+
+Utah Code Annotated § 64-13-14.5 Limits of confinement place -- Release status -- Work release.
+-----------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-14.5(1): The department may extend the limits of the place of confinement of an inmate when, as established by department policies and procedures, there is cause to believe the inmate will honor the trust, by authorizing the inmate under prescribed conditions:
+Utah Code Annotated § 64-13-14.5(1)(a): to leave temporarily for purposes specified by department policies and procedures to visit specifically designated places for a period not to exceed 30 days;
+Utah Code Annotated § 64-13-14.5(1)(b): to participate in a voluntary training program in the community while housed at a correctional facility or to work at paid employment;
+Utah Code Annotated § 64-13-14.5(1)(c): to be housed in a nonsecure community correctional center operated by the department; or
+Utah Code Annotated § 64-13-14.5(1)(d): to be housed in any other facility under contract with the department.
+Utah Code Annotated § 64-13-14.5(2): The department shall establish rules governing offenders on release status.  A copy of the rules shall be furnished to the offender and to any employer or other person participating in the offender's release program.  Any employer or other participating person shall agree in writing to abide by the rules and to notify the department of the offender's discharge or other release from a release program activity, or of any violation of the rules governing release status.
+Utah Code Annotated § 64-13-14.5(3): The willful failure of an inmate to remain within the extended limits of his confinement or to return within the time prescribed to an institution or facility designated by the department is an escape from custody.
+Utah Code Annotated § 64-13-14.5(4): If an offender is arrested for the commission of a crime, the arresting authority shall immediately notify the department of the arrest.
+Utah Code Annotated § 64-13-14.5(5): 64-13-21; 76-8-309 The department may impose appropriate sanctions pursuant to Section
+Utah Code Annotated § 64-13-14.5(6): An inmate who is housed at a nonsecure correctional facility and on work release may not be required to work for less than the current federally established minimum wage, or under substandard working conditions.
+
+
+Utah Code Annotated § 64-13-14.7 Victim notification of offender's release.
+---------------------------------------------------------------------------
+Utah Code Annotated § 64-13-14.7(1): 63M-7-502; 77-27-9.5 As used in this section:
+Utah Code Annotated § 64-13-14.7(1)(a): "Offender" means a person who committed an act of criminally injurious conduct against the victim and has been sentenced to incarceration in the custody of the department.
+Utah Code Annotated § 64-13-14.7(1)(b): 63M-7-502; 77-27-9.5 "Victim" means a person against whom an offender committed criminally injurious conduct as defined in Section
+Utah Code Annotated § 64-13-14.7(2): 64-13-14.5; 64-13-14.7; 77-27-9.5; 77-27-9.7; 78B-7-804(5); 78B-7-805(5); (2)(b)(ii); (2)(a); (2)(a)
+Utah Code Annotated § 64-13-14.7(2)(a): 64-13-14.5; 64-13-14.7; 77-27-9.5; 77-27-9.7; 78B-7-804(5); 78B-7-805(5)
+Utah Code Annotated § 64-13-14.7(2)(a)(i): 64-13-14.5; 64-13-14.7; 77-27-9.5; 77-27-9.7 Upon submitting a signed written request of notification to the Department of Corrections, a victim shall be notified of an offender's release under Sections
+Utah Code Annotated § 64-13-14.7(2)(a)(ii): The request shall include a current mailing address and may include current telephone numbers if the victim chooses.
+Utah Code Annotated § 64-13-14.7(2)(a)(iii): 78B-7-804(5); 78B-7-805(5) The notice for an offender's termination from probation or parole shall notify the victim that the victim may petition the court for the appropriate continuous protective order under Subsection
+Utah Code Annotated § 64-13-14.7(2)(b): (2)(b)(ii); (2)(a); (2)(a)
+Utah Code Annotated § 64-13-14.7(2)(b)(i): (2)(b)(ii); (2)(a) Subject to Subsection
+Utah Code Annotated § 64-13-14.7(2)(b)(ii): (2)(a) If written notice is not feasible because the release is immediate or the offender escapes, the department shall make a reasonable attempt to notify the victim by telephone if the victim has provided a telephone number under Subsection
+Utah Code Annotated § 64-13-14.7(3): 77-27-9.5
+Utah Code Annotated § 64-13-14.7(3)(a): 77-27-9.5 Notice of victim rights under this section shall be provided to the victim in the notice of hearings regarding parole under Section
+Utah Code Annotated § 64-13-14.7(3)(b): The department shall coordinate with the Board of Pardons and Parole to ensure the notice is implemented.
+Utah Code Annotated § 64-13-14.7(4): A victim's request for notification under this section and any notification to a victim under this section is private information that the department may not release:
+Utah Code Annotated § 64-13-14.7(4)(a): to the offender under any circumstances; or
+Utah Code Annotated § 64-13-14.7(4)(b): to any other party without the written consent of the victim.
+Utah Code Annotated § 64-13-14.7(5): The department may make rules as necessary to implement this section.
+Utah Code Annotated § 64-13-14.7(6): The department or its employees acting within the scope of their employment are not civilly or criminally liable for failure to provide notice or improper notice under this section unless the failure or impropriety is willful or grossly negligent.
+
+
+Utah Code Annotated § 64-13-15 Property of offender -- Storage and disposal.
+----------------------------------------------------------------------------
+Utah Code Annotated § 64-13-15(1): Title 75, Utah Uniform Probate Code; 75-2-105
+Utah Code Annotated § 64-13-15(1)(a): Title 75, Utah Uniform Probate Code Offenders may retain personal property at correctional facilities only as authorized by the department.  An offender's property which is retained by the department shall be inventoried and placed in storage by the department and a receipt for the property shall be issued to the offender. Offenders shall be required to arrange for disposal of property retained by the department within a reasonable time under department rules.  Property retained by the department shall be returned to the offender at discharge, or in accordance with
+Utah Code Annotated § 64-13-15(1)(b): If property is not claimed within one year of  discharge, or it is not disposed of by the offender within a reasonable time after the department's order to arrange for disposal, it becomes property of the state and may be used for correctional purposes or donated to a charity within the state.
+Utah Code Annotated § 64-13-15(1)(c): 75-2-105 If an inmate's property is not claimed within one year of his death, it becomes the property of the state in accordance with Section
+Utah Code Annotated § 64-13-15(1)(d): Funds which are contraband and in the physical custody of any prisoner, whether in the form of currency and coin which are legal tender in any jurisdiction or negotiable instruments drawn upon a personal or business account, shall be subject to forfeiture following a hearing which accords with prevailing standards of due process.  All such forfeited funds shall be used by the department for purposes which promote the general welfare of prisoners in the custody of the department.  Money and negotiable instruments taken from offenders' mail under department rule and which are not otherwise contraband shall be placed in an account administered by the department, to the credit of the offender who owns the money or negotiable instruments.
+Utah Code Annotated § 64-13-15(2): Upon discharge from a secure correctional facility, the department may give an inmate transition funds in an amount established by the department with the approval of the director of the Division of Finance. At its discretion, the department may spend the funds directly on the purchase of necessities or transportation for the discharged inmate.
+
+
+Utah Code Annotated § 64-13-16 Inmate employment.
+-------------------------------------------------
+Utah Code Annotated § 64-13-16(1): The department may employ inmates, unless incapable of employment because of sickness or other infirmity or for security reasons, to the degree that funding and available resources allow.  An offender may not be employed on work which benefits any employee or officer of the department.
+Utah Code Annotated § 64-13-16(2): Title 34A, Chapter 2, Workers' Compensation Act An offender employed under this section is not considered an employee, worker, workman, or operative for purposes of
+
+
+Utah Code Annotated § 64-13-17 Visitors to correctional facilities -- Correspondence.
+-------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-17(1): 
+Utah Code Annotated § 64-13-17(1)(a): The following persons may visit correctional facilities without the consent of the department:
+Utah Code Annotated § 64-13-17(1)(a)(i): the governor;
+Utah Code Annotated § 64-13-17(1)(a)(ii): the attorney general;
+Utah Code Annotated § 64-13-17(1)(a)(iii): a justice or judge of the courts of record;
+Utah Code Annotated § 64-13-17(1)(a)(iv): members of the Board of Pardons and Parole;
+Utah Code Annotated § 64-13-17(1)(a)(v): members of the Legislature;
+Utah Code Annotated § 64-13-17(1)(a)(vi): the sheriff, district attorney, and county attorney for the county in which the correctional facility is located; and
+Utah Code Annotated § 64-13-17(1)(a)(vii): any other persons authorized under rules prescribed by the department or court order.
+Utah Code Annotated § 64-13-17(1)(b): Any person acting under a court order may visit or correspond with any inmate without the consent of the department provided the department has received notice of, and is permitted to respond to, the court order.  The court shall consider department policy when making its order.
+Utah Code Annotated § 64-13-17(1)(c): The department may limit access to correctional facilities when the department or governor declares an emergency or when there is a riot or other disturbance.
+Utah Code Annotated § 64-13-17(2): (1); (1)
+Utah Code Annotated § 64-13-17(2)(a): (1) A person may not visit with any offender at any correctional facility, other than under Subsection
+Utah Code Annotated § 64-13-17(2)(b): (1) Offenders and all visitors, including those listed in Subsection
+Utah Code Annotated § 64-13-17(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department shall make rules under
+Utah Code Annotated § 64-13-17(4): Offenders housed at any correctional facility may send and receive correspondence, subject to the rules of the department.  All correspondence is subject to search, consistent with department rules.
+
+
+Utah Code Annotated § 64-13-18 Copy of sentence of incarceration.
+-----------------------------------------------------------------
+The officer delivering any offender for incarceration shall deliver to the department a certified copy of the sentence received by the officer from the clerk of the court.  The department shall give the officer a certificate of delivery and shall submit to the Board of Pardons and Parole a copy of the commitment order.  The certified copy of sentence is conclusive evidence of the facts contained in it.
+
+Utah Code Annotated § 64-13-19 Labor at correctional facilities.
+----------------------------------------------------------------
+Utah Code Annotated § 64-13-19(1): The department shall determine the types of labor to be pursued, and what kind, quality, and quantity of goods, materials, and supplies shall be produced, manufactured, or repaired at correctional facilities.  Contracts may be made for the labor of offenders, including contracts with any federal agency for a project affecting national defense.  As many offenders as practicable may be employed to produce, manufacture, or repair any goods, materials, or supplies for sale to the state or its political subdivisions.  Prices for all goods, materials, and supplies shall be fixed by the department.
+Utah Code Annotated § 64-13-19(2): Title 34A, Chapter 2, Workers' Compensation Act An offender performing labor under this section is not considered an employee, worker, workman, or operative for purposes of
+
+
+Utah Code Annotated § 64-13-20 Investigative services -- Presentence investigation reports.
+-------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-20(1): The department shall:
+Utah Code Annotated § 64-13-20(1)(a): provide investigative services and prepare reports to:
+Utah Code Annotated § 64-13-20(1)(a)(i): assist the courts in sentencing;
+Utah Code Annotated § 64-13-20(1)(a)(ii): assist the Board of Pardons and Parole in its decision-making responsibilities regarding offenders;
+Utah Code Annotated § 64-13-20(1)(a)(iii): assist the department in managing offenders; and
+Utah Code Annotated § 64-13-20(1)(a)(iv): assure the professional and accountable management of the department;
+Utah Code Annotated § 64-13-20(1)(b): establish standards for providing investigative services based on available resources, giving priority to felony cases; and
+Utah Code Annotated § 64-13-20(1)(c): employ staff for the purpose of conducting:
+Utah Code Annotated § 64-13-20(1)(c)(i): thorough presentence investigations of the social, physical, and mental conditions and backgrounds of offenders; and
+Utah Code Annotated § 64-13-20(1)(c)(ii): examinations when required by the court or the Board of Pardons and Parole.
+Utah Code Annotated § 64-13-20(2): The department may provide recommendations concerning appropriate measures to be taken regarding offenders.
+Utah Code Annotated § 64-13-20(3): 63G-2-305; Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-20(3)(a): An employee of the department who is trained to prepare a presentence investigation report may prepare a presentence investigation report for the courts, the department, or the Board of Pardons and Parole.
+Utah Code Annotated § 64-13-20(3)(b): 63G-2-305; Title 63G, Chapter 3, Utah Administrative Rulemaking Act The presentence investigation reports prepared by the department are protected as defined in Section
+Utah Code Annotated § 64-13-20(3)(c): The reports are intended only for use by:
+Utah Code Annotated § 64-13-20(3)(c)(i): the courts in the sentencing process;
+Utah Code Annotated § 64-13-20(3)(c)(ii): the Board of Pardons and Parole in its decision-making responsibilities; and
+Utah Code Annotated § 64-13-20(3)(c)(iii): the department in the supervision, confinement, and treatment of the offender.
+Utah Code Annotated § 64-13-20(4): A presentence investigation report shall be made available upon request to another correctional program within the state if the offender who is the subject of the report has been committed or is being evaluated for commitment to the facility for treatment as a condition of probation or parole.
+Utah Code Annotated § 64-13-20(5): 
+Utah Code Annotated § 64-13-20(5)(a): The presentence investigation reports shall include a victim impact statement in all felony cases and in misdemeanor cases if the offender caused bodily harm or death to the victim.
+Utah Code Annotated § 64-13-20(5)(b): Victim impact statements shall:
+Utah Code Annotated § 64-13-20(5)(b)(i): identify the victim of the offense;
+Utah Code Annotated § 64-13-20(5)(b)(ii): itemize any economic loss suffered by the victim as a result of the offense;
+Utah Code Annotated § 64-13-20(5)(b)(iii): identify any physical, mental, or emotional injuries suffered by the victim as a result of the offense, and the seriousness and permanence;
+Utah Code Annotated § 64-13-20(5)(b)(iv): describe any change in the victim's personal welfare or familial relationships as a result of the offense;
+Utah Code Annotated § 64-13-20(5)(b)(v): identify any request for mental health services initiated by the victim or the victim's family as a result of the offense; and
+Utah Code Annotated § 64-13-20(5)(b)(vi): contain any other information related to the impact of the offense upon the victim or the victim's family that the court requires.
+Utah Code Annotated § 64-13-20(6): If the victim is deceased, under a mental, physical, or legal disability, or otherwise unable to provide the information required under this section, the information may be obtained from the personal representative, guardian, or family members, as necessary.
+Utah Code Annotated § 64-13-20(7): The department shall employ staff necessary to pursue investigations of complaints from the public, staff, or offenders regarding the management of corrections programs.
+
+
+Utah Code Annotated § 64-13-21 Supervision of sentenced offenders placed in community -- Rulemaking -- POST certified parole or probation officers and peace officers -- Duties -- Supervision fee.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-21(1): 13-53-102; 58-37-8; (1)(b)
+Utah Code Annotated § 64-13-21(1)(a): The department, except as otherwise provided by law, shall supervise sentenced offenders placed in the community on probation by the courts, on parole by the Board of Pardons and Parole, or upon acceptance for supervision under the terms of the Interstate Compact for the Supervision of Parolees and Probationers.
+Utah Code Annotated § 64-13-21(1)(b): 13-53-102 If a sentenced offender participates in substance use treatment or a residential, vocational and life skills program, as defined in Section
+Utah Code Annotated § 64-13-21(1)(c): 58-37-8; (1)(b) The department shall establish standards for:
+Utah Code Annotated § 64-13-21(1)(c)(i): 58-37-8 the supervision of offenders in accordance with sentencing guidelines and supervision length guidelines, including the graduated and evidence-based responses, established by the Utah Sentencing Commission, giving priority, based on available resources, to felony offenders and offenders sentenced under Subsection
+Utah Code Annotated § 64-13-21(1)(c)(ii): (1)(b) the monitoring described in Subsection
+Utah Code Annotated § 64-13-21(2): The department shall apply the graduated and evidence-based responses established by the Utah Sentencing Commission to facilitate a prompt and appropriate response to an individual's violation of the terms of probation or parole, including:
+Utah Code Annotated § 64-13-21(2)(a): sanctions to be used in response to a violation of the terms of probation or parole; and
+Utah Code Annotated § 64-13-21(2)(b): requesting approval from the court or Board of Pardons and Parole to impose a sanction for an individual's violation of the terms of probation or parole, for a period of incarceration of not more than three consecutive days and not more than a total of five days within a period of 30 days.
+Utah Code Annotated § 64-13-21(3): The department shall implement a program of graduated incentives as established by the Utah Sentencing Commission to facilitate the department's prompt and appropriate response to an offender's:
+Utah Code Annotated § 64-13-21(3)(a): compliance with the terms of probation or parole; or
+Utah Code Annotated § 64-13-21(3)(b): positive conduct that exceeds those terms.
+Utah Code Annotated § 64-13-21(4): 
+Utah Code Annotated § 64-13-21(4)(a): The department shall, in collaboration with the State Commission on Criminal and Juvenile Justice and the Division of Substance Abuse and Mental Health, create standards and procedures for the collection of information, including cost savings related to recidivism reduction and the reduction in the number of inmates, related to the use of the graduated and evidence-based responses and graduated incentives, and offenders' outcomes.
+Utah Code Annotated § 64-13-21(4)(b): The collected information shall be provided to the State Commission on Criminal and Juvenile Justice not less frequently than annually on or before August 31.
+Utah Code Annotated § 64-13-21(5): 53-10-404 Employees of the department who are POST certified as law enforcement officers or correctional officers and who are designated as parole and probation officers by the executive director have the following duties:
+Utah Code Annotated § 64-13-21(5)(a): monitoring, investigating, and supervising a parolee's or probationer's compliance with the conditions of the parole or probation agreement;
+Utah Code Annotated § 64-13-21(5)(b): investigating or apprehending any offender who has escaped from the custody of the department or absconded from supervision;
+Utah Code Annotated § 64-13-21(5)(c): supervising any offender during transportation; or
+Utah Code Annotated § 64-13-21(5)(d): 53-10-404 collecting DNA specimens when the specimens are required under Section
+Utah Code Annotated § 64-13-21(6): (6)(a)(i); Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-21(6)(a): (6)(a)(i)
+Utah Code Annotated § 64-13-21(6)(a)(i): A monthly supervision fee of $30 shall be collected from each offender on probation or parole.
+Utah Code Annotated § 64-13-21(6)(a)(ii): (6)(a)(i) The fee described in Subsection
+Utah Code Annotated § 64-13-21(6)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-21(6)(b)(i): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department shall make rules in accordance with
+Utah Code Annotated § 64-13-21(6)(b)(ii): In determining whether the imposition of the supervision fee would constitute a substantial hardship, the department shall consider the financial resources of the offender and the burden that the fee would impose, with regard to the offender's other obligations.
+Utah Code Annotated § 64-13-21(7): 77-18-105; 76-3-202(2)(a); (7); (7); (7); (7); (7)(c); (7); (7)
+Utah Code Annotated § 64-13-21(7)(a): 77-18-105; 76-3-202(2)(a); (7) For offenders placed on probation under Section
+Utah Code Annotated § 64-13-21(7)(b): The program shall provide that an offender earns a reduction credit of 30 days from the offender's period of probation or parole for each month the offender completes without any violation of the terms of the offender's probation or parole agreement, including the case action plan.
+Utah Code Annotated § 64-13-21(7)(c): (7); (7) The department shall maintain a record of credits earned by an offender under this Subsection
+Utah Code Annotated § 64-13-21(7)(d): (7); (7)(c) This Subsection
+Utah Code Annotated § 64-13-21(7)(e): (7) The court or the Board of Pardons and Parole shall terminate an offender's probation or parole upon completion of the period of probation or parole accrued by time served and credits earned under this Subsection
+Utah Code Annotated § 64-13-21(7)(f): (7) The department shall report annually to the State Commission on Criminal and Juvenile Justice on or before August 31:
+Utah Code Annotated § 64-13-21(7)(f)(i): (7) the number of offenders who have earned probation or parole credits under this Subsection
+Utah Code Annotated § 64-13-21(7)(f)(ii): the average number of credits earned by those offenders who earned credits;
+Utah Code Annotated § 64-13-21(7)(f)(iii): the number of offenders who earned credits by county of residence while on probation or parole;
+Utah Code Annotated § 64-13-21(7)(f)(iv): the cost savings associated with sentencing reform programs and practices; and
+Utah Code Annotated § 64-13-21(7)(f)(v): a description of how the savings will be invested in treatment and early-intervention programs and practices at the county and state levels.
+
+
+Utah Code Annotated § 64-13-21.2 Offender supervision dedicated credits.
+------------------------------------------------------------------------
+All money received from the monthly supervision fee established in Subsection
+
+Utah Code Annotated § 64-13-21.5 Powers of correctional officers and POST certified correctional enforcement or investigation officers.
+---------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-21.5(1): Employees of the department who are designated by the executive director as correctional officers may exercise the powers and authority of a correctional officer as needed to properly carry out the following functions:
+Utah Code Annotated § 64-13-21.5(1)(a): performing the officer's duties within the boundaries of a correctional facility;
+Utah Code Annotated § 64-13-21.5(1)(b): supervising an offender during transportation;
+Utah Code Annotated § 64-13-21.5(1)(c): when in fresh pursuit of an offender who has escaped from the custody of the department; or
+Utah Code Annotated § 64-13-21.5(1)(d): when requested to assist a local, state, or federal law enforcement agency.
+Utah Code Annotated § 64-13-21.5(2): Employees of the department who are POST certified as law enforcement officers or correctional officers and who are designated as correctional enforcement or investigation officers have the following duties as specified by the executive director:
+Utah Code Annotated § 64-13-21.5(2)(a): providing investigative services for the department;
+Utah Code Annotated § 64-13-21.5(2)(b): conducting criminal investigations and operations in cooperation with state, local, and federal law enforcement agencies; and
+Utah Code Annotated § 64-13-21.5(2)(c): providing security and enforcement for the department.
+
+
+Utah Code Annotated § 64-13-23 Offender's income and finances.
+--------------------------------------------------------------
+Utah Code Annotated § 64-13-23(1): The department may require each offender, while in the custody of the department or while on probation or parole, to place funds received or earned by the offender from any source into:
+Utah Code Annotated § 64-13-23(1)(a): an account administered by the department; or
+Utah Code Annotated § 64-13-23(1)(b): a joint account with the department at a federally insured financial institution.
+Utah Code Annotated § 64-13-23(2): (1) The department may require each offender to maintain a minimum balance in an account under Subsection
+Utah Code Annotated § 64-13-23(2)(a): discharge from the custody of the department; or
+Utah Code Annotated § 64-13-23(2)(b): completion of parole or probation.
+Utah Code Annotated § 64-13-23(3): If the funds are placed in a joint account at a federally insured financial institution:
+Utah Code Annotated § 64-13-23(3)(a): any interest accrues to the benefit of the offender account; and
+Utah Code Annotated § 64-13-23(3)(b): the department may require that the signatures of both the offender and a departmental representative be submitted to the financial institution to withdraw funds from the account.
+Utah Code Annotated § 64-13-23(4): If the funds are placed in an account administered by the department, the department may by rule designate:
+Utah Code Annotated § 64-13-23(4)(a): a certain portion of the offender's funds as interest-bearing savings; and
+Utah Code Annotated § 64-13-23(4)(b): a portion of the offender's funds as noninterest-bearing to be used for day-to-day expenses.
+Utah Code Annotated § 64-13-23(5): (1); 53-10-404; 64-13-33 The department may withhold part of the offender's funds in an account under Subsection
+Utah Code Annotated § 64-13-23(5)(a): supervision or treatment;
+Utah Code Annotated § 64-13-23(5)(b): restitution, reparation, fines, alimony, support payments, or similar court-ordered payments;
+Utah Code Annotated § 64-13-23(5)(c): 53-10-404 obtaining the offender's DNA specimen, if the offender is required under Section
+Utah Code Annotated § 64-13-23(5)(d): 64-13-33 department-ordered repayment of a fine that is incurred under Section
+Utah Code Annotated § 64-13-23(5)(e): any other debt to the state.
+Utah Code Annotated § 64-13-23(6): (1); (4); (5); (4); (5)
+Utah Code Annotated § 64-13-23(6)(a): (1); (4); (5) An offender may not be granted free process in civil actions, including petitions for a writ of habeas corpus, if, at any time from the date the cause of action arose through the date the cause of action remains pending, there are any funds in an account under Subsection
+Utah Code Annotated § 64-13-23(6)(b): (4); (5) The amount assessed for the filing fee, service of process and other fees and costs shall not exceed the total amount of funds the offender has in excess of the indigence threshold established by the department but not less than $25 including the withholdings under Subsection
+Utah Code Annotated § 64-13-23(6)(c): The amounts assessed shall not exceed the regular fees and costs provided by law.
+Utah Code Annotated § 64-13-23(7): The department may disclose information on offender accounts to the Office of Recovery Services and other appropriate state agencies.
+
+
+Utah Code Annotated § 64-13-24 Standards for staff training.
+------------------------------------------------------------
+To assure the safe and professional operation of correctional programs, the department shall establish policies setting minimum standards for the basic training of all staff upon employment, and the subsequent regular training of staff, including training on direct supervision and trauma-informed care. The training standards of correctional officers who are designated as peace officers shall be not less than those established by the Peace Officer Standards and Training Council.
+
+Utah Code Annotated § 64-13-25 Standards for programs -- Audits.
+----------------------------------------------------------------
+Utah Code Annotated § 64-13-25(1): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; Title 63G, Chapter 3, Utah Administrative Rulemaking Act; 64-13e-103; (1)(d); 64-13-7.5(3); Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-25(1)(a): To promote accountability and to ensure safe and professional operation of correctional programs, the department shall establish minimum standards for the organization and operation of the department's programs, including collaborating with the Department of Health and Human Services to establish minimum standards for programs providing assistance for individuals involved in the criminal justice system.
+Utah Code Annotated § 64-13-25(1)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-25(1)(b)(i): The department shall promulgate the standards according to state rulemaking provisions.
+Utah Code Annotated § 64-13-25(1)(b)(ii): Title 63G, Chapter 3, Utah Administrative Rulemaking Act Those standards that apply to offenders are exempt from the provisions of
+Utah Code Annotated § 64-13-25(1)(b)(iii): Title 63G, Chapter 3, Utah Administrative Rulemaking Act Offenders are not a class of persons under
+Utah Code Annotated § 64-13-25(1)(c): The standards shall provide for inquiring into and processing offender complaints.
+Utah Code Annotated § 64-13-25(1)(d): 64-13e-103; (1)(d)
+Utah Code Annotated § 64-13-25(1)(d)(i): 64-13e-103 The department shall establish minimum standards and qualifications for treatment programs provided in county jails to which persons committed to the state prison are placed by jail contract under Section
+Utah Code Annotated § 64-13-25(1)(d)(ii): In establishing the standards and qualifications for the treatment programs, the department shall:
+Utah Code Annotated § 64-13-25(1)(d)(ii)(A): consult and collaborate with the county sheriffs and the Office of Substance Use and Mental Health; and
+Utah Code Annotated § 64-13-25(1)(d)(ii)(B): include programs demonstrated by recognized scientific research to reduce recidivism by addressing an offender's criminal risk factors as determined by a risk and needs assessment.
+Utah Code Annotated § 64-13-25(1)(d)(iii): (1)(d) All jails contracting to house offenders committed to the state prison shall meet the minimum standards for treatment programs as established under this Subsection
+Utah Code Annotated § 64-13-25(1)(e): 64-13-7.5(3); Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-25(1)(e)(i): 64-13-7.5(3) The department shall establish minimum standards for sex offense treatment, which shall include the requirements under Subsection
+Utah Code Annotated § 64-13-25(1)(e)(ii): The standards shall require the use of evidence-based practices to address criminal risk factors as determined by validated assessments.
+Utah Code Annotated § 64-13-25(1)(e)(iii): The department shall collaborate with the Office of Substance Use and Mental Health to develop and effectively distribute the standards to jails and to mental health professionals who desire to provide mental health treatment for sex offenders.
+Utah Code Annotated § 64-13-25(1)(e)(iv): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department shall establish the standards by administrative rule in accordance with
+Utah Code Annotated § 64-13-25(2): (1)(e)(i); (1)(e)(i); 64-13e-103; Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-25(2)(a): (1)(e)(i) The department shall establish a certification process for public and private providers of treatment for sex offenders on probation or parole that requires the providers' sex offense treatment practices meet the standards and practices established under Subsection
+Utah Code Annotated § 64-13-25(2)(b): The department shall collaborate with the Office of Substance Use and Mental Health to develop, coordinate, and implement the certification process.
+Utah Code Annotated § 64-13-25(2)(c): (1)(e)(i) The department shall base the certification process on the standards under Subsection
+Utah Code Annotated § 64-13-25(2)(d): 64-13e-103 All public and private providers of sex offense treatment, including those providing treatment to offenders housed in county jails by contract under Section
+Utah Code Annotated § 64-13-25(2)(e): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department shall establish the certification program by administrative rule in accordance with
+Utah Code Annotated § 64-13-25(3): 
+Utah Code Annotated § 64-13-25(3)(a): The department shall establish an audit process to ensure compliance with sex offense and substance use treatment standards established under this section in accordance with the department's policies and procedures.
+Utah Code Annotated § 64-13-25(3)(b): At least every three years, the department shall internally audit sex offense and substance use treatment programs for compliance with standards established under this section.
+Utah Code Annotated § 64-13-25(3)(c): The individuals undertaking the audit shall provide a written report to the managers of the programs audited and to the executive director of the department.
+Utah Code Annotated § 64-13-25(3)(d): The department's internal audit reports shall:
+Utah Code Annotated § 64-13-25(3)(d)(i): be classified as confidential internal working papers; and
+Utah Code Annotated § 64-13-25(3)(d)(ii): be accessible at the discretion of the executive director or the governor, or upon court order.
+Utah Code Annotated § 64-13-25(4): (4)(b); (4) The department:
+Utah Code Annotated § 64-13-25(4)(a): shall establish performance goals and outcome measurements for all programs that are subject to the minimum standards established under this section and collect data to analyze and evaluate whether the goals and measurements are attained;
+Utah Code Annotated § 64-13-25(4)(b): shall collaborate with the Office of Substance Use and Mental Health to develop and coordinate the performance goals and outcome measurements, including recidivism rates and treatment success and failure rates;
+Utah Code Annotated § 64-13-25(4)(c): (4)(b) may use the data collected under Subsection
+Utah Code Annotated § 64-13-25(4)(d): shall collaborate with the Office of Substance Use and Mental Health to track a subgroup of participants to determine if there is a net positive result from the use of treatment as an alternative to incarceration;
+Utah Code Annotated § 64-13-25(4)(e): shall collaborate with the Office of Substance Use and Mental Health to evaluate the costs, including any additional costs, and the resources needed to attain the performance goals established for the use of treatment as an alternative to incarceration; and
+Utah Code Annotated § 64-13-25(4)(f): (4) shall annually provide data collected under this Subsection
+Utah Code Annotated § 64-13-25(5): (4) The State Commission on Criminal and Juvenile Justice shall compile a written report of the findings based on the data collected under Subsection
+
+
+Utah Code Annotated § 64-13-26 Private providers of services.
+-------------------------------------------------------------
+Utah Code Annotated § 64-13-26(1): 64-13-21(1)(b) Subject to Subsection
+Utah Code Annotated § 64-13-26(2): 64-13-25; (2)(a)
+Utah Code Annotated § 64-13-26(2)(a): 64-13-25 The department shall:
+Utah Code Annotated § 64-13-26(2)(a)(i): establish standards for the operation of the programs;
+Utah Code Annotated § 64-13-26(2)(a)(ii): 64-13-25 establish standards under Section
+Utah Code Annotated § 64-13-26(2)(a)(iii): annually review the programs for compliance.
+Utah Code Annotated § 64-13-26(2)(b): (2)(a) The reviews described in Subsection
+Utah Code Annotated § 64-13-26(2)(c): Access to records regarding the reviews is available upon the discretion of the executive director or the governor, or upon court order.
+
+
+Utah Code Annotated § 64-13-27 Records -- Access.
+-------------------------------------------------
+Utah Code Annotated § 64-13-27(1): 53-10-103
+Utah Code Annotated § 64-13-27(1)(a): 53-10-103 The Criminal Investigations and Technical Services Division of the Department of Public Safety, established in Section
+Utah Code Annotated § 64-13-27(1)(b): The department shall maintain centralized files on all offenders under the jurisdiction of the department and make the files available for review by other criminal justice agencies upon request in cases where offenders are the subject of active investigations.
+Utah Code Annotated § 64-13-27(2): All records maintained by programs under contract to the department providing services to public offenders are the property of the department.
+
+
+Utah Code Annotated § 64-13-29 Violation of parole or probation -- Detention -- Hearing.
+----------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-29(1): 76-3-203.5; 77-36-1.1(4)
+Utah Code Annotated § 64-13-29(1)(a): 76-3-203.5; 77-36-1.1(4) The department or local law enforcement agency shall ensure that the court is notified of violations of the terms and conditions of probation in the case of probationers under the supervision of the department, the local law enforcement agency, or the Board of Pardons and Parole in the case of parolees under the department's supervision when:
+Utah Code Annotated § 64-13-29(1)(a)(i): a sanction of incarceration is recommended;
+Utah Code Annotated § 64-13-29(1)(a)(ii): the department or local law enforcement agency determines that a graduated and evidence-based response is not an appropriate response to the offender's violation and recommends revocation of probation or parole; or
+Utah Code Annotated § 64-13-29(1)(a)(iii): 76-3-203.5; 77-36-1.1(4) there is probable cause that the conduct that led to a violation of parole or probation is:
+Utah Code Annotated § 64-13-29(1)(a)(iii)(A): 76-3-203.5 a violent felony as defined in Section
+Utah Code Annotated § 64-13-29(1)(a)(iii)(B): 77-36-1.1(4) a qualifying domestic violence offense as defined in Subsection
+Utah Code Annotated § 64-13-29(1)(b): In cases where the department desires to detain an offender alleged to have violated his parole or probation and where it is unlikely that the Board of Pardons and Parole or court will conduct a hearing within a reasonable time to determine if the offender has violated his conditions of parole or probation, the department shall hold an administrative hearing within a reasonable time, unless the hearing is waived by the parolee or probationer, to determine if there is probable cause to believe that a violation has occurred.
+Utah Code Annotated § 64-13-29(1)(c): If there is a conviction for a crime based on the same charges as the probation or parole violation, or a finding by a federal or state court that there is probable cause to believe that an offender has committed a crime based on the same charges as the probation or parole violation, the department need not hold an administrative hearing.
+Utah Code Annotated § 64-13-29(2): The appropriate officer or officers of the department shall, as soon as practical following the department's administrative hearing, report to the court or the Board of Pardons and Parole, furnishing a summary of the hearing, and may make recommendations regarding the disposition to be made of the parolee or probationer.
+Utah Code Annotated § 64-13-29(3): (3)(b); (1)(a)(iii); (3); 17-22-5.5(6)
+Utah Code Annotated § 64-13-29(3)(a): (3)(b); (1)(a)(iii) Pending any proceeding under this section for a violation of probation or parole, the department:
+Utah Code Annotated § 64-13-29(3)(a)(i): (3)(b) except as provided in Subsection
+Utah Code Annotated § 64-13-29(3)(a)(ii): (1)(a)(iii) if the department or the department's agent has probable cause that the conduct that led to the violation is an offense described in Subsection
+Utah Code Annotated § 64-13-29(3)(b): (3); 17-22-5.5(6) The 72-hour period described in this Subsection
+Utah Code Annotated § 64-13-29(4): In cases where probationers are supervised by a local law enforcement agency, the agency may take custody of and detain the probationer involved for a period not to exceed 72 hours excluding weekends and holidays if:
+Utah Code Annotated § 64-13-29(4)(a): the probationer commits a major violation or repeated violations of probation;
+Utah Code Annotated § 64-13-29(4)(b): it is unlikely that the court will conduct a hearing within a reasonable time to determine if the offender has violated the conditions of probation; and
+Utah Code Annotated § 64-13-29(4)(c): the law enforcement agency conducts an administrative hearing within a reasonable time to determine if there is probable cause to believe the offender has violated the conditions of probation, unless the hearing is waived by the probationer.
+Utah Code Annotated § 64-13-29(5): (4) If the requirements for Subsection
+Utah Code Annotated § 64-13-29(6): If the hearing officer determines that there is probable cause to believe that the offender has violated the conditions of the offender's parole or probation, the department may detain the offender for a reasonable period of time after the hearing or waiver, as necessary to arrange for the incarceration of the offender. A written order of the department is sufficient authorization for any peace officer to incarcerate the offender. The department may promulgate rules for the implementation of this section.
+Utah Code Annotated § 64-13-29(7): A written order from the local law enforcement agency is sufficient authorization for any peace officer to incarcerate the offender if:
+Utah Code Annotated § 64-13-29(7)(a): the probationers are supervised by a local law enforcement agency; and
+Utah Code Annotated § 64-13-29(7)(b): the appropriate officer or officers determine that there is probable cause to believe that the offender has violated the conditions of probation.
+Utah Code Annotated § 64-13-29(8): If a probationer supervised by a local law enforcement agency commits a violation outside of the jurisdiction of the supervising agency, the arresting agency is not required to hold or transport the probationer for the supervising agency.
+
+
+Utah Code Annotated § 64-13-30 Expenses incurred by offenders -- Payment to department or county jail -- Medical care expenses and copayments.
+----------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-30(1): 
+Utah Code Annotated § 64-13-30(1)(a): The department or county jail may require an inmate to make a copayment for medical and dental services provided by the department or county jail.
+Utah Code Annotated § 64-13-30(1)(b): For services provided while in the custody of the department, the copayment by the inmate is $5 for primary medical care, $5 for dental care, and $2 for prescription medication.
+Utah Code Annotated § 64-13-30(1)(c): For services provided outside of a prison facility while in the custody of the department, the offender is responsible for 10% of the costs associated with hospital care with a cap on an inmate's share of hospital care expenses not to exceed $2,000 per fiscal year.
+Utah Code Annotated § 64-13-30(2): (1)
+Utah Code Annotated § 64-13-30(2)(a): An inmate who has assets exceeding $200,000, as determined by the department upon entry into the department's custody, is responsible to pay the costs of all medical and dental care up to 20% of the inmate's total determined asset value.
+Utah Code Annotated § 64-13-30(2)(b): (1) After an inmate has received medical and dental care equal to 20% of the inmate's total asset value, the inmate is subject to the copayments provided in Subsection
+Utah Code Annotated § 64-13-30(3): The department shall turn over to the Office of State Debt Collection any debt under this section that is unpaid at the time the offender is released from parole.
+Utah Code Annotated § 64-13-30(4): An inmate may not be denied medical treatment if the inmate is unable to pay for the treatment because of inadequate financial resources.
+Utah Code Annotated § 64-13-30(5): 49-20-103 When an offender in the custody of the department receives medical care that is provided outside of a prison facility, the department shall pay the costs:
+Utah Code Annotated § 64-13-30(5)(a): at the contracted rate; or
+Utah Code Annotated § 64-13-30(5)(b): 49-20-103
+Utah Code Annotated § 64-13-30(5)(b)(i): if there is no contract between the department and a health care facility that establishes a fee schedule for medical services rendered, expenses shall be at the noncapitated state Medicaid rate in effect at the time the service was provided; and
+Utah Code Annotated § 64-13-30(5)(b)(ii): 49-20-103 if there is no contract between the department and a health care provider that establishes a fee schedule for medical services rendered, expenses shall be 65% of the amount that would be paid under the Public Employees' Benefit and Insurance Program, created in Section
+Utah Code Annotated § 64-13-30(6): (5) Expenses described in Subsection
+Utah Code Annotated § 64-13-30(7): (5)(b); (7)(a)
+Utah Code Annotated § 64-13-30(7)(a): (5)(b) The Public Employees' Benefit and Insurance Program shall provide information to the department that enables the department to calculate the amount to be paid to a health care provider under Subsection
+Utah Code Annotated § 64-13-30(7)(b): (7)(a) The department shall ensure that information provided under Subsection
+
+
+Utah Code Annotated § 64-13-30.5 Payment by inmate for postsecondary educational tuition.
+-----------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-30.5(1): 
+Utah Code Annotated § 64-13-30.5(1)(a): An inmate participating in a postsecondary education program through the department shall pay to the department at the time of enrollment 50% of the costs of the postsecondary education tuition.
+Utah Code Annotated § 64-13-30.5(1)(b): If an inmate desires to participate in the postsecondary education program but is unable to pay the costs of the education because of inadequate financial resources, the inmate may participate in a deferred tuition payment program under this section.
+Utah Code Annotated § 64-13-30.5(1)(c): The department and the Office of State Debt Collection shall coordinate a deferred postsecondary education tuition repayment program to provide inmates a reasonable payment schedule and payment amount to allow for deferred payment of the postsecondary educational tuition obligation the inmate incurred while under supervision of the department, which shall:
+Utah Code Annotated § 64-13-30.5(1)(c)(i): account for all postsecondary education tuition costs incurred by the inmate while under the supervision of the department;
+Utah Code Annotated § 64-13-30.5(1)(c)(ii): establish an appropriate time for the inmate to begin payment of postsecondary education tuition costs, which shall require that payments start no later than two years after termination of parole; and
+Utah Code Annotated § 64-13-30.5(1)(c)(iii): establish a payment schedule and payment amounts, including prevailing interest rates, commensurate with student loans currently being offered by local financial institutions.
+Utah Code Annotated § 64-13-30.5(1)(d): Neither the department nor the Office of State Debt Collection may relieve an offender of the postsecondary tuition repayment responsibility.
+Utah Code Annotated § 64-13-30.5(1)(e): The department shall pay costs of postsecondary education not paid by the offender at the time of participation in the program from the Prison Telephone Surcharge Account.
+Utah Code Annotated § 64-13-30.5(2): 
+Utah Code Annotated § 64-13-30.5(2)(a): Of those tuition funds collected by the Office of State Debt Collection under this section, 10% may be used by the Office of State Debt Collection for operation of the deferred payment program.
+Utah Code Annotated § 64-13-30.5(2)(b): All other funds collected as repayment for postsecondary tuition costs shall be deposited in the Prison Telephone Surcharge Account.
+Utah Code Annotated § 64-13-30.5(3): Only inmates lawfully present in the United States may participate in the postsecondary educational program offered through the department.
+
+
+Utah Code Annotated § 64-13-31 Emergencies.
+-------------------------------------------
+In the case of riots, disturbances, or other emergencies at correctional facilities, the Department of Corrections has authority to direct the resolution of the emergencies.  The department may request and coordinate the assistance of other state and local agencies in responding to the emergencies.
+
+Utah Code Annotated § 64-13-32 Discipline of offenders -- Use of force.
+-----------------------------------------------------------------------
+Utah Code Annotated § 64-13-32(1): If an offender offers violence to an officer or other employee of the Department of Corrections, or to another offender, or to any other person; attempts to damage or damages any corrections property; attempts to escape; or resists or refuses to obey any lawful and reasonable command; the officers and other employees of the department may use all reasonable means, including the use of weapons, to defend themselves and department property and to enforce the observance of discipline and prevent escapes.
+Utah Code Annotated § 64-13-32(2): 76-2-404 An inmate who is housed in  a secure correctional facility and is in the act of escaping from that secure correctional facility or from the custody of a peace or correctional officer is presumed to pose a threat of death or serious bodily injury to an officer or others if apprehension is delayed. Notwithstanding Section
+
+
+Utah Code Annotated § 64-13-33 Fines for violation of department rules -- Debt collection.
+------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-33(1): (1)(a)(i)
+Utah Code Annotated § 64-13-33(1)(a): (1)(a)(i) Following an administrative hearing, the department is authorized to:
+Utah Code Annotated § 64-13-33(1)(a)(i): assess a reasonable fine against the offender for expenses incurred by the department as a result of the offender's violation of department rules; and
+Utah Code Annotated § 64-13-33(1)(a)(ii): (1)(a)(i) require repayment from the offender for the fine under Subsection
+Utah Code Annotated § 64-13-33(1)(b): The department is authorized to require payment from the offender's account or to place a hold on the offender's account to secure compliance with this section.
+Utah Code Annotated § 64-13-33(2): The department shall turn over to the Office of State Debt Collection any debt under this section that is unpaid at the time that the offender is released from parole.
+
+
+Utah Code Annotated § 64-13-34 Safety of offenders.
+---------------------------------------------------
+In case of disaster or acts of God that threaten the safety of inmates or the security of a secure correctional facility, inmates may be moved to a suitable place of security.  Inmates shall be returned to a correctional facility as soon as it is practicable.
+
+Utah Code Annotated § 64-13-36 Testing of prisoners for AIDS and HIV infection -- Medical care -- Department authority.
+-----------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-36(1): As used in this section:
+Utah Code Annotated § 64-13-36(1)(a): "Prisoner" means a person who has been adjudicated and found guilty of a criminal offense and who is in the custody of and under the jurisdiction of the department.
+Utah Code Annotated § 64-13-36(1)(b): "Test" or "testing" means a test or tests for Acquired Immunodeficiency Syndrome or Human Immunodeficiency Virus infection in accordance with standards recommended by the state Department of Health.
+Utah Code Annotated § 64-13-36(2): 
+Utah Code Annotated § 64-13-36(2)(a): Within 90 days after July 1, 1989, the effective date of this act, the department shall test or provide for testing of all prisoners who are under the jurisdiction of the department, and subsequently test or provide for testing of all prisoners who are committed to the jurisdiction of the department upon admission or within a reasonable period after admission.
+Utah Code Annotated § 64-13-36(2)(b): At the time test results are provided to persons tested, the department shall provide education and counseling regarding Acquired Immunodeficiency Syndrome and Human Immunodeficiency Virus infection.
+Utah Code Annotated § 64-13-36(3): (2); (2)
+Utah Code Annotated § 64-13-36(3)(a): (2) The results of tests conducted under Subsection
+Utah Code Annotated § 64-13-36(3)(b): (2) Medical and epidemiological information regarding results of tests conducted under Subsection
+Utah Code Annotated § 64-13-36(4): The department has authority to take action as medically indicated with regard to any prisoner who has tested positive for Acquired Immunodeficiency Syndrome or Human Immunodeficiency Virus infection.
+Utah Code Annotated § 64-13-36(5): Prisoners who test positive for Acquired Immunodeficiency Syndrome or Human Immunodeficiency Virus infection may not be excluded from common areas of the prison that are accessible to other prisoners solely on the basis of that condition, unless medically necessary for protection of the general prison population or staff.
+
+
+Utah Code Annotated § 64-13-37 Department authorized to test offenders for communicable disease.
+------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-37(1): 26B-7-207 As used in this section, "communicable disease" means:
+Utah Code Annotated § 64-13-37(1)(a): an illness due to a specific infectious agent or its toxic products, which arises through transmission of that agent or its products from a reservoir to a susceptible host either directly, as from an infected person or animal, or indirectly, through an intermediate plant or animal host, vector, or the inanimate environment; and
+Utah Code Annotated § 64-13-37(1)(b): 26B-7-207 a disease designated by the Department of Health and Human Services by rule as a communicable disease in accordance with Section
+Utah Code Annotated § 64-13-37(2): The department may:
+Utah Code Annotated § 64-13-37(2)(a): test an offender for a communicable disease upon admission or within a reasonable time after admission to a correctional facility; and
+Utah Code Annotated § 64-13-37(2)(b): periodically retest the offender for a communicable disease during the time the offender is in the custody of the department.
+
+
+Utah Code Annotated § 64-13-38 Emergency release due to overcrowding.
+---------------------------------------------------------------------
+Utah Code Annotated § 64-13-38(1): Definitions:
+Utah Code Annotated § 64-13-38(1)(a): "Maximum capacity" means every physical and funded prison bed is occupied by an inmate.
+Utah Code Annotated § 64-13-38(1)(b): "Operational capacity" means 96.5% of every physical and funded bed is occupied by an inmate.
+Utah Code Annotated § 64-13-38(1)(c): "Emergency release capacity" means 98% of every physical and funded bed is occupied by an inmate.
+Utah Code Annotated § 64-13-38(2): When the executive director of the department finds that either the male or female inmate population of the Utah State Prison has exceeded operational capacity for at least 45 consecutive days, the executive director shall notify the governor, the legislative leadership, and the Board of Pardons and Parole that the department is approaching an overcrowding emergency and provide them with information relevant to that determination.
+Utah Code Annotated § 64-13-38(3): (4) When the executive director of the department finds that either the male or female inmate population of the Utah State Prison has exceeded emergency release capacity for at least 45 consecutive days, the executive director shall:
+Utah Code Annotated § 64-13-38(3)(a): notify the governor and the legislative leadership that the emergency release capacity has been reached and provide them with information relevant to that determination; and
+Utah Code Annotated § 64-13-38(3)(b): (4) notify the Board of Pardons and Parole that the emergency release capacity has been reached so that the board may commence the emergency release process pursuant to Subsection
+Utah Code Annotated § 64-13-38(4): (3) Upon the department's notifying the governor and the legislative leadership of the emergency release capacity under Subsection
+Utah Code Annotated § 64-13-38(4)(a): notify the Board of Pardons and Parole of the number of inmates who need to be released in order to return the prison inmate population to operational capacity; and
+Utah Code Annotated § 64-13-38(4)(b): in cooperation and consultation with the Board of Pardons and Parole, compile a list of inmates, the release of whom would be sufficient to return the prison inmate population to operational capacity.
+Utah Code Annotated § 64-13-38(5): (4) After 45 consecutive days of emergency release capacity, the Board of Pardons and Parole may order the release of a sufficient number of inmates identified under Subsection
+Utah Code Annotated § 64-13-38(6): The department shall inform the governor and the legislative leadership when the emergency release has been completed.
+Utah Code Annotated § 64-13-38(7): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The Board of Pardons and Parole shall make rules in accordance with
+
+
+Utah Code Annotated § 64-13-39 Standards for health care facilities.
+--------------------------------------------------------------------
+All health care facilities, as defined in Section
+
+Utah Code Annotated § 64-13-39.5 Definitions -- Health care for chronically or terminally ill offenders -- Notice to health care facility.
+------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-39.5(1): 31A-36-102; 26B-2-201; 26B-2-201; 31A-36-102 As used in this section:
+Utah Code Annotated § 64-13-39.5(1)(a): "Department or agency" means the Utah Department of Corrections or a department of corrections or government entity responsible for placing an offender in a facility located in Utah.
+Utah Code Annotated § 64-13-39.5(1)(b): 31A-36-102 "Chronically ill" has the same meaning as in Section
+Utah Code Annotated § 64-13-39.5(1)(c): 26B-2-201; 26B-2-201 "Facility" means an assisted living facility as defined in Section
+Utah Code Annotated § 64-13-39.5(1)(d): "Offender" means an inmate whom the department or agency has given an early release, pardon, or parole due to a chronic or terminal illness.
+Utah Code Annotated § 64-13-39.5(1)(e): 31A-36-102 "Terminally ill" has the same meaning as in Section
+Utah Code Annotated § 64-13-39.5(2): (2) If an offender from Utah or any other state is admitted as a resident of a facility due to the chronic or terminal illness, the department or agency placing the offender shall:
+Utah Code Annotated § 64-13-39.5(2)(a): provide written notice to the administrator of the facility no later than 15 days prior to the offender's admission as a resident of a facility, stating:
+Utah Code Annotated § 64-13-39.5(2)(a)(i): the offense for which the offender was convicted and a description of the actual offense;
+Utah Code Annotated § 64-13-39.5(2)(a)(ii): the offender's status with the department or agency;
+Utah Code Annotated § 64-13-39.5(2)(a)(iii): that the information provided by the department or agency regarding the offender shall be provided to employees of the facility no later than 10 days prior to the offender's admission to the facility; and
+Utah Code Annotated § 64-13-39.5(2)(a)(iv): the contact information for:
+Utah Code Annotated § 64-13-39.5(2)(a)(iv)(A): the offender's parole officer and also a point of contact within the department or agency, if the offender is on parole; and
+Utah Code Annotated § 64-13-39.5(2)(a)(iv)(B): a point of contact within the department or agency, if the offender is not under parole supervision but was given an early release or pardon due to a chronic or terminal illness;
+Utah Code Annotated § 64-13-39.5(2)(b): make available to the public on the Utah Department of Corrections' website and upon request:
+Utah Code Annotated § 64-13-39.5(2)(b)(i): the name and address of the facility where the offender resides; and
+Utah Code Annotated § 64-13-39.5(2)(b)(ii): the date the offender was placed at the facility; and
+Utah Code Annotated § 64-13-39.5(2)(c): (2) provide a training program for employees who work in a facility where offenders reside, and if the offender is placed at the facility by:
+Utah Code Annotated § 64-13-39.5(2)(c)(i): the Utah Department of Corrections, the department shall provide the training program for the employees; and
+Utah Code Annotated § 64-13-39.5(2)(c)(ii): (2) by a department or agency from another state, that state's department or agency shall arrange with the Utah Department of Corrections to provide the training required by this Subsection
+Utah Code Annotated § 64-13-39.5(3): (2) The administrator of the facility shall:
+Utah Code Annotated § 64-13-39.5(3)(a): provide residents of the facility or their guardians notice that a convicted felon is being admitted to the facility no later than 10 days prior to the offender's admission to the facility;
+Utah Code Annotated § 64-13-39.5(3)(b): (2) advise potential residents or their guardians of persons under Subsection
+Utah Code Annotated § 64-13-39.5(3)(c): provide training, offered by the Utah Department of Corrections, in the safe management of offenders for all employees.
+Utah Code Annotated § 64-13-39.5(4): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (2); (3) The Utah Department of Corrections shall make rules under
+Utah Code Annotated § 64-13-39.5(4)(a): (2) a consistent format and procedure for providing notification to facilities and information to the public in compliance with Subsection
+Utah Code Annotated § 64-13-39.5(4)(b): (3) a training program, in compliance with Subsection
+
+
+Utah Code Annotated § 64-13-39.6 Penalty.
+-----------------------------------------
+Any person who willfully violates Subsection
+
+Utah Code Annotated § 64-13-40 Worship for native American inmates.
+-------------------------------------------------------------------
+Utah Code Annotated § 64-13-40(1): As used in this section:
+Utah Code Annotated § 64-13-40(1)(a): "Items used in religious ceremonies" includes cedar, corn husks, corn pollen, corn meal, eagle and other feathers, sage, sweet grass, tobacco, pipes, willow, drums, gourds, lava rock, medicine bundles, bags or pouches, staffs, and other traditional items and materials.
+Utah Code Annotated § 64-13-40(1)(b): "Native American" means an individual who is eligible for membership in a tribe recognized by the federal government.
+Utah Code Annotated § 64-13-40(1)(c): "Native American religion" means a religion or religious belief that is practiced by a native American, the origin and interpretation of which is from a traditional native American culture or community.
+Utah Code Annotated § 64-13-40(1)(d): "Native American spiritual advisor" means a person who leads, instructs, or facilitates a native American religious ceremony or service, or provides religious counseling, and includes a sweat lodge leader, medicine person, traditional religious practitioner, or holy man or woman.
+Utah Code Annotated § 64-13-40(1)(e): "Site of worship" means a site indoors or outdoors where a person can pray or meditate, or where a sweat lodge ceremony, talking circle, or individual prayer can be made.
+Utah Code Annotated § 64-13-40(2): 
+Utah Code Annotated § 64-13-40(2)(a): At the request of any native American inmate, a state correctional facility shall reasonably accommodate the practice of the native American inmate's religion including a native American religion at each state correctional facility, unless the inmate is a maximum security inmate and accommodating the maximum security inmate would threaten the reasonable security of the state correctional facility.
+Utah Code Annotated § 64-13-40(2)(b): In accommodating a native American religion, the state correctional facility shall:
+Utah Code Annotated § 64-13-40(2)(b)(i): permit access on a regular basis to:
+Utah Code Annotated § 64-13-40(2)(b)(i)(A): a native American spiritual advisor; and
+Utah Code Annotated § 64-13-40(2)(b)(i)(B): a site of worship on the grounds of the correctional facility, unless the inmate is a maximum security inmate and permitting access would threaten the reasonable security of the state correctional facility;
+Utah Code Annotated § 64-13-40(2)(b)(ii): permit access to items used in religious ceremonies during the religious ceremonies; and
+Utah Code Annotated § 64-13-40(2)(b)(iii): provide a secure place at the site of worship to store the items used in religious ceremonies.
+Utah Code Annotated § 64-13-40(3): (2)(b)(iii) Notwithstanding Subsection
+Utah Code Annotated § 64-13-40(4): A native American spiritual advisor shall have any privilege of access to inmates and sites of worship provided to an individual functioning as a religious leader or advisor at a state correctional facility.
+Utah Code Annotated § 64-13-40(5): An inmate claiming to be a native American for purposes of this section shall bear the burden of establishing to the state correctional facility that the inmate is a native American.
+Utah Code Annotated § 64-13-40(6): The department may not require a native American inmate to cut the inmate's hair if it conflicts with the inmate's traditional native American religious beliefs.
+Utah Code Annotated § 64-13-40(7): A state correctional facility is required to comply with this section only to the extent that it does not threaten the reasonable security of the state correctional facility.
+Utah Code Annotated § 64-13-40(8): This section may not be construed as requiring a state correctional facility to permit access to peyote by a native American inmate.
+
+
+Utah Code Annotated § 64-13-41 Limitations on offender access to sexually explicit material.
+--------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-41(1): (1)(a)(i); (1)(b)(i)(A); Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)(b)(i); Title 64, Chapter 13, Department of Corrections - State Prison As used in this section:
+Utah Code Annotated § 64-13-41(1)(a): (1)(a)(i)
+Utah Code Annotated § 64-13-41(1)(a)(i): "Commercially published information or material" means any book, booklet, pamphlet, magazine, periodical, newsletter, or similar document, including stationery and greeting cards, and video and audio tapes, disks, or other recording, that is distributed or made available through any means or media for a commercial purpose.
+Utah Code Annotated § 64-13-41(1)(a)(ii): (1)(a)(i) "Commercially published information or material" includes an extraction, photocopy, clipping, or electronically created copy made from any of the items under Subsection
+Utah Code Annotated § 64-13-41(1)(b): (1)(b)(i)(A); Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)(b)(i)
+Utah Code Annotated § 64-13-41(1)(b)(i): (1)(b)(i)(A) "Features nudity" means the information or material:
+Utah Code Annotated § 64-13-41(1)(b)(i)(A): that, in the case of a one-time publication or issue, promotes itself based upon depictions of nudity or sexually explicit conduct; or
+Utah Code Annotated § 64-13-41(1)(b)(i)(B): (1)(b)(i)(A) that, in the case of information or material other than under Subsection
+Utah Code Annotated § 64-13-41(1)(b)(ii): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)(b)(i) The department may by rule, pursuant to
+Utah Code Annotated § 64-13-41(1)(c): "Nudity" means a pictorial depiction where genitalia or female breasts are exposed.
+Utah Code Annotated § 64-13-41(1)(d): "Offender" means any person who has been convicted of a crime and is housed in a prison, jail, youth detention facility, or community correctional center.
+Utah Code Annotated § 64-13-41(1)(e): "Sexually explicit" means a pictorial depiction of actual or simulated sexual acts, including sexual intercourse, sodomy, or masturbation.
+Utah Code Annotated § 64-13-41(1)(f): Title 64, Chapter 13, Department of Corrections - State Prison "State funds" means state or local funding provided to the department, and includes legislative appropriations to the department, dedicated credits, grants, and money for jail reimbursement to county correctional facilities under
+Utah Code Annotated § 64-13-41(2): State funds may not be used to distribute or make available any commercially published information or material to an offender when the state employee, contractor, or private provider who has the authority to expend the funds knows that the commercially published information or material is sexually explicit or features nudity.
+Utah Code Annotated § 64-13-41(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 64-13-41(3)(a): When the department rejects commercially published information or material for distribution to an offender under this section, the department shall advise the publisher or sender that it may request reconsideration by the department of the decision to reject the material.  However, the department need advise the publisher or sender only once in the case of information or material that on a routine or regular basis either depicts sexually explicit material or features nudity.
+Utah Code Annotated § 64-13-41(3)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department shall make rules pursuant to
+Utah Code Annotated § 64-13-41(3)(c): For purposes of extraordinary relief under Rule 65B, Utah Rules of Civil Procedure, this administrative reconsideration process is a plain, speedy, and adequate legal remedy that must be exhausted before extraordinary relief is available.
+Utah Code Annotated § 64-13-41(3)(d): There is no right to judicial review of the department's decision under this section to reject material for distribution.
+Utah Code Annotated § 64-13-41(4): 76-10-1207.5 This section does not apply to sexually explicit material used under Section
+
+
+Utah Code Annotated § 64-13-42 Prison Telephone Surcharge Account -- Funding inmate and offender education and training programs.
+---------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13-42(1): 64-13-1; (1)(b)(iii)
+Utah Code Annotated § 64-13-42(1)(a): There is created within the General Fund a restricted account known as the Prison Telephone Surcharge Account.
+Utah Code Annotated § 64-13-42(1)(b): 64-13-1; (1)(b)(iii) The Prison Telephone Surcharge Account consists of:
+Utah Code Annotated § 64-13-42(1)(b)(i): 64-13-1 beginning July 1, 2006, revenue generated by the state from pay telephone services located at any correctional facility as defined in Section
+Utah Code Annotated § 64-13-42(1)(b)(ii): interest on account money;
+Utah Code Annotated § 64-13-42(1)(b)(iii): 
+Utah Code Annotated § 64-13-42(1)(b)(iii)(A): money paid by inmates participating in postsecondary education provided by the department; and
+Utah Code Annotated § 64-13-42(1)(b)(iii)(B): money repaid by former inmates who have a written agreement with the department to pay for a specified portion of the tuition costs under the department's deferred tuition payment program;
+Utah Code Annotated § 64-13-42(1)(b)(iv): (1)(b)(iii) money collected by the Office of State Debt Collection for debt described in Subsection
+Utah Code Annotated § 64-13-42(1)(b)(v): money appropriated by the Legislature.
+Utah Code Annotated § 64-13-42(2): 64-13-1 Upon appropriation by the Legislature, money from the Prison Telephone Surcharge Account shall be used by the department for education and training programs for offenders and inmates as defined in Section
+
+
+Utah Code Annotated § 64-13-43 Use of state vehicles by department personnel.
+-----------------------------------------------------------------------------
+The department executive director may authorize the use of a state vehicle for official and commute purposes for a department employee who:Utah Code Annotated § 64-13-43(1): supervises probationers or parolees; or
+Utah Code Annotated § 64-13-43(2): investigates the criminal activity of inmates, probationers, or parolees.
+
+
+Utah Code Annotated § 64-13-44 Posthumous organ donations by inmates.
+---------------------------------------------------------------------
+Utah Code Annotated § 64-13-44(1): 26B-8-301; 26B-8-301 As used in this section:
+Utah Code Annotated § 64-13-44(1)(a): 26B-8-301 "Document of gift" means the same as that term is defined in Section
+Utah Code Annotated § 64-13-44(1)(b): 26B-8-301 "Sign" means the same as that term is defined in Section
+Utah Code Annotated § 64-13-44(2): Title 26B, Chapter 8, Part 3, Revised Uniform Anatomical Gift Act
+Utah Code Annotated § 64-13-44(2)(a): The Utah Department of Corrections shall make available to each inmate a document of gift form that allows an inmate to indicate the inmate's desire to make an anatomical gift if the inmate dies while in the custody of the department.
+Utah Code Annotated § 64-13-44(2)(b): Title 26B, Chapter 8, Part 3, Revised Uniform Anatomical Gift Act If the inmate chooses to make an anatomical gift after death, the inmate shall complete a document of gift in accordance with the requirements of
+Utah Code Annotated § 64-13-44(2)(c): The department shall maintain a record of the document of gift that an inmate provides to the department.
+Utah Code Annotated § 64-13-44(3): Title 63G, Chapter 2, Government Records Access and Management Act; 26B-8-301 Notwithstanding
+Utah Code Annotated § 64-13-44(4): Title 26B, Chapter 8, Part 3, Revised Uniform Anatomical Gift Act The making of an anatomical gift by an inmate under this section shall comply with
+Utah Code Annotated § 64-13-44(5): Title 26B, Chapter 8, Part 3, Revised Uniform Anatomical Gift Act Notwithstanding anything in this section, the department shall not be considered to be an inmate's "guardian" for the purposes of
+
+
+Utah Code Annotated § 64-13-45 Department reporting requirements.
+-----------------------------------------------------------------
+Utah Code Annotated § 64-13-45(1): 58-37-2 As used in this section:
+Utah Code Annotated § 64-13-45(1)(a): 
+Utah Code Annotated § 64-13-45(1)(a)(i): "In-custody death" means an inmate death that occurs while the inmate is in the custody of the department.
+Utah Code Annotated § 64-13-45(1)(a)(ii): "In-custody death" includes an inmate death that occurs while the inmate is:
+Utah Code Annotated § 64-13-45(1)(a)(ii)(A): being transported for medical care; or
+Utah Code Annotated § 64-13-45(1)(a)(ii)(B): receiving medical care outside of a correctional facility, other than a county jail.
+Utah Code Annotated § 64-13-45(1)(b): "Inmate" means an individual who is processed or booked into custody or housed in the department or a correctional facility other than a county jail.
+Utah Code Annotated § 64-13-45(1)(c): 58-37-2 "Opiate" means the same as that term is defined in Section
+Utah Code Annotated § 64-13-45(2): 63M-7-201; (2)(a); 64-13-46 The department shall submit a report to the Commission on Criminal and Juvenile Justice, created in Section
+Utah Code Annotated § 64-13-45(2)(a): (2)(a) the number of in-custody deaths that occurred during the preceding calendar year, including:
+Utah Code Annotated § 64-13-45(2)(a)(i): (2)(a) the known, or discoverable on reasonable inquiry, causes and contributing factors of each of the in-custody deaths described in Subsection
+Utah Code Annotated § 64-13-45(2)(a)(ii): the department's policy for notifying an inmate's next of kin after the inmate's in-custody death;
+Utah Code Annotated § 64-13-45(2)(b): the department policies, procedures, and protocols:
+Utah Code Annotated § 64-13-45(2)(b)(i): for treatment of an inmate experiencing withdrawal from alcohol or substance use, including use of opiates;
+Utah Code Annotated § 64-13-45(2)(b)(ii): that relate to the department's provision, or lack of provision, of medications used to treat, mitigate, or address an inmate's symptoms of withdrawal, including methadone and all forms of buprenorphine and naltrexone; and
+Utah Code Annotated § 64-13-45(2)(b)(iii): that relate to screening, assessment, and treatment of an inmate for a substance use disorder or mental health disorder;
+Utah Code Annotated § 64-13-45(2)(c): 64-13-46 the number of inmates who gave birth and were restrained in accordance with Section
+Utah Code Annotated § 64-13-45(2)(c)(i): the types of restraints used; and
+Utah Code Annotated § 64-13-45(2)(c)(ii): whether the use of restraints was to prevent escape or to ensure the safety of the inmate, medical or corrections staff, or the public; and
+Utah Code Annotated § 64-13-45(2)(d): any report the department provides or is required to provide under federal law or regulation relating to inmate deaths.
+Utah Code Annotated § 64-13-45(3): (2) The Commission on Criminal and Juvenile Justice shall:
+Utah Code Annotated § 64-13-45(3)(a): (2) compile the information from the reports described in Subsection
+Utah Code Annotated § 64-13-45(3)(b): omit or redact any identifying information of an inmate in the compilation to the extent omission or redaction is necessary to comply with state and federal law ; and
+Utah Code Annotated § 64-13-45(3)(c): submit the compilation to the Law Enforcement and Criminal Justice Interim Committee and the Utah Substance Use and Mental Health Advisory Council before November 1 of each year.
+Utah Code Annotated § 64-13-45(4): The Commission on Criminal and Juvenile Justice may not provide access to or use the department's policies, procedures, or protocols submitted under this section in a manner or for a purpose not described in this section.
+
+
+Utah Code Annotated § 64-13-46 Pregnant inmates.
+------------------------------------------------
+Utah Code Annotated § 64-13-46(1): As used in this section:
+Utah Code Annotated § 64-13-46(1)(a): "Postpartum recovery" means, as determined by the pregnant inmate's physician, the period immediately following delivery, including the entire period the inmate is in the hospital or health care facility after birth.
+Utah Code Annotated § 64-13-46(1)(b): "Restraints" means any physical restraint or mechanical device used to control the movement of an inmate's body or limbs, including flex cuffs, soft restraints, shackles, or a convex shield.
+Utah Code Annotated § 64-13-46(1)(c): 
+Utah Code Annotated § 64-13-46(1)(c)(i): "Shackles" means metal restraints, including leg irons, belly chains, or a security or tether chain.
+Utah Code Annotated § 64-13-46(1)(c)(ii): "Shackles" does not include hard metal handcuffs.
+Utah Code Annotated § 64-13-46(2): (3); (4) Subject to Subsections
+Utah Code Annotated § 64-13-46(3): A correctional staff member may not use restraints on an inmate during the third trimester of pregnancy, labor, or childbirth unless a correctional staff member makes an individualized determination that there are compelling grounds to believe that the inmate presents:
+Utah Code Annotated § 64-13-46(3)(a): an immediate and serious risk of harm to the inmate, the inmate's infant, medical staff, correctional staff, or the public; or
+Utah Code Annotated § 64-13-46(3)(b): a substantial risk of escape that cannot reasonably be reduced by the use of other existing means.
+Utah Code Annotated § 64-13-46(4): (3) Notwithstanding Subsection
+Utah Code Annotated § 64-13-46(5): Correctional staff present during labor or childbirth shall:
+Utah Code Annotated § 64-13-46(5)(a): be stationed in a location that offers the maximum privacy to the inmate, while taking into consideration safety and security concerns; and
+Utah Code Annotated § 64-13-46(5)(b): be female, if practicable.
+Utah Code Annotated § 64-13-46(6): (2); (3) If a correctional staff member authorizes restraints under Subsection
+Utah Code Annotated § 64-13-46(6)(a): an explanation of the grounds for the correctional staff member's authorization on the use of restraints;
+Utah Code Annotated § 64-13-46(6)(b): the type of restraints that were used; and
+Utah Code Annotated § 64-13-46(6)(c): the length of time the restraints were used.
+Utah Code Annotated § 64-13-46(7): (6) The record described in Subsection
+Utah Code Annotated § 64-13-46(7)(a): shall be retained by the correctional facility for five years;
+Utah Code Annotated § 64-13-46(7)(b): shall be available for public inspection with individually identifying information redacted; and
+Utah Code Annotated § 64-13-46(7)(c): may not be considered a medical record under state or federal law.
+Utah Code Annotated § 64-13-46(8): For a minimum of 48 hours after an inmate has given birth, a correctional facility shall, if directed by the inmate's physician, allow the infant to remain with the inmate at the health care facility.
+Utah Code Annotated § 64-13-46(9): A correctional facility shall provide:
+Utah Code Annotated § 64-13-46(9)(a): an inmate who is pregnant, or who has given birth within the past six weeks, access to a social worker to help the inmate:
+Utah Code Annotated § 64-13-46(9)(a)(i): arrange childcare;
+Utah Code Annotated § 64-13-46(9)(a)(ii): establish a reunification plan; and
+Utah Code Annotated § 64-13-46(9)(a)(iii): establish a substance abuse treatment plan, if needed; and
+Utah Code Annotated § 64-13-46(9)(b): an inmate in postpartum recovery access to postpartum care for up to 12 weeks as determined by the inmate's physician.
+
+
+Utah Code Annotated § 64-13-46.5 Correctional facility nursery.
+---------------------------------------------------------------
+Utah Code Annotated § 64-13-46.5(1): 76-3-203.5 As used in this section:
+Utah Code Annotated § 64-13-46.5(1)(a): "Incarcerated mother" means an inmate who gives birth after entering the department's custody.
+Utah Code Annotated § 64-13-46.5(1)(b): 76-3-203.5 "Violent felony" means the same as that term is defined in Section
+Utah Code Annotated § 64-13-46.5(2): (4)(a)(i); 26B-1-434; (4)(a)(ii) If, using existing appropriations, the department creates a nursery in a correctional facility to provide space for incarcerated mothers and infants, the department may not:
+Utah Code Annotated § 64-13-46.5(2)(a): (4)(a)(i) subject to Subsection
+Utah Code Annotated § 64-13-46.5(2)(b): 26B-1-434 begin or continue operating the nursery unless the Department of Health and Human Services certifies that the nursery is in compliance with the rules established under Section
+Utah Code Annotated § 64-13-46.5(2)(c): (4)(a)(ii) subject to Subsection
+Utah Code Annotated § 64-13-46.5(3): (2) If the department establishes a nursery under Subsection
+Utah Code Annotated § 64-13-46.5(4): 26B-1-434; Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department may:
+Utah Code Annotated § 64-13-46.5(4)(a): 26B-1-434 in accordance with Section
+Utah Code Annotated § 64-13-46.5(4)(a)(i): an infant who is 24 months old or younger to remain in a nursery; or
+Utah Code Annotated § 64-13-46.5(4)(a)(ii): an incarcerated mother who has committed a violent felony to be provided space in a nursery; and
+Utah Code Annotated § 64-13-46.5(4)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act make rules, in accordance with
+
+
+Utah Code Annotated § 64-13-47 Prison Sexual Assault Prevention Program.
+------------------------------------------------------------------------
+Utah Code Annotated § 64-13-47(1): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department shall, in accordance with
+Utah Code Annotated § 64-13-47(2): (1); (3); (4) The rules described in Subsection
+Utah Code Annotated § 64-13-47(2)(a): require education and training, including:
+Utah Code Annotated § 64-13-47(2)(a)(i): providing to inmates, at intake and periodically, department-approved, easy-to-understand information developed by the department on sexual assault prevention, treatment, reporting, and counseling in consultation with community groups with expertise in sexual assault prevention, treatment, reporting, and counseling; and
+Utah Code Annotated § 64-13-47(2)(a)(ii): providing sexual-assault-specific training to department mental health professionals and all employees who have direct contact with inmates regarding treatment and methods of prevention and investigation;
+Utah Code Annotated § 64-13-47(2)(b): require reporting of sexual assault, including:
+Utah Code Annotated § 64-13-47(2)(b)(i): ensuring the confidentiality of inmate sexual assault complaints and the protection of inmates who make complaints of sexual assault; and
+Utah Code Annotated § 64-13-47(2)(b)(ii): prohibiting retaliation and disincentives for reporting sexual assault;
+Utah Code Annotated § 64-13-47(2)(c): require safety and care for victims, including:
+Utah Code Annotated § 64-13-47(2)(c)(i): providing, in situations in which there is reason to believe that a sexual assault has occurred, reasonable and appropriate measures to ensure the victim's safety by separating the victim from the assailant, if known;
+Utah Code Annotated § 64-13-47(2)(c)(ii): providing acute trauma care for sexual assault victims, including treatment of injuries, HIV prophylaxis measures, and testing for sexually transmitted infections;
+Utah Code Annotated § 64-13-47(2)(c)(iii): providing confidential mental health counseling for victims of sexual assault, including access to outside community groups or victim advocates that have expertise in sexual assault counseling, and enable confidential communication between inmates and those organizations and advocates; and
+Utah Code Annotated § 64-13-47(2)(c)(iv): monitoring victims of sexual assault for suicidal impulses, post-traumatic stress disorder, depression, and other mental health consequences resulting from the sexual assault;
+Utah Code Annotated § 64-13-47(2)(d): (3) require investigations and staff discipline, including:
+Utah Code Annotated § 64-13-47(2)(d)(i): requiring all employees to report any knowledge, suspicion, or information regarding an incident of sexual assault to the executive director or designee, and require disciplinary action for employees who fail to report as required;
+Utah Code Annotated § 64-13-47(2)(d)(ii): (3) requiring investigations described in Subsection
+Utah Code Annotated § 64-13-47(2)(d)(iii): requiring corrections investigators to submit all completed sexual assault allegations to the executive director or the executive director's designee, who must then submit any substantiated findings that may constitute a crime under state law to the district attorney with jurisdiction over the facility in which the alleged sexual assault occurred; and
+Utah Code Annotated § 64-13-47(2)(d)(iv): requiring employees to be subject to disciplinary sanctions up to and including termination for violating agency sexual assault policies, with termination the presumptive disciplinary sanction for employees who have engaged in sexual assault, consistent with constitutional due process protections and state personnel laws and rules; and
+Utah Code Annotated § 64-13-47(2)(e): (4) require data collection and reporting, including as provided in Subsection
+Utah Code Annotated § 64-13-47(3): 
+Utah Code Annotated § 64-13-47(3)(a): An investigator trained in the investigation of sex crimes shall conduct the investigation of a sexual assault involving an inmate.
+Utah Code Annotated § 64-13-47(3)(b): The investigation shall include:
+Utah Code Annotated § 64-13-47(3)(b)(i): using a forensic rape kit, if appropriate;
+Utah Code Annotated § 64-13-47(3)(b)(ii): questioning suspects and witnesses; and
+Utah Code Annotated § 64-13-47(3)(b)(iii): gathering and preserving relevant evidence.
+Utah Code Annotated § 64-13-47(4): (4)(a) The department shall:
+Utah Code Annotated § 64-13-47(4)(a): collect and report data regarding all allegations of sexual assault from each correctional facility in accordance with the federal Prison Rape Elimination Act of 2003, Pub. L 108-79, as amended; and
+Utah Code Annotated § 64-13-47(4)(b): (4)(a) annually report the data described in Subsection
+
+
+Utah Code Annotated § 64-13-48 Educational and career-readiness programs.
+-------------------------------------------------------------------------
+Utah Code Annotated § 64-13-48(1): 64-13-6(1)(c) The department shall, in accordance with Subsection
+Utah Code Annotated § 64-13-48(2): The department shall provide incarcerated women with substantially equivalent educational and career-readiness opportunities as incarcerated men.
+Utah Code Annotated § 64-13-48(3): Before an inmate begins an educational or career-readiness program, the department shall provide reasonable access to resources necessary for an inmate to apply for grants or other available financial aid that may be available to pay for the inmate's program.
+Utah Code Annotated § 64-13-48(4): 
+Utah Code Annotated § 64-13-48(4)(a): The department shall consider an inmate's current participation in an educational or career-readiness program when the department makes a decision with regard to an inmate's:
+Utah Code Annotated § 64-13-48(4)(a)(i): transfer to another area or facility; or
+Utah Code Annotated § 64-13-48(4)(a)(ii): appropriate disciplinary sanction.
+Utah Code Annotated § 64-13-48(4)(b): When possible, the department shall use best efforts to allow an inmate to continue the inmate's participation in an educational or career-readiness program while the facility is under lockdown, quarantine, or a similar status.
+Utah Code Annotated § 64-13-48(5): (5)(a)
+Utah Code Annotated § 64-13-48(5)(a): The department shall maintain records on an inmate's educational progress, including completed life skills, certifications, and credit- and non-credit-bearing courses, made while the inmate is incarcerated.
+Utah Code Annotated § 64-13-48(5)(b): (5)(a) The department shall facilitate the transfer of information related to the inmate's educational process upon the inmate's release, including the inmate's post-release contact information and the records described in Subsection
+Utah Code Annotated § 64-13-48(5)(b)(i): the inmate; or
+Utah Code Annotated § 64-13-48(5)(b)(ii): an entity that the inmate has authorized to receive the inmate's records or post-release contact information, including an institution:
+Utah Code Annotated § 64-13-48(5)(b)(ii)(A): from which the inmate received educational instruction while the inmate was incarcerated; or
+Utah Code Annotated § 64-13-48(5)(b)(ii)(B): at which the inmate plans to continue the inmate's post-incarceration education.
+Utah Code Annotated § 64-13-48(6): Beginning May 1, 2023, the department shall provide an annual report to the Higher Education Appropriations Subcommittee regarding educational and career-readiness programs for inmates, which shall include:
+Utah Code Annotated § 64-13-48(6)(a): the number of inmates who are participating in an educational or career-readiness program, including an accredited postsecondary education program;
+Utah Code Annotated § 64-13-48(6)(b): the percentage of inmates who are participating in an educational or career-readiness program as compared to the total inmate population;
+Utah Code Annotated § 64-13-48(6)(c): inmate program completion and graduation data, including the number of completions and graduations in each educational or career-readiness program;
+Utah Code Annotated § 64-13-48(6)(d): the potential effect of educational or career-readiness programs on recidivism, as determined by a comparison of:
+Utah Code Annotated § 64-13-48(6)(d)(i): the total number of inmates who return to incarceration after a previous incarceration; and
+Utah Code Annotated § 64-13-48(6)(d)(ii): the number of inmates who return to incarceration after a previous incarceration who participated in or completed an educational or career-readiness program;
+Utah Code Annotated § 64-13-48(6)(e): the number of inmates who were transferred to a different facility while currently participating in an educational or career-readiness program, including the number of inmates who were unable to continue a program after a transfer to a different facility; and
+Utah Code Annotated § 64-13-48(6)(f): the department's:
+Utah Code Annotated § 64-13-48(6)(f)(i): recommendation for resources that may increase inmates' access to and participation in an educational or career-readiness program; and
+Utah Code Annotated § 64-13-48(6)(f)(ii): estimate of how many additional inmates would participate in an educational or career-readiness program if the resources were provided.
+Utah Code Annotated § 64-13-48(7): 64-13-10; Title 63G, Chapter 3, Utah Administrative Rulemaking Act The department may make rules in accordance with Section
+
+
+Utah Code Annotated § 64-13-49 Inmate medical notification.
+-----------------------------------------------------------
+Utah Code Annotated § 64-13-49(1): 26B-2-201 As used in this section, "health care facility" means the same as that term is defined in Section
+Utah Code Annotated § 64-13-49(2): Title 63G, Chapter 2, Government Records Access and Management Act Upon intake of an inmate, a correctional facility shall provide the inmate with a form that allows the inmate to designate a contact to whom the correctional facility may release the inmate's medical information in compliance with applicable federal law and
+Utah Code Annotated § 64-13-49(3): A correctional facility shall, without compromising an investigation:
+Utah Code Annotated § 64-13-49(3)(a): attempt to notify an inmate's designated contact that the inmate sustained a serious injury or contracted a serious illness within five days after:
+Utah Code Annotated § 64-13-49(3)(a)(i): the day on which the inmate sustains the serious injury or contracts the serious illness; or
+Utah Code Annotated § 64-13-49(3)(a)(ii): if the inmate is transferred to a health care facility as a result of the serious injury or serious illness, the day on which the inmate is released from the health care facility;
+Utah Code Annotated § 64-13-49(3)(b): attempt to notify the designated contact within 24 hours after the death of the inmate and include the manner of death in the notification, if known; or
+Utah Code Annotated § 64-13-49(3)(c): attempt to notify the designated contact if the inmate's physician determines notification is necessary because the inmate has a medical condition that:
+Utah Code Annotated § 64-13-49(3)(c)(i): renders the inmate incapable of making health care decisions; or
+Utah Code Annotated § 64-13-49(3)(c)(ii): may result in the inmate reaching end-of-life.
+Utah Code Annotated § 64-13-49(4): (3)(a) The notification described in Subsection
+Utah Code Annotated § 64-13-49(4)(a): the serious injury or serious illness;
+Utah Code Annotated § 64-13-49(4)(b): the extent of the serious injury or serious illness;
+Utah Code Annotated § 64-13-49(4)(c): the medical treatment plan; and
+Utah Code Annotated § 64-13-49(4)(d): if applicable, the medical treatment recovery plan.
+Utah Code Annotated § 64-13-49(5): (3) The department shall create a policy that a staff member provide the notification described in Subsection
+
+
+Utah Code Annotated - Title 64 - Chapter 13a - Utah Correctional Industries Act
+*******************************************************************************
+
+Utah Code Annotated § 64-13a-1 Title.
+-------------------------------------
+This act is known as the "Utah Correctional Industries Act."
+
+Utah Code Annotated § 64-13a-2 Legislative intent.
+--------------------------------------------------
+It is the intent of the Legislature in this chapter to:Utah Code Annotated § 64-13a-2(1): create a Division of Correctional Industries which:
+Utah Code Annotated § 64-13a-2(1)(a): is a self-supporting organization;
+Utah Code Annotated § 64-13a-2(1)(b): is profit-oriented;
+Utah Code Annotated § 64-13a-2(1)(c): generates revenue for its operations and capital investment; and
+Utah Code Annotated § 64-13a-2(1)(d): assumes responsibility for training offenders in general work habits, work skills, and specific training skills that increase their employment prospects when released;
+Utah Code Annotated § 64-13a-2(2): provide an environment for the operation of correctional industries that closely resembles the environment for the business operations of a private corporate entity;
+Utah Code Annotated § 64-13a-2(3): make the Division of Correctional Industries responsible for and accountable to the Legislature and to the governor for correctional industries programs in this state.
+
+
+Utah Code Annotated § 64-13a-3 Definitions.
+-------------------------------------------
+As used in this chapter "division" means the Division of Correctional Industries.
+
+Utah Code Annotated § 64-13a-4 Creation of division -- Authority of director.
+-----------------------------------------------------------------------------
+There is created in the Department of Corrections the Division of Correctional Industries, which shall be under the direction of the director of correctional industries, who shall be appointed by the director of the Department of Corrections.  The director of correctional industries shall have considerable business operations experience, including the supervision and management of production operations, and has the authority to:Utah Code Annotated § 64-13a-4(1): determine the personnel needs and requirements of the program;
+Utah Code Annotated § 64-13a-4(2): hire all subordinate personnel in accordance with state policy and procedures; and
+Utah Code Annotated § 64-13a-4(3): market and deliver correctional industry products and services.
+
+
+Utah Code Annotated § 64-13a-7 Prison industry properties belong to state.
+--------------------------------------------------------------------------
+All money received by prison industries in the administration of this chapter, except as otherwise provided, together with all property acquired, administered, possessed, or received by prison industries are the property of the state, and all expenses, debts, and liabilities incurred by prison industries in connection with the administration of this chapter shall be paid from the Utah Correctional Industries Fund.
+
+Utah Code Annotated § 64-13a-8 Reports to governor.
+---------------------------------------------------
+Utah correctional industries shall make reports to the governor concerning the administration of this chapter, as the governor may require.
+
+Utah Code Annotated § 64-13a-9 Expenses to be paid from fund.
+-------------------------------------------------------------
+All expenditures necessary for the administration of this chapter, including the payment of all salaries, necessary overhead expenses, acquisition of assets, and raw materials shall be paid by warrants of the state drawn on the state treasurer to be paid out of the Utah Correctional Industries Fund.
+
+Utah Code Annotated § 64-13a-10 Payment of accounts.
+----------------------------------------------------
+All accounts payable by Utah correctional industries shall be preaudited by a person designated by the Utah Correctional Industries Division. Requisitions for payment of accounts shall be signed and countersigned by persons designated by the Utah Correctional Industries Division.
+
+Utah Code Annotated § 64-13a-11 Financial statements.
+-----------------------------------------------------
+The financial statements of the Utah Correctional Industries Division shall be made up quarterly to the last day of September, December, March, and June in each year, and at other times as determined by the governor, and in every case Utah correctional industries shall prepare a balance sheet, income statement, and statement of changes in financial position.
+
+Utah Code Annotated § 64-13a-12 Audit of financial statements.
+--------------------------------------------------------------
+The financial statements of the fund may be audited annually by the state auditor or by another person, firm, or corporation the state auditor may appoint.
+
+Utah Code Annotated § 64-13a-13 Purchases of material -- Exemption.
+-------------------------------------------------------------------
+Utah Code Annotated § 64-13a-13(1): Title 63G, Chapter 6a, Utah Procurement Code The Division of Correctional Industries is exempt from the provisions of
+Utah Code Annotated § 64-13a-13(2): The purchase of raw materials for use by the division in manufacturing or processing products for resale is exempt from the powers and duties of the state purchasing agent.
+
+
+Utah Code Annotated § 64-13a-14 Hearings.
+-----------------------------------------
+Utah Code Annotated § 64-13a-14(1): 64-13a-2 Pursuant to Section
+Utah Code Annotated § 64-13a-14(2): No new industrial, agricultural, or service enterprise which involves gross annual sales of more than $100,000 may be established unless and until a hearing concerning the enterprise has been held by the department.
+Utah Code Annotated § 64-13a-14(3): The department shall take into consideration the effect of a proposed enterprise on Utah industry and may not approve the establishment of the enterprise if it would have a comprehensive and substantial adverse impact on a particular Utah business, enterprise, or industry.
+
+
+Utah Code Annotated - Title 64 - Chapter 13d - Private Correctional Facilities Act
+**********************************************************************************
+
+Utah Code Annotated § 64-13d-101 Title.
+---------------------------------------
+This chapter is known as the "Private Correctional Facilities Act."
+
+Utah Code Annotated § 64-13d-102 Definitions.
+---------------------------------------------
+Utah Code Annotated § 64-13d-102(1): As used in this chapter:
+Utah Code Annotated § 64-13d-102(1)(a): "Contractor" means a private entity seeking to contract with or currently contracting with the department to establish or operate a private correctional facility.
+Utah Code Annotated § 64-13d-102(1)(b): "Correctional services" means those services necessary for the operation of a correctional facility, including the provision of food, clothing, security, programs, and health care.
+Utah Code Annotated § 64-13d-102(1)(c): "Facility" means a private correctional facility established or operated under a contract with the department.
+Utah Code Annotated § 64-13d-102(2): 64-13-1 The definitions used under Section
+
+
+Utah Code Annotated § 64-13d-103 Private contracts.
+---------------------------------------------------
+Utah Code Annotated § 64-13d-103(1): The department may contract with a contractor to finance, acquire, construct, lease, or provide full or partial correctional services.
+Utah Code Annotated § 64-13d-103(2): Before entering into a contract, the department shall:
+Utah Code Annotated § 64-13d-103(2)(a): hold a public hearing within the county or municipality where the facility is to be sited for the purpose of obtaining public comment;
+Utah Code Annotated § 64-13d-103(2)(b): give consideration to the input received at the public hearing when making decisions regarding the awarding of a contract and the contract process; and
+Utah Code Annotated § 64-13d-103(2)(c): have received written notification from the legislative body of the municipality or county where the proposed facility is to be sited, stating that the legislative body has agreed to the establishment of the facility within its boundaries.
+Utah Code Annotated § 64-13d-103(3): 64-13d-105 Before entering into a contract, the department shall require that the contractor proposing to provide the services demonstrate that it has:
+Utah Code Annotated § 64-13d-103(3)(a): management personnel with the qualifications and experience necessary to carry out the terms of the contract;
+Utah Code Annotated § 64-13d-103(3)(b): 64-13d-105 sufficient financial resources to:
+Utah Code Annotated § 64-13d-103(3)(b)(i): complete and operate the facility;
+Utah Code Annotated § 64-13d-103(3)(b)(ii): provide indemnification for liability arising from the operation of the facility; and
+Utah Code Annotated § 64-13d-103(3)(b)(iii): 64-13d-105 provide reimbursement as required under Section
+Utah Code Annotated § 64-13d-103(3)(c): the ability and resources to meet applicable court orders, correctional standards as defined by the department, and constitutional requirements; and
+Utah Code Annotated § 64-13d-103(3)(d): liability insurance adequate to protect the state, the political subdivision where the facility is located, and the officers and employees of the facility from all claims and losses incurred as a result of action or inaction by the contractor or its employees.
+Utah Code Annotated § 64-13d-103(4): A contract awarded for the operation of a facility shall be consistent with commonly accepted correctional practices as defined by the department and shall include:
+Utah Code Annotated § 64-13d-103(4)(a): adequate internal and perimeter security to protect the public, employees, and inmates, based on the security level of the inmate population;
+Utah Code Annotated § 64-13d-103(4)(b): work, training, educational, and treatment programs for inmates;
+Utah Code Annotated § 64-13d-103(4)(c): a minimum correctional officer to inmate ratio;
+Utah Code Annotated § 64-13d-103(4)(d): imposition of inmate discipline in accordance with applicable state law and department policy; and
+Utah Code Annotated § 64-13d-103(4)(e): adequate food, clothing, housing, and medical care for inmates.
+
+
+Utah Code Annotated § 64-13d-104 Use of force -- Private prison employees.
+--------------------------------------------------------------------------
+Utah Code Annotated § 64-13d-104(1): Employees of a facility contractor may use reasonable force to the extent allowed by state law.  The use of force, power, and authority shall be limited to:
+Utah Code Annotated § 64-13d-104(1)(a): the grounds of a facility operated in whole or in part by their employer;
+Utah Code Annotated § 64-13d-104(1)(b): when transporting inmates; and
+Utah Code Annotated § 64-13d-104(1)(c): when pursuing escapees from the facility.
+Utah Code Annotated § 64-13d-104(2): 64-13-24 Training standards for employees of a contractor shall be in accordance with the standards in Section
+Utah Code Annotated § 64-13d-104(3): (2) Subsection
+
+
+Utah Code Annotated § 64-13d-105 Restricted powers and duties of contractors.
+-----------------------------------------------------------------------------
+Utah Code Annotated § 64-13d-105(1): A contract for correctional services may not authorize a contractor to perform the following:
+Utah Code Annotated § 64-13d-105(1)(a): calculate or establish inmate release and parole eligibility dates;
+Utah Code Annotated § 64-13d-105(1)(b): grant, deny, or revoke sentence credit;
+Utah Code Annotated § 64-13d-105(1)(c): approve inmates for furlough, work release, or parole; or
+Utah Code Annotated § 64-13d-105(1)(d): approve the types of work inmates may perform.
+Utah Code Annotated § 64-13d-105(2): A contractor shall reimburse amounts incurred by local and state agencies for providing assistance with riots, escapes, transportation, medical services, and legal services regarding the operation of the facility.
+Utah Code Annotated § 64-13d-105(3): A contractor shall have in place a written plan approved by the department regarding the reporting and management of escapes, riots, and other emergency situations.
+
+
+Utah Code Annotated § 64-13d-106 Monitoring contracts.
+------------------------------------------------------
+Utah Code Annotated § 64-13d-106(1): The executive director or his designee shall monitor the performance of all facilities incarcerating inmates under the jurisdiction of the department.
+Utah Code Annotated § 64-13d-106(2): The executive director or his designee shall have unlimited access to all facilities, records, and staff for monitoring purposes.
+Utah Code Annotated § 64-13d-106(3): The executive director may appoint a monitor to inspect a facility.  The monitor shall have unlimited access to all facilities, records, and staff for monitoring purposes.
+Utah Code Annotated § 64-13d-106(4): The department shall be reimbursed by the entity operating the facility for that portion of the salary and expenses of the monitor attributable to monitoring the particular facility.
+Utah Code Annotated § 64-13d-106(5): Monitoring consists of ensuring that:
+Utah Code Annotated § 64-13d-106(5)(a): all state laws, department rules, and contractual obligations applicable to the facility are being met; and
+Utah Code Annotated § 64-13d-106(5)(b): all operations are effective, efficient, and economical.
+
+
+Utah Code Annotated § 64-13d-107 Facility construction -- Housing out-of-state inmates.
+---------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13d-107(1): A contractor may not expand its original housing capacity without the approval of the:
+Utah Code Annotated § 64-13d-107(1)(a): Legislature; and
+Utah Code Annotated § 64-13d-107(1)(b): county or municipal legislative body within whose jurisdiction the facility is located.
+Utah Code Annotated § 64-13d-107(2): A contractor may not incarcerate out-of-state inmates in a facility operated in the state, except in accordance with any interstate compact of which Utah is a party.
+
+
+Utah Code Annotated § 64-13d-108 Private entity must contract with department.
+------------------------------------------------------------------------------
+An entity may not establish a facility in the state without a contract with the department.
+
+Utah Code Annotated - Title 64 - Chapter 13e - County Correctional Facility Contracting and Reimbursement
+*********************************************************************************************************
+
+Utah Code Annotated § 64-13e-102 Definitions.
+---------------------------------------------
+As used in this chapter:Utah Code Annotated § 64-13e-102(1): 64-13e-104(6)(b) "Actual county daily incarceration rate" means the median amount of jail daily incarceration costs based on the data submitted by counties in accordance with Subsection
+Utah Code Annotated § 64-13e-102(2): 53B-1-102(1)(b); 53B-2a-201 "Alternative treatment program" means:
+Utah Code Annotated § 64-13e-102(2)(a): an evidence-based cognitive behavioral therapy program; or
+Utah Code Annotated § 64-13e-102(2)(b): 53B-1-102(1)(b); 53B-2a-201 a certificate-based program provided by:
+Utah Code Annotated § 64-13e-102(2)(b)(i): 53B-1-102(1)(b) an institution of higher education described in Subsection
+Utah Code Annotated § 64-13e-102(2)(b)(ii): 53B-2a-201 a degree-granting institution acting in the degree-granting institution's technical education role described in Section
+Utah Code Annotated § 64-13e-102(3): "Annual inmate jail days" means the total number of state probationary inmates housed in a county jail each day for the preceding fiscal year.
+Utah Code Annotated § 64-13e-102(4): 63M-7-201 "CCJJ" means the State Commission on Criminal and Juvenile Justice, created in Section
+Utah Code Annotated § 64-13e-102(5): 64-13-2 "Department" means the Department of Corrections, created in Section
+Utah Code Annotated § 64-13e-102(6): 63A-3-101 "Division of Finance" means the Division of Finance, created in Section
+Utah Code Annotated § 64-13e-102(7): 64-13e-104 "Final county daily incarceration rate" means the amount equal to:
+Utah Code Annotated § 64-13e-102(7)(a): 64-13e-104 the amount appropriated by the Legislature for the purpose of making payments to counties under Section
+Utah Code Annotated § 64-13e-102(7)(b): the average annual inmate jail days for the preceding five fiscal years.
+Utah Code Annotated § 64-13e-102(8): "Jail daily incarceration costs" means the following daily costs incurred by a county jail for housing a state probationary inmate on behalf of the department:
+Utah Code Annotated § 64-13e-102(8)(a): executive overhead;
+Utah Code Annotated § 64-13e-102(8)(b): administrative overhead;
+Utah Code Annotated § 64-13e-102(8)(c): transportation overhead;
+Utah Code Annotated § 64-13e-102(8)(d): division overhead; and
+Utah Code Annotated § 64-13e-102(8)(e): motor pool expenses.
+Utah Code Annotated § 64-13e-102(9): "State daily incarceration rate" means the average daily incarceration rate, calculated by the department based on the previous three fiscal years, that reflects the following expenses incurred by the department for housing an inmate:
+Utah Code Annotated § 64-13e-102(9)(a): executive overhead;
+Utah Code Annotated § 64-13e-102(9)(b): administrative overhead;
+Utah Code Annotated § 64-13e-102(9)(c): transportation overhead;
+Utah Code Annotated § 64-13e-102(9)(d): division overhead; and
+Utah Code Annotated § 64-13e-102(9)(e): motor pool expenses.
+Utah Code Annotated § 64-13e-102(10): "State inmate" means an individual, other than a state probationary inmate or state parole inmate, who is committed to the custody of the department.
+Utah Code Annotated § 64-13e-102(11): 77-27-1 "State parole inmate" means an individual who is:
+Utah Code Annotated § 64-13e-102(11)(a): 77-27-1 on parole, as defined in Section
+Utah Code Annotated § 64-13e-102(11)(b): housed in a county correctional facility for a reason related to the individual's parole.
+Utah Code Annotated § 64-13e-102(12): 77-18-105(6) "State probationary inmate" means a felony probationer sentenced to time in a county correctional facility under Subsection
+Utah Code Annotated § 64-13e-102(13): "Treatment program" means:
+Utah Code Annotated § 64-13e-102(13)(a): an alcohol treatment program;
+Utah Code Annotated § 64-13e-102(13)(b): a substance abuse treatment program;
+Utah Code Annotated § 64-13e-102(13)(c): a sex offender treatment program; or
+Utah Code Annotated § 64-13e-102(13)(d): an alternative treatment program.
+
+
+Utah Code Annotated § 64-13e-103 County correctional facility contracting program for state inmates -- Payments -- Reporting -- Contracts.
+------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13e-103(1): (6) Subject to Subsection
+Utah Code Annotated § 64-13e-103(2): (1) The department shall give preference for placement of state inmates, over private entities, to county correctional facility bed spaces for which the department has contracted under Subsection
+Utah Code Annotated § 64-13e-103(3): (1); (3)(a)(ii); (3)(c); (3)(c); (3)(a)(i); (ii); Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (3)(a)(i); (ii); (3)(b)(i); (3)(a)(i); (ii); (3)(a)(i); (ii); (3)(b)(i); (1); (3)(d)(i)(B); Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (3)(d)(i)
+Utah Code Annotated § 64-13e-103(3)(a): (1); (3)(a)(ii); (3)(c); (3)(c); (3)(a)(i); (ii) The compensation rate for housing state inmates pursuant to a contract described in Subsection
+Utah Code Annotated § 64-13e-103(3)(a)(i): (3)(a)(ii); (3)(c) except as provided in Subsection
+Utah Code Annotated § 64-13e-103(3)(a)(ii): (3)(c) 75% of the state daily incarceration rate for a county correctional facility bed space in a county that, pursuant to the contract, is dedicated to an alternative treatment program for state inmates, if the alternative treatment program is approved by the department under Subsection
+Utah Code Annotated § 64-13e-103(3)(a)(iii): (3)(a)(i); (ii) 70% of the state daily incarceration rate for a county correctional facility bed space in a county other than the bed spaces described in Subsections
+Utah Code Annotated § 64-13e-103(3)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (3)(a)(i); (ii); (3)(b)(i); (3)(a)(i); (ii) The department shall:
+Utah Code Annotated § 64-13e-103(3)(b)(i): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (3)(a)(i); (ii) make rules, in accordance with
+Utah Code Annotated § 64-13e-103(3)(b)(ii): (3)(b)(i); (3)(a)(i); (ii) determine on an annual basis, based on appropriations made by the Legislature for the contracts described in this section, whether to approve a treatment program that meets the standards established under Subsection
+Utah Code Annotated § 64-13e-103(3)(c): (3)(a)(i); (ii); (3)(b)(i) The department may not approve a treatment program for the purpose of a county receiving payment based on the rate described in Subsection
+Utah Code Annotated § 64-13e-103(3)(c)(i): (3)(b)(i) the program meets the standards established under Subsection
+Utah Code Annotated § 64-13e-103(3)(c)(ii): the department determines that the treatment program is needed by the department at the location where the treatment program will be provided.
+Utah Code Annotated § 64-13e-103(3)(d): (1); (3)(d)(i)(B); Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (3)(d)(i)
+Utah Code Annotated § 64-13e-103(3)(d)(i): (1); (3)(d)(i)(B) The department shall annually:
+Utah Code Annotated § 64-13e-103(3)(d)(i)(A): (1) collect information from each county described in Subsection
+Utah Code Annotated § 64-13e-103(3)(d)(i)(B): evaluate, review, and audit the results of each treatment program on state inmate recidivism and other relevant metrics; and
+Utah Code Annotated § 64-13e-103(3)(d)(i)(C): (3)(d)(i)(B) on or before November 30, report the results of the information described in Subsection
+Utah Code Annotated § 64-13e-103(3)(d)(ii): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (3)(d)(i) The department may make rules, in accordance with
+Utah Code Annotated § 64-13e-103(4): 
+Utah Code Annotated § 64-13e-103(4)(a): Compensation to a county for state inmates incarcerated under this section shall be made by the department.
+Utah Code Annotated § 64-13e-103(4)(b): Funds from the County Correctional Facility Contracting Reserve Program may be used only once existing annual appropriated funds for the fiscal year have been exhausted.
+Utah Code Annotated § 64-13e-103(5): (1); (3)(d)(i)(A) Counties that contract with the department under Subsection
+Utah Code Annotated § 64-13e-103(5)(a): the number of state inmates the county housed under this section;
+Utah Code Annotated § 64-13e-103(5)(b): the total number of state inmate days of incarceration that were provided by the county; and
+Utah Code Annotated § 64-13e-103(5)(c): (3)(d)(i)(A) the information required under Subsection
+Utah Code Annotated § 64-13e-103(6): (7); (1); 17-22-32(2) Except as provided under Subsection
+Utah Code Annotated § 64-13e-103(6)(a): 17-22-32(2) beginning July 1, 2023, the county correctional facility within the county is in compliance with the reporting requirements described in Subsection
+Utah Code Annotated § 64-13e-103(6)(b): the Legislature has previously passed a joint resolution that includes the following information regarding the proposed contract:
+Utah Code Annotated § 64-13e-103(6)(b)(i): the approximate number of beds to be contracted;
+Utah Code Annotated § 64-13e-103(6)(b)(ii): the approximate amount of the county's long-term debt; and
+Utah Code Annotated § 64-13e-103(6)(b)(iii): the repayment time of the debt for the facility where the inmates are to be housed.
+Utah Code Annotated § 64-13e-103(7): (6) The department may enter into a contract with a county government to house inmates without complying with the approval process described in Subsection
+Utah Code Annotated § 64-13e-103(8): (6) Any resolution passed by the Legislature under Subsection
+
+
+Utah Code Annotated § 64-13e-103.1 Calculating the state incarceration rate.
+----------------------------------------------------------------------------
+Utah Code Annotated § 64-13e-103.1(1): Before September 15 of each year, the department shall:
+Utah Code Annotated § 64-13e-103.1(1)(a): calculate the state daily incarceration rate; and
+Utah Code Annotated § 64-13e-103.1(1)(b): inform each county and CCJJ of the state daily incarceration rate.
+Utah Code Annotated § 64-13e-103.1(2): The state daily incarceration rate may not be less than the rate presented to the Executive Appropriations Committee of the Legislature for purposes of setting the appropriation for the department's budget.
+
+
+Utah Code Annotated § 64-13e-103.2 State daily incarceration rate -- Limits -- Payments to county correctional facilities for state probationary and state parole inmates.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13e-103.2(1): 64-13e-103.1; 64-13e-104 Notwithstanding Section
+Utah Code Annotated § 64-13e-103.2(2): 64-13e-104(9) Notwithstanding Subsection
+Utah Code Annotated § 64-13e-103.2(3): 64-13e-104(2) Notwithstanding Subsection
+Utah Code Annotated § 64-13e-103.2(4): 64-13e-104 Expenditures for Section
+
+
+Utah Code Annotated § 64-13e-103.3 Estimating the annual number of county correctional facility bed spaces required for state inmates.
+--------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13e-103.3(1): 64-13e-103(3)(a)(i); 64-13e-103(3)(a)(ii); (1)(a)
+Utah Code Annotated § 64-13e-103.3(1)(a): 64-13e-103(3)(a)(i); 64-13e-103(3)(a)(ii) Before September 15 of each year, the department shall estimate the total number of annual county correctional facility bed spaces that are required for state inmates in the upcoming fiscal year, including the annual number of bed spaces that shall be dedicated to:
+Utah Code Annotated § 64-13e-103.3(1)(a)(i): 64-13e-103(3)(a)(i) a treatment program for state inmates under Subsection
+Utah Code Annotated § 64-13e-103.3(1)(a)(ii): 64-13e-103(3)(a)(ii) an alternative treatment program for state inmates under Subsection
+Utah Code Annotated § 64-13e-103.3(1)(b): (1)(a) The department's estimates described in Subsection
+Utah Code Annotated § 64-13e-103.3(1)(b)(i): a review of the annual numbers of county correctional facility bed spaces used for state inmates during the preceding years; and
+Utah Code Annotated § 64-13e-103.3(1)(b)(ii): any other information relevant to the department.
+Utah Code Annotated § 64-13e-103.3(2): (1)(a) The department shall inform each county of the estimates described in Subsection
+
+
+Utah Code Annotated § 64-13e-104 Housing of state probationary inmates or state parole inmates -- Payments.
+-----------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13e-104(1): (2); (9)
+Utah Code Annotated § 64-13e-104(1)(a): A county shall accept and house a state probationary inmate or a state parole inmate in a county correctional facility, subject to available resources.
+Utah Code Annotated § 64-13e-104(1)(b): (2); (9) A county may release a number of inmates from a county correctional facility, but not to exceed the number of state probationary inmates in excess of the number of inmates funded by the appropriation authorized in Subsection
+Utah Code Annotated § 64-13e-104(1)(b)(i): (9) the state does not fully comply with the provisions of Subsection
+Utah Code Annotated § 64-13e-104(1)(b)(ii): funds appropriated by the Legislature for this purpose are less than 50% of the actual county daily incarceration rate.
+Utah Code Annotated § 64-13e-104(2): Within funds appropriated by the Legislature for this purpose, the Division of Finance shall pay a county that houses a state probationary inmate or a state parole inmate at a rate of 47.89% of the actual county daily incarceration rate.
+Utah Code Annotated § 64-13e-104(3): (2); (2); (10); 64-13e-103 Funds appropriated by the Legislature under Subsection
+Utah Code Annotated § 64-13e-104(3)(a): are nonlapsing;
+Utah Code Annotated § 64-13e-104(3)(b): (2); (10) may only be used for the purposes described in Subsection
+Utah Code Annotated § 64-13e-104(3)(c): 64-13e-103 may not be used for:
+Utah Code Annotated § 64-13e-104(3)(c)(i): the costs of administering the payment described in this section; or
+Utah Code Annotated § 64-13e-104(3)(c)(ii): 64-13e-103 payment of contract costs under Section
+Utah Code Annotated § 64-13e-104(4): (3)(c)(i) The costs described in Subsection
+Utah Code Annotated § 64-13e-104(5): (2); (10); (9); Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (7)(b)
+Utah Code Annotated § 64-13e-104(5)(a): (2); (10) The Division of Finance shall administer the payment described in Subsection
+Utah Code Annotated § 64-13e-104(5)(b): (9); Title 63G, Chapter 3, Utah Administrative Rulemaking Act In accordance with Subsection
+Utah Code Annotated § 64-13e-104(5)(c): (7)(b) Notwithstanding any other provision of this section, CCJJ shall adjust the amount of the payments described in Subsection
+Utah Code Annotated § 64-13e-104(6): (2); (10); 64-13-21(2)(b); 64-13-21(2)(b) Each county that receives the payment described in Subsection
+Utah Code Annotated § 64-13e-104(6)(a): 64-13-21(2)(b); 64-13-21(2)(b) on at least a monthly basis, submit a report to CCJJ that includes:
+Utah Code Annotated § 64-13e-104(6)(a)(i): the number of state probationary inmates and state parole inmates the county housed under this section;
+Utah Code Annotated § 64-13e-104(6)(a)(ii): the total number of state probationary inmate days of incarceration and state parole inmate days of incarceration that were provided by the county;
+Utah Code Annotated § 64-13e-104(6)(a)(iii): 64-13-21(2)(b) the total number of offenders housed pursuant to Subsection
+Utah Code Annotated § 64-13e-104(6)(a)(iv): 64-13-21(2)(b) the total number of days of incarceration of offenders housed pursuant to Subsection
+Utah Code Annotated § 64-13e-104(6)(b): before September 15 of every third year beginning in 2022, calculate and inform CCJJ of the county's jail daily incarceration costs for the preceding fiscal year.
+Utah Code Annotated § 64-13e-104(7): (6)(a); (6)(b)
+Utah Code Annotated § 64-13e-104(7)(a): (6)(a); (6)(b) On or before September 30 of each year, CCJJ shall:
+Utah Code Annotated § 64-13e-104(7)(a)(i): (6)(a) compile the information from the reports described in Subsection
+Utah Code Annotated § 64-13e-104(7)(a)(ii): (6)(b) calculate:
+Utah Code Annotated § 64-13e-104(7)(a)(ii)(A): (6)(b) the actual county incarceration rate, based on the most recent year that data was reported in accordance with Subsection
+Utah Code Annotated § 64-13e-104(7)(a)(ii)(B): the final county incarceration rate.
+Utah Code Annotated § 64-13e-104(7)(b): On or before October 15 of each year, CCJJ shall inform the Division of Finance and each county of:
+Utah Code Annotated § 64-13e-104(7)(b)(i): the actual county incarceration rate;
+Utah Code Annotated § 64-13e-104(7)(b)(ii): the final county incarceration rate; and
+Utah Code Annotated § 64-13e-104(7)(b)(iii): the exact amount of the payment described in this section that shall be made to each county.
+Utah Code Annotated § 64-13e-104(8): (7)(b) On or before December 15 of each year, the Division of Finance shall distribute the payment described in Subsection
+Utah Code Annotated § 64-13e-104(9): (8); 64-13-21(2)(b)
+Utah Code Annotated § 64-13e-104(9)(a): (8) The amount paid to each county under Subsection
+Utah Code Annotated § 64-13e-104(9)(b): 64-13-21(2)(b) if funds are available, the total number of days of incarceration of offenders housed pursuant to Subsection
+Utah Code Annotated § 64-13e-104(10): (2); (8); 64-13-21(2)(b) If funds appropriated under Subsection
+
+
+Utah Code Annotated § 64-13e-105 Subcommittee on County Correctional Facility Contracting and Reimbursement -- Purpose -- Responsibilities -- Membership.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13e-105(1): (3) There is created within CCJJ, the Subcommittee on County Correctional Facility Contracting and Reimbursement consisting of the individuals listed in Subsection
+Utah Code Annotated § 64-13e-105(2): 64-13e-103.1; 64-13e-104(7) The subcommittee shall meet at least quarterly to review, discuss, and make recommendations for:
+Utah Code Annotated § 64-13e-105(2)(a): 64-13e-103.1 the state daily incarceration rate, described in Section
+Utah Code Annotated § 64-13e-105(2)(b): the county daily incarceration rate;
+Utah Code Annotated § 64-13e-105(2)(c): county correctional facility contracting and reimbursement processes and goals, including the creation of a comprehensive statewide system of county correctional facility contracting and reimbursement;
+Utah Code Annotated § 64-13e-105(2)(d): developing a partnership between the state and counties to create common goals for housing state inmates;
+Utah Code Annotated § 64-13e-105(2)(e): calculations for the projected number of bed spaces needed;
+Utah Code Annotated § 64-13e-105(2)(f): programming for inmates while incarcerated;
+Utah Code Annotated § 64-13e-105(2)(g): proposals to reduce recidivism;
+Utah Code Annotated § 64-13e-105(2)(h): enhancing partnerships to improve law enforcement and incarceration programs;
+Utah Code Annotated § 64-13e-105(2)(i): inmate transportation costs; and
+Utah Code Annotated § 64-13e-105(2)(j): 64-13e-104(7) the compilation described in Subsection
+Utah Code Annotated § 64-13e-105(3): The membership of the subcommittee shall consist of the following nine members:
+Utah Code Annotated § 64-13e-105(3)(a): as designated by the Utah Sheriffs' Association:
+Utah Code Annotated § 64-13e-105(3)(a)(i): one sheriff of a county that is currently under contract with the department to house state inmates; and
+Utah Code Annotated § 64-13e-105(3)(a)(ii): one sheriff of a county that is currently receiving reimbursement from the department for housing state probationary inmates or state parole inmates;
+Utah Code Annotated § 64-13e-105(3)(b): the executive director of the department or the executive director's designee;
+Utah Code Annotated § 64-13e-105(3)(c): as designated by the Utah Association of Counties:
+Utah Code Annotated § 64-13e-105(3)(c)(i): one member of the legislative body of one county that is currently under contract with the department to house state inmates; and
+Utah Code Annotated § 64-13e-105(3)(c)(ii): one member of the legislative body of one county that is currently receiving reimbursement for housing state probationary inmates or state parole inmates;
+Utah Code Annotated § 64-13e-105(3)(d): the executive director of CCJJ or the executive director's designee;
+Utah Code Annotated § 64-13e-105(3)(e): one member of the House of Representatives, appointed by the speaker of the House of Representatives;
+Utah Code Annotated § 64-13e-105(3)(f): one member of the Senate, appointed by the president of the Senate; and
+Utah Code Annotated § 64-13e-105(3)(g): the executive director of the Governor's Office of Planning and Budget or the executive director's designee.
+Utah Code Annotated § 64-13e-105(4): The subcommittee shall report to the Law Enforcement and Criminal Justice Interim Committee in November 2023 and 2024 on progress and efforts to create and implement a comprehensive statewide county correctional facility reimbursement and contracting system.
+Utah Code Annotated § 64-13e-105(5): The subcommittee shall report to the Executive Offices and Criminal Justice Appropriations Subcommittee not later than October 31 in 2022, 2023, and 2024 on costs associated with creating and implementing a comprehensive statewide county correctional facility reimbursement and contracting system.
+Utah Code Annotated § 64-13e-105(6): 63A-3-106; 63A-3-107; 63A-3-106; 63A-3-107; 36-2-2; Title 5, Legislative Compensation and Expenses
+Utah Code Annotated § 64-13e-105(6)(a): 63A-3-106; 63A-3-107; 63A-3-106; 63A-3-107 A member who is not a legislator may not receive compensation or benefits for the member's service, but may receive per diem and travel expenses as allowed in:
+Utah Code Annotated § 64-13e-105(6)(a)(i): 63A-3-106 Section
+Utah Code Annotated § 64-13e-105(6)(a)(ii): 63A-3-107 Section
+Utah Code Annotated § 64-13e-105(6)(a)(iii): 63A-3-106; 63A-3-107 rules made by the Division of Finance according to Sections
+Utah Code Annotated § 64-13e-105(6)(b): 36-2-2; Title 5, Legislative Compensation and Expenses Compensation and expenses of a member who is a legislator are governed by Section
+
+
+Utah Code Annotated - Title 64 - Chapter 13f - Community Correctional Centers
+*****************************************************************************
+
+Utah Code Annotated § 64-13f-101 Title.
+---------------------------------------
+This chapter is known as "Community Correctional Centers."
+
+Utah Code Annotated § 64-13f-102 Definitions.
+---------------------------------------------
+As used in this chapter:Utah Code Annotated § 64-13f-102(1): "Cap" means no more than 20% above the community supervision percentage multiplied by the community correctional center projection.
+Utah Code Annotated § 64-13f-102(2): 64-13-1 "Community correctional center" means the same as that term is defined in Section
+Utah Code Annotated § 64-13f-102(3): "Community correctional center projection" means the daily average number of offenders projected to be supervised in the community by the department in the next calendar year multiplied by the daily average percentage of offenders supervised in the community that are also housed in a community correctional center for the previous calendar year.
+Utah Code Annotated § 64-13f-102(4): "Community supervision percentage" means the percentage calculated by dividing the total number of offenders supervised in the community by the department in each county or county zone by the total number of offenders supervised in the community by the department.
+Utah Code Annotated § 64-13f-102(5): "County zone" means the eastern zone, northern zone, or western zone.
+Utah Code Annotated § 64-13f-102(6): "Department" means the Department of Corrections.
+Utah Code Annotated § 64-13f-102(7): (7)(b)
+Utah Code Annotated § 64-13f-102(7)(a): (7)(b) "Eastern zone" means, except as provided in Subsection
+Utah Code Annotated § 64-13f-102(7)(b): A county with a population of 250,000 or more on the date the community supervision percentage is determined is not part of the eastern zone.
+Utah Code Annotated § 64-13f-102(8): (8)(b)
+Utah Code Annotated § 64-13f-102(8)(a): (8)(b) "Northern zone" means, except as provided in Subsection
+Utah Code Annotated § 64-13f-102(8)(b): A county with a population of 250,000 or more on the date the community supervision percentage is determined is not part of the northern zone.
+Utah Code Annotated § 64-13f-102(9): 64-13-1 "Offender" means the same as that term is defined in Section
+Utah Code Annotated § 64-13f-102(10): (10)(b)
+Utah Code Annotated § 64-13f-102(10)(a): (10)(b) "Western zone" means, except as provided in Subsection
+Utah Code Annotated § 64-13f-102(10)(b): A county with a population of 250,000 or more on the date the community supervision percentage is determined is not part of the western zone.
+
+
+Utah Code Annotated § 64-13f-102.5 Calculation of the community supervision percentage.
+---------------------------------------------------------------------------------------
+In calculating the community supervision percentage, the department shall:Utah Code Annotated § 64-13f-102.5(1): determine the county or county zone in which an offender is supervised by identifying the location of the offender's primary offense;
+Utah Code Annotated § 64-13f-102.5(2): (1) have sole discretion in identifying the offender's primary offense under Subsection
+Utah Code Annotated § 64-13f-102.5(3): only include an offender on probation or parole supervision with the department in the community supervision percentage calculation.
+
+
+Utah Code Annotated § 64-13f-103 Establishment of community correctional centers -- Cap -- Rulemaking -- Procedures.
+--------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13f-103(1): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (2); (3); (4); (1)(b) Subject to appropriation by the Legislature, the department may:
+Utah Code Annotated § 64-13f-103(1)(a): establish community correctional centers throughout the state in accordance with this section;
+Utah Code Annotated § 64-13f-103(1)(b): project the number of offenders that may be released to community correctional centers throughout the state; and
+Utah Code Annotated § 64-13f-103(1)(c): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (2); (3); (4); (1)(b) establish, by rule made in accordance with
+Utah Code Annotated § 64-13f-103(2): (2)(b); (3); (2)(a); (2)(a); (2)(a)
+Utah Code Annotated § 64-13f-103(2)(a): (2)(b); (3) Except as provided in Subsection
+Utah Code Annotated § 64-13f-103(2)(b): (2)(a) A transfer under Subsection
+Utah Code Annotated § 64-13f-103(2)(c): (2)(a); (2)(a) After a county or county zone transfers offenders under Subsection
+Utah Code Annotated § 64-13f-103(3): (2)(a) The department may not transfer an offender under Subsection
+Utah Code Annotated § 64-13f-103(4): (4)(a); (4)(b) When opening a new community correctional center, the department shall:
+Utah Code Annotated § 64-13f-103(4)(a): determine which counties or county zones are operating in excess of the counties' or county zones' respective caps;
+Utah Code Annotated § 64-13f-103(4)(b): (4)(a) compare the percentages at which the counties or county zones identified in Subsection
+Utah Code Annotated § 64-13f-103(4)(c): (4)(b) use the comparison described in Subsection
+Utah Code Annotated § 64-13f-103(4)(d): limit the offenders who will be placed in the new community correctional center to:
+Utah Code Annotated § 64-13f-103(4)(d)(i): offenders who are residents of the county or county zone within which the new community correctional center is located; or
+Utah Code Annotated § 64-13f-103(4)(d)(ii): offenders for whom the placement would be in the best interest of successful re-entry into the community, as determined by the department.
+Utah Code Annotated § 64-13f-103(5): The department shall consider the proximity of the following services to the new community correctional center when determining the placement of a new community correctional center within a county or county zone:
+Utah Code Annotated § 64-13f-103(5)(a): treatment services;
+Utah Code Annotated § 64-13f-103(5)(b): healthcare services;
+Utah Code Annotated § 64-13f-103(5)(c): employment services;
+Utah Code Annotated § 64-13f-103(5)(d): housing services;
+Utah Code Annotated § 64-13f-103(5)(e): transportation services; and
+Utah Code Annotated § 64-13f-103(5)(f): other services that contribute to an offender's successful community reintegration.
+
+
+Utah Code Annotated - Title 64 - Chapter 13g - Probation and Parole Employment Incentive Program
+************************************************************************************************
+
+Utah Code Annotated § 64-13g-101 Definitions.
+---------------------------------------------
+As used in this chapter:Utah Code Annotated § 64-13g-101(1): "Average daily population" means the average daily number of individuals on parole or felony probation in the region during the applicable fiscal year.
+Utah Code Annotated § 64-13g-101(2): "Baseline parole employment rate" means the average of the parole employment rates for fiscal years 2023, 2024, and 2025.
+Utah Code Annotated § 64-13g-101(3): "Baseline probation employment rate" means the average of the probation employment rates for fiscal years 2023, 2024, and 2025.
+Utah Code Annotated § 64-13g-101(4): "Department" means the Department of Corrections.
+Utah Code Annotated § 64-13g-101(5): "Eligible employment" means an occupation, or combined occupations, that:
+Utah Code Annotated § 64-13g-101(5)(a): consist of at least 130 hours in a 30-day period; and
+Utah Code Annotated § 64-13g-101(5)(b): are verified via paystubs, employment letters, contracts, or other reliable methods, as determined by the department.
+Utah Code Annotated § 64-13g-101(6): "Evidence-based" means a supervision policy, procedure, program, or practice demonstrated by scientific research to reduce recidivism of individuals on parole or felony probation.
+Utah Code Annotated § 64-13g-101(7): "Marginal cost of incarceration" means the total costs of incarceration, per inmate, that fluctuate based on inmate population.
+Utah Code Annotated § 64-13g-101(8): "Office" means the Governor's Office of Planning and Budget.
+Utah Code Annotated § 64-13g-101(9): "Parole employment rate" means the percentage of individuals on parole who held eligible employment for at least nine months in a one-year period, if at least a portion of the nine-months was during the preceding fiscal year.
+Utah Code Annotated § 64-13g-101(10): "Probation employment rate" means the percentage of individuals on felony probation who held eligible employment for at least nine months in a one-year period, if at least a portion of the nine-months was during the preceding fiscal year.
+Utah Code Annotated § 64-13g-101(11): 64-13g-102 "Program" means the Adult Probation and Parole Employment Incentive Program, created in Section
+Utah Code Annotated § 64-13g-101(12): "Region" means one of the geographic regions into which the Department of Corrections has divided the state for purposes of supervising adult probation and parole.
+Utah Code Annotated § 64-13g-101(13): 64-13g-103 "Restricted account" means the Employment Incentive Restricted Account created in Section
+
+
+Utah Code Annotated § 64-13g-102 Adult Probation and Parole Employment Incentive Program.
+-----------------------------------------------------------------------------------------
+Utah Code Annotated § 64-13g-102(1): There is created the Adult Probation and Parole Employment Incentive Program.
+Utah Code Annotated § 64-13g-102(2): The department and the office shall implement the program in accordance with the requirements of this chapter.
+Utah Code Annotated § 64-13g-102(3): 63M-7-102(2); (4); (3)(c); (3)(c) Beginning July 2026, and each July after 2026, the department shall calculate and report to the office, for the preceding fiscal year, for each region and statewide:
+Utah Code Annotated § 64-13g-102(3)(a): the parole employment rate and the average length of employment of individuals on parole;
+Utah Code Annotated § 64-13g-102(3)(b): the probation employment rate and average length of employment of individuals on felony probation;
+Utah Code Annotated § 64-13g-102(3)(c): 63M-7-102(2); (4) the recidivism percentage, using applicable recidivism metrics described in Subsections
+Utah Code Annotated § 64-13g-102(3)(d): the number and percentage of individuals who successfully complete parole or felony probation;
+Utah Code Annotated § 64-13g-102(3)(e): (3)(c); (3)(c) if the recidivism percentage described in Subsection
+Utah Code Annotated § 64-13g-102(3)(f): the number of individuals who successfully complete parole and, during the entire six months before the day on which the individuals' parole ends, held eligible employment; and
+Utah Code Annotated § 64-13g-102(3)(g): the number of individuals who successfully complete felony probation and, during the entire six months before the day on which the individuals' parole ended, held eligible employment.
+Utah Code Annotated § 64-13g-102(4): (3) In addition to the information described in Subsection
+Utah Code Annotated § 64-13g-102(5): (3); (4); (5)(a); (5)(b); (5)(c); (7); (5)(c); (5)(d)(ii)(A) After receiving the information described in Subsections
+Utah Code Annotated § 64-13g-102(5)(a): add the region's baseline parole employment rate and the region's baseline probation employment rate;
+Utah Code Annotated § 64-13g-102(5)(b): add the region's parole employment rate and the region's probation employment rate;
+Utah Code Annotated § 64-13g-102(5)(c): (5)(a); (5)(b) subtract the sum described in Subsection
+Utah Code Annotated § 64-13g-102(5)(d): (5)(c); (7); (5)(c); (5)(d)(ii)(A)
+Utah Code Annotated § 64-13g-102(5)(d)(i): (5)(c) if the rate difference described in Subsection
+Utah Code Annotated § 64-13g-102(5)(d)(ii): (7); (5)(c); (5)(d)(ii)(A) except as provided in Subsection
+Utah Code Annotated § 64-13g-102(5)(d)(ii)(A): multiplying the rate difference by the average daily population for that region; and
+Utah Code Annotated § 64-13g-102(5)(d)(ii)(B): (5)(d)(ii)(A) multiplying the product of the calculation described in Subsection
+Utah Code Annotated § 64-13g-102(6): (5); (3); (4); (3)(f); (g) In addition to the employment incentive payment described in Subsection
+Utah Code Annotated § 64-13g-102(7): (3)(c); (3)(c) The employment incentive payment, or end-of-supervision employment supervision payment, for a region is zero if the recidivism percentage for the region, described in Subsection
+Utah Code Annotated § 64-13g-102(8): (5)(d)(ii); (6); (7) Upon determining an employment incentive payment for a region in accordance with Subsections
+Utah Code Annotated § 64-13g-102(8)(a): 15% of the payment may be used by the department for expenses related to administering the program; and
+Utah Code Annotated § 64-13g-102(8)(b): 85% of the payment shall be used by the region to improve and expand supervision and rehabilitative services to individuals on parole or adult probation, including by:
+Utah Code Annotated § 64-13g-102(8)(b)(i): implementing and expanding evidence-based practices for risk and needs assessments for individuals;
+Utah Code Annotated § 64-13g-102(8)(b)(ii): implementing and expanding intermediate sanctions, including mandatory community service, home detention, day reporting, restorative justice programs, and furlough programs;
+Utah Code Annotated § 64-13g-102(8)(b)(iii): expanding the availability of evidence-based practices for rehabilitation programs, including drug and alcohol treatment, mental health treatment, anger management, cognitive behavior programs, and job training and other employment services;
+Utah Code Annotated § 64-13g-102(8)(b)(iv): hiring additional officers, contractors, or other personnel to implement evidence-based practices for rehabilitative and vocational programing;
+Utah Code Annotated § 64-13g-102(8)(b)(v): purchasing and adopting new technologies or equipment that are relevant to, and enhance, supervision, rehabilitation, or vocational training; or
+Utah Code Annotated § 64-13g-102(8)(b)(vi): evaluating the effectiveness of rehabilitation and supervision programs and ensuring program fidelity.
+Utah Code Annotated § 64-13g-102(9): (3); (4)
+Utah Code Annotated § 64-13g-102(9)(a): (3); (4) The report described in Subsections
+Utah Code Annotated § 64-13g-102(9)(b): The department shall maintain a complete and accurate accounting of the payment and use of funds under this section.
+Utah Code Annotated § 64-13g-102(9)(c): If the money in the restricted account is insufficient to make the full employment incentive payments or the full end-of-supervision employment incentive payments, the office shall authorize the payments on a prorated basis.
+
+
+Utah Code Annotated § 64-13g-103 Employment Incentive Restricted Account.
+-------------------------------------------------------------------------
+Utah Code Annotated § 64-13g-103(1): There is created within the General Fund a restricted account known as the "Employment Incentive Restricted Account."
+Utah Code Annotated § 64-13g-103(2): The account consists of appropriations made by the Legislature.
+Utah Code Annotated § 64-13g-103(3): 64-13g-102 The office shall authorize expenditures from the account in accordance with Section
+Utah Code Annotated § 64-13g-103(4): 64-13g-102(8) Subject to legislative appropriations, the department and each region shall expend money from the restricted account only in accordance with Subsection
+
+

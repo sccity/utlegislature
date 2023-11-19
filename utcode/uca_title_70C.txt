@@ -1,0 +1,732 @@
+Utah Code Annotated - Title 70C - Utah Consumer Credit Code
+===========================================================
+
+Utah Code Annotated - Title 70C - Chapter 1 - General Provisions and Definitions
+********************************************************************************
+
+Utah Code Annotated § 70C-1-101 Short title.
+--------------------------------------------
+This title is known as the "Utah Consumer Credit Code."
+
+Utah Code Annotated § 70C-1-102 Purposes -- Rules of construction.
+------------------------------------------------------------------
+Utah Code Annotated § 70C-1-102(1): This title shall be liberally construed and applied to promote its underlying purposes and policies.
+Utah Code Annotated § 70C-1-102(2): The underlying purposes and policies of this title are:
+Utah Code Annotated § 70C-1-102(2)(a): to further consumer understanding of the terms of credit transactions and to foster competition among suppliers of consumer credit so that consumers may obtain credit at reasonable cost;
+Utah Code Annotated § 70C-1-102(2)(b): to prohibit certain unfair practices; and
+Utah Code Annotated § 70C-1-102(2)(c): to avoid the duplication of laws and regulations pertaining to consumer credit between state and federal authorities and to supplement applicable federal laws and regulations.
+
+
+Utah Code Annotated § 70C-1-103 General principles of law apply -- Treatment of charge or fee.
+----------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-1-103(1): Unless displaced by the particular provisions of this title, the Uniform Commercial Code and the principles of law and equity, including without limitation the law relative to capacity to contract, principal and agent, estoppel, fraud, misrepresentation, duress, coercion, mistake, and bankruptcy shall supplement its provisions.
+Utah Code Annotated § 70C-1-103(2): 70C-1-106; 7-1-103 A charge or fee described in Section
+
+
+Utah Code Annotated § 70C-1-104 Construction against implied repeal.
+--------------------------------------------------------------------
+No part of this title may be deemed to be impliedly repealed by subsequent legislation if the construction can reasonably be avoided.
+
+Utah Code Annotated § 70C-1-105 Limitations by other laws not displaced.
+------------------------------------------------------------------------
+This title does not displace limitations on powers an organization is authorized to exercise under the laws of this state or the United States.
+
+Utah Code Annotated § 70C-1-106 Determination of interest rate.
+---------------------------------------------------------------
+For purposes of determining the interest rate allowed by the laws of this state under Section 85 of the National Bank Act and Sections 521 and 522 of the Depository Institutions Deregulation and Monetary Control Act of 1980, all finance charges, all fees charged for participation in a credit plan, whether assessed on an annual or other periodic basis, all transaction fees, all delinquency and deferral fees, all fees charged for exceeding a designated credit limit, all fees charged for each return of a dishonored check or negotiable order of withdrawal or draft, all fees charged for stopping payment, and all other charges permitted under Section
+
+Utah Code Annotated § 70C-1-201 Covered transactions.
+-----------------------------------------------------
+Except as provided in Section
+
+Utah Code Annotated § 70C-1-202 Exempted transactions.
+------------------------------------------------------
+Utah Code Annotated § 70C-1-202(1): (2); Title 70C, Utah Consumer Credit Code Notwithstanding the exceptions in Subsection
+Utah Code Annotated § 70C-1-202(2): (2)(d)(ii)(A); Chapter 6, Insurance; (2)(h)(ii); 15-8-3 This title does not apply to any of the following:
+Utah Code Annotated § 70C-1-202(2)(a): an extension of credit:
+Utah Code Annotated § 70C-1-202(2)(a)(i): primarily for business, commercial, or agricultural purposes; or
+Utah Code Annotated § 70C-1-202(2)(a)(ii): to other than a natural person including government agencies or instrumentalities;
+Utah Code Annotated § 70C-1-202(2)(b): a closed-end extension of credit secured by a first lien or equivalent security interest on a dwelling or building lot;
+Utah Code Annotated § 70C-1-202(2)(c): a transaction in securities or commodities accounts in which credit is extended by a broker-dealer registered with the:
+Utah Code Annotated § 70C-1-202(2)(c)(i): Securities and Exchange Commission; or
+Utah Code Annotated § 70C-1-202(2)(c)(ii): Commodity Futures Trading Commission;
+Utah Code Annotated § 70C-1-202(2)(d): (2)(d)(ii)(A) an extension of credit:
+Utah Code Annotated § 70C-1-202(2)(d)(i): not secured by:
+Utah Code Annotated § 70C-1-202(2)(d)(i)(A): real property; or
+Utah Code Annotated § 70C-1-202(2)(d)(i)(B): personal property used or expected to be used as the principal dwelling of the consumer; and
+Utah Code Annotated § 70C-1-202(2)(d)(ii): (2)(d)(ii)(A)
+Utah Code Annotated § 70C-1-202(2)(d)(ii)(A): in which the amount financed exceeds $50,000 adjusted annually for inflation by the commissioner by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers; or
+Utah Code Annotated § 70C-1-202(2)(d)(ii)(B): (2)(d)(ii)(A) in which there is an express written commitment to extend credit in excess of the amount determined under Subsection
+Utah Code Annotated § 70C-1-202(2)(e): a transaction under public utility or common carrier tariffs if a subdivision of this state or the United States regulates:
+Utah Code Annotated § 70C-1-202(2)(e)(i): the charges for the services involved;
+Utah Code Annotated § 70C-1-202(2)(e)(ii): the charges for delayed payment; and
+Utah Code Annotated § 70C-1-202(2)(e)(iii): a discount allowed for early payment;
+Utah Code Annotated § 70C-1-202(2)(f): Chapter 6, Insurance the sale of insurance by an insurer except as otherwise provided in
+Utah Code Annotated § 70C-1-202(2)(g): a transaction with a party acting as a pawnbroker and licensed by any governmental authority in this state;
+Utah Code Annotated § 70C-1-202(2)(h): (2)(h)(ii)
+Utah Code Annotated § 70C-1-202(2)(h)(i): a loan made, insured, or guaranteed pursuant to a program authorized by Title IV of the Higher Education Act of 1965, 20 U.S.C. Sec. 1070, et seq.; or
+Utah Code Annotated § 70C-1-202(2)(h)(ii): (2)(h)(ii) a loan:
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A): that finances tuition and other expenses:
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(I): charged in connection with enrollment:
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(I)(Aa): at a public or proprietary preprimary, secondary, vocational, or postsecondary school; or
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(I)(Bb): in any tutorial, continuing education, test preparation, distance-learning, or similar program; and
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(II): including:
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(II)(Aa): tuition;
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(II)(Bb): fees;
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(II)(Cc): books;
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(II)(Dd): housing; and
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(A)(II)(Ee): other expenses;
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(B): that is:
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(B)(I): made, insured, or guaranteed under a state program; or
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(B)(II): made by a federally insured depository institution; and
+Utah Code Annotated § 70C-1-202(2)(h)(ii)(C): (2)(h)(ii) including a loan that consolidates or refinances a loan described in this Subsection
+Utah Code Annotated § 70C-1-202(2)(i): 15-8-3 a rental purchase agreement as defined in Section
+
+
+Utah Code Annotated § 70C-1-203 Limitation on creditor's remedies in out-of-state transactions.
+-----------------------------------------------------------------------------------------------
+The part on limitations on creditors' remedies, Sections
+
+Utah Code Annotated § 70C-1-301 Interpretation consistent with federal law.
+---------------------------------------------------------------------------
+Except as otherwise defined, all definitions or terms used in this title have the same meaning as when used in the federal Consumer Credit Protection Act, 15 U.S.C.  Sections 1601 through 1677, as amended, and its implementing Regulation Z.
+
+Utah Code Annotated § 70C-1-302 Definitions.
+--------------------------------------------
+As used in this title:Utah Code Annotated § 70C-1-302(1): "Agreement" means the bargain of the parties in fact as stated in a written contract or otherwise as found in the parties' language or by implication from other circumstances, including:
+Utah Code Annotated § 70C-1-302(1)(a): course of dealing;
+Utah Code Annotated § 70C-1-302(1)(b): usage of trade; or
+Utah Code Annotated § 70C-1-302(1)(c): course of performance.
+Utah Code Annotated § 70C-1-302(2): "Contract" means a document containing written terms and conditions of a credit agreement.
+Utah Code Annotated § 70C-1-302(3): (3); (3)(b)(i)
+Utah Code Annotated § 70C-1-302(3)(a): "Creditor" means:
+Utah Code Annotated § 70C-1-302(3)(a)(i): a party:
+Utah Code Annotated § 70C-1-302(3)(a)(i)(A): who regularly extends consumer credit that is subject to a finance charge or is payable by written agreement in more than four installments, not including a down payment; and
+Utah Code Annotated § 70C-1-302(3)(a)(i)(B): to whom the obligation is initially payable, either on the face of the note or contract, or by agreement when there is no note or contract;
+Utah Code Annotated § 70C-1-302(3)(a)(ii): an issuer of a credit card that extends either open-end credit or credit that:
+Utah Code Annotated § 70C-1-302(3)(a)(ii)(A): is not subject to a finance charge; and
+Utah Code Annotated § 70C-1-302(3)(a)(ii)(B): is not payable by written agreement in more than four installments; and
+Utah Code Annotated § 70C-1-302(3)(a)(iii): an issuer of a credit card that extends closed-end credit that:
+Utah Code Annotated § 70C-1-302(3)(a)(iii)(A): is subject to a finance charge; or
+Utah Code Annotated § 70C-1-302(3)(a)(iii)(B): is payable by written agreement in more than four installments.
+Utah Code Annotated § 70C-1-302(3)(b): (3); (3)(b)(i)
+Utah Code Annotated § 70C-1-302(3)(b)(i): (3) For purposes of this Subsection
+Utah Code Annotated § 70C-1-302(3)(b)(i)(A): more than 25 times; or
+Utah Code Annotated § 70C-1-302(3)(b)(i)(B): more than five times for a transaction secured by a dwelling.
+Utah Code Annotated § 70C-1-302(3)(b)(ii): (3)(b)(i) If a person does not meet the numerical standards described in Subsection
+Utah Code Annotated § 70C-1-302(4): "Dwelling" means a residential structure attached to real property that contains one to four units including any of the following if used as a residence:
+Utah Code Annotated § 70C-1-302(4)(a): a condominium unit;
+Utah Code Annotated § 70C-1-302(4)(b): a cooperative unit;
+Utah Code Annotated § 70C-1-302(4)(c): a manufactured home; or
+Utah Code Annotated § 70C-1-302(4)(d): a house.
+Utah Code Annotated § 70C-1-302(5): "Earnings" means compensation paid or payable to an individual or for the individual's account for personal services rendered or to be rendered by the individual whether denominated as wages, salary, commission, bonus, or otherwise, and includes periodic payments pursuant to a pension, retirement, or disability program.
+Utah Code Annotated § 70C-1-302(6): "Installment" means a payment upon a debt that is part of a series of payments, each of which is less than the original amount of the debt and scheduled as to a specific amount and due date by agreement of the parties for the purpose of repaying the debt.
+Utah Code Annotated § 70C-1-302(7): "Party" means an individual and any other entity legally capable of entering into a binding contract.
+
+
+Utah Code Annotated - Title 70C - Chapter 2 - Finance Charges and Related Provisions
+************************************************************************************
+
+Utah Code Annotated § 70C-2-101 Finance and other charges.
+----------------------------------------------------------
+Except where restricted or otherwise covered by provisions of this title, the parties to a consumer credit agreement may contract for payment by the debtor of any finance charge and other charges and fees.
+
+Utah Code Annotated § 70C-2-102 Delinquency charges.
+----------------------------------------------------
+Utah Code Annotated § 70C-2-102(1): (1)(a); 7-1-103; (1)(a)
+Utah Code Annotated § 70C-2-102(1)(a): The parties to any consumer credit agreement may contract for a delinquency charge on any installment not paid in full by its scheduled due date in an amount not exceeding the greater of:
+Utah Code Annotated § 70C-2-102(1)(a)(i): $30; or
+Utah Code Annotated § 70C-2-102(1)(a)(ii): 5% of the delinquent unpaid amount of the installment.
+Utah Code Annotated § 70C-2-102(1)(b): (1)(a); 7-1-103; (1)(a) Notwithstanding Subsection
+Utah Code Annotated § 70C-2-102(2): This section may not be interpreted to require a creditor to accept a partial payment for an installment.
+Utah Code Annotated § 70C-2-102(3): 70C-2-103
+Utah Code Annotated § 70C-2-102(3)(a): A delinquency charge as authorized by this section may be collected only once on each installment regardless of how long it remains delinquent.
+Utah Code Annotated § 70C-2-102(3)(b): 70C-2-103 A delinquency charge may not be collected if:
+Utah Code Annotated § 70C-2-102(3)(b)(i): the installment has been deferred; and
+Utah Code Annotated § 70C-2-102(3)(b)(ii): 70C-2-103 a deferral charge under Section
+Utah Code Annotated § 70C-2-102(3)(c): A delinquency charge may be collected:
+Utah Code Annotated § 70C-2-102(3)(c)(i): at the time it accrues; or
+Utah Code Annotated § 70C-2-102(3)(c)(ii): any time after it accrues.
+
+
+Utah Code Annotated § 70C-2-103 Deferral charges.
+-------------------------------------------------
+Utah Code Annotated § 70C-2-103(1): The parties to any consumer credit agreement before or after default may agree in writing to defer all or part of one or more unpaid installments.  Except in connection with an open-end credit agreement, the parties may also agree in writing at any time that if an installment is not paid within 10 days after its due date, the creditor may unilaterally grant a deferral.  The creditor may collect a reasonable charge which the debtor expressly agrees to pay as consideration for a deferral.  A deferral charge may be collected at the time it accrues or at any time thereafter.
+Utah Code Annotated § 70C-2-103(2): A delinquency charge made by the creditor on an installment may not be retained if a deferral charge is agreed to under this section covering the same period of delinquency.  A creditor that accelerates the maturity of a consumer credit debt may not make or collect a deferral charge for any period following the date acceleration is declared.
+
+
+Utah Code Annotated § 70C-2-104 Advances to perform covenants of buyer.
+-----------------------------------------------------------------------
+If a consumer credit agreement contains covenants by the debtor to perform certain duties pertaining to insuring or preserving collateral and the creditor pursuant to the agreement pays for performance of the duties on behalf of the debtor, the creditor may add the amounts paid to the unpaid principal of the debt.
+
+Utah Code Annotated § 70C-2-105 Attorney's fees.
+------------------------------------------------
+A consumer credit agreement may provide for the payment of reasonable attorney's fees in the event of default and referral to an attorney including one who is a salaried employee of the creditor or its assignee.
+
+Utah Code Annotated § 70C-2-201 Authorization to confess judgment prohibited.
+-----------------------------------------------------------------------------
+A creditor or its successor in interest may not, directly or indirectly, take or receive from a debtor an obligation that constitutes or contains a cognovit or confession of judgment, warrant of attorney, or other waiver of the right to notice and the opportunity to be heard in the event of suit or process thereon.
+
+Utah Code Annotated § 70C-2-202 Assignment of earnings prohibited.
+------------------------------------------------------------------
+A creditor may not directly or indirectly take or receive from a debtor an obligation that constitutes or contains an assignment of wages or other earnings unlessUtah Code Annotated § 70C-2-202(1): the assignment by its own terms is revocable at the will of the debtor;
+Utah Code Annotated § 70C-2-202(2): the assignment is a payroll deduction plan, commencing at the time of the transaction, in which the debtor authorized a series of wage deductions as a method of making each payment; or
+Utah Code Annotated § 70C-2-202(3): the assignment applies only to wages or other earnings already earned at the time of the assignment.
+
+
+Utah Code Annotated § 70C-2-203 Additional security in consumer leases prohibited.
+----------------------------------------------------------------------------------
+A lessor, in order to secure the debt arising from a consumer lease, may not take a security interest in the dwelling of the lessee.  A security interest taken in violation of this section is void from its inception.
+
+Utah Code Annotated § 70C-2-204 Certain negotiable instruments prohibited.
+--------------------------------------------------------------------------
+With respect to a consumer credit sale not involving real property, the seller may not take a negotiable instrument under Section
+
+Utah Code Annotated § 70C-2-205 Assignee subject to defenses.
+-------------------------------------------------------------
+With respect to a consumer credit sale, an assignee of the rights of the seller is subject to all defenses of the buyer against the seller arising out of the credit sale, but the assignee's liability under this section may not exceed the amount owing to the assignee at the time the defense is asserted against the assignee, and the rights of the buyer may only be asserted as a matter of defense to or setoff against a claim by the assignee.
+
+Utah Code Annotated § 70C-2-206 Settlement of claims.
+-----------------------------------------------------
+Utah Code Annotated § 70C-2-206(1): A claim by a debtor against a creditor for an excess charge, other violation of this title, or civil penalty if disputed in good faith, may be settled by agreement for less value than the amount claimed, unless a court, as a matter of law, finds the settlement to have been unconscionable at the time it was made.
+Utah Code Annotated § 70C-2-206(2): A claim, whether or not disputed, against a debtor may be settled for less value than the amount claimed.
+
+
+Utah Code Annotated § 70C-2-207 Referral sales.
+-----------------------------------------------
+With respect to a consumer credit sale, the seller may not give or offer to give a rebate or discount or otherwise pay or offer to pay value to the buyer as an inducement for a sale in consideration of his giving to the seller the names of prospective purchasers or otherwise aiding the seller in making a sale to another person, if the earning of the rebate, discount, or other value is contingent upon the occurrence of an event subsequent to the time the buyer agrees to buy.  If a buyer is induced by a violation of this section to enter into a consumer credit sale, the agreement is unenforceable by the seller and the buyer may rescind the agreement and retain any goods delivered until all payments made by the debtor have been fully refunded to him.  The buyer may retain the benefit of any services performed without any obligation to pay for them.  This section does not apply if any goods delivered to the buyer are damaged while in the buyer's possession or are not delivered to the seller at the buyer's residence, or at any other place agreed on by the parties, within a reasonable time after the seller tenders or delivers a full refund of all payments to the buyer.
+
+Utah Code Annotated - Title 70C - Chapter 3 - Closed-End Consumer Credit Debt
+*****************************************************************************
+
+Utah Code Annotated § 70C-3-101 Prepayment of debt.
+---------------------------------------------------
+Utah Code Annotated § 70C-3-101(1): (1)(a); (1)(b)(i)(A); (1)(b)(i)(B)
+Utah Code Annotated § 70C-3-101(1)(a): Subject to the other provisions of this section, a debtor may prepay the unpaid balance of a closed-end consumer credit debt at any time without penalty.
+Utah Code Annotated § 70C-3-101(1)(b): (1)(a); (1)(b)(i)(A); (1)(b)(i)(B) Notwithstanding Subsection
+Utah Code Annotated § 70C-3-101(1)(b)(i): (1)(b)(i)(A) the creditor offers the debtor the option of entering into either:
+Utah Code Annotated § 70C-3-101(1)(b)(i)(A): a contract that does not contain a prepayment fee; or
+Utah Code Annotated § 70C-3-101(1)(b)(i)(B): (1)(b)(i)(A) a contract containing:
+Utah Code Annotated § 70C-3-101(1)(b)(i)(B)(I): a prepayment fee; and
+Utah Code Annotated § 70C-3-101(1)(b)(i)(B)(II): (1)(b)(i)(A) a rate of finance charge or fee that is lower than the rate of finance charge or fee under the contract described in Subsection
+Utah Code Annotated § 70C-3-101(1)(b)(ii): (1)(b)(i)(B) the debtor enters into the contract described in Subsection
+Utah Code Annotated § 70C-3-101(2): (2)(c); (2)(c)(i); (2)(c)(i); (ii) For purposes of this section:
+Utah Code Annotated § 70C-3-101(2)(a): The unpaid balance of a closed-end consumer credit debt at any point in time shall consist only of:
+Utah Code Annotated § 70C-3-101(2)(a)(i): any unpaid earned finance charge;
+Utah Code Annotated § 70C-3-101(2)(a)(ii): the unpaid principal of the debt; and
+Utah Code Annotated § 70C-3-101(2)(a)(iii): any delinquency or deferral and other allowable charges that may have been assessed prior to prepayment.
+Utah Code Annotated § 70C-3-101(2)(b): (2)(c) Except as provided in Subsection
+Utah Code Annotated § 70C-3-101(2)(c): (2)(c)(i); (2)(c)(i); (ii)
+Utah Code Annotated § 70C-3-101(2)(c)(i): Any prepaid finance charge not exceeding 5% of the original principal amount of the debt which the parties expressly agree is nonrefundable in the event of prepayment shall be fully earned on the date the credit is extended.
+Utah Code Annotated § 70C-3-101(2)(c)(ii): (2)(c)(i) Any prepaid finance charges in addition to the prepaid finance charges described in Subsection
+Utah Code Annotated § 70C-3-101(2)(c)(iii): (2)(c)(i); (ii) Notwithstanding Subsections
+Utah Code Annotated § 70C-3-101(2)(d): Any costs, charges, or fees paid to third parties in connection with setting up the credit are not subject to rebate unless the creditor becomes entitled to a rebate of any part of the cost, charge, or fee as a result of the prepayment.
+Utah Code Annotated § 70C-3-101(3): If the maturity of a closed-end consumer credit debt is accelerated for any reason and judgment is obtained, the debtor is entitled to have the unpaid balance of the debt calculated, less any legal offset, as if payment in full had been made on the date judgment was entered. Interest on the judgment shall be the rate agreed on by the parties with respect to the debt.
+Utah Code Annotated § 70C-3-101(4): The provisions of this section for calculating the unpaid balance of a debt apply to all prepayments of closed-end consumer credit debts after September 1, 1985, unless a different method for calculating the unpaid balance on prepayment is expressly provided for in a consumer credit contract which was entered into prior to July 1, 1985, and was lawful when made.
+
+
+Utah Code Annotated § 70C-3-102 Balloon payment.
+------------------------------------------------
+If any scheduled payment of a closed-end consumer credit debt is more than twice as large as the average of all earlier scheduled payments, the debtor has the right to refinance the amount of that payment at the time it is due if the creditor is still offering that type of credit and the debtor is credit worthy.  Credit terms may be no less favorable than those offered to the general public by the creditor for the same type of credit at the time a request for refinancing is accepted.
+
+Utah Code Annotated § 70C-3-103 Delinquency charges -- Conversion of account.
+-----------------------------------------------------------------------------
+Utah Code Annotated § 70C-3-103(1): With respect to a closed-end loan, a delinquency charge may not be assessed on a payment that is a payment in full for the scheduled installment period solely because of an unpaid delinquency charge relating to an earlier installment.
+Utah Code Annotated § 70C-3-103(2): (2)(a); 70C-3-101
+Utah Code Annotated § 70C-3-103(2)(a): With respect to a closed-end loan other than one in which the finance charge is based on unpaid daily balances, if two payments or parts of two payments are past due for more than 10 days, the lender may convert the loan to one in which the finance charge is based on unpaid daily balances.
+Utah Code Annotated § 70C-3-103(2)(b): (2)(a); 70C-3-101 In the event of conversion under Subsection
+Utah Code Annotated § 70C-3-103(2)(b)(i): 70C-3-101 the creditor shall calculate the unpaid balance of the debt in accordance with the provisions governing rebate on prepayment under Section
+Utah Code Annotated § 70C-3-103(2)(b)(ii): after the conversion the creditor may collect a finance charge not exceeding the annual rate agreed upon by the parties.
+
+
+Utah Code Annotated § 70C-3-104 Class actions.
+----------------------------------------------
+Utah Code Annotated § 70C-3-104(1): In accordance with this section, a creditor may contract with the debtor of a closed-end consumer contract for a waiver by the debtor of the right to initiate or participate in a class action related to the closed-end consumer contract.
+Utah Code Annotated § 70C-3-104(2): (1) To contract for the waiver described in Subsection
+Utah Code Annotated § 70C-3-104(2)(a): to the debtor;
+Utah Code Annotated § 70C-3-104(2)(b): in the closed-end consumer contract; and
+Utah Code Annotated § 70C-3-104(2)(c): for a closed-end consumer contract entered into on or after August 1, 2006, in:
+Utah Code Annotated § 70C-3-104(2)(c)(i): bold type; or
+Utah Code Annotated § 70C-3-104(2)(c)(ii): all capital letters.
+
+
+Utah Code Annotated - Title 70C - Chapter 4 - Open-End Consumer Credit Contract
+*******************************************************************************
+
+Utah Code Annotated § 70C-4-101 Minimum billing cycle charge.
+-------------------------------------------------------------
+If there is an unpaid balance in an open-end account on the date the finance charge is applied, the creditor may assess a minimum charge.
+
+Utah Code Annotated § 70C-4-102 Change of terms of open-end consumer credit contracts.
+--------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-4-102(1): For purposes of this section, "change" includes to add, delete, or otherwise change a term of an open-end consumer credit contract.
+Utah Code Annotated § 70C-4-102(2): 25-5-4
+Utah Code Annotated § 70C-4-102(2)(a): 25-5-4 Notwithstanding Section
+Utah Code Annotated § 70C-4-102(2)(a)(i): the creditor mails or delivers written notice of the change:
+Utah Code Annotated § 70C-4-102(2)(a)(i)(A): to all other parties to the open-end consumer credit contract that may be affected by the change; and
+Utah Code Annotated § 70C-4-102(2)(a)(i)(B): in a manner consistent with the provisions in effect on the day on which the notice is given of the Truth in Lending Act, 15 U.S.C. Section 1601 et seq., and its implementing Regulation Z; and
+Utah Code Annotated § 70C-4-102(2)(a)(ii): the open-end consumer credit contract expressly provides that the creditor may change terms of the open-end consumer credit contract from time to time.
+Utah Code Annotated § 70C-4-102(2)(b): A creditor may change an open-end consumer credit contract in accordance with this section to include arbitration or other alternative dispute resolution mechanism.
+Utah Code Annotated § 70C-4-102(3): (3)(b)(i) If the creditor has taken a security interest in any real property of the debtor to secure payment of the debt, and if the term to be changed affects the method for calculating minimum payments, or is part of the finance charge, the creditor may apply the new term to an account balance relating to a credit transaction that occurred prior to the effective date of the change only if:
+Utah Code Annotated § 70C-4-102(3)(a): the debtor expressly so agrees after notice of the change has been given by the creditor; or
+Utah Code Annotated § 70C-4-102(3)(b): (3)(b)(i)
+Utah Code Annotated § 70C-4-102(3)(b)(i): the creditor notifies the debtor that:
+Utah Code Annotated § 70C-4-102(3)(b)(i)(A): further extensions of credit will not be permitted unless the debtor agrees that the new term may be applied to an existing account balance; and
+Utah Code Annotated § 70C-4-102(3)(b)(i)(B): any future charges to the account will constitute agreement; and
+Utah Code Annotated § 70C-4-102(3)(b)(ii): (3)(b)(i) the debtor makes a charge to the account after receiving notice described in Subsection
+Utah Code Annotated § 70C-4-102(4): Notice under this section is not required when:
+Utah Code Annotated § 70C-4-102(4)(a): the change involves:
+Utah Code Annotated § 70C-4-102(4)(a)(i): late payment charges;
+Utah Code Annotated § 70C-4-102(4)(a)(ii): charges for documentary evidence;
+Utah Code Annotated § 70C-4-102(4)(a)(iii): over-the-limit charges;
+Utah Code Annotated § 70C-4-102(4)(a)(iv): a reduction of any component of a finance or other charge;
+Utah Code Annotated § 70C-4-102(4)(a)(v): suspension of future credit privileges; or
+Utah Code Annotated § 70C-4-102(4)(a)(vi): termination of an account or plan; or
+Utah Code Annotated § 70C-4-102(4)(b): other than an increase in the periodic rate or other finance charge, the change results from:
+Utah Code Annotated § 70C-4-102(4)(b)(i): an agreement involving:
+Utah Code Annotated § 70C-4-102(4)(b)(i)(A): a court proceeding;
+Utah Code Annotated § 70C-4-102(4)(b)(i)(B): an arbitration proceeding; or
+Utah Code Annotated § 70C-4-102(4)(b)(i)(C): another alternative dispute resolution proceeding; or
+Utah Code Annotated § 70C-4-102(4)(b)(ii): the consumer's default or delinquency.
+Utah Code Annotated § 70C-4-102(5): 
+Utah Code Annotated § 70C-4-102(5)(a): The actual unpaid balance of the account at any point in time is not a term of the open-end consumer credit contract for purposes of this section.
+Utah Code Annotated § 70C-4-102(5)(b): With regard to a variable or adjustable interest rate, a periodic change in the applicable rate is not a change subject to this section if no term of the open-end consumer credit contract pertaining to calculation of the applicable rate is changed.
+Utah Code Annotated § 70C-4-102(6): (6)(a)
+Utah Code Annotated § 70C-4-102(6)(a): A creditor may include a notice required by this section of a change to an open-end consumer credit contract on or in the same envelope as a periodic statement or other material sent to the borrower by the creditor.
+Utah Code Annotated § 70C-4-102(6)(b): (6)(a) Notwithstanding Subsection
+
+
+Utah Code Annotated § 70C-4-103 Finance charge for open-end accounts.
+---------------------------------------------------------------------
+With respect to an open-end consumer credit contract, a finance charge may only be calculated during any particular billing cycle on the basis of either:Utah Code Annotated § 70C-4-103(1): the average or actual daily balance of the account; or
+Utah Code Annotated § 70C-4-103(2): the unpaid balance of the account on the last day of the billing cycle after deducting payments and credits received during the same cycle.
+
+
+Utah Code Annotated § 70C-4-104 Redundant delinquency charges prohibited.
+-------------------------------------------------------------------------
+With respect to an open-end account, no delinquency charge may be assessed on a payment that is otherwise a payment in full for the applicable period solely because of an unpaid delinquency charge relating to an earlier installment.
+
+Utah Code Annotated § 70C-4-105 Class actions.
+----------------------------------------------
+Utah Code Annotated § 70C-4-105(1): In accordance with this section, a creditor may contract with the debtor of an open-end consumer credit contract for a waiver by the debtor of the right to initiate or participate in a class action related to the open-end consumer credit contract.
+Utah Code Annotated § 70C-4-105(2): (1) To contract for the waiver described in Subsection
+Utah Code Annotated § 70C-4-105(2)(a): to the debtor;
+Utah Code Annotated § 70C-4-105(2)(b): in the open-end consumer credit contract; and
+Utah Code Annotated § 70C-4-105(2)(c): for an open-end consumer credit contract entered into on or after August 1, 2006, in:
+Utah Code Annotated § 70C-4-105(2)(c)(i): bold type; or
+Utah Code Annotated § 70C-4-105(2)(c)(ii): all capital letters.
+
+
+Utah Code Annotated - Title 70C - Chapter 5 - Home Solicitation Sales
+*********************************************************************
+
+Utah Code Annotated § 70C-5-101 Definition -- Home solicitation sale.
+---------------------------------------------------------------------
+As used in this chapter, "home solicitation sale" means a consumer credit sale of goods or services in which the seller or a person acting for him engages in a face-to-face solicitation of the sale at a residence or place of employment of the buyer and the buyer's agreement or offer to purchase is there given to the seller or a person acting for him.  It does not include a sale made pursuant to preexisting open-end accounts, or a sale made between the parties at a business establishment at a fixed location where goods or services are offered or exhibited for sale.
+
+Utah Code Annotated § 70C-5-102 Buyer's right to cancel.
+--------------------------------------------------------
+Utah Code Annotated § 70C-5-102(1): (5) Except as provided in Subsection
+Utah Code Annotated § 70C-5-102(2): Cancellation occurs when the buyer gives written notice of cancellation to the seller at the address stated in the agreement or offer to purchase.
+Utah Code Annotated § 70C-5-102(3): Notice of cancellation, if given by mail, is given when it is deposited in a mailbox properly addressed and postage prepaid.
+Utah Code Annotated § 70C-5-102(4): Notice of cancellation given by the buyer need not take a particular form and is sufficient if it indicates by any form of written expression the intention of the buyer not to be bound by the home solicitation sale.
+Utah Code Annotated § 70C-5-102(5): The buyer may not cancel a home solicitation sale if:
+Utah Code Annotated § 70C-5-102(5)(a): the buyer requests the seller to provide goods or services without delay because of an emergency;
+Utah Code Annotated § 70C-5-102(5)(b): the seller in good faith makes a substantial beginning of performance of the contract before the buyer gives notice of cancellation; and
+Utah Code Annotated § 70C-5-102(5)(c): in the case of goods, the goods cannot be returned to the seller in substantially as good condition as when received by the buyer.
+Utah Code Annotated § 70C-5-102(6): This section does not displace any rights the buyer may have under other sections of this title, other statutes of this state, or federal law.
+
+
+Utah Code Annotated § 70C-5-103 Form of agreement or offer -- Statement of buyer's rights.
+------------------------------------------------------------------------------------------
+"If this agreement was solicited at your residence or place of employment and you do not want the goods or services, you may cancel this agreement by mailing a notice to the seller.  The notice must say that you do not want the goods or services and must be mailed before midnight on the third business day after you sign this agreement.  The notice must be mailed to: _________________________ (insert name and mailing address of seller)."Utah Code Annotated § 70C-5-103(1): (2) In a home solicitation sale, unless the buyer requests the seller to provide goods or services without delay in an emergency, the seller shall present to the buyer and obtain his signature to a written agreement or offer to purchase which designates as the date of the transaction the date on which the buyer actually signs and contains a statement of the buyer's rights which complies with Subsection
+Utah Code Annotated § 70C-5-103(2): The statement shall:
+Utah Code Annotated § 70C-5-103(2)(a): appear under the conspicuous caption:  "BUYER'S RIGHT TO CANCEL"; and
+Utah Code Annotated § 70C-5-103(2)(b): read as follows:
+Utah Code Annotated § 70C-5-103(3): (2)(b) Compliance with any notice of cancellation or similar requirement of any rule of the Federal Trade Commission which by its terms applies to a home solicitation sale covered by this title is deemed compliance with Subsection
+Utah Code Annotated § 70C-5-103(4): Until the seller has complied with this section the buyer may cancel the home solicitation sale by notifying the seller in any manner and by any means of his intention to cancel.
+
+
+Utah Code Annotated § 70C-5-104 Restoration of down payment.
+------------------------------------------------------------
+Utah Code Annotated § 70C-5-104(1): Within 10 days after a home solicitation sale has been canceled or an offer to purchase revoked the seller shall tender to the buyer any payments made by the buyer and any note or other evidence of indebtedness.
+Utah Code Annotated § 70C-5-104(2): If the down payment includes goods traded in, the goods shall be tendered in substantially as good condition as when received by the seller. If the seller fails to tender the goods as provided by this section, the buyer may recover an amount equal to the trade-in allowance stated in the agreement.
+Utah Code Annotated § 70C-5-104(3): A provision permitting the seller to keep all or any part of any payment, note, or evidence of indebtedness is in violation of this section and unenforceable.
+Utah Code Annotated § 70C-5-104(4): Until the seller has complied with the obligations imposed by this section the buyer may retain possession of goods delivered to him by the seller and has a lien on the goods in his possession or control for any recovery to which he is entitled.
+
+
+Utah Code Annotated § 70C-5-105 Duty of buyer -- No compensation for services prior to cancellation.
+----------------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-5-105(1): 70C-5-104(4) Except as provided by the provisions on retention of goods by the buyer under Subsection
+Utah Code Annotated § 70C-5-105(2): The buyer has a duty to take reasonable care of the goods in his possession before cancellation or revocation and for a reasonable time thereafter, during which time the goods are otherwise at the seller's risk.
+Utah Code Annotated § 70C-5-105(3): If the seller has performed any services pursuant to a home solicitation sale prior to its cancellation, the seller is entitled to no compensation.
+
+
+Utah Code Annotated - Title 70C - Chapter 6 - Insurance
+*******************************************************
+
+Utah Code Annotated § 70C-6-101 Scope -- Relation to credit insurance -- Applicability to parties.
+--------------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-6-101(1): (2) Except as provided in Subsection
+Utah Code Annotated § 70C-6-101(2): 70C-6-304 The provision on cancellation by a creditor under Section
+Utah Code Annotated § 70C-6-101(3): Title 31A, Chapter 22, Part 8, Credit Life and Accident and Health Insurance Except as provided elsewhere under this title, this chapter supplements and does not supersede
+
+
+Utah Code Annotated § 70C-6-102 Definition -- Consumer credit insurance.
+------------------------------------------------------------------------
+"Consumer credit insurance" means insurance, other than insurance on property, by which the satisfaction of debt in whole or in part is a benefit provided, but does not include:Utah Code Annotated § 70C-6-102(1): insurance issued as an isolated transaction on the part of the insurer not related to an agreement or plan for insuring debtors of the creditor; or
+Utah Code Annotated § 70C-6-102(2): insurance indemnifying the creditor against loss due to the debtor's default.
+
+
+Utah Code Annotated § 70C-6-103 Creditor's provision of and charge for insurance -- Excess amount of charge.
+------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-6-103(1): Except as otherwise provided in this chapter, a creditor may agree to provide insurance.  If insurance is not required, a charge for such insurance shall be separate from and in addition to other charges.  A creditor shall separately disclose any charge for insurance required and provided by it.  This title does not authorize the issuance of any insurance prohibited under any statute, rule, or regulation.
+Utah Code Annotated § 70C-6-103(2): 70C-6-105; Chapter 7, Remedies and Penalties; 70C-7-201; Chapter 8, Administration A charge for insurance which exceeds the maximum authorized by Section
+
+
+Utah Code Annotated § 70C-6-104 Conditions applying to insurance to be provided by creditor.
+--------------------------------------------------------------------------------------------
+If a creditor agrees with a debtor to provide insurance:Utah Code Annotated § 70C-6-104(1): the insurance shall be evidenced by an individual policy or certificate of insurance delivered to the debtor, or sent to him at his address as stated by him, within 30 days after the term of the insurance commences under the agreement between the creditor and debtor; or
+Utah Code Annotated § 70C-6-104(2): the creditor shall promptly notify the debtor of any failure or delay in providing the insurance.
+
+
+Utah Code Annotated § 70C-6-105 Maximum charge by creditor for insurance.
+-------------------------------------------------------------------------
+If a creditor contracts for or receives a separate charge for insurance, the amount charged the debtor for the insurance may not exceed the premium to be charged by the insurer, without deduction for commissions, as computed at the time the charge to the debtor is determined, conforming to any rate filings required by law and made by the insurer with the commissioner of insurance.
+
+Utah Code Annotated § 70C-6-106 Refund or credit required -- Amount.
+--------------------------------------------------------------------
+Utah Code Annotated § 70C-6-106(1): A debtor or his estate is entitled to any rebate or refund due from an insurer and to any unearned part of a separate charge for insurance previously paid by the debtor, resulting from the prepayment of a consumer credit debt, except when all refunds and credits due to the debtor under this title amount to less than $5.
+Utah Code Annotated § 70C-6-106(2): A creditor shall promptly make or cause to be made an appropriate refund or credit to the debtor with respect to any separate charge made to him for insurance if:
+Utah Code Annotated § 70C-6-106(2)(a): the insurance is not provided or is provided for a shorter term than that for which the charge to a debtor for insurance was computed; or
+Utah Code Annotated § 70C-6-106(2)(b): the insurance terminates prior to the end of the term for which it was written because of prepayment in full or otherwise.
+Utah Code Annotated § 70C-6-106(3): All refunds or credit required by this section shall be computed according to a method prescribed or approved by the Insurance Department or formula filed by the insurer with the Insurance Department at least 30 days before any debtor's right to a refund or credit becomes determinable, unless the method or formula is employed after the Insurance Department notifies the insurer that the method or formula has been disapproved.
+Utah Code Annotated § 70C-6-106(4): (1) Except as provided in Subsection
+Utah Code Annotated § 70C-6-106(4)(a): the insurance is terminated by performance of the insurer's obligation;
+Utah Code Annotated § 70C-6-106(4)(b): the creditor pays or accounts for premiums to the insurer in amounts and at times determined by the agreement between them; or
+Utah Code Annotated § 70C-6-106(4)(c): the creditor receives directly or indirectly under any policy of insurance a gain or advantage not prohibited by law.
+
+
+Utah Code Annotated § 70C-6-107 Existing insurance -- Choice of insurer.
+------------------------------------------------------------------------
+If a creditor requires insurance, upon notice to the creditor the debtor may provide the required insurance through an existing policy of insurance owned or controlled by the debtor, or through a policy to be obtained and paid for by the debtor, but the creditor may for reasonable cause decline the insurance provided by the debtor.
+
+Utah Code Annotated § 70C-6-108 Charge for insurance in connection with a deferral, refinancing, or consolidation -- Duplicate charges.
+---------------------------------------------------------------------------------------------------------------------------------------
+A creditor may contract for and receive a separate charge for insurance in connection with a deferral, a refinancing, or a consolidation if:Utah Code Annotated § 70C-6-108(1): the debtor agrees at or before the time of the deferral, refinancing, or consolidation that the charge may be made;
+Utah Code Annotated § 70C-6-108(2): the insurance is not required by the creditor as a condition of granting the deferral, refinancing, or consolidation, unless the insurance is of a type which the creditor may lawfully require a debtor to obtain in connection with an extension of credit;
+Utah Code Annotated § 70C-6-108(3): the terms and conditions of the insurance to be provided comply with all requirements of this chapter; and
+Utah Code Annotated § 70C-6-108(4): the debtor receives an appropriate refund or credit on account for any unexpired term of existing insurance which is duplicated to any degree by the insurance to be provided in connection with the deferral, refinancing, or consolidation.
+
+
+Utah Code Annotated § 70C-6-201 Term of insurance.
+--------------------------------------------------
+Utah Code Annotated § 70C-6-201(1): Consumer credit insurance provided by a creditor may be subject to the furnishing of evidence of insurability satisfactory to the insurer. Whether or not this evidence is required, the term of the insurance shall commence no later than when the debtor becomes obligated to the creditor or when the debtor applies for the insurance, whichever is later, except as follows:
+Utah Code Annotated § 70C-6-201(1)(a): if any required evidence of insurability is not furnished until more than 30 days after the term would otherwise commence, the term may commence on the date when the insurer determines the evidence to be satisfactory; or
+Utah Code Annotated § 70C-6-201(1)(b): if the creditor provides insurance not previously provided covering debts previously created, the term may commence on the effective date of the policy.
+Utah Code Annotated § 70C-6-201(2): With respect to a closed-end credit agreement, the originally scheduled term of the insurance shall extend at least until the due date of the last scheduled payment of the debt, but may not extend more than 15 days after the originally scheduled due date of the last scheduled payment of the debt unless:
+Utah Code Annotated § 70C-6-201(2)(a): it is extended without additional cost to the debtor;
+Utah Code Annotated § 70C-6-201(2)(b): it is extended in connection with a deferral, refinancing, or consolidation; or
+Utah Code Annotated § 70C-6-201(2)(c): if the debtor is advised in writing that the insurance will be written for a specified shorter time, the term need extend only until the end of the specified time.
+Utah Code Annotated § 70C-6-201(3): With respect to an open-end credit agreement, if the creditor agrees to provide consumer credit insurance, the creditor shall provide sufficient insurance to pay the unpaid balance in the open-end account at any point in time up to the limit of the line of credit granted, unless the parties to the credit agreement specifically agree in writing the insurance provided may be for a definite or limited term, and may be for a maximum amount less than the unpaid balance in the account at any time or less than the maximum amount of credit authorized.
+
+
+Utah Code Annotated § 70C-6-202 Maximum amount of insurance.
+------------------------------------------------------------
+Utah Code Annotated § 70C-6-202(1): With respect to a closed-end credit agreement:
+Utah Code Annotated § 70C-6-202(1)(a): in the case of consumer credit insurance providing life coverage, the amount of insurance may not initially exceed the debt and, if the debt is payable in installments, may not at any time exceed the greater of the scheduled or actual amount of the debt; and
+Utah Code Annotated § 70C-6-202(1)(b): in the case of any other consumer credit insurance, the total amount of periodic benefits payable may not exceed the total of scheduled unpaid installments of the debt, and the amount of any periodic benefit may not exceed the original amount of debt divided by the number of periodic installments in which it is payable.
+Utah Code Annotated § 70C-6-202(2): With respect to an open-end credit agreement:
+Utah Code Annotated § 70C-6-202(2)(a): in the case of consumer credit insurance providing life coverage, the amount of insurance may not exceed the unpaid balance in the account at any point in time; and
+Utah Code Annotated § 70C-6-202(2)(b): in the case of any other consumer credit insurance, the total amount of periodic benefits payable may not exceed the total of scheduled installments to pay the unpaid balance of the debt at any point in time.
+
+
+Utah Code Annotated § 70C-6-203 Filing and approval of rates and forms.
+-----------------------------------------------------------------------
+Utah Code Annotated § 70C-6-203(1): A creditor may use a form or a schedule of premium rates or charges concerning consumer credit insurance only if the form or schedule has been on file with the Insurance Department for at least 30 days and has not been disapproved by the Insurance Department or has been specifically approved by the Insurance Department at any time after filing.
+Utah Code Annotated § 70C-6-203(2): (3); Title 31A, Chapter 22, Part 8, Credit Life and Accident and Health Insurance Except as provided in Subsection
+Utah Code Annotated § 70C-6-203(3): If a group policy has been delivered in another state, the forms to be filed by the insurer with the Insurance Department are the group certificates and notices of proposed insurance.  The Insurance Department shall approve those certificates and notices if:
+Utah Code Annotated § 70C-6-203(3)(a): they provide the information that would be required if the group policy were delivered in this state; and
+Utah Code Annotated § 70C-6-203(3)(b): the applicable premium rates or charges do not exceed those established by the Insurance Department's rules.
+
+
+Utah Code Annotated § 70C-6-301 Property insurance.
+---------------------------------------------------
+Utah Code Annotated § 70C-6-301(1): A creditor may not contract for or receive a separate charge for insurance against loss of or damage to property related to the credit transaction unless:
+Utah Code Annotated § 70C-6-301(1)(a): the insurance covers a significant risk of loss of or damage to the property;
+Utah Code Annotated § 70C-6-301(1)(b): the amount, terms, and conditions of the insurance are reasonable in relation to the character and value of the property insured or to be insured; and
+Utah Code Annotated § 70C-6-301(1)(c): the term of the insurance is reasonable in relation to the terms of credit.
+Utah Code Annotated § 70C-6-301(2): The term of insurance is reasonable if it is customary and does not extend substantially beyond a scheduled maturity.
+
+
+Utah Code Annotated § 70C-6-302 Insurance on creditor's interest only.
+----------------------------------------------------------------------
+If a creditor contracts for or receives a separate charge for insurance against loss of or damage to property, the risk of loss or damage not willfully caused by the debtor is on the debtor only to the extent of any deficiency in the effective coverage of the insurance, even though the insurance covers only the interest of the creditor.
+
+Utah Code Annotated § 70C-6-303 Liability insurance.
+----------------------------------------------------
+A creditor may not contract for or receive a separate charge for insurance against liability arising out of the ownership or use of property related to the credit transaction, unless the insurance covers a significant risk of liability.
+
+Utah Code Annotated § 70C-6-304 Cancellation by creditor.
+---------------------------------------------------------
+A creditor may not request cancellation of a policy of property or liability insurance except after the debtor's default or in accordance with a written authorization by the debtor, and in either case the cancellation does not take effect until written notice is delivered to the debtor or mailed to him at his address as stated by him.  The notice shall state that the policy may be cancelled on a date not less than 10 days after the notice is delivered, or, if the notice is mailed, not less than 13 days after it is mailed.
+
+Utah Code Annotated - Title 70C - Chapter 7 - Remedies and Penalties
+********************************************************************
+
+Utah Code Annotated § 70C-7-101 Restriction on deficiency judgments in consumer credit sales.
+---------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-7-101(1): If a seller repossesses or voluntarily accepts the surrender or return of goods that were the subject of a consumer credit sale and in which the seller has a security interest to secure a debt arising from the sale of goods or services or a combined sale of goods and services, and the cash price of the sale was $3,000 or less, any debt remaining from the sale shall be fully satisfied and the seller has no further obligation to the buyer with respect to the goods taken or accepted.
+Utah Code Annotated § 70C-7-101(2): If the seller brings an action against the buyer for a debt arising from a consumer credit sale of goods or services, when under this section the creditor would not be entitled to a deficiency judgment if it repossessed the collateral, and obtains judgment:
+Utah Code Annotated § 70C-7-101(2)(a): it may not repossess the collateral; and
+Utah Code Annotated § 70C-7-101(2)(b): the collateral is not subject to levy or sale on execution or similar proceedings pursuant to the judgment.
+Utah Code Annotated § 70C-7-101(3): (1); (2); (2); (1); (2)
+Utah Code Annotated § 70C-7-101(3)(a): (1); (2) Subsections
+Utah Code Annotated § 70C-7-101(3)(b): (2) Subsection
+Utah Code Annotated § 70C-7-101(3)(c): (1); (2) Subsections
+Utah Code Annotated § 70C-7-101(4): Notwithstanding any other provision of this section, a creditor has no obligation to accept the surrender of collateral.
+
+
+Utah Code Annotated § 70C-7-102 No garnishment before judgment.
+---------------------------------------------------------------
+Prior to entry of judgment in an action against a debtor relating to a consumer credit agreement, the creditor may not attach unpaid earnings of the debtor by garnishment or like proceedings.
+
+Utah Code Annotated § 70C-7-103 Definitions -- Limitation on garnishment.
+-------------------------------------------------------------------------
+Utah Code Annotated § 70C-7-103(1): 70C-1-202(2)(h)(ii)(B)(II) As used in this part:
+Utah Code Annotated § 70C-7-103(1)(a): "Disposable earnings" means that part of the earnings of an individual remaining after the deduction from those earnings of amounts required by law to be withheld.
+Utah Code Annotated § 70C-7-103(1)(b): 70C-1-202(2)(h)(ii)(B)(II) "Education loan" means a loan subject to this title, or notwithstanding Subsection
+Utah Code Annotated § 70C-7-103(1)(b)(i): is closed end;
+Utah Code Annotated § 70C-7-103(1)(b)(ii): is a qualified education loan as defined in 26 U.S.C. Sec. 221(d);
+Utah Code Annotated § 70C-7-103(1)(b)(iii): expressly states in the original loan documents that it is a qualified education loan or the proceeds will be used solely for qualified higher education expenses as defined in 26 U.S.C. Sec 221(d); and
+Utah Code Annotated § 70C-7-103(1)(b)(iv): in a bankruptcy filing, the loan or any indebtedness relating to the loan is subject to the provisions of 11 U.S.C. Sec. 523(a)(8).
+Utah Code Annotated § 70C-7-103(1)(c): "Garnishment" means a legal or equitable procedure through which the earnings of an individual are required to be withheld for payment of a debt.
+Utah Code Annotated § 70C-7-103(2): The maximum part of the aggregate disposable earnings of an individual for any pay period that is subjected to garnishment to enforce payment of a judgment arising from a consumer credit agreement may not exceed the lesser of:
+Utah Code Annotated § 70C-7-103(2)(a): 25% of the individual's disposable earnings for that pay period;
+Utah Code Annotated § 70C-7-103(2)(b): the amount by which the individual's disposable earnings for that pay period exceed 30 hours per week multiplied by the federal minimum hourly wage prescribed by Section 6(a)(1) of the Fair Labor Standards Act of 1938, 29 U.S.C. Sec. 206(a)(1), in effect at the time the earnings are payable; or
+Utah Code Annotated § 70C-7-103(2)(c): 15% of the individual's disposable earnings for that pay period if the judgment relates to an education loan.
+Utah Code Annotated § 70C-7-103(3): A court may not make, execute, or enforce an order or process in violation of this section.
+
+
+Utah Code Annotated § 70C-7-104 No discharge from employment for garnishment.
+-----------------------------------------------------------------------------
+No employer may discharge any employee because his earnings have been subject to garnishment in connection with any one judgment.
+
+Utah Code Annotated § 70C-7-105 Extortionate extensions of credit.
+------------------------------------------------------------------
+If it is the understanding of the creditor and the debtor at the time an extension of credit is made that delay in making repayment or failure to make repayment could result in the use of violence or other criminal means to cause harm to the person, reputation, or property of any person, the repayment of the extension of credit is unenforceable through any judicial proceedings against the debtor.
+
+Utah Code Annotated § 70C-7-106 Unconscionability.
+--------------------------------------------------
+Utah Code Annotated § 70C-7-106(1): With respect to a consumer credit agreement, if the court finds the agreement or any part of the agreement to have been unconscionable at the time it was made, the court may refuse to enforce the agreement, or it may enforce the remainder of the agreement without the unconscionable clause if that will avoid any unconscionable result.
+Utah Code Annotated § 70C-7-106(2): If it is claimed or appears to a court that a consumer credit agreement or any part of it may be unconscionable, the parties shall be afforded a reasonable opportunity to present evidence as to its setting, purpose, and effect to aid the court in making the determination.
+Utah Code Annotated § 70C-7-106(3): For the purposes of this section, a charge or practice expressly permitted by this title is not in itself unconscionable.
+Utah Code Annotated § 70C-7-106(4): (1) If the court as a matter of law finds a consumer credit agreement or any part of the agreement to have been unconscionable, then in addition to the relief provided for in Subsection
+Utah Code Annotated § 70C-7-106(4)(a): not less than $100 nor more than $5,000; and
+Utah Code Annotated § 70C-7-106(4)(b): the cost of the action together with a reasonable attorney's fee.
+Utah Code Annotated § 70C-7-106(5): (4) The penalties provided for in Subsection
+Utah Code Annotated § 70C-7-106(6): No class action may be brought under this section except for injunctive or declaratory relief.
+Utah Code Annotated § 70C-7-106(7): (6); (4) Nothing contained in Subsection
+
+
+Utah Code Annotated § 70C-7-107 Notice of negative credit report required.
+--------------------------------------------------------------------------
+"As required by Utah law, you are hereby notified that a negative credit report reflecting on your credit record may be submitted to a credit reporting agency if you fail to fulfill the terms of your credit obligations."Utah Code Annotated § 70C-7-107(1): 70C-1-302 As used in this section:
+Utah Code Annotated § 70C-7-107(1)(a): 70C-1-302 "Creditor," in addition to its definition under Section
+Utah Code Annotated § 70C-7-107(1)(b): "Credit reporting agency" means any credit bureau, consumer reporting agency, association of lending institutions, association of merchants, association of other creditors, any person, firm, partnership, cooperative, or corporation which, for a fee, dues, or on a cooperative nonprofit basis, is organized for the purpose of, or regularly engages in, the gathering or evaluating of consumer credit information or other information about consumers for the purpose of reporting to third parties on the credit rating or creditworthiness of any party.
+Utah Code Annotated § 70C-7-107(1)(c): 
+Utah Code Annotated § 70C-7-107(1)(c)(i): "Negative credit report" means information reflecting on the credit history of a party that, because of the party's past delinquencies, late or irregular payment history, insolvency, or any form of default, would reasonably be expected to affect adversely the party's ability to obtain or maintain credit.
+Utah Code Annotated § 70C-7-107(1)(c)(ii): Negative credit report does not include information or credit histories arising from a nonconsumer transaction or any other credit transaction outside the scope of this title, nor does it include inquiries about a consumer's record.
+Utah Code Annotated § 70C-7-107(2): A creditor may submit a negative credit report to a credit reporting agency, only if the creditor notifies the party whose credit record is the subject of the negative report.  After providing this notice, a creditor may submit additional information to a credit reporting agency respecting the same transaction or extension of credit that gave rise to the original negative credit report without providing any additional notice.
+Utah Code Annotated § 70C-7-107(3): (2); (3)(c)
+Utah Code Annotated § 70C-7-107(3)(a): (2) A creditor shall provide the notice described in Subsection
+Utah Code Annotated § 70C-7-107(3)(a)(i): in writing;
+Utah Code Annotated § 70C-7-107(3)(a)(ii): by:
+Utah Code Annotated § 70C-7-107(3)(a)(ii)(A): in-person delivery;
+Utah Code Annotated § 70C-7-107(3)(a)(ii)(B): first class mail, postage prepaid, to the party's last-known address; or
+Utah Code Annotated § 70C-7-107(3)(a)(ii)(C): if the party has consented to receive notices by electronic mail, by electronic mail; and
+Utah Code Annotated § 70C-7-107(3)(a)(iii): no more than 30 days after the day on which the creditor submits the negative credit report to the credit reporting agency.
+Utah Code Annotated § 70C-7-107(3)(b): The notice may be part of any notice of default, billing statement, or other correspondence from the creditor to the party.
+Utah Code Annotated § 70C-7-107(3)(c): The notice is sufficient if it takes substantially the following form:
+Utah Code Annotated § 70C-7-107(3)(d): (3)(c) The notice may, in the creditor's discretion, be more specific than the form given in Subsection
+Utah Code Annotated § 70C-7-107(4): 
+Utah Code Annotated § 70C-7-107(4)(a): A creditor who fails to provide notice as required by this section is liable to the injured party for actual damages.  In any cause of action filed to determine the liability of a creditor or damages, the prevailing party in such an action is entitled to court costs and attorney's fees.
+Utah Code Annotated § 70C-7-107(4)(b): If a creditor willfully violates this section, the court may award punitive damages in an amount not in excess of two times the amount of the actual damages awarded.
+Utah Code Annotated § 70C-7-107(4)(c): A creditor is not liable for failure to provide notice if he establishes by a preponderance of the evidence that, at the time of his failure to give notice, he maintained reasonable procedures to comply with this section.
+Utah Code Annotated § 70C-7-107(5): A creditor is not required to comply with this section in violation of 11 U.S.C. Sec. 362, as amended.
+
+
+Utah Code Annotated § 70C-7-201 Effect of violations by creditors -- Penalties -- Debtor's rights.
+--------------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-7-201(1): A debtor is not obligated to pay a charge in excess of that allowed by this title, and if he has paid an excess charge he has a right to a refund. A refund may be made in whole or in part by reducing the debtor's obligation by the amount of the excess charge.  If the debtor has paid an amount in excess of the lawful obligation under the agreement, the debtor may recover the excess amount from the party who made the excess charge or from an assignee of the creditor's rights who undertakes direct collection of payments from or enforcement of rights against the debtor with respect to the debt.
+Utah Code Annotated § 70C-7-201(2): If a debtor is entitled to a refund and a party liable to the debtor in bad faith refuses to make a refund within a reasonable time after demand, the debtor may recover from that party a penalty in an amount to be determined by a court not exceeding the greater of either the amount of the finance charge or 10 times the amount of the excess charge.  If the creditor has made an excess charge in deliberate violation of or in reckless disregard for this title, the penalty may be recovered even though the creditor has refunded the excess charge.
+
+
+Utah Code Annotated § 70C-7-202 Assignees of creditor.
+------------------------------------------------------
+Except as otherwise specifically provided in this title, or unless the assignment is involuntary, any civil action for violation of this title which may be brought against the original creditor in any consumer credit transaction may be maintained against any subsequent assignee of the original creditor where the violation from which the alleged liability arose is apparent on the face of the instrument assigned.
+
+Utah Code Annotated § 70C-7-203 Refunds and penalties as setoff to obligation.
+------------------------------------------------------------------------------
+Refunds or penalties to which the debtor is entitled under this part may be set off against the debtor's obligation and may be raised as a defense to a suit on the obligation without regard to the time limitations prescribed by this part.
+
+Utah Code Annotated § 70C-7-204 Attorney's fees.
+------------------------------------------------
+In any case where it is found that a creditor has violated this title or its agreement with the debtor, the court may award reasonable attorney's fees to the debtor.
+
+Utah Code Annotated § 70C-7-205 Statute of limitations.
+-------------------------------------------------------
+No action under this title may be brought more than one year after the date of the occurrence of the violation.  This section does not bar a person from asserting a violation of this title in an action to collect the debt which is brought more than one year after the date of the occurrence of the violation as a matter of defense by recoupment or setoff to the extent of the outstanding balance of the debt.
+
+Utah Code Annotated § 70C-7-206 Creditor's defenses.
+----------------------------------------------------
+Utah Code Annotated § 70C-7-206(1): 70C-7-201; 70C-7-204 If a creditor establishes by a preponderance of evidence that a violation of this title is unintentional or the result of a bona fide error, no penalty as specified in Sections
+Utah Code Annotated § 70C-7-206(2): A creditor or assignee has no liability under this part for any failure to comply with any requirement imposed under this title if within 60 days after discovering an error, and prior to the institution of an action under this chapter or the receipt of written notice of the error from the debtor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
+Utah Code Annotated § 70C-7-206(3): No provision of this part imposing any penalty applies to any action done or omitted in good faith in conformity with some provision of this title, notwithstanding that after the action or omission has occurred the provision is amended, rescinded, or determined by judicial or other competent authority to be invalid for any reason.
+
+
+Utah Code Annotated - Title 70C - Chapter 8 - Administration
+************************************************************
+
+Utah Code Annotated § 70C-8-101 Administration of title.
+--------------------------------------------------------
+Utah Code Annotated § 70C-8-101(1): As used in this chapter, "department" means the Department of Financial Institutions.
+Utah Code Annotated § 70C-8-101(2): This title shall be administered by the department.
+
+
+Utah Code Annotated § 70C-8-102 Powers of department -- Conformity with federal law -- Reliance on rules.
+---------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-8-102(1): In addition to other powers granted by this title, the department, within the limitations provided by law, may:
+Utah Code Annotated § 70C-8-102(1)(a): receive and act on complaints, take action designed to obtain voluntary compliance with this title, or commence administrative or judicial proceedings on its own initiative;
+Utah Code Annotated § 70C-8-102(1)(b): counsel persons and groups on their rights and duties under this title;
+Utah Code Annotated § 70C-8-102(1)(c): establish programs for the education of consumers with respect to credit practices and problems;
+Utah Code Annotated § 70C-8-102(1)(d): make studies appropriate to effectuate the purposes and policies of this title and make the results available to the public;
+Utah Code Annotated § 70C-8-102(1)(e): adopt, amend, and repeal rules to supplement, interpret, or carry out the provisions of this title;
+Utah Code Annotated § 70C-8-102(1)(f): maintain offices within this state; and
+Utah Code Annotated § 70C-8-102(1)(g): employ any necessary hearing examiners, clerks, and other employees and agents.
+Utah Code Annotated § 70C-8-102(2): The department may adopt rules that supersede any provisions of this title that are or come into conflict with the Federal Consumer Credit Protection Act or its implementing Regulation Z if the department:
+Utah Code Annotated § 70C-8-102(2)(a): finds such a conflict to exist; and
+Utah Code Annotated § 70C-8-102(2)(b): declares that the purpose of superseding this title is to resolve that conflict.
+Utah Code Annotated § 70C-8-102(3): Except for refund of an excess charge, no liability is imposed under this title for an act done or omitted in conformity with the rule of the department, notwithstanding that after the act or omission the rule may be amended or repealed or be determined by judicial or other competent authority to be invalid for any reason.
+Utah Code Annotated § 70C-8-102(4): A rule or any part of a rule adopted by the department under this title may not be determined by any judicial or other authority to be invalid in whole or in part unless such judicial or other authority expressly finds that the rule or part of the rule is arbitrary, capricious, and constitutes an abuse of discretion, or exceeds the authority granted to the department by this title, or is otherwise unlawful.
+Utah Code Annotated § 70C-8-102(5): The department shall coordinate with representatives of education, government, and the financial services industry and assist in the preparation of an initiative to develop, implement, and monitor a financial services education curriculum that is:
+Utah Code Annotated § 70C-8-102(5)(a): to be made available to the public; and
+Utah Code Annotated § 70C-8-102(5)(b): appropriate for use in the public schools.
+
+
+Utah Code Annotated § 70C-8-103 Investigatory powers -- Evidence.
+-----------------------------------------------------------------
+Utah Code Annotated § 70C-8-103(1): The department shall conduct studies and examinations of parties subject to this title it deems necessary and appropriate to monitor the kinds and amounts of credit that are being extended to consumers in this state to determine whether violations of this title and other applicable laws, rules, and regulations pertaining to consumer credit are occurring and the frequency and seriousness of them, and to obtain additional information the department deems necessary or useful to perform its duties as administrator of this title.
+Utah Code Annotated § 70C-8-103(2): (1) In addition to the studies and examinations provided for in Subsection
+Utah Code Annotated § 70C-8-103(3): If the department requires the production of records which are located outside this state, the party shall either make them available to the department at a convenient location within this state or pay the reasonable and necessary expenses for the department to examine them at the place where they are maintained.  The department may designate representatives, including officials of the state in which the records are located, to inspect them on its behalf.
+Utah Code Annotated § 70C-8-103(4): Upon failure without lawful excuse to obey a subpoena or give testimony, and upon reasonable notice to all affected persons, the department may apply to the district court for an order compelling compliance.
+Utah Code Annotated § 70C-8-103(5): The department may not make public the name or identity of a person whose acts or conduct it investigates pursuant to this section or the facts disclosed in the investigation.
+Utah Code Annotated § 70C-8-103(6): (5) Subsection
+
+
+Utah Code Annotated § 70C-8-104 Enforcement proceedings.
+--------------------------------------------------------
+Utah Code Annotated § 70C-8-104(1): (1)(b); (1)(a); (1)(a); Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1)
+Utah Code Annotated § 70C-8-104(1)(a): (1)(b); (1)(a) The department may take an action described in Subsection
+Utah Code Annotated § 70C-8-104(1)(a)(i): any applicable provision of this title;
+Utah Code Annotated § 70C-8-104(1)(a)(ii): any rule or order under this title;
+Utah Code Annotated § 70C-8-104(1)(a)(iii): any condition imposed in writing in connection with the granting of any application or other request by the party; or
+Utah Code Annotated § 70C-8-104(1)(a)(iv): (1)(a) any federal statute or regulation pertaining to consumer credit in effect at the time of the determination described in Subsection
+Utah Code Annotated § 70C-8-104(1)(b): (1)(a) If the department makes a determination described in Subsection
+Utah Code Annotated § 70C-8-104(1)(b)(i): order the party to cease and desist from committing any further violations; and
+Utah Code Annotated § 70C-8-104(1)(b)(ii): in the most serious instances, prohibit a party from making further extensions of credit to consumers.
+Utah Code Annotated § 70C-8-104(1)(c): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1) The department shall by rule, made in accordance with
+Utah Code Annotated § 70C-8-104(2): (1)(a) The department shall afford an opportunity for hearing upon request of any party described in Subsection
+Utah Code Annotated § 70C-8-104(3): (3)
+Utah Code Annotated § 70C-8-104(3)(a): If the department determines that a practice that it has alleged is unlawful should be enjoined during the pendency of any proceedings incident to that allegation, the department may issue a temporary order:
+Utah Code Annotated § 70C-8-104(3)(a)(i): at the commencement of the proceedings; or
+Utah Code Annotated § 70C-8-104(3)(a)(ii): at any time after commencement of the proceeding.
+Utah Code Annotated § 70C-8-104(3)(b): (3) The temporary order described in this Subsection
+Utah Code Annotated § 70C-8-104(3)(b)(i): the proceedings are concluded; or
+Utah Code Annotated § 70C-8-104(3)(b)(ii): the temporary order is modified or dissolved by the department.
+Utah Code Annotated § 70C-8-104(3)(c): Any party to whom a temporary order is directed may request a hearing concerning the order, which shall be held:
+Utah Code Annotated § 70C-8-104(3)(c)(i): at the earliest mutually convenient time, but in no event more than 10 days, after the party's request is received by the department; or
+Utah Code Annotated § 70C-8-104(3)(c)(ii): at any other time the parties may mutually agree upon.
+Utah Code Annotated § 70C-8-104(3)(d): Every temporary order shall include findings and conclusions in support of the order.
+Utah Code Annotated § 70C-8-104(3)(e): A temporary order may not be issued unless the department finds from specific facts supported by sworn statement or the records of a party subject to the order that consumers are otherwise likely to suffer immediate and irreparable injury, loss, or damage before proceedings, incident to a final order, can be completed.
+Utah Code Annotated § 70C-8-104(4): The department may not award damages or penalties against a creditor.
+Utah Code Annotated § 70C-8-104(5): (5)(a)
+Utah Code Annotated § 70C-8-104(5)(a): Any order issued by the department under authority of this title shall:
+Utah Code Annotated § 70C-8-104(5)(a)(i): be in writing;
+Utah Code Annotated § 70C-8-104(5)(a)(ii): be delivered to or served upon the party affected; and
+Utah Code Annotated § 70C-8-104(5)(a)(iii): specify its effective date, which may be immediate or at a later date.
+Utah Code Annotated § 70C-8-104(5)(b): (5)(a) An order described in Subsection
+Utah Code Annotated § 70C-8-104(5)(b)(i): withdrawn by the department; or
+Utah Code Annotated § 70C-8-104(5)(b)(ii): terminated by a court order.
+Utah Code Annotated § 70C-8-104(5)(c): 
+Utah Code Annotated § 70C-8-104(5)(c)(i): An order of the department, upon application made on or after the effective date of the order by the department to a court of general jurisdiction in the county in which an office or the residence of the party is located, may be enforced ex parte and without notice by an order to comply entered by the court.
+Utah Code Annotated § 70C-8-104(5)(c)(ii): If the proceeding involves more than one party and each of the parties does not have an office or residence in one county, the department may file its application in any county of this state where one of the parties has an office or residence.
+Utah Code Annotated § 70C-8-104(5)(c)(iii): If no party to the proceeding has an office or residence in the state, the department's application shall be filed in the Third District Court.
+
+
+Utah Code Annotated § 70C-8-105 Judicial review.
+------------------------------------------------
+Utah Code Annotated § 70C-8-105(1): Any party aggrieved by any rule, order, temporary order, decision, ruling, or other act or failure to act by the department under this title is entitled to judicial review.  Within 30 days after receiving notice of a rule, order, temporary order, decision, or other ruling, or within 120 days after the department has failed to act upon a request or application, the aggrieved party may file an application for judicial review with a court of competent jurisdiction in the county in which the applicant is located or in the Third District Court.  The court may void any rule, order, temporary order, decision, ruling, or other act of the department it finds to be arbitrary, capricious, an abuse of discretion, in excess of the department's authority, or otherwise contrary to law.
+Utah Code Annotated § 70C-8-105(2): Any party upon showing that it may be subject to potential irreparable injury by any proposed rule or order of the department may, without exhausting its administrative remedies, apply for a declaratory judgment as to any question of law arising out of the rule or order.  The applications shall be filed in the Third District Court.
+Utah Code Annotated § 70C-8-105(3): Any action for judicial review of acts or failures to act of the department shall be heard by the court and shall be based on the record made before the department unless the court finds good cause to admit additional and otherwise proper evidence.
+Utah Code Annotated § 70C-8-105(4): Filing an application for judicial review does not stay the adoption or enforcement of any rule, order, temporary order, decision, or ruling of the department.  The court may expressly stay any rule, order, decision, or ruling of the department during the pendency of judicial proceedings challenging them upon terms and conditions it deems appropriate after finding that the possible harm to all interested parties is, on balance, likely to be less if the stay is imposed, or if the applicant and the department stipulate to the imposition of a stay.
+
+
+Utah Code Annotated § 70C-8-106 Debtor's remedies not affected.
+---------------------------------------------------------------
+The grant of powers to the department in this chapter does not affect any remedies available to debtors under this title or under other principles of law or equity.
+
+Utah Code Annotated § 70C-8-107 Temporary or injunctive relief against unconscionable and fraudulent conduct.
+-------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 70C-8-107(1): (1)(a); (b) The department may bring a civil action to enjoin a person subject to this title from:
+Utah Code Annotated § 70C-8-107(1)(a): making or enforcing a term of consumer credit transactions that is unconscionable;
+Utah Code Annotated § 70C-8-107(1)(b): engaging in fraudulent conduct in inducing consumers to enter into a consumer credit transaction; or
+Utah Code Annotated § 70C-8-107(1)(c): (1)(a); (b) engaging in conduct of the type specified in Subsection
+Utah Code Annotated § 70C-8-107(2): An action brought pursuant to this section is subject to the requirements of Utah Rules of Civil Procedure, Rule 65A.
+
+
+Utah Code Annotated § 70C-8-201 Applicability.
+----------------------------------------------
+Utah Code Annotated § 70C-8-201(1): (2) Except as provided in Subsection
+Utah Code Annotated § 70C-8-201(1)(a): a creditor that is subject to this title; and
+Utah Code Annotated § 70C-8-201(1)(b): a party who:
+Utah Code Annotated § 70C-8-201(1)(b)(i): has an office or place of business in this state; and
+Utah Code Annotated § 70C-8-201(1)(b)(ii): takes an assignment of or undertakes direct collection of a payment from or enforcement of a right against a debtor arising from a consumer credit transaction.
+Utah Code Annotated § 70C-8-201(2): 7-1-103; (2)(a) Except where otherwise indicated, the following are exempt from this part:
+Utah Code Annotated § 70C-8-201(2)(a): 7-1-103 a depository institution as defined in Section
+Utah Code Annotated § 70C-8-201(2)(b): (2)(a) a wholly owned subsidiary of a depository institution described in Subsection
+
+
+Utah Code Annotated § 70C-8-202 Notification.
+---------------------------------------------
+Utah Code Annotated § 70C-8-202(1): (1)(a); (1); (1)(c)(i); Title 16, Corporations; Title 48, Unincorporated Business Entity Act
+Utah Code Annotated § 70C-8-202(1)(a): A party who is subject to this part shall file notification with the department at least 30 days before commencing business in this state.
+Utah Code Annotated § 70C-8-202(1)(b): (1)(a) After filing the notification required by Subsection
+Utah Code Annotated § 70C-8-202(1)(c): (1); (1)(c)(i); Title 16, Corporations; Title 48, Unincorporated Business Entity Act A notification required by this Subsection
+Utah Code Annotated § 70C-8-202(1)(c)(i): state the name of the party;
+Utah Code Annotated § 70C-8-202(1)(c)(ii): (1)(c)(i) state the name in which the business is transacted if different from that required in Subsection
+Utah Code Annotated § 70C-8-202(1)(c)(iii): state the address of the party's principal office, which may be outside this state;
+Utah Code Annotated § 70C-8-202(1)(c)(iv): state the address of:
+Utah Code Annotated § 70C-8-202(1)(c)(iv)(A): each office or retail store, if any, in this state at which credit is offered or extended to a consumer; or
+Utah Code Annotated § 70C-8-202(1)(c)(iv)(B): in the case of a party taking an assignment of an obligation, each office or place of business within this state at which business is transacted;
+Utah Code Annotated § 70C-8-202(1)(c)(v): if credit is extended to a consumer other than at an office or retail store in this state, state a brief description of the manner in which the credit transaction occurs;
+Utah Code Annotated § 70C-8-202(1)(c)(vi): state the name and address in this state of a designated agent upon whom service of process may be made;
+Utah Code Annotated § 70C-8-202(1)(c)(vii): Title 16, Corporations; Title 48, Unincorporated Business Entity Act submit evidence satisfactory to the commissioner that the person is authorized to conduct business in this state as a domestic or foreign entity pursuant to filings with the Division of Corporations and Commercial Code under
+Utah Code Annotated § 70C-8-202(1)(c)(viii): provide any other information considered pertinent by the department.
+Utah Code Annotated § 70C-8-202(2): If information in a notification becomes inaccurate after filing, a party is not required to file further notification until required to renew the party's notification.
+Utah Code Annotated § 70C-8-202(3): (3)
+Utah Code Annotated § 70C-8-202(3)(a): A party who fails to file a notification or pay a fee required by this part may not extend credit to a consumer in this state until the party fully complies with this part.
+Utah Code Annotated § 70C-8-202(3)(b): (3) A party who willfully violates this Subsection
+
+
+Utah Code Annotated § 70C-8-203 Fees -- Examinations.
+-----------------------------------------------------
+Utah Code Annotated § 70C-8-203(1): 70C-8-202 A party required to file notification under Section
+Utah Code Annotated § 70C-8-203(2): In addition to filing notification, a party subject to this part, and a depository institution subject to this title:
+Utah Code Annotated § 70C-8-203(2)(a): may be required to make a book or record relating to a consumer credit transaction available to the department or its authorized representative for examination; and
+Utah Code Annotated § 70C-8-203(2)(b): shall pay to the department a fee to be set by the department based on an hourly rate per each examiner.
+Utah Code Annotated § 70C-8-203(3): No portion of a fee paid or owed to the department under this part is refundable because a party voluntarily or involuntarily ceases to extend credit to consumers:
+Utah Code Annotated § 70C-8-203(3)(a): during the period covered by the fee; or
+Utah Code Annotated § 70C-8-203(3)(b): before the time of an examination by the department of a book or record pertaining to a preceding consumer credit transaction.
+
+

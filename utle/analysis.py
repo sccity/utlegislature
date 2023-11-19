@@ -73,7 +73,7 @@ class OpenAIConnector:
             f"Craft a comprehensive analysis that guides decision-makers in understanding the consequences of these provisions for municipalities."
         )
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=[role_system, {"role": "user", "content": prompt}],
         )
         return response.choices[0].message['content'].strip() 
@@ -89,7 +89,7 @@ class BillProcessor:
             self.db_connector.conn.begin()  # Begin a transaction
 
             self.db_connector.cursor.execute(
-                "SELECT guid, highlighted_provisions FROM bills WHERE ai_analysis IS NULL AND level != 5 AND last_action_owner NOT LIKE '%not pass%'"
+                "SELECT guid, highlighted_provisions FROM bills WHERE ai_analysis IS NULL AND last_action_owner NOT LIKE '%not pass%'"
             )
             rows = self.db_connector.cursor.fetchall()
 

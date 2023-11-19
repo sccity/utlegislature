@@ -1,0 +1,1625 @@
+Utah Code Annotated - Title 17D - Limited Purpose Local Government Entities - Other Entities
+============================================================================================
+
+Utah Code Annotated - Title 17D - Chapter 1 - Special Service District Act
+**************************************************************************
+
+Utah Code Annotated § 17D-1-101 Title.
+--------------------------------------
+Utah Code Annotated § 17D-1-101(1): This title is known as "Limited Purpose Local Government Entities - Other Entities."
+Utah Code Annotated § 17D-1-101(2): This chapter is known as the "Special Service District Act."
+
+
+Utah Code Annotated § 17D-1-102 Definitions.
+--------------------------------------------
+As used in this chapter:Utah Code Annotated § 17D-1-102(1): "Adequate protests" means written protests timely filed by:
+Utah Code Annotated § 17D-1-102(1)(a): the owners of private real property that:
+Utah Code Annotated § 17D-1-102(1)(a)(i): is located within the applicable area;
+Utah Code Annotated § 17D-1-102(1)(a)(ii): covers at least 25% of the total private land area within the applicable area; and
+Utah Code Annotated § 17D-1-102(1)(a)(iii): is equal in value to at least 15% of the value of all private real property within the applicable area; or
+Utah Code Annotated § 17D-1-102(1)(b): registered voters residing within the applicable area equal in number to at least 25% of the number of votes cast in the applicable area for the office of president of the United States at the most recent election prior to the adoption of the resolution or filing of the petition.
+Utah Code Annotated § 17D-1-102(2): "Applicable area" means:
+Utah Code Annotated § 17D-1-102(2)(a): for a proposal to create a special service district, the area included within the proposed special service district;
+Utah Code Annotated § 17D-1-102(2)(b): for a proposal to annex an area to an existing special service district, the area proposed to be annexed;
+Utah Code Annotated § 17D-1-102(2)(c): for a proposal to add a service to the service or services provided by a special service district, the area included within the special service district; and
+Utah Code Annotated § 17D-1-102(2)(d): for a proposal to consolidate special service districts, the area included within each special service district proposed to be consolidated.
+Utah Code Annotated § 17D-1-102(3): "Facility" or "facilities" includes any structure, building, system, land, water right, water, or other real or personal property required to provide a service that a special service district is authorized to provide, including any related or appurtenant easement or right-of-way, improvement, utility, landscaping, sidewalk, road, curb, gutter, equipment, or furnishing.
+Utah Code Annotated § 17D-1-102(4): "General obligation bond":
+Utah Code Annotated § 17D-1-102(4)(a): means a bond that is directly payable from and secured by ad valorem property taxes that are:
+Utah Code Annotated § 17D-1-102(4)(a)(i): levied:
+Utah Code Annotated § 17D-1-102(4)(a)(i)(A): by the county or municipality that created the special service district that issues the bond; and
+Utah Code Annotated § 17D-1-102(4)(a)(i)(B): on taxable property within the special service district; and
+Utah Code Annotated § 17D-1-102(4)(a)(ii): in excess of the ad valorem property taxes for the current fiscal year; and
+Utah Code Annotated § 17D-1-102(4)(b): does not include:
+Utah Code Annotated § 17D-1-102(4)(b)(i): a short-term bond;
+Utah Code Annotated § 17D-1-102(4)(b)(ii): a tax and revenue anticipation bond; or
+Utah Code Annotated § 17D-1-102(4)(b)(iii): a special assessment bond.
+Utah Code Annotated § 17D-1-102(5): 17D-1-301; 17D-1-301 "Governing body" means:
+Utah Code Annotated § 17D-1-102(5)(a): 17D-1-301 the legislative body of the county or municipality that creates the special service district, to the extent that the county or municipal legislative body has not delegated authority to an administrative control board created under Section
+Utah Code Annotated § 17D-1-102(5)(b): 17D-1-301 the administrative control board of the special service district, to the extent that the county or municipal legislative body has delegated authority to an administrative control board created under Section
+Utah Code Annotated § 17D-1-102(6): "Guaranteed bonds" means bonds:
+Utah Code Annotated § 17D-1-102(6)(a): issued by a special service district; and
+Utah Code Annotated § 17D-1-102(6)(b): the debt service of which is guaranteed by one or more taxpayers owning property within the special service district.
+Utah Code Annotated § 17D-1-102(7): "Revenue bond":
+Utah Code Annotated § 17D-1-102(7)(a): means a bond payable from designated taxes or other revenues other than the ad valorem property taxes of the county or municipality that created the special service district; and
+Utah Code Annotated § 17D-1-102(7)(b): does not include:
+Utah Code Annotated § 17D-1-102(7)(b)(i): an obligation constituting an indebtedness within the meaning of an applicable constitutional or statutory debt limit;
+Utah Code Annotated § 17D-1-102(7)(b)(ii): a tax and revenue anticipation bond; or
+Utah Code Annotated § 17D-1-102(7)(b)(iii): a special assessment bond.
+Utah Code Annotated § 17D-1-102(8): 20A-2-105 "Seasonally occupied home" means a single-family residence:
+Utah Code Annotated § 17D-1-102(8)(a): that is located within the special service district;
+Utah Code Annotated § 17D-1-102(8)(b): that receives service from the special service district; and
+Utah Code Annotated § 17D-1-102(8)(c): 20A-2-105 whose owner occupies the residence on a temporary or seasonal basis, rather than as the principal place of residence as defined in Section
+Utah Code Annotated § 17D-1-102(9): "Special assessment" means an assessment levied against property to pay all or a portion of the costs of making improvements that benefit the property.
+Utah Code Annotated § 17D-1-102(10): "Special assessment bond" means a bond payable from special assessments.
+Utah Code Annotated § 17D-1-102(11): 17B-1-102 "Special district" has the same meaning as that term is defined in Section
+Utah Code Annotated § 17D-1-102(12): 17D-1-103 "Special service district" means a limited purpose local government entity, as described in Section
+Utah Code Annotated § 17D-1-102(12)(a): is created under authority of the Utah Constitution Article XI, Section 7; and
+Utah Code Annotated § 17D-1-102(12)(b): operates under, is subject to, and has the powers set forth in this chapter.
+Utah Code Annotated § 17D-1-102(13): "Tax and revenue anticipation bond" means a bond:
+Utah Code Annotated § 17D-1-102(13)(a): issued in anticipation of the collection of taxes or other revenues or a combination of taxes and other revenues; and
+Utah Code Annotated § 17D-1-102(13)(b): that matures within the same fiscal year as the fiscal year in which the bond is issued.
+
+
+Utah Code Annotated § 17D-1-103 Special service district status, powers, and duties -- Registration as a limited purpose entity -- Limitation on districts providing jail service.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-103(1): A special service district:
+Utah Code Annotated § 17D-1-103(1)(a): is:
+Utah Code Annotated § 17D-1-103(1)(a)(i): a body corporate and politic with perpetual succession, separate and distinct from the county or municipality that creates it;
+Utah Code Annotated § 17D-1-103(1)(a)(ii): a quasi-municipal corporation; and
+Utah Code Annotated § 17D-1-103(1)(a)(iii): a political subdivision of the state; and
+Utah Code Annotated § 17D-1-103(1)(b): may sue and be sued.
+Utah Code Annotated § 17D-1-103(2): (4); Title 11, Chapter 42, Assessment Area Act; Part 5, Special Service District Bonds; 11-14-308; (5) A special service district may:
+Utah Code Annotated § 17D-1-103(2)(a): exercise the power of eminent domain possessed by the county or municipality that creates the special service district;
+Utah Code Annotated § 17D-1-103(2)(b): enter into a contract that the governing authority considers desirable to carry out special service district functions, including a contract:
+Utah Code Annotated § 17D-1-103(2)(b)(i): with the United States or an agency of the United States, the state, an institution of higher education, a county, a municipality, a school district, a special district, another special service district, or any other political subdivision of the state; or
+Utah Code Annotated § 17D-1-103(2)(b)(ii): that includes provisions concerning the use, operation, and maintenance of special service district facilities and the collection of fees or charges with respect to commodities, services, or facilities that the district provides;
+Utah Code Annotated § 17D-1-103(2)(c): acquire or construct facilities;
+Utah Code Annotated § 17D-1-103(2)(d): acquire real or personal property, or an interest in real or personal property, including water and water rights, whether by purchase, lease, gift, devise, bequest, or otherwise, and whether the property is located inside or outside the special service district, and own, hold, improve, use, finance, or otherwise deal in and with the property or property right;
+Utah Code Annotated § 17D-1-103(2)(e): sell, convey, lease, exchange, transfer, or otherwise dispose of all or any part of the special service district's property or assets, including water and water rights;
+Utah Code Annotated § 17D-1-103(2)(f): mortgage, pledge, or otherwise encumber all or any part of the special service district's property or assets, including water and water rights;
+Utah Code Annotated § 17D-1-103(2)(g): enter into a contract with respect to the use, operation, or maintenance of all or any part of the special service district's property or assets, including water and water rights;
+Utah Code Annotated § 17D-1-103(2)(h): accept a government grant or loan and comply with the conditions of the grant or loan;
+Utah Code Annotated § 17D-1-103(2)(i): (4) use an officer, employee, property, equipment, office, or facility of the county or municipality that created the special service district, subject to reimbursement as provided in Subsection
+Utah Code Annotated § 17D-1-103(2)(j): employ one or more officers, employees, or agents, including one or more engineers, accountants, attorneys, or financial consultants, and establish their compensation;
+Utah Code Annotated § 17D-1-103(2)(k): Title 11, Chapter 42, Assessment Area Act designate an assessment area and levy an assessment as provided in
+Utah Code Annotated § 17D-1-103(2)(l): contract with a franchised, certificated public utility for the construction and operation of an electrical service distribution system within the special service district;
+Utah Code Annotated § 17D-1-103(2)(m): borrow money and incur indebtedness;
+Utah Code Annotated § 17D-1-103(2)(n): Part 5, Special Service District Bonds; 11-14-308 as provided in
+Utah Code Annotated § 17D-1-103(2)(n)(i): bonds payable in whole or in part from taxes levied on the taxable property in the special service district;
+Utah Code Annotated § 17D-1-103(2)(n)(ii): bonds payable from revenues derived from the operation of revenue-producing facilities of the special service district;
+Utah Code Annotated § 17D-1-103(2)(n)(iii): bonds payable from both taxes and revenues;
+Utah Code Annotated § 17D-1-103(2)(n)(iv): guaranteed bonds, payable in whole or in part from taxes levied on the taxable property in the special service district;
+Utah Code Annotated § 17D-1-103(2)(n)(v): tax anticipation notes;
+Utah Code Annotated § 17D-1-103(2)(n)(vi): bond anticipation notes;
+Utah Code Annotated § 17D-1-103(2)(n)(vii): refunding bonds;
+Utah Code Annotated § 17D-1-103(2)(n)(viii): special assessment bonds; and
+Utah Code Annotated § 17D-1-103(2)(n)(ix): 11-14-308 bonds payable in whole or in part from mineral lease payments as provided in Section
+Utah Code Annotated § 17D-1-103(2)(o): (5) except as provided in Subsection
+Utah Code Annotated § 17D-1-103(2)(p): provide to an area outside the special service district's boundary, whether inside or outside the state, a service that the special service district is authorized to provide within its boundary, if the governing body makes a finding that there is a public benefit to providing the service to the area outside the special service district's boundary;
+Utah Code Annotated § 17D-1-103(2)(q): provide other services that the governing body determines will more effectively carry out the purposes of the special service district; and
+Utah Code Annotated § 17D-1-103(2)(r): adopt an official seal for the special service district.
+Utah Code Annotated § 17D-1-103(3): 67-1a-15; (3)(a); 67-1a-15; 67-3-1
+Utah Code Annotated § 17D-1-103(3)(a): 67-1a-15 Each special service district shall register and maintain the special service district's registration as a limited purpose entity, in accordance with Section
+Utah Code Annotated § 17D-1-103(3)(b): (3)(a); 67-1a-15; 67-3-1 A special service district that fails to comply with Subsection
+Utah Code Annotated § 17D-1-103(4): Each special service district that uses an officer, employee, property, equipment, office, or facility of the county or municipality that created the special service district shall reimburse the county or municipality a reasonable amount for what the special service district uses.
+Utah Code Annotated § 17D-1-103(5): 17D-1-201(10); (5)(a); (5)(b)(i)
+Utah Code Annotated § 17D-1-103(5)(a): 17D-1-201(10) A special service district that provides jail service as provided in Subsection
+Utah Code Annotated § 17D-1-103(5)(b): (5)(a); (5)(b)(i) Subsection
+Utah Code Annotated § 17D-1-103(5)(b)(i): entering into a contract with the federal government, the state, or a political subdivision of the state to provide jail service for compensation; or
+Utah Code Annotated § 17D-1-103(5)(b)(ii): (5)(b)(i) receiving compensation for jail service it provides under a contract described in Subsection
+
+
+Utah Code Annotated § 17D-1-104 Property owner provisions -- Determination of registered voters.
+------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-104(1): (1)(a)(ii); Part 4, Annexing a New Area and Adding a New Service; 63H-1-102; Title 63H, Chapter 1, Military Installation Development Authority Act; Title 59, Chapter 2, Part 3, County Assessment; Title 59, Chapter 2, Part 2, Assessment of Property For purposes of this chapter:
+Utah Code Annotated § 17D-1-104(1)(a): (1)(a)(ii); Part 4, Annexing a New Area and Adding a New Service; 63H-1-102; Title 63H, Chapter 1, Military Installation Development Authority Act the owner of real property is:
+Utah Code Annotated § 17D-1-104(1)(a)(i): (1)(a)(ii) except as provided in Subsection
+Utah Code Annotated § 17D-1-104(1)(a)(ii): Part 4, Annexing a New Area and Adding a New Service; 63H-1-102; Title 63H, Chapter 1, Military Installation Development Authority Act for a proposed annexation or addition of a new service under
+Utah Code Annotated § 17D-1-104(1)(b): Title 59, Chapter 2, Part 3, County Assessment; Title 59, Chapter 2, Part 2, Assessment of Property the value of private real property is determined according to the last assessment before the filing of the petition or protest, as determined by:
+Utah Code Annotated § 17D-1-104(1)(b)(i): Title 59, Chapter 2, Part 3, County Assessment; Title 59, Chapter 2, Part 2, Assessment of Property
+Utah Code Annotated § 17D-1-104(1)(b)(i)(A): Title 59, Chapter 2, Part 3, County Assessment the county under
+Utah Code Annotated § 17D-1-104(1)(b)(i)(B): Title 59, Chapter 2, Part 2, Assessment of Property the State Tax Commission under
+Utah Code Annotated § 17D-1-104(1)(b)(ii): the county, for all other property.
+Utah Code Annotated § 17D-1-104(2): (2)(a)(ii); (2)(b) For purposes of each provision of this chapter that requires the owners of private real property covering a percentage of the total private land area within the applicable area to sign a petition or protest:
+Utah Code Annotated § 17D-1-104(2)(a): (2)(a)(ii) a parcel of real property may not be included in the calculation of the required percentage unless the petition or protest is signed by:
+Utah Code Annotated § 17D-1-104(2)(a)(i): (2)(a)(ii) except as provided in Subsection
+Utah Code Annotated § 17D-1-104(2)(a)(ii): if the parcel is owned by joint tenants or tenants by the entirety, 50% of the number of owners of that parcel;
+Utah Code Annotated § 17D-1-104(2)(b): the signature of a person signing a petition or protest in a representative capacity on behalf of an owner is invalid unless:
+Utah Code Annotated § 17D-1-104(2)(b)(i): the person's representative capacity and the name of the owner the person represents are indicated on the petition or protest with the person's signature; and
+Utah Code Annotated § 17D-1-104(2)(b)(ii): the person provides documentation accompanying the petition or protest that reasonably substantiates the person's representative capacity; and
+Utah Code Annotated § 17D-1-104(2)(c): (2)(b) subject to Subsection
+Utah Code Annotated § 17D-1-104(3): For purposes of this chapter, registered voters shall be determined according to the official register.
+
+
+Utah Code Annotated § 17D-1-105 Authority of county or municipality to levy property tax on property within a special service district.
+---------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-105(1): (2); (3) Subject to Subsections
+Utah Code Annotated § 17D-1-105(2): (1); Title 11, Chapter 14, Local Government Bonding Act Each levy under Subsection
+Utah Code Annotated § 17D-1-105(3): 17D-1-201(10); 59-2-908 A tax levied under this section for a special service district that provides jail service as provided in Subsection
+
+
+Utah Code Annotated § 17D-1-106 Special service districts subject to other provisions.
+--------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-106(1): 17B-1-105; 17B-1-107; 17B-1-108; 17B-1-110; 17B-1-111; 17B-1-113; 17B-1-116; 17B-1-118; 17B-1-119; 17B-1-120; 17B-1-121; 17B-1-304; 17B-1-307; 17B-1-310; 17B-1-311; 17B-1-312; 17B-1-313; 17B-1-314; 17B-1-305; 17B-1-306; 17D-1-301; 17B-1-301(3); (4); 17B-1-303(1); (2)(a); (b); (3); (4); (5); (6); (7); (9); 20A-1-512; Title 17B, Chapter 1, Part 6, Fiscal Procedures for Special Districts; Title 17B, Chapter 1, Part 7, Special District Budgets and Audit Reports; Title 17B, Chapter 1, Part 8, Special District Personnel Management; Title 17B, Chapter 1, Part 9, Collection of Service Fees and Charges A special service district is, to the same extent as if it were a special district, subject to and governed by:
+Utah Code Annotated § 17D-1-106(1)(a): 17B-1-105; 17B-1-107; 17B-1-108; 17B-1-110; 17B-1-111; 17B-1-113; 17B-1-116; 17B-1-118; 17B-1-119; 17B-1-120; 17B-1-121; 17B-1-304; 17B-1-307; 17B-1-310; 17B-1-311; 17B-1-312; 17B-1-313; 17B-1-314; 17B-1-305; 17B-1-306; 17D-1-301
+Utah Code Annotated § 17D-1-106(1)(a)(i): 17B-1-105; 17B-1-107; 17B-1-108; 17B-1-110; 17B-1-111; 17B-1-113; 17B-1-116; 17B-1-118; 17B-1-119; 17B-1-120; 17B-1-121; 17B-1-304; 17B-1-307; 17B-1-310; 17B-1-311; 17B-1-312; 17B-1-313; 17B-1-314 Sections
+Utah Code Annotated § 17D-1-106(1)(a)(ii): 17B-1-305; 17B-1-306; 17D-1-301 Sections
+Utah Code Annotated § 17D-1-106(1)(b): 17B-1-301(3); (4); 17B-1-303(1); (2)(a); (b); (3); (4); (5); (6); (7); (9) Subsections:
+Utah Code Annotated § 17D-1-106(1)(b)(i): 17B-1-301(3); (4)
+Utah Code Annotated § 17D-1-106(1)(b)(ii): 17B-1-303(1); (2)(a); (b); (3); (4); (5); (6); (7); (9)
+Utah Code Annotated § 17D-1-106(1)(c): 20A-1-512 Section
+Utah Code Annotated § 17D-1-106(1)(d): Title 17B, Chapter 1, Part 6, Fiscal Procedures for Special Districts
+Utah Code Annotated § 17D-1-106(1)(e): Title 17B, Chapter 1, Part 7, Special District Budgets and Audit Reports
+Utah Code Annotated § 17D-1-106(1)(f): Title 17B, Chapter 1, Part 8, Special District Personnel Management
+Utah Code Annotated § 17D-1-106(1)(g): Title 17B, Chapter 1, Part 9, Collection of Service Fees and Charges
+Utah Code Annotated § 17D-1-106(2): (1) For purposes of applying the provisions listed in Subsection
+
+
+Utah Code Annotated § 17D-1-107 Contracts subject to building improvement and public works provisions.
+------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-107(1): Title 11, Chapter 39, Building Improvements and Public Works Projects For each special service district created by a county, the legislative body of that county shall by ordinance designate the classes of special service district contracts that are subject to the requirements of
+Utah Code Annotated § 17D-1-107(2): Title 11, Chapter 39, Building Improvements and Public Works Projects For each special service district created by a municipality, the legislative body of that municipality shall by ordinance designate the classes of special service district contracts that are subject to the requirements of
+
+
+Utah Code Annotated § 17D-1-108 Conflict.
+-----------------------------------------
+If a provision of this chapter conflicts with any other statutory provision, the provision of this chapter controls.
+
+Utah Code Annotated § 17D-1-109 Validation of previously created special service districts.
+-------------------------------------------------------------------------------------------
+Each special service district created before May 5, 2008 is validated, ratified, and confirmed and declared to be validly existing.
+
+Utah Code Annotated § 17D-1-201 Services that a special service district may be created to provide.
+---------------------------------------------------------------------------------------------------
+As provided in this part, a county or municipality may create a special service district to provide any combination of the following services:Utah Code Annotated § 17D-1-201(1): water;
+Utah Code Annotated § 17D-1-201(2): sewerage;
+Utah Code Annotated § 17D-1-201(3): drainage;
+Utah Code Annotated § 17D-1-201(4): flood control;
+Utah Code Annotated § 17D-1-201(5): garbage collection and disposal;
+Utah Code Annotated § 17D-1-201(6): health care;
+Utah Code Annotated § 17D-1-201(7): 51-9-603 transportation, including the receipt of federal secure rural school funds under Section
+Utah Code Annotated § 17D-1-201(8): recreation;
+Utah Code Annotated § 17D-1-201(9): 51-9-603; (9) fire protection, including:
+Utah Code Annotated § 17D-1-201(9)(a): emergency medical services, ambulance services, and search and rescue services, if fire protection service is also provided;
+Utah Code Annotated § 17D-1-201(9)(b): Firewise Communities programs and the development of community wildfire protection plans; and
+Utah Code Annotated § 17D-1-201(9)(c): 51-9-603; (9) the receipt of federal secure rural school funds as provided under Section
+Utah Code Annotated § 17D-1-201(10): providing, operating, and maintaining correctional and rehabilitative facilities and programs for municipal, state, and other detainees and prisoners;
+Utah Code Annotated § 17D-1-201(11): street lighting;
+Utah Code Annotated § 17D-1-201(12): consolidated 911 and emergency dispatch;
+Utah Code Annotated § 17D-1-201(13): animal shelter and control;
+Utah Code Annotated § 17D-1-201(14): Title 59, Chapter 21, Mineral Lease Funds receiving federal mineral lease funds under
+Utah Code Annotated § 17D-1-201(15): in a county of the first class, extended police protection;
+Utah Code Annotated § 17D-1-201(16): control or abatement of earth movement or a landslide;
+Utah Code Annotated § 17D-1-201(17): 11-42a-102; Title 11, Chapter 42a, Commercial Property Assessed Clean Energy Act an energy efficiency upgrade, a renewable energy system, or electric vehicle charging infrastructure as defined in Section
+Utah Code Annotated § 17D-1-201(18): cemetery.
+
+
+Utah Code Annotated § 17D-1-202 Limitations on the creation of a special service district.
+------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-202(1): (2) Subject to Subsection
+Utah Code Annotated § 17D-1-202(2): 
+Utah Code Annotated § 17D-1-202(2)(a): The boundary of a proposed special service district may not include an area included within the boundary of an existing special service district that provides the same service that the proposed special service district is proposed to provide.
+Utah Code Annotated § 17D-1-202(2)(b): The boundary of a proposed special service district may not include an area included within the boundary of an existing special district that provides the same service that the proposed special service district is proposed to provide, unless the special district consents.
+Utah Code Annotated § 17D-1-202(2)(c): A proposed special service district may not include land that will not be benefitted by the service that the special service district is proposed to provide, unless the owner of the nonbenefitted land consents to the inclusion.
+Utah Code Annotated § 17D-1-202(2)(d): A county may not create a special service district that includes some or all of the area within a municipality unless the legislative body of that municipality adopts a resolution or ordinance consenting to the inclusion.
+Utah Code Annotated § 17D-1-202(3): All areas included within a special service district need not be contiguous.
+
+
+Utah Code Annotated § 17D-1-203 Initiating the process to create a special service district.
+--------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-203(1): (3); (2); (3) The process to create a special service district is initiated by:
+Utah Code Annotated § 17D-1-203(1)(a): (3) the legislative body of a county or municipality that proposes to create a special service district adopting a resolution that:
+Utah Code Annotated § 17D-1-203(1)(a)(i): declares that the public health, convenience, and necessity require the creation of a special service district;
+Utah Code Annotated § 17D-1-203(1)(a)(ii): indicates the legislative body's intent to create a special service district; and
+Utah Code Annotated § 17D-1-203(1)(a)(iii): (3) complies with the requirements of Subsection
+Utah Code Annotated § 17D-1-203(1)(b): (2); (3) the filing of a petition that:
+Utah Code Annotated § 17D-1-203(1)(b)(i): proposes the creation of a special service district;
+Utah Code Annotated § 17D-1-203(1)(b)(ii): (2); (3) complies with the requirements of Subsections
+Utah Code Annotated § 17D-1-203(1)(b)(iii): is filed with the legislative body of the county or municipality in whose boundary the proposed special service district is located.
+Utah Code Annotated § 17D-1-203(2): (1)(b) Each petition under Subsection
+Utah Code Annotated § 17D-1-203(2)(a): be signed by:
+Utah Code Annotated § 17D-1-203(2)(a)(i): the owners of at least 10% of the taxable value of taxable property within the proposed special service district; or
+Utah Code Annotated § 17D-1-203(2)(a)(ii): at least 10% of the registered voters residing within the proposed special service district; and
+Utah Code Annotated § 17D-1-203(2)(b): indicate:
+Utah Code Annotated § 17D-1-203(2)(b)(i): the residence address of each person who signs the petition; and
+Utah Code Annotated § 17D-1-203(2)(b)(ii): if the person signs the petition as a property owner, the address or other description of the person's property sufficient to identify the property.
+Utah Code Annotated § 17D-1-203(3): (1)(a); (1)(b) Each resolution under Subsection
+Utah Code Annotated § 17D-1-203(3)(a): describe the boundaries of the proposed special service district;
+Utah Code Annotated § 17D-1-203(3)(b): specify each service that the special service district is proposed to provide; and
+Utah Code Annotated § 17D-1-203(3)(c): designate a name for the proposed special service district.
+
+
+Utah Code Annotated § 17D-1-204 Prerequisites for adopting a resolution or ordinance approving the creation of a special service district.
+------------------------------------------------------------------------------------------------------------------------------------------
+Before the legislative body of a county or municipality may adopt a resolution or ordinance under SectionUtah Code Annotated § 17D-1-204(1): 17D-1-205 the clerk or recorder, as the case may be, of the county or municipality shall give written notice as provided in Section
+Utah Code Annotated § 17D-1-204(2): 17D-1-207 the legislative body shall hold a public hearing, as provided in Section
+Utah Code Annotated § 17D-1-204(3): 17D-1-206 the period for filing protests under Section
+
+
+Utah Code Annotated § 17D-1-205 Notice.
+---------------------------------------
+Utah Code Annotated § 17D-1-205(1): 17D-1-204(1); (2); 17D-1-204(2); 45-1-101; 17D-1-204(2) Each notice required under Subsection
+Utah Code Annotated § 17D-1-205(1)(a): state that:
+Utah Code Annotated § 17D-1-205(1)(a)(i): the legislative body has adopted a resolution stating its intent to create a special service district; or
+Utah Code Annotated § 17D-1-205(1)(a)(ii): a petition has been filed proposing the creation of a special service district;
+Utah Code Annotated § 17D-1-205(1)(b): describe the boundary of the proposed special service district;
+Utah Code Annotated § 17D-1-205(1)(c): generally describe each service that the special service district is proposed to provide;
+Utah Code Annotated § 17D-1-205(1)(d): state that taxes may be levied annually upon all taxable property within the proposed special service district;
+Utah Code Annotated § 17D-1-205(1)(e): state that fees or charges may be imposed to pay for some or all of the services that the special service district is proposed to provide;
+Utah Code Annotated § 17D-1-205(1)(f): explain the process, requirements, and timetable for filing a protest against the creation of the special service district or against a service that the special service district is proposed to provide;
+Utah Code Annotated § 17D-1-205(1)(g): designate a date, time, and place for a public hearing on the proposed creation of the special service district; and
+Utah Code Annotated § 17D-1-205(1)(h): (2); 17D-1-204(2); 45-1-101; 17D-1-204(2) except as provided in Subsection
+Utah Code Annotated § 17D-1-205(1)(h)(i): 17D-1-204(2)
+Utah Code Annotated § 17D-1-205(1)(h)(i)(A): once a week for four consecutive weeks;
+Utah Code Annotated § 17D-1-205(1)(h)(i)(B): 17D-1-204(2) not fewer than five days and no more than 20 days before the date of the public hearing required under Subsection
+Utah Code Annotated § 17D-1-205(1)(h)(i)(C): in a newspaper of general circulation in the county or municipality by which the special service district is proposed to be created; and
+Utah Code Annotated § 17D-1-205(1)(h)(ii): 45-1-101; 17D-1-204(2) in accordance with Section
+Utah Code Annotated § 17D-1-205(2): (1)(h)(i); 17D-1-204(1); 17D-1-204(2) Notwithstanding Subsection
+Utah Code Annotated § 17D-1-205(3): The legislative body of the county or municipality by which the special service district is proposed to be created may include in a notice under this section any other information that the legislative body considers necessary or appropriate.
+
+
+Utah Code Annotated § 17D-1-206 Protests.
+-----------------------------------------
+Utah Code Annotated § 17D-1-206(1): An interested person may protest:
+Utah Code Annotated § 17D-1-206(1)(a): the creation of a special service district; or
+Utah Code Annotated § 17D-1-206(1)(b): a service that the special service district is proposed to provide.
+Utah Code Annotated § 17D-1-206(2): (1); 17D-1-204(2) Each protest under Subsection
+Utah Code Annotated § 17D-1-206(2)(a): be in writing;
+Utah Code Annotated § 17D-1-206(2)(b): 17D-1-204(2) be submitted:
+Utah Code Annotated § 17D-1-206(2)(b)(i): to the legislative body of the county or municipality by which the special service district is proposed to be created; and
+Utah Code Annotated § 17D-1-206(2)(b)(ii): 17D-1-204(2) no later than 60 days after the public hearing required under Subsection
+Utah Code Annotated § 17D-1-206(2)(c): explain why the person is protesting.
+Utah Code Annotated § 17D-1-206(3): 17D-1-204(2) A person who submitted a written protest against the creation of a special service district may withdraw the protest or, having withdrawn a protest, cancel the withdrawal, no later than 60 days after the public hearing required under Subsection
+Utah Code Annotated § 17D-1-206(4): The legislative body of a county or municipality may not adopt a resolution or ordinance creating a special service district if adequate protests are filed with respect to the creation of the special service district.
+Utah Code Annotated § 17D-1-206(5): The legislative body of a county or municipality may not adopt a resolution or ordinance authorizing a special service district to provide a service if adequate protests are filed with respect to that service.
+
+
+Utah Code Annotated § 17D-1-207 Public hearing.
+-----------------------------------------------
+Utah Code Annotated § 17D-1-207(1): 17D-1-205 On the date and at the time and place specified in the notice under Section
+Utah Code Annotated § 17D-1-207(2): At each public hearing under this section, the legislative body shall:
+Utah Code Annotated § 17D-1-207(2)(a): give full consideration to each written protest that has been filed; and
+Utah Code Annotated § 17D-1-207(2)(b): hear and consider each interested person desiring to be heard.
+Utah Code Annotated § 17D-1-207(3): The legislative body may continue the hearing to another date and time.
+
+
+Utah Code Annotated § 17D-1-208 Adoption of a resolution or ordinance approving the creation of a special service district.
+---------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-208(1): Subject to the provisions of and as provided in this part, the legislative body of a county or municipality may adopt a resolution or ordinance approving the creation of a special service district.
+Utah Code Annotated § 17D-1-208(2): (2)(b); (1); 17D-1-203(1)(a); 17D-1-203(1)(b); (1); 17D-1-203(1)(a); 17D-1-203(1)(b); 17D-1-205; 17D-1-206; 17D-1-207
+Utah Code Annotated § 17D-1-208(2)(a): (2)(b); (1); 17D-1-203(1)(a); 17D-1-203(1)(b) Subject to Subsection
+Utah Code Annotated § 17D-1-208(2)(a)(i): the boundary of the special service district; and
+Utah Code Annotated § 17D-1-208(2)(a)(ii): the services to be provided by the special service district.
+Utah Code Annotated § 17D-1-208(2)(b): (1); 17D-1-203(1)(a); 17D-1-203(1)(b); 17D-1-205; 17D-1-206; 17D-1-207 The legislative body of a county or municipality may not adopt a resolution or ordinance under Subsection
+
+
+Utah Code Annotated § 17D-1-209 Notice and plat to lieutenant governor -- Recording requirements -- Effective date.
+-------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-209(1): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5; 67-1a-6.5 The legislative body adopting a resolution or ordinance approving the creation of a special service district shall:
+Utah Code Annotated § 17D-1-209(1)(a): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5 within 30 days after adopting the resolution or ordinance, file with the lieutenant governor:
+Utah Code Annotated § 17D-1-209(1)(a)(i): 67-1a-6.5; 67-1a-6.5(3) a copy of a notice of an impending boundary action, as defined in Section
+Utah Code Annotated § 17D-1-209(1)(a)(ii): 67-1a-6.5 a copy of an approved final local entity plat, as defined in Section
+Utah Code Annotated § 17D-1-209(1)(b): 67-1a-6.5 upon the lieutenant governor's issuance of a certificate of incorporation under Section
+Utah Code Annotated § 17D-1-209(1)(b)(i): the original notice of an impending boundary action;
+Utah Code Annotated § 17D-1-209(1)(b)(ii): the original certificate of incorporation;
+Utah Code Annotated § 17D-1-209(1)(b)(iii): the original approved final local entity plat; and
+Utah Code Annotated § 17D-1-209(1)(b)(iv): a certified copy of the resolution or ordinance approving the creation of the special service district.
+Utah Code Annotated § 17D-1-209(2): 67-1a-6.5; 59-2-305.5; (1)(b)
+Utah Code Annotated § 17D-1-209(2)(a): 67-1a-6.5 Upon the lieutenant governor's issuance of a certificate of creation under Section
+Utah Code Annotated § 17D-1-209(2)(b): 59-2-305.5; (1)(b)
+Utah Code Annotated § 17D-1-209(2)(b)(i): 59-2-305.5 The effective date of a special service district's incorporation for purposes of assessing property within the special service district is governed by Section
+Utah Code Annotated § 17D-1-209(2)(b)(ii): (1)(b) Until the documents listed in Subsection
+Utah Code Annotated § 17D-1-209(2)(b)(ii)(A): the county, city, or town that created the special service district may not levy or collect a property tax for special service district purposes on property within the special service district; and
+Utah Code Annotated § 17D-1-209(2)(b)(ii)(B): the special service district may not:
+Utah Code Annotated § 17D-1-209(2)(b)(ii)(B)(I): levy or collect an assessment on property within the special service district; or
+Utah Code Annotated § 17D-1-209(2)(b)(ii)(B)(II): charge or collect a fee for service provided to property within the special service district.
+
+
+Utah Code Annotated § 17D-1-210 Services that special service district is authorized to provide.
+------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-210(1): Part 4, Annexing a New Area and Adding a New Service After its creation, a special service district may provide the service or services:
+Utah Code Annotated § 17D-1-210(1)(a): specified in the resolution or ordinance creating the special service district; or
+Utah Code Annotated § 17D-1-210(1)(b): Part 4, Annexing a New Area and Adding a New Service added under
+Utah Code Annotated § 17D-1-210(2): (1) Notwithstanding Subsection
+
+
+Utah Code Annotated § 17D-1-211 Municipality's ability to provide temporary jail facilities not affected by the creation of a special service district to provide jail services.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The creation of a special service district to provide jail services as provided in Subsection
+
+Utah Code Annotated § 17D-1-212 Action to challenge the creation of a special service district or a service to be provided.
+---------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-212(1): 17D-1-206 A person may file an action in district court challenging the creation of a special service district or a service that a special service district is proposed to provide if:
+Utah Code Annotated § 17D-1-212(1)(a): 17D-1-206 the person filed a written protest under Section
+Utah Code Annotated § 17D-1-212(1)(b): the person:
+Utah Code Annotated § 17D-1-212(1)(b)(i): 
+Utah Code Annotated § 17D-1-212(1)(b)(i)(A): is a registered voter within the special service district; and
+Utah Code Annotated § 17D-1-212(1)(b)(i)(B): alleges in the action that the procedures used to create the special service district violated applicable law; or
+Utah Code Annotated § 17D-1-212(1)(b)(ii): 
+Utah Code Annotated § 17D-1-212(1)(b)(ii)(A): is an owner of property included within the boundary of the special service district; and
+Utah Code Annotated § 17D-1-212(1)(b)(ii)(B): alleges in the action that:
+Utah Code Annotated § 17D-1-212(1)(b)(ii)(B)(I): the person's property will not be benefitted by a service that the special service district is proposed to provide; or
+Utah Code Annotated § 17D-1-212(1)(b)(ii)(B)(II): the procedures used to create the special service district violated applicable law; and
+Utah Code Annotated § 17D-1-212(1)(c): the action is filed within 30 days after the date that the legislative body adopts a resolution or ordinance creating the special service district.
+Utah Code Annotated § 17D-1-212(2): (1) If an action is not filed within the time specified under Subsection
+
+
+Utah Code Annotated § 17D-1-301 Governance of a special service district -- Authority to create and delegate authority to an administrative control board -- Limitations on authority to delegate.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-301(1): Each special service district shall be governed by the legislative body of the county or municipality that creates the special service district, subject to any delegation under this section of a right, power, or authority to an administrative control board.
+Utah Code Annotated § 17D-1-301(2): (3) At the time a special service district is created or at any time thereafter, the legislative body of a county or municipality that creates a special service district may, by resolution or ordinance:
+Utah Code Annotated § 17D-1-301(2)(a): create an administrative control board for the special service district;
+Utah Code Annotated § 17D-1-301(2)(b): (3) subject to Subsection
+Utah Code Annotated § 17D-1-301(2)(c): specify the members of the initial administrative control board by name or other designation that clearly identifies each member of the initial administrative control board.
+Utah Code Annotated § 17D-1-301(3): Part 4, Annexing a New Area and Adding a New Service; 17D-1-107; Title 11, Chapter 39, Building Improvements and Public Works Projects; 11-42-403 A county or municipal legislative body may not delegate to an administrative control board of a special service district the power to:
+Utah Code Annotated § 17D-1-301(3)(a): Part 4, Annexing a New Area and Adding a New Service annex an area to an existing special service district or add a service within the area of an existing special service district under
+Utah Code Annotated § 17D-1-301(3)(b): 17D-1-107; Title 11, Chapter 39, Building Improvements and Public Works Projects designate, under Section
+Utah Code Annotated § 17D-1-301(3)(c): levy a tax on the taxable property within the special service district;
+Utah Code Annotated § 17D-1-301(3)(d): issue special service district bonds payable from taxes;
+Utah Code Annotated § 17D-1-301(3)(e): call or hold an election for the authorization of a property tax or the issuance of bonds;
+Utah Code Annotated § 17D-1-301(3)(f): levy an assessment;
+Utah Code Annotated § 17D-1-301(3)(g): issue interim warrants or bonds payable from an assessment; or
+Utah Code Annotated § 17D-1-301(3)(h): 11-42-403 appoint a board of equalization under Section
+Utah Code Annotated § 17D-1-301(4): (4)(a)
+Utah Code Annotated § 17D-1-301(4)(a): A county or municipal legislative body that has delegated a right, power, or authority under this section to an administrative control board may at any time modify, limit, or revoke any right, power, or authority delegated to the administrative control board.
+Utah Code Annotated § 17D-1-301(4)(b): (4)(a) A modification, limitation, or revocation under Subsection
+
+
+Utah Code Annotated § 17D-1-302 Number of members of an administrative control board.
+-------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-302(1): 17D-1-303(3); (4) An administrative control board shall consist of at least three members in addition to a member appointed in accordance with Subsections
+Utah Code Annotated § 17D-1-302(2): 17D-1-201(10) The number of administrative control board members for a special service district established by a county of the first class to provide jail service as provided in Subsection
+
+
+Utah Code Annotated § 17D-1-303 Election or appointment of administrative control board members.
+------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-303(1): (5) Except as provided in Subsection
+Utah Code Annotated § 17D-1-303(2): (3); Title 17B, Chapter 1, Part 3, Board of Trustees Except as provided in Subsection
+Utah Code Annotated § 17D-1-303(3): Title 17B, Chapter 2a, Part 4, Improvement District Act A municipality or improvement district under
+Utah Code Annotated § 17D-1-303(3)(a): the special service district was created by a county;
+Utah Code Annotated § 17D-1-303(3)(b): the municipality or improvement district:
+Utah Code Annotated § 17D-1-303(3)(b)(i): provides the same service as the special service district; or
+Utah Code Annotated § 17D-1-303(3)(b)(ii): provided the same service as the special service district:
+Utah Code Annotated § 17D-1-303(3)(b)(ii)(A): prior to the creation of the special service district, if all or part of the municipality or improvement district was then included in the special service district; or
+Utah Code Annotated § 17D-1-303(3)(b)(ii)(B): prior to all or part of the municipality or improvement district being annexed into the special service district; and
+Utah Code Annotated § 17D-1-303(3)(c): the special service district includes some or all of the area included within the municipality or improvement district.
+Utah Code Annotated § 17D-1-303(4): An institution of higher education for which a special service district provides commodities, services, or facilities may appoint the number of members of an administrative control board of that special service district that are equal in number to at least 1/3 of the total number of board members.
+Utah Code Annotated § 17D-1-303(5): 17D-1-201(10) With respect to an administrative control board created for a special service district created by a county of the first class to provide jail service as provided in Subsection
+Utah Code Annotated § 17D-1-303(5)(a): three members from a list of at least six recommendations from the county sheriff;
+Utah Code Annotated § 17D-1-303(5)(b): three members from a list of at least six recommendations from municipalities within the county; and
+Utah Code Annotated § 17D-1-303(5)(c): three members from a list of at least six recommendations from the county executive.
+
+
+Utah Code Annotated § 17D-1-304 Qualifications of administrative control board members -- Term of office.
+---------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-304(1): (1)(b); (1)(a)(iii)(B); (1)(a); 17D-1-303(3); (4)
+Utah Code Annotated § 17D-1-304(1)(a): (1)(b); (1)(a)(iii)(B) Except as provided in Subsection
+Utah Code Annotated § 17D-1-304(1)(a)(i): a registered voter within the special service district;
+Utah Code Annotated § 17D-1-304(1)(a)(ii): an officer or employee of the county or municipality that created the special service district; or
+Utah Code Annotated § 17D-1-304(1)(a)(iii): (1)(a)(iii)(B) an owner of land, or an agent or officer of the owner of land, located within the special service district that receives, or intends to receive, service from the special service district, if:
+Utah Code Annotated § 17D-1-304(1)(a)(iii)(A): at least 60% of the residences within the special service district are seasonally occupied homes; or
+Utah Code Annotated § 17D-1-304(1)(a)(iii)(B): (1)(a)(iii)(B) more than 50%, but less than 60%, of the residences within the special service district are seasonally occupied homes, if the number of members appointed under this Subsection
+Utah Code Annotated § 17D-1-304(1)(b): (1)(a); 17D-1-303(3); (4) Subsection
+Utah Code Annotated § 17D-1-304(1)(b)(i): at least 90% of the owners of real property within the special service district are not registered voters within the special service district; or
+Utah Code Annotated § 17D-1-304(1)(b)(ii): 17D-1-303(3); (4) the member is appointed under Subsection
+Utah Code Annotated § 17D-1-304(2): (2)(b)
+Utah Code Annotated § 17D-1-304(2)(a): (2)(b) Except as provided in Subsection
+Utah Code Annotated § 17D-1-304(2)(b): The term of as close as possible to half of the initial members of an administrative control board, chosen by lot, is two years.
+
+
+Utah Code Annotated § 17D-1-305 Compensation for administrative control board members.
+--------------------------------------------------------------------------------------
+An administrative control board member may receive compensation and reimbursement of expenses as provided in Section
+
+Utah Code Annotated § 17D-1-306 Administrative control board review of certain charges in special service districts providing jail service.
+-------------------------------------------------------------------------------------------------------------------------------------------
+If the legislative body of a county of the first class creates an administrative control board under this part for a special service district that provides jail service as provided in Subsection
+
+Utah Code Annotated § 17D-1-307 Meetings of administrative control board.
+-------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-307(1): Title 52, Chapter 4, Open and Public Meetings Act; (2); (1)(b)(i); (1)(b)(i)
+Utah Code Annotated § 17D-1-307(1)(a): Title 52, Chapter 4, Open and Public Meetings Act Each meeting of the administrative control board shall comply with
+Utah Code Annotated § 17D-1-307(1)(b): (2); (1)(b)(i); (1)(b)(i) Subject to Subsection
+Utah Code Annotated § 17D-1-307(1)(b)(i): adopt rules of order and procedure to govern a public meeting of the administrative control board;
+Utah Code Annotated § 17D-1-307(1)(b)(ii): (1)(b)(i) conduct a public meeting in accordance with the rules of order and procedure described in Subsection
+Utah Code Annotated § 17D-1-307(1)(b)(iii): (1)(b)(i) make the rules of order and procedure described in Subsection
+Utah Code Annotated § 17D-1-307(1)(b)(iii)(A): at each meeting of the administrative control board; and
+Utah Code Annotated § 17D-1-307(1)(b)(iii)(B): if the special service district has a public website, on the website.
+Utah Code Annotated § 17D-1-307(2): (1)(b); Title 52, Chapter 4, Open and Public Meetings Act Subsection
+
+
+Utah Code Annotated § 17D-1-401 Annexing an area or adding a service to an existing special service district.
+-------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-401(1): (3); (4); 17D-1-201; (1)(a); (1)(b) Except as provided in Subsections
+Utah Code Annotated § 17D-1-401(1)(a): annex an area to an existing special service district to provide to that area a service that the special service district is authorized to provide;
+Utah Code Annotated § 17D-1-401(1)(b): 17D-1-201 add a service under Section
+Utah Code Annotated § 17D-1-401(1)(c): (1)(a); (1)(b) both annex an area under Subsection
+Utah Code Annotated § 17D-1-401(2): 17D-1-209; Part 2, Creating a Special Service District Except for Section
+Utah Code Annotated § 17D-1-401(3): A county or municipal legislative body may not:
+Utah Code Annotated § 17D-1-401(3)(a): annex an area to an existing special service district if a special district provides to that area the same service that the special service district is proposed to provide to the area, unless the special district consents to the annexation; or
+Utah Code Annotated § 17D-1-401(3)(b): add a service within the area of an existing special service district if a special district provides to that area the same service that is proposed to be added, unless the special district consents to the addition.
+Utah Code Annotated § 17D-1-401(4): Part 2, Creating a Special Service District A county or municipal legislative body may not annex an area to an existing special service district or add a service within the area of an existing special service district if the creation of a special service district including that area or providing that service would not be allowed under
+Utah Code Annotated § 17D-1-401(5): Title 63H, Chapter 1, Military Installation Development Authority Act A county or municipal legislative body may not annex an area to an existing special service district or add a service within the area of an existing special service district if the area is located within a project area described in a project area plan adopted by the military installation development authority under
+
+
+Utah Code Annotated § 17D-1-402 Inapplicability of some requirements if petition is filed by all owners of taxable real property.
+---------------------------------------------------------------------------------------------------------------------------------
+Notwithstanding SectionUtah Code Annotated § 17D-1-402(1): within the area proposed to be annexed, if the petition is for annexation of an area to the special service district; or
+Utah Code Annotated § 17D-1-402(2): within the special service district, if the petition is for adding a service to be provided by the special service district.
+
+
+Utah Code Annotated § 17D-1-403 Notice and plat to lieutenant governor -- Lieutenant governor certification -- Recording requirements -- Effective date.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-403(1): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5; 67-1a-6.5 If a county or municipal legislative body adopts a resolution approving the annexation of an area to an existing special service district, the legislative body shall:
+Utah Code Annotated § 17D-1-403(1)(a): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5 within 30 days after adopting the resolution, file with the lieutenant governor:
+Utah Code Annotated § 17D-1-403(1)(a)(i): 67-1a-6.5; 67-1a-6.5(3) a copy of a notice of an impending boundary action, as defined in Section
+Utah Code Annotated § 17D-1-403(1)(a)(ii): 67-1a-6.5 a copy of an approved final local entity plat, as defined in Section
+Utah Code Annotated § 17D-1-403(1)(b): 67-1a-6.5 upon the lieutenant governor's issuance of a certificate of annexation under Section
+Utah Code Annotated § 17D-1-403(1)(b)(i): the original notice of an impending boundary action;
+Utah Code Annotated § 17D-1-403(1)(b)(ii): the original certificate of annexation;
+Utah Code Annotated § 17D-1-403(1)(b)(iii): the original approved final local entity plat; and
+Utah Code Annotated § 17D-1-403(1)(b)(iv): a certified copy of the resolution approving the annexation.
+Utah Code Annotated § 17D-1-403(2): 67-1a-6.5; 59-2-305.5; (1)(b); (2)(b)(ii)(B)(II); (2)(a)
+Utah Code Annotated § 17D-1-403(2)(a): 67-1a-6.5 Upon the lieutenant governor's issuance of the certificate of annexation under Section
+Utah Code Annotated § 17D-1-403(2)(b): 59-2-305.5; (1)(b); (2)(b)(ii)(B)(II); (2)(a)
+Utah Code Annotated § 17D-1-403(2)(b)(i): 59-2-305.5 The effective date of an annexation under this section for purposes of assessing property within the annexed area is governed by Section
+Utah Code Annotated § 17D-1-403(2)(b)(ii): (1)(b) Until the documents listed in Subsection
+Utah Code Annotated § 17D-1-403(2)(b)(ii)(A): the county, city, or town that created the special service district may not levy or collect a property tax for special service district purposes on property within the annexed area; and
+Utah Code Annotated § 17D-1-403(2)(b)(ii)(B): the special service district may not:
+Utah Code Annotated § 17D-1-403(2)(b)(ii)(B)(I): levy or collect an assessment on property within the annexed area; or
+Utah Code Annotated § 17D-1-403(2)(b)(ii)(B)(II): charge or collect a fee for service provided to property within the annexed area.
+Utah Code Annotated § 17D-1-403(2)(b)(iii): (2)(b)(ii)(B)(II); (2)(a) Subsection
+Utah Code Annotated § 17D-1-403(2)(b)(iii)(A): may not be construed to limit a special service district's ability before annexation to charge and collect a fee for service provided to property that is outside the special service district's boundary; and
+Utah Code Annotated § 17D-1-403(2)(b)(iii)(B): (2)(a) does not apply until 60 days after the effective date, under Subsection
+
+
+Utah Code Annotated § 17D-1-501 Provisions applicable to a special service district's issuance of bonds.
+--------------------------------------------------------------------------------------------------------
+Except as otherwise provided in this chapter:Utah Code Annotated § 17D-1-501(1): Title 11, Chapter 14, Local Government Bonding Act; Title 11, Chapter 42, Assessment Area Act; Title 11, Chapter 30, Utah Bond Validation Act each special service district that issues bonds shall:
+Utah Code Annotated § 17D-1-501(1)(a): Title 11, Chapter 14, Local Government Bonding Act; Title 11, Chapter 42, Assessment Area Act issue them as provided in, as applicable:
+Utah Code Annotated § 17D-1-501(1)(a)(i): Title 11, Chapter 14, Local Government Bonding Act
+Utah Code Annotated § 17D-1-501(1)(a)(ii): Title 11, Chapter 42, Assessment Area Act
+Utah Code Annotated § 17D-1-501(1)(b): Title 11, Chapter 30, Utah Bond Validation Act receive the benefits of
+Utah Code Annotated § 17D-1-501(2): Title 11, Chapter 27, Utah Refunding Bond Act each special service district that issues refunding bonds shall issue them as provided in
+
+
+Utah Code Annotated § 17D-1-502 General obligation bonds.
+---------------------------------------------------------
+Utah Code Annotated § 17D-1-502(1): (3); Title 11, Chapter 14, Local Government Bonding Act Except as provided in Subsection
+Utah Code Annotated § 17D-1-502(2): General obligation bonds shall be secured by a pledge of the full faith and credit of the special service district.
+Utah Code Annotated § 17D-1-502(3): Title 11, Chapter 27, Utah Refunding Bond Act A special service district may issue refunding general obligation bonds, as provided in
+Utah Code Annotated § 17D-1-502(4): 11-14-301(3)(b); (4)(a)
+Utah Code Annotated § 17D-1-502(4)(a): 11-14-301(3)(b) A special service district may not issue general obligation bonds if the issuance of the bonds will cause the outstanding principal amount of all of the special service district's general obligation bonds to exceed the amount that results from multiplying the fair market value of the taxable property within the special service district, as determined under Subsection
+Utah Code Annotated § 17D-1-502(4)(b): (4)(a) Bonds or other obligations of a special service district that are not general obligation bonds are not included in the limit stated in Subsection
+Utah Code Annotated § 17D-1-502(5): A special service district may not be considered to be a municipal corporation for purposes of the debt limitation of the Utah Constitution Article XIV, Section 4.
+Utah Code Annotated § 17D-1-502(6): Title 11, Chapter 13, Interlocal Cooperation Act Bonds issued by an administrative or legal entity created under
+
+
+Utah Code Annotated § 17D-1-503 Levy to pay for general obligation bonds.
+-------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-503(1): (1)(a); 20A-1-204
+Utah Code Annotated § 17D-1-503(1)(a): If a special service district has issued general obligation bonds, or expects to have debt service payments due on general obligation bonds during the current year, the legislative body of the county or municipality that created the special service district may make an annual levy of ad valorem property taxes in order to:
+Utah Code Annotated § 17D-1-503(1)(a)(i): pay the principal of and interest on the general obligation bonds;
+Utah Code Annotated § 17D-1-503(1)(a)(ii): establish a sinking fund for defaults and future debt service on the general obligation bonds; and
+Utah Code Annotated § 17D-1-503(1)(a)(iii): establish a reserve to secure payment of the general obligation bonds.
+Utah Code Annotated § 17D-1-503(1)(b): (1)(a); 20A-1-204 A levy under Subsection
+Utah Code Annotated § 17D-1-503(1)(b)(i): without limitation as to rate or amount; and
+Utah Code Annotated § 17D-1-503(1)(b)(ii): 20A-1-204 subject to the prior approval of a majority of registered voters of the special service district voting in an election held for that purpose on a date specified in Section
+Utah Code Annotated § 17D-1-503(2): (1); (1); (1)(a)(ii); (1)(a)(iii); (2)(a)
+Utah Code Annotated § 17D-1-503(2)(a): (1); (1); (1)(a)(ii); (1)(a)(iii) Each county or municipality that levies a tax under Subsection
+Utah Code Annotated § 17D-1-503(2)(a)(i): (1) levy the tax as a separate and special levy for the specific purposes stated in Subsection
+Utah Code Annotated § 17D-1-503(2)(a)(ii): (1)(a)(ii); (1)(a)(iii) apply the proceeds from the levy solely for the purpose of paying the principal of and interest on the general obligation bonds, even though the proceeds may be used to establish or replenish a sinking fund under Subsection
+Utah Code Annotated § 17D-1-503(2)(b): (2)(a) A levy under Subsection
+
+
+Utah Code Annotated § 17D-1-504 Pledge of revenues to pay for bonds.
+--------------------------------------------------------------------
+Bonds may be payable from and secured by the pledge of all or any specified part of:Utah Code Annotated § 17D-1-504(1): the revenues to be derived by the special service district from providing its services and from the operation of its facilities and other properties;
+Utah Code Annotated § 17D-1-504(2): sales and use taxes, property taxes, and other taxes;
+Utah Code Annotated § 17D-1-504(3): federal, state, or local grants;
+Utah Code Annotated § 17D-1-504(4): in the case of special assessment bonds, the special assessments pledged to repay the special assessment bonds; and
+Utah Code Annotated § 17D-1-504(5): other money legally available to the special service district.
+
+
+Utah Code Annotated § 17D-1-505 Revenue bonds -- Requirement to impose rates and charges to cover revenue bonds -- Authority to make agreements and covenants to provide for bond repayment.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-505(1): 17D-1-501(2); Title 11, Chapter 14, Local Government Bonding Act Subject to Subsection
+Utah Code Annotated § 17D-1-505(2): Each special service district that has issued revenue bonds shall impose rates and charges for the services or commodities it provides fully sufficient, along with other sources of special service district revenues, to carry out all undertakings of the special service district with respect to its revenue bonds.
+Utah Code Annotated § 17D-1-505(3): Title 11, Chapter 14, Local Government Bonding Act A special service district that issues revenue bonds may:
+Utah Code Annotated § 17D-1-505(3)(a): agree to pay operation and maintenance expenses of the special service district from the proceeds of the ad valorem taxes that this chapter authorizes the county or municipality that created the special service district to levy; and
+Utah Code Annotated § 17D-1-505(3)(b): Title 11, Chapter 14, Local Government Bonding Act for the benefit of bondholders, enter into covenants that:
+Utah Code Annotated § 17D-1-505(3)(b)(i): Title 11, Chapter 14, Local Government Bonding Act are permitted by
+Utah Code Annotated § 17D-1-505(3)(b)(ii): provide for other pertinent matters that the governing body considers proper to assure the marketability of the bonds.
+
+
+Utah Code Annotated § 17D-1-506 Governing body required to fix rates to cover district expenses and bonds.
+----------------------------------------------------------------------------------------------------------
+The governing body shall fix the rate or rates for services or commodities provided by the special service district that will, in conjunction with the proceeds of any maintenance and operation tax and other special service district revenues:Utah Code Annotated § 17D-1-506(1): pay the special service district's operating expenses;
+Utah Code Annotated § 17D-1-506(2): provide for repairs and depreciation of works owned or operated by the special service district;
+Utah Code Annotated § 17D-1-506(3): pay the interest on any bonds issued by the special service district; and
+Utah Code Annotated § 17D-1-506(4): provide, as much as practicable, a sinking or other fund to pay the principal of the bonds as they become due.
+
+
+Utah Code Annotated § 17D-1-507 Guaranteed bonds.
+-------------------------------------------------
+Utah Code Annotated § 17D-1-507(1): (1)(a)(i); (1)(b) Before a special service district may issue guaranteed bonds:
+Utah Code Annotated § 17D-1-507(1)(a): (1)(a)(i) the special service district shall:
+Utah Code Annotated § 17D-1-507(1)(a)(i): obtain a report:
+Utah Code Annotated § 17D-1-507(1)(a)(i)(A): prepared by:
+Utah Code Annotated § 17D-1-507(1)(a)(i)(A)(I): a qualified, registered architect or engineer; or
+Utah Code Annotated § 17D-1-507(1)(a)(i)(A)(II): a person qualified by experience appropriate to the project proposed to be funded by the proceeds from the guaranteed bonds;
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B): setting forth:
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(I): a description of the project proposed to be funded by the proceeds from the guaranteed bonds;
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(II): the estimated or, if available, the actual cost of the project;
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(III): the principal amount and date and amount of each stated maturity of:
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(III)(Aa): the guaranteed bonds to be issued; and
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(III)(Bb): any outstanding guaranteed bonds of the special service district;
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(IV): the interest rate or rates of any outstanding guaranteed bonds of the special service district;
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(V): the amount of the annual debt service for each year during the life of all outstanding guaranteed bonds issued by the special service district;
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(VI): the estimated amount of the annual debt service for each year during the life of all guaranteed bonds that the special service district intends to issue to finance all or any part of the project; and
+Utah Code Annotated § 17D-1-507(1)(a)(i)(B)(VII): the date or estimated date that the project will be complete; and
+Utah Code Annotated § 17D-1-507(1)(a)(ii): (1)(a)(i) submit to the Governor's Office of Economic Opportunity:
+Utah Code Annotated § 17D-1-507(1)(a)(ii)(A): (1)(a)(i) the report described in Subsection
+Utah Code Annotated § 17D-1-507(1)(a)(ii)(B): a copy of each proposed guarantee of the guaranteed bonds, certified by the special service district;
+Utah Code Annotated § 17D-1-507(1)(a)(ii)(C): a legal opinion indicating that each guarantee, when executed, will be the legal and binding obligation of the taxpayer executing the guarantee in accordance with the terms of the guarantee; and
+Utah Code Annotated § 17D-1-507(1)(a)(ii)(D): evidence satisfactory to the Governor's Office of Economic Opportunity from each taxpayer executing a guarantee of the guaranteed bonds as to the financial ability of the taxpayer to perform under the guarantee;
+Utah Code Annotated § 17D-1-507(1)(b): the Governor's Office of Economic Opportunity shall, if it approves the issuance of the guaranteed bonds, deliver to the special service district governing body a written statement of its approval; and
+Utah Code Annotated § 17D-1-507(1)(c): (1)(b) the special service district governing body shall file the written approval statement under Subsection
+Utah Code Annotated § 17D-1-507(2): Title 11, Chapter 14, Local Government Bonding Act The issuance of guaranteed bonds is conditioned upon the approval of special service district voters at an election held for that purpose as provided in
+Utah Code Annotated § 17D-1-507(3): 17D-1-502(4) Guaranteed bonds that have been issued and remain outstanding shall be included in the determination of the debt limit under Subsection
+Utah Code Annotated § 17D-1-507(4): 17D-1-502(4); 17D-1-502(4) On July 1 of each year, the governing body shall file with the department of community affairs a report certifying:
+Utah Code Annotated § 17D-1-507(4)(a): 17D-1-502(4) the total amount of bonds issued by the special service district and other debt then outstanding and subject to the debt limit of Subsection
+Utah Code Annotated § 17D-1-507(4)(b): 17D-1-502(4) the total amount of guaranteed bonds then outstanding and not subject to the debt limit of Subsection
+Utah Code Annotated § 17D-1-507(4)(c): the total amount of guaranteed bonds that, during the preceding 12 months, discontinued to enjoy the benefit of the guarantee.
+
+
+Utah Code Annotated § 17D-1-508 Special service district obligations are not obligations of any other entity.
+-------------------------------------------------------------------------------------------------------------
+A special service district bond, note, or other obligation or indebtedness, whether or not payable from taxes, may not be:Utah Code Annotated § 17D-1-508(1): considered to be a bond, note, or other obligation or indebtedness of or to be enforceable against the state or a county, municipality, school district, or other political subdivision of the state; or
+Utah Code Annotated § 17D-1-508(2): taken into account in calculating a debt limit applicable to the state or a county, municipality, school district, or other political subdivision of the state.
+
+
+Utah Code Annotated § 17D-1-509 Ratification of previously issued bonds and previously entered contracts.
+---------------------------------------------------------------------------------------------------------
+All bonds issued or contracts entered into by a special service district before May 5, 2008 are ratified, validated, and confirmed and declared to be valid and legally binding obligations of the special service district in accordance with their terms.
+
+Utah Code Annotated § 17D-1-601 Adoption of a resolution to approve withdrawal, dissolution,  discontinuance of a service, or reorganization.
+---------------------------------------------------------------------------------------------------------------------------------------------
+Subject to and as provided in this part, the legislative body of the county or municipality that created a special service district may by resolution:Utah Code Annotated § 17D-1-601(1): approve the withdrawal of an area from the special service district if the legislative body determines that the area should not or cannot be provided the service that the special service district provides;
+Utah Code Annotated § 17D-1-601(2): approve the dissolution of the special service district if the legislative body determines that the special service district is no longer needed for the purposes for which it was created;
+Utah Code Annotated § 17D-1-601(3): discontinue a service that the special service district provides; or
+Utah Code Annotated § 17D-1-601(4): reorganize the special service district as a special district.
+
+
+Utah Code Annotated § 17D-1-602 Limitations on adoption of withdrawal, dissolution, or discontinuance resolution.
+-----------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-602(1): 17D-1-601(1); (2); (1)(a)(i); (1)(b)(iv)(E)(I); (1)(a)(ii)
+Utah Code Annotated § 17D-1-602(1)(a): 17D-1-601(1); (2) A resolution under Subsection
+Utah Code Annotated § 17D-1-602(1)(a)(i): any bond, note, or other obligation of the special service district is outstanding and unpaid; or
+Utah Code Annotated § 17D-1-602(1)(a)(ii): any contractual obligation to provide service exists.
+Utah Code Annotated § 17D-1-602(1)(b): (1)(a)(i); (1)(b)(iv)(E)(I) Notwithstanding Subsection
+Utah Code Annotated § 17D-1-602(1)(b)(i): each holder of or obligee under each outstanding and unpaid bond, note, or other obligation consents to the withdrawal;
+Utah Code Annotated § 17D-1-602(1)(b)(ii): the bond, note, or other obligation is payable from and secured by solely:
+Utah Code Annotated § 17D-1-602(1)(b)(ii)(A): federal mineral lease payments appropriated to the special service district; or
+Utah Code Annotated § 17D-1-602(1)(b)(ii)(B): other special service district revenue, the amount of which is not subject to reduction as a result of the withdrawal;
+Utah Code Annotated § 17D-1-602(1)(b)(iii): adequate provision is made for payment of the bond, note, or other obligation in accordance with the terms of the bond, note, or other obligation, respectively; or
+Utah Code Annotated § 17D-1-602(1)(b)(iv): (1)(b)(iv)(E)(I)
+Utah Code Annotated § 17D-1-602(1)(b)(iv)(A): the area proposed to be withdrawn has been annexed by a municipality that receives from another special service district the service provided by the special service district from which the area is proposed to be withdrawn;
+Utah Code Annotated § 17D-1-602(1)(b)(iv)(B): the other special service district adopts a resolution proposing to annex the area;
+Utah Code Annotated § 17D-1-602(1)(b)(iv)(C): the municipality adopts a resolution consenting to the area being included within the proposed annexing special service district;
+Utah Code Annotated § 17D-1-602(1)(b)(iv)(D): the proposed annexing special service district and the special service district from which the area is proposed to be withdrawn make adequate arrangements for the proposed annexing special service district to provide the service to the area; and
+Utah Code Annotated § 17D-1-602(1)(b)(iv)(E): (1)(b)(iv)(E)(I) for a special service district from which the area to be withdrawn has any bond, note, or other obligation outstanding that is secured by revenue derived from taxes, rates, fees, or other charges paid by the owners of property within the area proposed to be withdrawn:
+Utah Code Annotated § 17D-1-602(1)(b)(iv)(E)(I): the proposed annexing special service district agrees to provide for the payment of a proportional share of the amounts payable with respect to the bond, note, or other obligation, on terms that are mutually agreeable to the proposed annexing special service district and the special service district from which the area is to be withdrawn; and
+Utah Code Annotated § 17D-1-602(1)(b)(iv)(E)(II): (1)(b)(iv)(E)(I) the withdrawal of the area and the payment arrangement under Subsection
+Utah Code Annotated § 17D-1-602(1)(c): (1)(a)(ii) Notwithstanding Subsection
+Utah Code Annotated § 17D-1-602(2): 17D-1-601(3); (2)(a)(i); (2)(a)(ii)
+Utah Code Annotated § 17D-1-602(2)(a): 17D-1-601(3) A resolution under Subsection
+Utah Code Annotated § 17D-1-602(2)(a)(i): has an outstanding bond payable in whole or in part from fees and charges imposed for the service to be discontinued; or
+Utah Code Annotated § 17D-1-602(2)(a)(ii): is under contractual obligation to provide the service.
+Utah Code Annotated § 17D-1-602(2)(b): (2)(a)(i) Notwithstanding Subsection
+Utah Code Annotated § 17D-1-602(2)(b)(i): the bond is paid;
+Utah Code Annotated § 17D-1-602(2)(b)(ii): adequate provision is made for payment of the bond; or
+Utah Code Annotated § 17D-1-602(2)(b)(iii): the holder of the bond agrees to the discontinuance, if allowed under the bond.
+Utah Code Annotated § 17D-1-602(2)(c): (2)(a)(ii) Notwithstanding Subsection
+
+
+Utah Code Annotated § 17D-1-603 Notice and plat to lieutenant governor -- Recording requirements.
+-------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-1-603(1): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5; 67-1a-6.5 If a county or municipal legislative body adopts a resolution approving the withdrawal of an area from a special service district, the dissolution of a special service district, or the reorganization of a special service district as a special district, the county or municipal legislative body, as the case may be, shall:
+Utah Code Annotated § 17D-1-603(1)(a): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5 within 30 days after adopting the resolution, file with the lieutenant governor:
+Utah Code Annotated § 17D-1-603(1)(a)(i): 67-1a-6.5; 67-1a-6.5(3) a copy of a notice of an impending boundary action, as defined in Section
+Utah Code Annotated § 17D-1-603(1)(a)(ii): 67-1a-6.5 in the case of a withdrawal, a copy of an approved final local entity plat, as defined in Section
+Utah Code Annotated § 17D-1-603(1)(b): 67-1a-6.5 upon the lieutenant governor's issuance of a certificate of withdrawal, dissolution, or incorporation, as the case may be, under Section
+Utah Code Annotated § 17D-1-603(1)(b)(i): the original notice of an impending boundary action;
+Utah Code Annotated § 17D-1-603(1)(b)(ii): the original certificate of withdrawal or dissolution, as the case may be;
+Utah Code Annotated § 17D-1-603(1)(b)(iii): in the case of a withdrawal, the original approved final local entity plat; and
+Utah Code Annotated § 17D-1-603(1)(b)(iv): a certified copy of the resolution approving the withdrawal, dissolution, or incorporation.
+Utah Code Annotated § 17D-1-603(2): 67-1a-6.5; 67-1a-6.5
+Utah Code Annotated § 17D-1-603(2)(a): 67-1a-6.5 Upon the lieutenant governor's issuance of the certificate of withdrawal under Section
+Utah Code Annotated § 17D-1-603(2)(b): 67-1a-6.5 Upon the lieutenant governor's issuance of the certificate of dissolution under Section
+Utah Code Annotated § 17D-1-603(3): 67-1a-6.5; Title 17B, Chapter 1, Provisions Applicable to All Special Districts; (3)(b); Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts; Title 17B, Chapter 1, Part 14, Basic Special District; 17D-1-604(5); Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts
+Utah Code Annotated § 17D-1-603(3)(a): 67-1a-6.5; Title 17B, Chapter 1, Provisions Applicable to All Special Districts; (3)(b); Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts Upon the lieutenant governor's issuance of a certificate of incorporation as provided in Section
+Utah Code Annotated § 17D-1-603(3)(a)(i): Title 17B, Chapter 1, Provisions Applicable to All Special Districts reorganized and incorporated as a special district subject to the provisions of
+Utah Code Annotated § 17D-1-603(3)(a)(ii): (3)(b); Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts subject to Subsection
+Utah Code Annotated § 17D-1-603(3)(a)(iii): no longer a special service district.
+Utah Code Annotated § 17D-1-603(3)(b): Title 17B, Chapter 1, Part 14, Basic Special District; 17D-1-604(5); Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts A special service district reorganized as a special district is a basic special district as provided in
+Utah Code Annotated § 17D-1-603(3)(b)(i): specifies that the reorganized special district is a different type of special district other than a basic special district; and
+Utah Code Annotated § 17D-1-603(3)(b)(ii): Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts states the type of that special district, including the governing part in
+
+
+Utah Code Annotated § 17D-1-604 Reorganization as a special district.
+---------------------------------------------------------------------
+Utah Code Annotated § 17D-1-604(1): The legislative body of a county or municipality that has created a special service district may reorganize the special service district as a special district in accordance with this section.
+Utah Code Annotated § 17D-1-604(2): (3) The process to reorganize a special service district as a special district is initiated if the legislative body of the county or municipality that originally created the special service district adopts a resolution that:
+Utah Code Annotated § 17D-1-604(2)(a): indicates the legislative body's intent to reorganize the special service district as a special district; and
+Utah Code Annotated § 17D-1-604(2)(b): (3) complies with the requirements of Subsection
+Utah Code Annotated § 17D-1-604(3): (2) A resolution to initiate reorganization described in Subsection
+Utah Code Annotated § 17D-1-604(3)(a): state the name of the special service district that is proposed to be reorganized as a special district;
+Utah Code Annotated § 17D-1-604(3)(b): generally describe the boundaries of the special service district, whether or not those boundaries coincide with the boundaries of the creating county or municipality; and
+Utah Code Annotated § 17D-1-604(3)(c): specify each service that the special service district is authorized to provide.
+Utah Code Annotated § 17D-1-604(4): (3); 17D-1-205 After adopting the resolution described in Subsection
+Utah Code Annotated § 17D-1-604(5): (5)(b); (7); (5)(c); (8)(a); Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts; Title 17B, Chapter 1, Part 3, Board of Trustees
+Utah Code Annotated § 17D-1-604(5)(a): (5)(b) At or following the public hearing, the county or municipal legislative body shall:
+Utah Code Annotated § 17D-1-604(5)(a)(i): (5)(b) subject to Subsection
+Utah Code Annotated § 17D-1-604(5)(a)(ii): abandon the reorganization.
+Utah Code Annotated § 17D-1-604(5)(b): (7); (5)(c); (8)(a); Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts; Title 17B, Chapter 1, Part 3, Board of Trustees A resolution approving reorganization shall:
+Utah Code Annotated § 17D-1-604(5)(b)(i): state the name of the special service district that is being reorganized as a special district;
+Utah Code Annotated § 17D-1-604(5)(b)(ii): (7) state the name of the special district in accordance with Subsection
+Utah Code Annotated § 17D-1-604(5)(b)(iii): (5)(c) subject to Subsection
+Utah Code Annotated § 17D-1-604(5)(b)(iv): (8)(a) subject to Subsection
+Utah Code Annotated § 17D-1-604(5)(b)(v): Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts state:
+Utah Code Annotated § 17D-1-604(5)(b)(v)(A): whether the special district is a different type of special district other than a basic special district; and
+Utah Code Annotated § 17D-1-604(5)(b)(v)(B): Title 17B, Chapter 2a, Provisions Applicable to Different Types of Special Districts if the reorganized special district is not a basic special district, the type of special district, including the governing part in
+Utah Code Annotated § 17D-1-604(5)(b)(vi): Title 17B, Chapter 1, Part 3, Board of Trustees state whether the special district is to be governed by an appointed or an elected board of trustees, or a combination of appointed and elected trustees, in accordance with
+Utah Code Annotated § 17D-1-604(5)(b)(vii): state whether an administrative control board established for the special service district that is being reorganized as a special district will serve as the first board of trustees of the special district; and
+Utah Code Annotated § 17D-1-604(5)(b)(viii): contain additional provisions as necessary.
+Utah Code Annotated § 17D-1-604(5)(c): The boundaries of the special district shall reflect the boundaries of the reorganized special service district.
+Utah Code Annotated § 17D-1-604(6): A county may not reorganize a special service district as a special district to include some or all of the area within a municipality unless the legislative body of the municipality adopts a resolution or ordinance consenting to the reorganization.
+Utah Code Annotated § 17D-1-604(7): 17-50-103(2)(a) The name of the special district:
+Utah Code Annotated § 17D-1-604(7)(a): 17-50-103(2)(a) shall comply with Subsection
+Utah Code Annotated § 17D-1-604(7)(b): may not include the phrase "special service district."
+Utah Code Annotated § 17D-1-604(8): 17B-1-202; Title 17B, Chapter 1, Provisions Applicable to All Special Districts; 17B-1-202 A special district created under this section may not provide:
+Utah Code Annotated § 17D-1-604(8)(a): 17B-1-202; Title 17B, Chapter 1, Provisions Applicable to All Special Districts
+Utah Code Annotated § 17D-1-604(8)(a)(i): at the time of reorganization, a service that it could not have provided as the special service district prior to reorganization; or
+Utah Code Annotated § 17D-1-604(8)(a)(ii): 17B-1-202; Title 17B, Chapter 1, Provisions Applicable to All Special Districts after reorganization, an additional service listed in Section
+Utah Code Annotated § 17D-1-604(8)(b): 17B-1-202 more than four of the services listed in Section
+Utah Code Annotated § 17D-1-604(9): 67-1a-6.5; 17B-1-103; (8); (5) After the lieutenant governor issues, in accordance with Section
+Utah Code Annotated § 17D-1-604(9)(a): 17B-1-103 is:
+Utah Code Annotated § 17D-1-604(9)(a)(i): a body corporate and politic with perpetual succession;
+Utah Code Annotated § 17D-1-604(9)(a)(ii): a quasi-municipal corporation; and
+Utah Code Annotated § 17D-1-604(9)(a)(iii): 17B-1-103 a political subdivision of the state as provided in Section
+Utah Code Annotated § 17D-1-604(9)(b): (8); (5) may, subject to Subsection
+Utah Code Annotated § 17D-1-604(9)(b)(i): the special service district was authorized to provide before reorganization; and
+Utah Code Annotated § 17D-1-604(9)(b)(ii): (5) the special district is authorized to provide under the resolution adopted in accordance with Subsection
+Utah Code Annotated § 17D-1-604(10): An action taken, a bond issued, or a contract or other obligation entered into by the reorganized special service district before reorganization is a valid action, bond issuance, contract, or other obligation of the special district.
+Utah Code Annotated § 17D-1-604(11): A special district created under this section:
+Utah Code Annotated § 17D-1-604(11)(a): may impose and collect taxes, fees, and other charges for services provided in accordance with applicable law;
+Utah Code Annotated § 17D-1-604(11)(b): shall own all property acquired by the special service district before reorganization; and
+Utah Code Annotated § 17D-1-604(11)(c): shall have a power, right, or obligation that the reorganized special service district had before the reorganization, unless otherwise provided by law.
+
+
+Utah Code Annotated - Title 17D - Chapter 2 - Local Building Authority Act
+**************************************************************************
+
+Utah Code Annotated § 17D-2-101 Title.
+--------------------------------------
+This chapter is known as the "Local Building Authority Act."
+
+Utah Code Annotated § 17D-2-102 Definitions.
+--------------------------------------------
+As used in this chapter:Utah Code Annotated § 17D-2-102(1): 17D-2-203 "Authority board" means the board of directors of a local building authority, as described in Section
+Utah Code Annotated § 17D-2-102(2): "Bond" includes a bond, note, or other instrument issued under this chapter evidencing an indebtedness of a local building authority.
+Utah Code Annotated § 17D-2-102(3): "Creating local entity" means the local entity that creates or created the local building authority.
+Utah Code Annotated § 17D-2-102(4): 17D-1-102 "Governing body" means:
+Utah Code Annotated § 17D-2-102(4)(a): for a county, city, or town, the legislative body of the county, city, or town;
+Utah Code Annotated § 17D-2-102(4)(b): for a school district, the local school board for the school district;
+Utah Code Annotated § 17D-2-102(4)(c): for a special district, the special district's board of trustees; and
+Utah Code Annotated § 17D-2-102(4)(d): 17D-1-102 for a special service district, the special service district's governing body, as defined in Section
+Utah Code Annotated § 17D-2-102(5): 17D-2-201; 17D-2-103 "Local building authority":
+Utah Code Annotated § 17D-2-102(5)(a): 17D-2-201; 17D-2-103 means a nonprofit corporation that is:
+Utah Code Annotated § 17D-2-102(5)(a)(i): 17D-2-201 created as provided in Section
+Utah Code Annotated § 17D-2-102(5)(a)(ii): 17D-2-103 described in Section
+Utah Code Annotated § 17D-2-102(5)(a)(iii): subject to and governed by the provisions of this chapter; and
+Utah Code Annotated § 17D-2-102(5)(b): includes a nonprofit corporation created as a municipal building authority before May 5, 2008 under the law then in effect.
+Utah Code Annotated § 17D-2-102(6): "Local entity" means a county, city, town, school district, special district, or special service district.
+Utah Code Annotated § 17D-2-102(7): "Mortgage" means any instrument under which property may be encumbered as security for an obligation, including a mortgage, trust deed, indenture, pledge, assignment, security agreement, and financing statement.
+Utah Code Annotated § 17D-2-102(8): "Project" means an improvement, facility, property, or appurtenance to property that a local entity is permitted under law to own or acquire, whether located inside or outside the local entity's boundary, including:
+Utah Code Annotated § 17D-2-102(8)(a): a public building or other structure of any kind; and
+Utah Code Annotated § 17D-2-102(8)(b): a joint or partial interest in the improvement, facility, property, or appurtenance to property.
+Utah Code Annotated § 17D-2-102(9): "Project costs":
+Utah Code Annotated § 17D-2-102(9)(a): means all costs incurred in the development of a project; and
+Utah Code Annotated § 17D-2-102(9)(b): includes:
+Utah Code Annotated § 17D-2-102(9)(b)(i): organizational and incorporation fees, including filing, legal, and financial advisor fees;
+Utah Code Annotated § 17D-2-102(9)(b)(ii): the cost of a site for the project;
+Utah Code Annotated § 17D-2-102(9)(b)(iii): the cost of equipment and furnishings for the project;
+Utah Code Annotated § 17D-2-102(9)(b)(iv): the cost of planning and designing the project, including architectural, planning, engineering, legal, and fiscal advisor fees;
+Utah Code Annotated § 17D-2-102(9)(b)(v): contractor fees associated with the project;
+Utah Code Annotated § 17D-2-102(9)(b)(vi): the cost of issuing local building authority bonds to finance the project, including printing costs, document preparation costs, filing fees, recording fees, legal and other professional fees, underwriting costs, bond discount costs, any premium on the bonds, and any fees required to be paid to retire outstanding bonds;
+Utah Code Annotated § 17D-2-102(9)(b)(vii): interest on local building authority bonds issued to finance the project;
+Utah Code Annotated § 17D-2-102(9)(b)(viii): carrying costs;
+Utah Code Annotated § 17D-2-102(9)(b)(ix): interest estimated to accrue on local building authority bonds during the period of construction of the project and for 12 months after;
+Utah Code Annotated § 17D-2-102(9)(b)(x): any amount the governing body finds necessary to establish one or more reserve funds;
+Utah Code Annotated § 17D-2-102(9)(b)(xi): any amount the governing body finds necessary to provide working capital for the project;
+Utah Code Annotated § 17D-2-102(9)(b)(xii): all costs of transferring title of the project to the creating local entity;
+Utah Code Annotated § 17D-2-102(9)(b)(xiii): all costs of dissolving the local building authority; and
+Utah Code Annotated § 17D-2-102(9)(b)(xiv): all other reasonable costs associated with the project.
+Utah Code Annotated § 17D-2-102(10): 17B-1-102 "Special district" means the same as that term is defined in Section
+Utah Code Annotated § 17D-2-102(11): 17D-1-102 "Special service district" means the same as that term is defined in Section
+
+
+Utah Code Annotated § 17D-2-103 Status and authority of a local building authority -- Registration as a limited purpose entity.
+-------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-103(1): Part 5, Local Building Authority Bonds A local building authority:
+Utah Code Annotated § 17D-2-103(1)(a): is a public entity and an instrumentality of the state, created by a local entity solely for the purpose of constructing, acquiring, improving, or extending, and financing the costs of, one or more projects on behalf of the local entity;
+Utah Code Annotated § 17D-2-103(1)(b): shall be known as the "Local Building Authority of (name of the creating local entity)"; and
+Utah Code Annotated § 17D-2-103(1)(c): Part 5, Local Building Authority Bonds may:
+Utah Code Annotated § 17D-2-103(1)(c)(i): as provided in this chapter, construct, acquire, improve, or extend, and finance the costs of, one or more projects on behalf of the creating local entity, in order to accomplish the public purposes for which the creating local entity exists; and
+Utah Code Annotated § 17D-2-103(1)(c)(ii): Part 5, Local Building Authority Bonds as provided in
+Utah Code Annotated § 17D-2-103(2): 67-1a-15; (2)(a); 67-1a-15; 67-3-1
+Utah Code Annotated § 17D-2-103(2)(a): 67-1a-15 Each local building authority shall register and maintain the local building authority's registration as a limited purpose entity, in accordance with Section
+Utah Code Annotated § 17D-2-103(2)(b): (2)(a); 67-1a-15; 67-3-1 A local building authority that fails to comply with Subsection
+
+
+Utah Code Annotated § 17D-2-104 Local building authority property exempt from taxation.
+---------------------------------------------------------------------------------------
+Property owned, held, or acquired by a local building authority, including all rent or other payment due under a lease agreement, is exempt from all taxation in the state.
+
+Utah Code Annotated § 17D-2-105 Action of a local entity's governing body or a local building authority's board of directors.
+-----------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-105(1): The governing body of a local entity or the authority board of a local building authority may take an action or proceeding under this chapter by resolution.
+Utah Code Annotated § 17D-2-105(2): Except as specifically required under this chapter:
+Utah Code Annotated § 17D-2-105(2)(a): an ordinance, resolution, or proceeding with respect to a transaction under this chapter is not necessary; and
+Utah Code Annotated § 17D-2-105(2)(b): the publication of a resolution, proceeding, or notice relating to a transaction under this chapter is not necessary.
+Utah Code Annotated § 17D-2-105(3): The governing body of a local entity or authority board of a local building authority may adopt a proceeding under this chapter on a single reading at a legally convened meeting of the governing body or authority board, as the case may be.
+Utah Code Annotated § 17D-2-105(4): Except as specifically provided in this chapter, a resolution adopted or proceeding taken under this chapter is not subject to referendum.
+
+
+Utah Code Annotated § 17D-2-106 Publications in newspapers.
+-----------------------------------------------------------
+A publication made under this chapter may be made in a newspaper conforming to the terms of this chapter and in which legal notices may be published under the law, without regard to whether the newspaper is designated as the local entity's official journal or newspaper.
+
+Utah Code Annotated § 17D-2-107 Local building authority not subject to any state board, commission, or agency.
+---------------------------------------------------------------------------------------------------------------
+Neither a local building authority nor a project is subject to the jurisdiction of any board, commission, or agency of the state, including the Public Service Commission.
+
+Utah Code Annotated § 17D-2-108 Other statutory provisions.
+-----------------------------------------------------------
+Utah Code Annotated § 17D-2-108(1): This chapter is supplemental to existing laws relating to a local entity's acquisition, use, maintenance, management, or operation of a project.
+Utah Code Annotated § 17D-2-108(2): Title 63G, Chapter 6a, Utah Procurement Code Except as provided in this chapter, a local entity or local building authority that complies with the provisions of this chapter need not comply with any other statutory provision concerning the acquisition, construction, use, or maintenance of a project, including:
+Utah Code Annotated § 17D-2-108(2)(a): a statute relating to public bidding; and
+Utah Code Annotated § 17D-2-108(2)(b): Title 63G, Chapter 6a, Utah Procurement Code
+Utah Code Annotated § 17D-2-108(3): Title 17B, Chapter 1, Part 6, Fiscal Procedures for Special Districts; Title 17B, Chapter 1, Part 8, Special District Personnel Management; 17B-1-108 A local building authority is, to the same extent as if it were a special district, subject to and governed by:
+Utah Code Annotated § 17D-2-108(3)(a): Title 17B, Chapter 1, Part 6, Fiscal Procedures for Special Districts
+Utah Code Annotated § 17D-2-108(3)(b): Title 17B, Chapter 1, Part 8, Special District Personnel Management
+Utah Code Annotated § 17D-2-108(3)(c): 17B-1-108 Section
+
+
+Utah Code Annotated § 17D-2-109 Construction of this chapter -- Conflicts with other provisions.
+------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-109(1): To enable a local building authority to perform its essential governmental functions on behalf of its creating local entity, this chapter shall be liberally construed.
+Utah Code Annotated § 17D-2-109(2): (2)(a); 11-14-403
+Utah Code Annotated § 17D-2-109(2)(a): If a provision of this chapter conflicts with another statutory provision, the provision of this chapter controls.
+Utah Code Annotated § 17D-2-109(2)(b): (2)(a); 11-14-403 Subsection
+
+
+Utah Code Annotated § 17D-2-110 Validation of previous proceedings.
+-------------------------------------------------------------------
+Each proceeding taken by a local entity before May 5, 2008 in connection with the creation and operation of a local building authority is validated, ratified, approved, and confirmed.
+
+Utah Code Annotated § 17D-2-201 Creating a local building authority -- Articles of incorporation and bylaws -- Changing a local building authority.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-201(1): Title 16, Chapter 6a, Utah Revised Nonprofit Corporation Act The governing body of a local entity may create a local building authority by following the procedures in
+Utah Code Annotated § 17D-2-201(2): The creating local entity's governing body shall approve:
+Utah Code Annotated § 17D-2-201(2)(a): the local building authority's articles of incorporation before they are filed with the Division of Corporations and Commercial Code; and
+Utah Code Annotated § 17D-2-201(2)(b): the local building authority's bylaws.
+Utah Code Annotated § 17D-2-201(3): The creating local entity's governing body may, in its sole discretion and at any time, change the local building authority's structure, organization, programs, or activities, subject to:
+Utah Code Annotated § 17D-2-201(3)(a): this chapter; and
+Utah Code Annotated § 17D-2-201(3)(b): the rights of:
+Utah Code Annotated § 17D-2-201(3)(b)(i): holders of the local building authority's bonds; and
+Utah Code Annotated § 17D-2-201(3)(b)(ii): parties to other obligations of the local building authority.
+
+
+Utah Code Annotated § 17D-2-202 Staff and personnel of a local building authority -- Legal, accounting, and auditing services.
+------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-202(1): (2); (1)(a) A local building authority may:
+Utah Code Annotated § 17D-2-202(1)(a): (2) as necessary for the local building authority's performance of its functions and activities:
+Utah Code Annotated § 17D-2-202(1)(a)(i): (2) subject to Subsection
+Utah Code Annotated § 17D-2-202(1)(a)(ii): contract with the creating local entity to use the creating local entity's property or facilities; and
+Utah Code Annotated § 17D-2-202(1)(b): (1)(a) include the cost of the use of the creating local entity's personnel, property, or facilities under Subsection
+Utah Code Annotated § 17D-2-202(2): (3); (3)
+Utah Code Annotated § 17D-2-202(2)(a): (3) If a creating local entity has an elected attorney, that elected attorney shall be the legal advisor to and provide all legal services for the local building authority created by the creating local entity, subject to Subsection
+Utah Code Annotated § 17D-2-202(2)(b): (3) If a creating local entity has an elected auditor, that elected auditor shall provide all accounting and auditing services for the local building authority created by the creating local entity, subject to Subsection
+Utah Code Annotated § 17D-2-202(2)(c): The local building authority shall reimburse the creating local entity for legal, accounting, and auditing services provided by the creating local entity's elected attorney or auditor, based on the actual cost of the services, including a reasonable amount that the creating local entity allocates for overhead, employee benefits, and general and administrative costs.
+Utah Code Annotated § 17D-2-202(3): (2) Subsection
+Utah Code Annotated § 17D-2-202(3)(a): with the consent of the elected attorney and the governing body, legal services from an outside attorney;
+Utah Code Annotated § 17D-2-202(3)(b): with the consent of the elected auditor and the governing body, accounting or auditing services from an outside accountant or auditor; or
+Utah Code Annotated § 17D-2-202(3)(c): an opinion of an outside attorney or accountant that is necessary for the issuance of the local building authority's bonds.
+Utah Code Annotated § 17D-2-202(4): If fees for legal, accounting, or auditing services related to a project are paid by the creating local entity and not reimbursed by the local building authority, the local building authority may not include the cost of those services in the amount the local building authority charges under a lease agreement with the creating local entity with respect to that project.
+
+
+Utah Code Annotated § 17D-2-203 Local building authority board of directors.
+----------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-203(1): (3) Except as provided in Subsection
+Utah Code Annotated § 17D-2-203(2): An authority board may be referred to as a board of trustees.
+Utah Code Annotated § 17D-2-203(3): 17-52a-201; 17-16-10.5; (3)(a); (3)(a)(i); (ii); (iii); (iv)
+Utah Code Annotated § 17D-2-203(3)(a): 17-52a-201; 17-16-10.5 For a local building authority whose creating local entity is a county that operates under the county commission form of government under Section
+Utah Code Annotated § 17D-2-203(3)(a)(i): 17-16-10.5 is, as a member of the county commission, placed on paid administrative leave under Section
+Utah Code Annotated § 17D-2-203(3)(a)(ii): is unable to serve due to a disability;
+Utah Code Annotated § 17D-2-203(3)(a)(iii): has a conflict of interest with respect to a matter before the authority board that disqualifies the authority board member or causes the member to abstain from participating in action on that matter; or
+Utah Code Annotated § 17D-2-203(3)(a)(iv): is unable for any other reason to serve temporarily on the authority board or to participate in a matter before the board.
+Utah Code Annotated § 17D-2-203(3)(b): (3)(a); (3)(a)(i); (ii); (iii); (iv) An elected county officer appointed to an authority board under Subsection
+
+
+Utah Code Annotated § 17D-2-301 Project plans and specifications.
+-----------------------------------------------------------------
+Each local building authority that proposes to construct, acquire, improve, or extend a project for the use of its creating local entity shall submit to the governing body of the creating local entity:Utah Code Annotated § 17D-2-301(1): plans and specifications for the project; and
+Utah Code Annotated § 17D-2-301(2): the estimated project costs.
+
+
+Utah Code Annotated § 17D-2-302 Architect or engineer certificate -- Approval of plans and specifications.
+----------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-302(1): 17D-2-301(1) The plans and specifications submitted under Subsection
+Utah Code Annotated § 17D-2-302(2): The creating local entity's governing body shall approve the plans, specifications, and estimated project costs before:
+Utah Code Annotated § 17D-2-302(2)(a): execution of a lease agreement with respect to the project; and
+Utah Code Annotated § 17D-2-302(2)(b): the local building authority begins to construct, acquire, improve, or extend the project.
+
+
+Utah Code Annotated § 17D-2-401 Project lease agreements.
+---------------------------------------------------------
+Utah Code Annotated § 17D-2-401(1): A local building authority and its creating local entity may enter into a lease agreement with respect to a project that the local building authority:
+Utah Code Annotated § 17D-2-401(1)(a): has constructed, acquired, improved, or extended on behalf of the creating local entity; or
+Utah Code Annotated § 17D-2-401(1)(b): will construct, acquire, improve, or extend on behalf of the creating local entity.
+Utah Code Annotated § 17D-2-401(2): (2)(a)
+Utah Code Annotated § 17D-2-401(2)(a): A local building authority and its creating local entity may enter into a lease agreement before the local building authority's acquisition of a site or construction of the project.
+Utah Code Annotated § 17D-2-401(2)(b): (2)(a) Each lease agreement described in Subsection
+Utah Code Annotated § 17D-2-401(2)(b)(i): provide that the creating local entity is not required to make a lease payment until acquisition or construction of the project is completed; and
+Utah Code Annotated § 17D-2-401(2)(b)(ii): require the local building authority to furnish or cause the construction contractor to furnish a bond satisfactory to the creating local entity, conditioned upon:
+Utah Code Annotated § 17D-2-401(2)(b)(ii)(A): final completion of the project as expeditiously as reasonably possible from the date of the execution of the lease agreement; and
+Utah Code Annotated § 17D-2-401(2)(b)(ii)(B): delivery of possession of the project to the creating local entity free and clear of all liens and encumbrances, except:
+Utah Code Annotated § 17D-2-401(2)(b)(ii)(B)(I): taxes, liens, and encumbrances on the local building authority's interest in the leased property; and
+Utah Code Annotated § 17D-2-401(2)(b)(ii)(B)(II): easements and restrictions that the creating local entity accepts.
+
+
+Utah Code Annotated § 17D-2-402 Requirements for lease agreements.
+------------------------------------------------------------------
+Utah Code Annotated § 17D-2-402(1): (1)(a)(i)(A); (2); (3); 17D-2-702 Each lease agreement between a local building authority and its creating local entity shall:
+Utah Code Annotated § 17D-2-402(1)(a): (1)(a)(i)(A) provide for the payment of lease payments sufficient:
+Utah Code Annotated § 17D-2-402(1)(a)(i): (1)(a)(i)(A) to pay:
+Utah Code Annotated § 17D-2-402(1)(a)(i)(A): the principal of and interest on local building authority bonds the proceeds of which were used to construct, acquire, improve, or extend the project;
+Utah Code Annotated § 17D-2-402(1)(a)(i)(B): (1)(a)(i)(A) all fees and expenses of trustees and paying agents for bonds described in Subsection
+Utah Code Annotated § 17D-2-402(1)(a)(i)(C): all costs of maintaining and operating the project; and
+Utah Code Annotated § 17D-2-402(1)(a)(ii): to accumulate any reasonable reserve that the local building authority considers necessary;
+Utah Code Annotated § 17D-2-402(1)(b): (2); (3) provide that the creating local entity, if not in default under the lease agreement, may:
+Utah Code Annotated § 17D-2-402(1)(b)(i): (2) subject to Subsection
+Utah Code Annotated § 17D-2-402(1)(b)(ii): (3) subject to Subsection
+Utah Code Annotated § 17D-2-402(1)(c): provide that a creating local entity under the lease agreement is not under any obligation:
+Utah Code Annotated § 17D-2-402(1)(c)(i): to purchase the leased property; or
+Utah Code Annotated § 17D-2-402(1)(c)(ii): to a creditor, shareholder, or security holder of the local building authority; and
+Utah Code Annotated § 17D-2-402(1)(d): 17D-2-702 require that:
+Utah Code Annotated § 17D-2-402(1)(d)(i): title to the project vest in the creating local entity upon payment in full of all outstanding local building authority bonds issued to construct, acquire, improve, or extend a project; and
+Utah Code Annotated § 17D-2-402(1)(d)(ii): 17D-2-702 any remaining assets and net earnings of the local building authority be paid to the creating local entity upon dissolution of the local building authority, as provided in Section
+Utah Code Annotated § 17D-2-402(2): 17D-2-302(1) The term of a lease agreement under this part, including any renewal of the lease agreement, may not exceed the lesser of:
+Utah Code Annotated § 17D-2-402(2)(a): 17D-2-302(1) the estimated useful life of the project, as certified under Subsection
+Utah Code Annotated § 17D-2-402(2)(b): 40 years.
+Utah Code Annotated § 17D-2-402(3): (1)(b)(ii) The purchase price of leased property under Subsection
+
+
+Utah Code Annotated § 17D-2-403 Provisions that a lease agreement may contain.
+------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-403(1): A lease agreement between a local building authority and its creating local entity may:
+Utah Code Annotated § 17D-2-403(1)(a): provide that the creating local entity, as part of the lease payments for the leased property:
+Utah Code Annotated § 17D-2-403(1)(a)(i): pay all taxes and assessments levied against or on account of the leased property or rentals from it;
+Utah Code Annotated § 17D-2-403(1)(a)(ii): maintain insurance on the leased property for the benefit of the local building authority and the holders of the local building authority's bonds; and
+Utah Code Annotated § 17D-2-403(1)(a)(iii): assume all responsibility for any repair, replacement, alteration, or improvement to the leased property during the term of the lease agreement; and
+Utah Code Annotated § 17D-2-403(1)(b): authorize the local entity to sublease all or specified portions of a project to:
+Utah Code Annotated § 17D-2-403(1)(b)(i): the state;
+Utah Code Annotated § 17D-2-403(1)(b)(ii): another local entity; or
+Utah Code Annotated § 17D-2-403(1)(b)(iii): a private party, including a nonprofit corporation, if the local building authority or local entity:
+Utah Code Annotated § 17D-2-403(1)(b)(iii)(A): intends to own the project throughout the useful life of the project; and
+Utah Code Annotated § 17D-2-403(1)(b)(iii)(B): determines that the local building authority or local entity's ownership of the project furthers a legitimate public purpose.
+Utah Code Annotated § 17D-2-403(2): (1)(b) A local entity that subleases some or all of a project under Subsection
+
+
+Utah Code Annotated § 17D-2-404 Lease of local entity's site to local building authority.
+-----------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-404(1): A local entity desiring to have a local building authority construct a project for the use of the local entity upon a site that the local entity owns may lease the site to the local building authority for a nominal rental.
+Utah Code Annotated § 17D-2-404(2): (1) Each lease under Subsection
+Utah Code Annotated § 17D-2-404(3): (2); 17D-2-402(2) A lease under this section, including any renewal of the lease under Subsection
+Utah Code Annotated § 17D-2-404(4): (4)
+Utah Code Annotated § 17D-2-404(4)(a): (4) As used in this Subsection
+Utah Code Annotated § 17D-2-404(4)(a)(i): "Project lease agreement" means a lease agreement between a local building authority and its creating local entity under which the local building authority leases to the creating local entity a project constructed on a site owned by the creating local entity.
+Utah Code Annotated § 17D-2-404(4)(a)(ii): "Site lease" means a creating local entity's lease of a site to a local building authority.
+Utah Code Annotated § 17D-2-404(4)(b): A local entity that has entered into a site lease with a local building authority may grant the local building authority an option to purchase the site within six months after the termination of the creating local entity's lease payment obligation under the project lease agreement, to be exercised if the creating local entity under the project lease agreement:
+Utah Code Annotated § 17D-2-404(4)(b)(i): defaults under the terms of the project lease agreement; and
+Utah Code Annotated § 17D-2-404(4)(b)(ii): does not exercise its option to purchase the project under the terms of the project lease agreement.
+
+
+Utah Code Annotated § 17D-2-405 Default under a lease agreement.
+----------------------------------------------------------------
+If a local entity fails to pay a lease payment due to a local building authority under a lease agreement:Utah Code Annotated § 17D-2-405(1): the local entity shall immediately quit and vacate the project;
+Utah Code Annotated § 17D-2-405(2): the local entity's lease payment obligation under the lease agreement terminates; and
+Utah Code Annotated § 17D-2-405(3): the local building authority may immediately lease the project according to the provisions of:
+Utah Code Annotated § 17D-2-405(3)(a): the proceeding under which bonds to fund the project were authorized; and
+Utah Code Annotated § 17D-2-405(3)(b): any mortgage given to secure the bonds.
+
+
+Utah Code Annotated § 17D-2-501 Provisions applicable to issuance of local building authority bonds.
+----------------------------------------------------------------------------------------------------
+Except as otherwise provided in this chapter:Utah Code Annotated § 17D-2-501(1): Title 11, Chapter 14, Local Government Bonding Act; 11-14-306; Title 11, Chapter 30, Utah Bond Validation Act each local building authority that issues bonds shall:
+Utah Code Annotated § 17D-2-501(1)(a): Title 11, Chapter 14, Local Government Bonding Act; 11-14-306 issue them as provided in
+Utah Code Annotated § 17D-2-501(1)(b): Title 11, Chapter 30, Utah Bond Validation Act receive the benefits of
+Utah Code Annotated § 17D-2-501(2): Title 11, Chapter 14, Local Government Bonding Act; 11-14-306; 11-14-403 bonds issued by a local building authority are governed by and subject to
+Utah Code Annotated § 17D-2-501(3): Title 11, Chapter 27, Utah Refunding Bond Act each local building authority that issues refunding bonds shall issue them as provided in
+
+
+Utah Code Annotated § 17D-2-502 Required process for issuance of local building authority bonds -- Certification of petition signatures -- Removal of signature.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-502(1): A local building authority may not issue bonds unless the creating local entity's governing body approves the issuance and terms of the bonds.
+Utah Code Annotated § 17D-2-502(2): (2)(a); 20A-1-102; (2)(b)(i); Title 11, Chapter 14, Local Government Bonding Act
+Utah Code Annotated § 17D-2-502(2)(a): Before issuing bonds, the authority board of a local building authority shall give public notice of the authority board's intent to issue bonds.
+Utah Code Annotated § 17D-2-502(2)(b): (2)(a); 20A-1-102; (2)(b)(i); Title 11, Chapter 14, Local Government Bonding Act
+Utah Code Annotated § 17D-2-502(2)(b)(i): (2)(a); 20A-1-102 A local building authority may not issue bonds without the approval of the creating local entity's voters if, within 30 days after the notice under Subsection
+Utah Code Annotated § 17D-2-502(2)(b)(ii): (2)(b)(i); Title 11, Chapter 14, Local Government Bonding Act Each election under Subsection
+Utah Code Annotated § 17D-2-502(3): (2)(b)(i); (3)(a); 20A-1-1002; (2)(b)(i)
+Utah Code Annotated § 17D-2-502(3)(a): (2)(b)(i) Within three business days after the day on which a local building authority receives a petition under Subsection
+Utah Code Annotated § 17D-2-502(3)(b): (3)(a); 20A-1-1002; (2)(b)(i) Within 14 days after the day on which a county clerk receives a petition from the local building authority under Subsection
+Utah Code Annotated § 17D-2-502(3)(b)(i): 20A-1-1002; (2)(b)(i) use the procedures described in Section
+Utah Code Annotated § 17D-2-502(3)(b)(ii): certify on the petition whether each name is that of an active voter within the creating local entity; and
+Utah Code Annotated § 17D-2-502(3)(b)(iii): deliver the certified petition to the local building authority.
+Utah Code Annotated § 17D-2-502(4): (4)(a); 20A-1-1003(2); 20A-1-1003(3)
+Utah Code Annotated § 17D-2-502(4)(a): A voter who signs a petition under this section may have the voter's signature removed from the petition by, no later than three business days after the day on which the local building authority provides the petition to the county clerk, submitting to the county clerk a statement requesting that the voter's signature be removed.
+Utah Code Annotated § 17D-2-502(4)(b): (4)(a); 20A-1-1003(2) A statement described in Subsection
+Utah Code Annotated § 17D-2-502(4)(c): 20A-1-1003(3) The county clerk shall use the procedures described in Section
+
+
+Utah Code Annotated § 17D-2-503 Proceedings for the issuance of local building authority bonds.
+-----------------------------------------------------------------------------------------------
+The proceeding under which a local building authority is authorized to issue bonds under this part may:Utah Code Annotated § 17D-2-503(1): contain any agreement or provision customarily contained in an instrument securing bonds, including a provision regarding:
+Utah Code Annotated § 17D-2-503(1)(a): the fixing and collection of lease payments for a project covered by the bond proceeding;
+Utah Code Annotated § 17D-2-503(1)(b): the terms to be incorporated in the lease agreement with respect to the project;
+Utah Code Annotated § 17D-2-503(1)(c): the operation, maintenance, and insurance of the project;
+Utah Code Annotated § 17D-2-503(1)(d): the creation and maintenance of a reserve fund from the proceeds of the sale of bonds or from lease payment revenue; and
+Utah Code Annotated § 17D-2-503(1)(e): any rights and remedies available to the holders of the bonds or to the trustee, in the event of a default, that the authority board of the local building authority determines in accordance with this part;
+Utah Code Annotated § 17D-2-503(2): provide for the appointment of a trust company or bank, located inside or outside the state, as trustee; and
+Utah Code Annotated § 17D-2-503(3): provide that upon default in the payment of the principal of or interest on the bonds or in the performance of any covenant or agreement contained in the proceedings, the payment or performance may be enforced by the appointment of a receiver for the project, with power:
+Utah Code Annotated § 17D-2-503(3)(a): to rent or lease some or all of the property;
+Utah Code Annotated § 17D-2-503(3)(b): to charge and collect rent; and
+Utah Code Annotated § 17D-2-503(3)(c): to apply revenue from the project in accordance with the bond proceeding.
+
+
+Utah Code Annotated § 17D-2-504 Local building authority bonds payable solely from lease payments.
+--------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-504(1): 17D-2-505 Except to the extent that they are secured as provided in Section
+Utah Code Annotated § 17D-2-504(2): (1) Each bond issued by a local building authority shall recite on its face that the bond is payable as provided in Subsection
+
+
+Utah Code Annotated § 17D-2-505 Security for local building authority bonds.
+----------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-505(1): The principal of and interest on bonds that a local building authority issues under this part:
+Utah Code Annotated § 17D-2-505(1)(a): shall be secured by a pledge and assignment of the revenue that the local building authority receives under its lease agreement with respect to the project that was financed with the bond proceeds;
+Utah Code Annotated § 17D-2-505(1)(b): may be secured by:
+Utah Code Annotated § 17D-2-505(1)(b)(i): a mortgage covering some or all of the project;
+Utah Code Annotated § 17D-2-505(1)(b)(ii): a pledge and assignment of the lease agreement for that project;
+Utah Code Annotated § 17D-2-505(1)(b)(iii): money held in a reserve fund; and
+Utah Code Annotated § 17D-2-505(1)(b)(iv): any other security device with respect to the project that the local building authority considers most advantageous.
+Utah Code Annotated § 17D-2-505(2): 17D-2-503 A proceeding under which a mortgage is given to secure the bonds of a local building authority may contain any agreement or provision listed in Section
+Utah Code Annotated § 17D-2-505(3): A mortgage to secure bonds issued by a local building authority under this part may provide that:
+Utah Code Annotated § 17D-2-505(3)(a): upon default in its payment or the violation of any covenant or agreement contained in the mortgage, the mortgage may be foreclosed in the manner permitted by law; and
+Utah Code Annotated § 17D-2-505(3)(b): the trustee or holder of any bond secured by the mortgage may become the purchaser at a foreclosure sale, if the trustee or holder is the highest bidder.
+
+
+Utah Code Annotated § 17D-2-506 Other entities not responsible for local building authority bonds or breach of mortgage and other obligations.
+----------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-506(1): Nothing in this part may be construed to require:
+Utah Code Annotated § 17D-2-506(1)(a): the state or any political subdivision of the state to pay a bond issued under this part;
+Utah Code Annotated § 17D-2-506(1)(b): the state or, except the creating local entity, any political subdivision of the state to pay any rent or lease payment due to a local building authority under the terms of a lease agreement; or
+Utah Code Annotated § 17D-2-506(1)(c): the creating local entity to appropriate money to pay:
+Utah Code Annotated § 17D-2-506(1)(c)(i): principal of or interest on bonds issued by a local building authority; or
+Utah Code Annotated § 17D-2-506(1)(c)(ii): the lease payments under a lease agreement with the local building authority.
+Utah Code Annotated § 17D-2-506(2): A breach of a mortgage or a covenant or agreement in a mortgage may not impose a general obligation or liability upon or a charge against:
+Utah Code Annotated § 17D-2-506(2)(a): the creating local entity; or
+Utah Code Annotated § 17D-2-506(2)(b): the general credit or taxing power of the state or any political subdivision of the state.
+
+
+Utah Code Annotated § 17D-2-507 Required provision in device securing payment of bonds.
+---------------------------------------------------------------------------------------
+Each mortgage, trust deed, security agreement, trust indenture, or other security device securing payment of bonds issued under this part shall provide that no deficiency judgment upon foreclosure may be entered against:Utah Code Annotated § 17D-2-507(1): the local building authority;
+Utah Code Annotated § 17D-2-507(2): the state; or
+Utah Code Annotated § 17D-2-507(3): any political subdivision of the state.
+
+
+Utah Code Annotated § 17D-2-601 Publishing notice of local entity or local building authority resolution or other proceeding.
+-----------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-601(1): 45-1-101 The governing body of a local entity or the authority board of a local building authority may provide for the publication of a resolution or other proceeding adopted under this chapter by the governing body or authority board, respectively:
+Utah Code Annotated § 17D-2-601(1)(a): in a newspaper of general circulation in the local entity; and
+Utah Code Annotated § 17D-2-601(1)(b): 45-1-101 as required in Section
+Utah Code Annotated § 17D-2-601(2): (2)(a); 11-14-316(2); (2)(a)
+Utah Code Annotated § 17D-2-601(2)(a): If the resolution or other proceeding provides for the local building authority's issuance of bonds, the authority board may, in lieu of publishing the entire resolution or other proceeding, publish a notice of the bonds to be issued.
+Utah Code Annotated § 17D-2-601(2)(b): (2)(a); 11-14-316(2) Each notice under Subsection
+Utah Code Annotated § 17D-2-601(2)(c): (2)(a) The authority board of a local building authority publishing a notice under Subsection
+
+
+Utah Code Annotated § 17D-2-602 Contesting the legality of a resolution or other proceeding -- No cause of action after contest period.
+---------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-602(1): 17D-2-601(1); 17D-2-601(2) For a period of 30 days after publication of a resolution or other proceeding under Subsection
+Utah Code Annotated § 17D-2-602(1)(a): a resolution or other proceeding;
+Utah Code Annotated § 17D-2-602(1)(b): any bonds or a lease agreement authorized by a resolution or other proceeding; or
+Utah Code Annotated § 17D-2-602(1)(c): any provision made for the security or payment of local building authority bonds or lease agreement.
+Utah Code Annotated § 17D-2-602(2): (1); (1) After the period referred to in Subsection
+
+
+Utah Code Annotated § 17D-2-701 Local entity governing body may dissolve local building authority -- Limitation.
+----------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-2-701(1): (2); Title 16, Chapter 6a, Utah Revised Nonprofit Corporation Act Subject to Subsection
+Utah Code Annotated § 17D-2-701(2): (2)(a) A creating local entity's governing body may not dissolve a local building authority unless:
+Utah Code Annotated § 17D-2-701(2)(a): 
+Utah Code Annotated § 17D-2-701(2)(a)(i): the principal, interest, and any redemption premium on all outstanding bonds of the local building authority are paid in full; and
+Utah Code Annotated § 17D-2-701(2)(a)(ii): all other obligations of the local building authority are paid in full; or
+Utah Code Annotated § 17D-2-701(2)(b): (2)(a) the local building authority has made provision for the payment, when due, of all bond and other obligations described in Subsection
+
+
+Utah Code Annotated § 17D-2-702 Effect of dissolution.
+------------------------------------------------------
+Upon the dissolution of a local building authority:Utah Code Annotated § 17D-2-702(1): title to all of the local building authority's projects vest in the creating local entity; and
+Utah Code Annotated § 17D-2-702(2): all assets and net earnings of the local building authority remaining after the payment or providing for the payment of all local building authority bonds and other obligations shall be transferred to the creating local entity.
+
+
+Utah Code Annotated - Title 17D - Chapter 3 - Conservation District Act
+***********************************************************************
+
+Utah Code Annotated § 17D-3-101 Title.
+--------------------------------------
+This chapter is known as the "Conservation District Act."
+
+Utah Code Annotated § 17D-3-102 Definitions.
+--------------------------------------------
+As used in this chapter:Utah Code Annotated § 17D-3-102(1): 4-18-104 "Commission" means the Conservation Commission, created in Section
+Utah Code Annotated § 17D-3-102(2): "Commissioner" means the commissioner of the department.
+Utah Code Annotated § 17D-3-102(3): 17D-3-103 "Conservation district" means a limited purpose local government entity, as described in Section
+Utah Code Annotated § 17D-3-102(4): 4-2-102 "Department" means the Department of Agriculture and Food, created in Section
+
+
+Utah Code Annotated § 17D-3-103 Conservation district status, authority, and duties.
+------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-103(1): A conservation district created under this chapter:
+Utah Code Annotated § 17D-3-103(1)(a): is a body corporate and politic;
+Utah Code Annotated § 17D-3-103(1)(b): is a political subdivision of the state; and
+Utah Code Annotated § 17D-3-103(1)(c): may sue and be sued.
+Utah Code Annotated § 17D-3-103(2): (2)(b); (2)(b); (2)(c); (2)(a)(ii); (iii); 53C-1-103; 53C-1-102; 53C-1-303; (2)(a)(viii); (2)(c)(ii)
+Utah Code Annotated § 17D-3-103(2)(a): (2)(b); (2)(b); (2)(c) A conservation district may:
+Utah Code Annotated § 17D-3-103(2)(a)(i): survey, investigate, and research soil erosion, floodwater, nonpoint source water pollution, flood control, water pollution, sediment damage, and watershed development;
+Utah Code Annotated § 17D-3-103(2)(a)(ii): (2)(b) subject to Subsection
+Utah Code Annotated § 17D-3-103(2)(a)(iii): (2)(b) subject to Subsection
+Utah Code Annotated § 17D-3-103(2)(a)(iv): construct, improve, operate, and maintain a structure that the board of supervisors considers necessary or convenient for the conservation district to carry out its purposes under this chapter;
+Utah Code Annotated § 17D-3-103(2)(a)(v): acquire property, real or personal, by purchase or otherwise, and maintain, improve, and administer that property consistent with the purposes of this chapter;
+Utah Code Annotated § 17D-3-103(2)(a)(vi): enter into a contract in the name of the conservation district;
+Utah Code Annotated § 17D-3-103(2)(a)(vii): receive money from:
+Utah Code Annotated § 17D-3-103(2)(a)(vii)(A): a federal or state agency;
+Utah Code Annotated § 17D-3-103(2)(a)(vii)(B): a county, municipality, or other political subdivision of the state; or
+Utah Code Annotated § 17D-3-103(2)(a)(vii)(C): a private source;
+Utah Code Annotated § 17D-3-103(2)(a)(viii): (2)(c) subject to Subsection
+Utah Code Annotated § 17D-3-103(2)(a)(viii)(A): the observance of particular methods of cultivation;
+Utah Code Annotated § 17D-3-103(2)(a)(viii)(B): the use of specific crop programs and tillage practices;
+Utah Code Annotated § 17D-3-103(2)(a)(viii)(C): the avoidance of tilling and cultivating highly erosive areas where erosion may not be adequately controlled if cultivated;
+Utah Code Annotated § 17D-3-103(2)(a)(viii)(D): the construction of terraces, terrace outlets, check dams, dikes, ponds, or other structures; and
+Utah Code Annotated § 17D-3-103(2)(a)(viii)(E): the development or restoration, or both, of range or forest lands or other natural resources, whether in private, state, or federal ownership;
+Utah Code Annotated § 17D-3-103(2)(a)(ix): plan watershed and flood control projects in cooperation with local, state, and federal authorities, and coordinate flood control projects in the state;
+Utah Code Annotated § 17D-3-103(2)(a)(x): make recommendations for county and municipal land use authorities within the conservation district to consider with respect to land use applications and other development proposals;
+Utah Code Annotated § 17D-3-103(2)(a)(xi): employ clerical and other staff personnel, including legal staff, subject to available money; and
+Utah Code Annotated § 17D-3-103(2)(a)(xii): perform any other act that the board of supervisors considers necessary or convenient for the efficient and effective administration of the conservation district.
+Utah Code Annotated § 17D-3-103(2)(b): (2)(a)(ii); (iii); 53C-1-103; 53C-1-102; 53C-1-303 A conservation district's authority under Subsections
+Utah Code Annotated § 17D-3-103(2)(b)(i): the land occupier or owner; and
+Utah Code Annotated § 17D-3-103(2)(b)(ii): 53C-1-103; 53C-1-102; 53C-1-303 in the case of school and institutional trust lands, as defined in Section
+Utah Code Annotated § 17D-3-103(2)(c): (2)(a)(viii); (2)(c)(ii)
+Utah Code Annotated § 17D-3-103(2)(c)(i): (2)(a)(viii); (2)(c)(ii) A recommendation under Subsection
+Utah Code Annotated § 17D-3-103(2)(c)(ii): The board of supervisors may uniformly classify land within the conservation district with respect to soil type, degree of slope, degree of threatened or existing erosion, cropping and tillage practices in use, or other relevant factors.
+Utah Code Annotated § 17D-3-103(3): (3)(b); (3)(a)(iii)
+Utah Code Annotated § 17D-3-103(3)(a): (3)(b) A conservation district shall annually submit to the commission, no later than the date that the commission prescribes:
+Utah Code Annotated § 17D-3-103(3)(a)(i): a copy of the minutes of each conservation district meeting;
+Utah Code Annotated § 17D-3-103(3)(a)(ii): a copy of the conservation district's annual work plan; and
+Utah Code Annotated § 17D-3-103(3)(a)(iii): (3)(b) an accounting of the conservation district's financial affairs, as provided in Subsection
+Utah Code Annotated § 17D-3-103(3)(b): (3)(a)(iii) The accounting required under Subsection
+Utah Code Annotated § 17D-3-103(3)(b)(i): be prepared by a disinterested person; and
+Utah Code Annotated § 17D-3-103(3)(b)(ii): show the conservation district's debits and credits, including accounts payable and accounts receivable, the purpose of each debit, the source of each credit, and the actual cash balance on hand.
+Utah Code Annotated § 17D-3-103(4): 67-1a-15; (4)(a); 67-1a-15; 67-3-1
+Utah Code Annotated § 17D-3-103(4)(a): 67-1a-15 A conservation district shall register and maintain the conservation district's registration as a limited purpose entity, in accordance with Section
+Utah Code Annotated § 17D-3-103(4)(b): (4)(a); 67-1a-15; 67-3-1 A conservation district that fails to comply with Subsection
+
+
+Utah Code Annotated § 17D-3-104 District court jurisdiction.
+------------------------------------------------------------
+The district court in which a conservation district is located has jurisdiction to decide all cases and controversies involving the construction, application, or enforcement of land use ordinances within the conservation district.
+
+Utah Code Annotated § 17D-3-105 Conservation districts subject to other provisions.
+-----------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-105(1): (3); 17B-1-105; 17B-1-107; 17B-1-108; 17B-1-110; 17B-1-113; 17B-1-116; 17B-1-121; 17B-1-307; 17B-1-311; 17B-1-313; 17B-1-314; Title 17B, Chapter 1, Part 6, Fiscal Procedures for Special Districts; Title 17B, Chapter 1, Part 7, Special District Budgets and Audit Reports; Title 17B, Chapter 1, Part 8, Special District Personnel Management; Title 17B, Chapter 1, Part 9, Collection of Service Fees and Charges Subject to Subsection
+Utah Code Annotated § 17D-3-105(1)(a): 17B-1-105; 17B-1-107; 17B-1-108; 17B-1-110; 17B-1-113; 17B-1-116; 17B-1-121; 17B-1-307; 17B-1-311; 17B-1-313; 17B-1-314 Sections
+Utah Code Annotated § 17D-3-105(1)(b): Title 17B, Chapter 1, Part 6, Fiscal Procedures for Special Districts
+Utah Code Annotated § 17D-3-105(1)(c): Title 17B, Chapter 1, Part 7, Special District Budgets and Audit Reports
+Utah Code Annotated § 17D-3-105(1)(d): Title 17B, Chapter 1, Part 8, Special District Personnel Management
+Utah Code Annotated § 17D-3-105(1)(e): Title 17B, Chapter 1, Part 9, Collection of Service Fees and Charges
+Utah Code Annotated § 17D-3-105(2): (1); 17D-3-301 For purposes of applying the provisions listed in Subsection
+Utah Code Annotated § 17D-3-105(3): A conservation district may not exercise taxing authority.
+
+
+Utah Code Annotated § 17D-3-106 Fiscal year.
+--------------------------------------------
+The fiscal year of a conservation district shall be, as determined by the commission:Utah Code Annotated § 17D-3-106(1): the calendar year; or
+Utah Code Annotated § 17D-3-106(2): a period beginning on July 1 and ending on the following June 30.
+
+
+Utah Code Annotated § 17D-3-107 Annual budget and financial reports requirements.
+---------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-107(1): 17B-1-614(2); 17B-1-629(3)(d); 17B-1-639 Upon agreement with the commission, the state auditor may modify:
+Utah Code Annotated § 17D-3-107(1)(a): 17B-1-614(2); 17B-1-629(3)(d) for filing a budget, a requirement in Subsection
+Utah Code Annotated § 17D-3-107(1)(b): 17B-1-639 for filing a financial report, a requirement in Section
+Utah Code Annotated § 17D-3-107(2): 67-3-12; 67-3-12 Beginning on July 1, 2019, a conservation district is a participating local entity, as that term is defined in Section
+
+
+Utah Code Annotated § 17D-3-201 Commission authority to approve the creation, consolidation, division, and dissolution of conservation districts -- Notice and hearing requirements.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-201(1): 17D-3-202; 17D-3-202 As provided in this part, the commission may:
+Utah Code Annotated § 17D-3-201(1)(a): 17D-3-202 pursuant to a petition under Section
+Utah Code Annotated § 17D-3-201(1)(b): 17D-3-202 pursuant to a petition under Section
+Utah Code Annotated § 17D-3-201(1)(b)(i): the consolidation of two or more existing conservation districts;
+Utah Code Annotated § 17D-3-201(1)(b)(ii): the division of an existing conservation district into two or more conservation districts; or
+Utah Code Annotated § 17D-3-201(1)(b)(iii): the dissolution of an existing conservation district.
+Utah Code Annotated § 17D-3-201(2): (1); 17D-3-202 Before taking an action authorized under Subsection
+Utah Code Annotated § 17D-3-201(2)(a): 17D-3-202 cause notice of a hearing on the proposed creation, consolidation, division, or dissolution to be published:
+Utah Code Annotated § 17D-3-201(2)(a)(i): 17D-3-202 no more than 30 days after, as the case may be:
+Utah Code Annotated § 17D-3-201(2)(a)(i)(A): 17D-3-202 the filing of a petition under Section
+Utah Code Annotated § 17D-3-201(2)(a)(i)(B): adoption of the commission's own motion, for a proposed consolidation, division, or dissolution; and
+Utah Code Annotated § 17D-3-201(2)(a)(ii): within:
+Utah Code Annotated § 17D-3-201(2)(a)(ii)(A): for a proposed creation, the area of the proposed conservation district;
+Utah Code Annotated § 17D-3-201(2)(a)(ii)(B): for a proposed consolidation, the area of each conservation district proposed to be consolidated; and
+Utah Code Annotated § 17D-3-201(2)(a)(ii)(C): for a proposed division or dissolution, within the area of the conservation district proposed to be divided or dissolved; and
+Utah Code Annotated § 17D-3-201(2)(b): hold a public hearing on the desirability and necessity of the creation, consolidation, division, or dissolution.
+
+
+Utah Code Annotated § 17D-3-202 Petition to create conservation district -- Petition or commission motion to consolidate, divide, or dissolve conservation districts -- Petition requirements.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-202(1): A petition to create a conservation district, to consolidate two or more existing conservation districts, or to divide or dissolve an existing conservation district may be filed by 25 or more land occupiers residing within:
+Utah Code Annotated § 17D-3-202(1)(a): for the proposed creation of a conservation district, the area included within the proposed conservation district;
+Utah Code Annotated § 17D-3-202(1)(b): for the proposed consolidation of existing conservation districts, the area included within the conservation districts proposed to be consolidated; or
+Utah Code Annotated § 17D-3-202(1)(c): for the proposed division or dissolution of an existing conservation district, the area included within the conservation district proposed to be divided or dissolved.
+Utah Code Annotated § 17D-3-202(2): (1) Each petition under Subsection
+Utah Code Annotated § 17D-3-202(2)(a): in the form that the commission prescribes; and
+Utah Code Annotated § 17D-3-202(2)(b): filed with the commission.
+
+
+Utah Code Annotated § 17D-3-203 Considerations in determining whether to approve conservation district creation, consolidation, division, or dissolution -- Denial or approval -- Notice and plat to lieutenant governor -- Recording requirements  -- Prohibition against considering similar creation, consolidation, division, or dissolution if previously denied.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-203(1): In determining whether to approve the creation of a conservation district, the consolidation of existing conservation districts, or the division or dissolution of an existing conservation district, the commission shall consider:
+Utah Code Annotated § 17D-3-203(1)(a): the demonstrated necessity and administrative practicality of the creation, consolidation, division, or dissolution;
+Utah Code Annotated § 17D-3-203(1)(b): the topography of and soil compositions and prevailing land use practices within the area of the proposed or existing conservation district or districts;
+Utah Code Annotated § 17D-3-203(1)(c): the hydrologic unit code of the watershed in which the area of the proposed or existing conservation district or districts is located;
+Utah Code Annotated § 17D-3-203(1)(d): the relationship of the area of the proposed or existing conservation district or districts to existing watersheds and agricultural regions; and
+Utah Code Annotated § 17D-3-203(1)(e): the sentiment expressed by persons within the area of the proposed or existing conservation district or districts with respect to the proposed creation, consolidation, division, or dissolution.
+Utah Code Annotated § 17D-3-203(2): 17D-3-201(2)(b); (1) After holding a public hearing as required under Subsection
+Utah Code Annotated § 17D-3-203(2)(a): 
+Utah Code Annotated § 17D-3-203(2)(a)(i): disapprove the creation of a conservation district, the consolidation of existing conservation districts, or the division or dissolution of an existing conservation district, if the commission determines that creation, consolidation, division, or dissolution is not necessary or administratively practical; or
+Utah Code Annotated § 17D-3-203(2)(a)(ii): approve the creation of a conservation district, the consolidation of existing conservation districts, or the division or dissolution of an existing conservation district, if the commission determines that creation, consolidation, division, or dissolution is necessary and administratively practical; and
+Utah Code Annotated § 17D-3-203(2)(b): set forth in writing the reasons for the commission's action.
+Utah Code Annotated § 17D-3-203(3): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5; 67-1a-6.5; (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc); (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc); 67-1a-6.5
+Utah Code Annotated § 17D-3-203(3)(a): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5; 67-1a-6.5; (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc); (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc) If the commission approves the creation, consolidation, division, or dissolution, the commission shall:
+Utah Code Annotated § 17D-3-203(3)(a)(i): 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5 deliver to the lieutenant governor:
+Utah Code Annotated § 17D-3-203(3)(a)(i)(A): 67-1a-6.5; 67-1a-6.5(3) a copy of a notice of an impending boundary action, as defined in Section
+Utah Code Annotated § 17D-3-203(3)(a)(i)(B): 67-1a-6.5 except in the case of a dissolution, a copy of an approved final local entity plat, as defined in Section
+Utah Code Annotated § 17D-3-203(3)(a)(ii): 67-1a-6.5; (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc); (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc) upon the lieutenant governor's issuance of a certificate of boundary action under Section
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(A): if the conservation district is or, in the case of dissolution, was located within the boundary of a single county, submit to the recorder of that county:
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(A)(I): the original:
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(A)(I)(Aa): notice of an impending boundary action;
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(A)(I)(Bb): certificate of boundary action; and
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(A)(I)(Cc): except in the case of dissolution, approved final local entity plat; and
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(A)(II): a certified copy of the document that the commission adopted approving the boundary action; or
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(B): (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc); (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc) if the conservation district is or, in the case of a dissolution, was located within the boundaries of more than a single county:
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(B)(I): (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc) submit to the recorder of one of those counties:
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(B)(I)(Aa): (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc) the original of the documents listed in Subsections
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(B)(I)(Bb): a certified copy of the document that the commission adopted approving the boundary action; and
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(B)(II): (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc) submit to the recorder of each other county:
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(B)(II)(Aa): (3)(a)(ii)(A)(I)(Aa); (Bb); (Cc) a certified copy of the documents listed in Subsections
+Utah Code Annotated § 17D-3-203(3)(a)(ii)(B)(II)(Bb): a certified copy of the document that the commission adopted approving the boundary action.
+Utah Code Annotated § 17D-3-203(3)(b): 67-1a-6.5 Upon the lieutenant governor's issuance of the certificate of creation, consolidation, division, or dissolution under Section
+Utah Code Annotated § 17D-3-203(4): (2)(a)(i) If the commission disapproves a creation, consolidation, division, or dissolution under Subsection
+
+
+Utah Code Annotated § 17D-3-204 Commission action if conservation districts are consolidated, divided, or dissolved.
+--------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-204(1): If two or more conservation districts are consolidated, the commission shall merge the assets and liabilities of the conservation districts that have been consolidated into the conservation district resulting from the consolidation.
+Utah Code Annotated § 17D-3-204(2): If a conservation district is divided, the commission shall equitably divide the assets and liabilities of the divided conservation district between the conservation districts resulting from the division.
+Utah Code Annotated § 17D-3-204(3): If a conservation district is dissolved, the commission shall wind up the affairs of the dissolved conservation district.
+
+
+Utah Code Annotated § 17D-3-301 Board of supervisors -- Number -- Term -- Chair and officers -- Quorum -- Compensation.
+-----------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-301(1): A board of supervisors shall govern a conservation district.
+Utah Code Annotated § 17D-3-301(2): The board of supervisors of a conservation district consists of five members appointed as provided in this part, at least three of whom shall be private agricultural land operators.
+Utah Code Annotated § 17D-3-301(3): (3)(c); (3)(a); Part 2, Creation, Consolidation, Division, and Dissolution of Conservation Districts; (3)(c); (3)
+Utah Code Annotated § 17D-3-301(3)(a): (3)(c) Subject to Subsection
+Utah Code Annotated § 17D-3-301(3)(b): (3)(a); Part 2, Creation, Consolidation, Division, and Dissolution of Conservation Districts; (3)(c) Notwithstanding Subsection
+Utah Code Annotated § 17D-3-301(3)(b)(i): the term of each member of the board of supervisors of the consolidated conservation districts or the divided or dissolved conservation district terminates immediately upon consolidation, division, or dissolution; and
+Utah Code Annotated § 17D-3-301(3)(b)(ii): (3)(c)
+Utah Code Annotated § 17D-3-301(3)(b)(ii)(A): the commissioner shall appoint a new board of supervisors, as provided in this part, for the consolidated conservation district or divided conservation districts, as the case may be; and
+Utah Code Annotated § 17D-3-301(3)(b)(ii)(B): (3)(c) subject to Subsection
+Utah Code Annotated § 17D-3-301(3)(c): (3) Notwithstanding the other provisions of this Subsection
+Utah Code Annotated § 17D-3-301(4): The board of supervisors shall elect a chair from among their number for a term of one year, and may elect other officers from among their number that the board considers necessary.
+Utah Code Annotated § 17D-3-301(5): A majority of the board of supervisors constitutes a quorum for the transaction of board business, and action by a majority of a quorum present at a meeting of the board constitutes action of the board.
+Utah Code Annotated § 17D-3-301(6): 11-55-103 For performing official duties, a member of the board of supervisors of a conservation district shall receive:
+Utah Code Annotated § 17D-3-301(6)(a): 11-55-103 per diem and travel expenses in accordance with Section
+Utah Code Annotated § 17D-3-301(6)(b): actual and necessary expenses as determined by the department.
+
+
+Utah Code Annotated § 17D-3-302 Board of supervisors members to be appointed -- Candidates nominated by nominating committee -- Candidate qualifications -- Nomination committee.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-302(1): As provided in this part, the commissioner shall appoint a member of a board of supervisors of a conservation district from candidates nominated by a nominating committee consisting of:
+Utah Code Annotated § 17D-3-302(1)(a): the chair of the commission or council of the county in which the conservation district is located;
+Utah Code Annotated § 17D-3-302(1)(b): the chair of the USDA Farm Service Agency Committee of the county in which the conservation district is located;
+Utah Code Annotated § 17D-3-302(1)(c): 
+Utah Code Annotated § 17D-3-302(1)(c)(i): the chair of the board of supervisors of the conservation district; or
+Utah Code Annotated § 17D-3-302(1)(c)(ii): the chair's designee, if the chair wishes to be a candidate for reappointment; and
+Utah Code Annotated § 17D-3-302(1)(d): the agricultural extension service designated representative of the county in which the conservation district is located.
+Utah Code Annotated § 17D-3-302(2): The commissioner may remove an individual from the nominating committee upon the request of the group the individual represents.
+Utah Code Annotated § 17D-3-302(3): A candidate for appointment to the board of supervisors of a conservation district shall be:
+Utah Code Annotated § 17D-3-302(3)(a): at least 18 years of age; and
+Utah Code Annotated § 17D-3-302(3)(b): a resident within the conservation district.
+
+
+Utah Code Annotated § 17D-3-303 Nominating committee nomination of candidates for appointment to the board of supervisors.
+--------------------------------------------------------------------------------------------------------------------------
+The nominating committee under SubsectionUtah Code Annotated § 17D-3-303(1): nominate for a conservation district a slate of candidates for appointment to the board of supervisors of the conservation district equal or greater in number to the number of board of supervisors members to be appointed; and
+Utah Code Annotated § 17D-3-303(2): submit the names of candidates to the commissioner no later than the date set by the commission as the close of nominations.
+
+
+Utah Code Annotated § 17D-3-304 Petition to nominate candidates for appointment to the board of supervisors.
+------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-304(1): 17D-3-302 In addition to the procedure in Section
+Utah Code Annotated § 17D-3-304(2): (1) A petition under Subsection
+Utah Code Annotated § 17D-3-304(2)(a): state:
+Utah Code Annotated § 17D-3-304(2)(a)(i): the candidate's name;
+Utah Code Annotated § 17D-3-304(2)(a)(ii): that the candidate is at least 18 years old; and
+Utah Code Annotated § 17D-3-304(2)(a)(iii): that the candidate for appointment is a resident of the conservation district for which the nomination for candidacy is to be held; and
+Utah Code Annotated § 17D-3-304(2)(b): contain the notarized signature of the candidate.
+Utah Code Annotated § 17D-3-304(3): 17D-3-302; 17D-3-303 The department shall forward a petition received under this section to the nominating committee for consideration under Sections
+
+
+Utah Code Annotated § 17D-3-305 Setting the date of nomination of the board of supervisors -- Notice requirements.
+------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-3-305(1): The commission shall set the date of the nomination of members of the board of supervisors of a conservation district.
+Utah Code Annotated § 17D-3-305(2): (1); 63G-30-102; 45-1-101 The commission shall publish notice of the nomination day described in Subsection
+Utah Code Annotated § 17D-3-305(2)(a): 63G-30-102 for the conservation district, as a class A notice under Section
+Utah Code Annotated § 17D-3-305(2)(b): 45-1-101 in accordance with Section
+Utah Code Annotated § 17D-3-305(3): The commissioner shall appoint the board of members by no later than six weeks after the date set by the commission for the close of nominations.
+Utah Code Annotated § 17D-3-305(4): (2) The notice required under Subsection
+Utah Code Annotated § 17D-3-305(4)(a): the nomination date; and
+Utah Code Annotated § 17D-3-305(4)(b): the number of open board member positions for the conservation district.
+
+
+Utah Code Annotated § 17D-3-310 Vacancies in the board of supervisors.
+----------------------------------------------------------------------
+If a vacancy occurs in the office of board of supervisors member, the remaining members of the board of supervisors shall nominate an individual to the commissioner to appoint to fill the vacancy, to serve the remainder of the unexpired term of the member creating the vacancy.
+
+Utah Code Annotated § 17D-3-311 Training for board members.
+-----------------------------------------------------------
+Utah Code Annotated § 17D-3-311(1): (2) A member of a board of supervisors shall, within one year after appointment, complete the training described in Subsection
+Utah Code Annotated § 17D-3-311(2): The state auditor shall, with the assistance of the commission and an association that represents conservation districts, develop a training curriculum for a member of the board of supervisors and conduct the training.
+
+
+Utah Code Annotated - Title 17D - Chapter 4 - Public Infrastructure District Act
+********************************************************************************
+
+Utah Code Annotated § 17D-4-101 Title.
+--------------------------------------
+This chapter is known as the "Public Infrastructure District Act."
+
+Utah Code Annotated § 17D-4-102 Definitions.
+--------------------------------------------
+As used in this chapter:Utah Code Annotated § 17D-4-102(1): "Board" means the board of trustees of a public infrastructure district.
+Utah Code Annotated § 17D-4-102(2): "Creating entity" means the county, municipality, or development authority that approves the creation of a public infrastructure district.
+Utah Code Annotated § 17D-4-102(3): 11-58-201; 11-59-201; 63H-1-201 "Development authority" means:
+Utah Code Annotated § 17D-4-102(3)(a): 11-58-201 the Utah Inland Port Authority created in Section
+Utah Code Annotated § 17D-4-102(3)(b): 11-59-201 the Point of the Mountain State Land Authority created in Section
+Utah Code Annotated § 17D-4-102(3)(c): 63H-1-201 the military installation development authority created in Section
+Utah Code Annotated § 17D-4-102(4): "District applicant" means the person proposing the creation of a public infrastructure district.
+Utah Code Annotated § 17D-4-102(5): "Division" means a division of a public infrastructure district:
+Utah Code Annotated § 17D-4-102(5)(a): that is relatively equal in number of eligible voters or potential eligible voters to all other divisions within the public infrastructure district, taking into account existing or potential developments which, when completed, would increase or decrease the population within the public infrastructure district; and
+Utah Code Annotated § 17D-4-102(5)(b): which a member of the board represents.
+Utah Code Annotated § 17D-4-102(6): Title 17B, Chapter 1, Provisions Applicable to All Special Districts "Governing document" means the document governing a public infrastructure district to which the creating entity agrees before the creation of the public infrastructure district, as amended from time to time, and subject to the limitations of
+Utah Code Annotated § 17D-4-102(7): 17D-4-303; 17D-4-301(8)
+Utah Code Annotated § 17D-4-102(7)(a): 17D-4-303; 17D-4-301(8) "Limited tax bond" means a bond:
+Utah Code Annotated § 17D-4-102(7)(a)(i): that is directly payable from and secured by ad valorem property taxes that are levied:
+Utah Code Annotated § 17D-4-102(7)(a)(i)(A): by a public infrastructure district that issues the bond; and
+Utah Code Annotated § 17D-4-102(7)(a)(i)(B): on taxable property within the district;
+Utah Code Annotated § 17D-4-102(7)(a)(ii): that is a general obligation of the public infrastructure district; and
+Utah Code Annotated § 17D-4-102(7)(a)(iii): 17D-4-303; 17D-4-301(8) for which the ad valorem property tax levy for repayment of the bond does not exceed the property tax levy rate limit established under Section
+Utah Code Annotated § 17D-4-102(7)(b): "Limited tax bond" does not include:
+Utah Code Annotated § 17D-4-102(7)(b)(i): a short-term bond;
+Utah Code Annotated § 17D-4-102(7)(b)(ii): a tax and revenue anticipation bond; or
+Utah Code Annotated § 17D-4-102(7)(b)(iii): a special assessment bond.
+Utah Code Annotated § 17D-4-102(8): 11-58-102; 11-58-201; 63H-1-102; 63H-1-201 "Public infrastructure and improvements" means:
+Utah Code Annotated § 17D-4-102(8)(a): 11-58-102; 11-58-201 the same as that term is defined in Section
+Utah Code Annotated § 17D-4-102(8)(b): 63H-1-102; 63H-1-201 the same as that term is defined in Section
+
+
+Utah Code Annotated § 17D-4-103 Provisions applicable to public infrastructure districts.
+-----------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-4-103(1): Title 17B, Chapter 1, Provisions Applicable to All Special Districts Each public infrastructure district is governed by and has the powers stated in:
+Utah Code Annotated § 17D-4-103(1)(a): this chapter; and
+Utah Code Annotated § 17D-4-103(1)(b): Title 17B, Chapter 1, Provisions Applicable to All Special Districts
+Utah Code Annotated § 17D-4-103(2): This chapter applies only to a public infrastructure district.
+Utah Code Annotated § 17D-4-103(3): Title 17B, Chapter 1, Provisions Applicable to All Special Districts; Title 20A, Election Code Except as modified or exempted by this chapter, a public infrastructure district is, to the same extent as if the public infrastructure district were a special district, subject to the provisions in:
+Utah Code Annotated § 17D-4-103(3)(a): Title 17B, Chapter 1, Provisions Applicable to All Special Districts
+Utah Code Annotated § 17D-4-103(3)(b): Title 20A, Election Code
+Utah Code Annotated § 17D-4-103(4): Title 17B, Chapter 1, Provisions Applicable to All Special Districts; Title 17B, Chapter 1, Provisions Applicable to All Special Districts If there is a conflict between a provision in
+Utah Code Annotated § 17D-4-103(5): The annexation of an unincorporated area by a municipality or the adjustment of a boundary shared by more than one municipality does not affect the boundaries of a public infrastructure district.
+
+
+Utah Code Annotated § 17D-4-201 Creation -- Annexation or withdrawal of property.
+---------------------------------------------------------------------------------
+Utah Code Annotated § 17D-4-201(1): (1)(b); (2); Title 17B, Chapter 1, Provisions Applicable to All Special Districts; (1)(b); 63H-1-102; 63H-1-102; Title 17B, Chapter 1, Part 2, Creation of a Special District; (1)(b)(ii); (1)(b)(ii)
+Utah Code Annotated § 17D-4-201(1)(a): (1)(b); (2); Title 17B, Chapter 1, Provisions Applicable to All Special Districts Except as provided in Subsection
+Utah Code Annotated § 17D-4-201(1)(a)(i): if there are any registered voters within the applicable area, a petition is filed with the creating entity that contains the signatures of 100% of registered voters within the applicable area approving the creation of the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(1)(a)(ii): a petition is filed with the creating entity that contains the signatures of 100% of surface property owners within the applicable area consenting to the creation of the public infrastructure district.
+Utah Code Annotated § 17D-4-201(1)(b): (1)(b); 63H-1-102; 63H-1-102; Title 17B, Chapter 1, Part 2, Creation of a Special District; (1)(b)(ii); (1)(b)(ii)
+Utah Code Annotated § 17D-4-201(1)(b)(i): (1)(b); 63H-1-102; 63H-1-102 As used in this Subsection
+Utah Code Annotated § 17D-4-201(1)(b)(i)(A): 63H-1-102 "Military Land" means the same as that term is defined in Section
+Utah Code Annotated § 17D-4-201(1)(b)(i)(B): 63H-1-102 "Project area" means the same as that term is defined in Section
+Utah Code Annotated § 17D-4-201(1)(b)(ii): Title 17B, Chapter 1, Part 2, Creation of a Special District Notwithstanding
+Utah Code Annotated § 17D-4-201(1)(b)(iii): (1)(b)(ii) For purposes of Subsection
+Utah Code Annotated § 17D-4-201(1)(b)(iv): (1)(b)(ii) A public infrastructure district created under Subsection
+Utah Code Annotated § 17D-4-201(2): 17B-1-203; 17B-1-204; 17B-1-208(2); 17B-1-212; 17B-1-214; 17B-1-213; (2)(b); 17B-1-213(5); (1); 17B-1-209; 17B-1-215(1)(b)(iii)
+Utah Code Annotated § 17D-4-201(2)(a): 17B-1-203; 17B-1-204; 17B-1-208(2); 17B-1-212; 17B-1-214 The following do not apply to the creation of a public infrastructure district:
+Utah Code Annotated § 17D-4-201(2)(a)(i): 17B-1-203 Section
+Utah Code Annotated § 17D-4-201(2)(a)(ii): 17B-1-204 Section
+Utah Code Annotated § 17D-4-201(2)(a)(iii): 17B-1-208(2) Subsection
+Utah Code Annotated § 17D-4-201(2)(a)(iv): 17B-1-212 Section
+Utah Code Annotated § 17D-4-201(2)(a)(v): 17B-1-214 Section
+Utah Code Annotated § 17D-4-201(2)(b): 17B-1-213 The protest period described in Section
+Utah Code Annotated § 17D-4-201(2)(b)(i): 100% of registered voters within the applicable area approving the creation of the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(2)(b)(ii): 100% of the surface property owners within the applicable area approving the creation of the public infrastructure district.
+Utah Code Annotated § 17D-4-201(2)(c): (2)(b); 17B-1-213(5) If the protest period is waived under Subsection
+Utah Code Annotated § 17D-4-201(2)(d): (1); 17B-1-209; 17B-1-215(1)(b)(iii) A petition meeting the requirements of Subsection
+Utah Code Annotated § 17D-4-201(2)(d)(i): 17B-1-209 may be certified under Section
+Utah Code Annotated § 17D-4-201(2)(d)(ii): 17B-1-215(1)(b)(iii) shall be filed with the lieutenant governor in accordance with Subsection
+Utah Code Annotated § 17D-4-201(3): Title 17B, Chapter 1, Part 4, Annexation; (3)(a); 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5
+Utah Code Annotated § 17D-4-201(3)(a): Title 17B, Chapter 1, Part 4, Annexation Notwithstanding
+Utah Code Annotated § 17D-4-201(3)(a)(i): 
+Utah Code Annotated § 17D-4-201(3)(a)(i)(A): adoption of resolutions of the board and the creating entity, each approving of the annexation; or
+Utah Code Annotated § 17D-4-201(3)(a)(i)(B): adoption of a resolution of the board to annex the area, provided that the governing document or creation resolution for the public infrastructure district authorizes the board to annex an area outside of the boundaries of the public infrastructure district without future consent of the creating entity;
+Utah Code Annotated § 17D-4-201(3)(a)(ii): if there are any registered voters within the area proposed to be annexed, a petition is filed with the creating entity that contains the signatures of 100% of registered voters within the area, demonstrating that the registered voters approve of the annexation into the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(3)(a)(iii): a petition is filed with the creating entity that contains the signatures of 100% of surface property owners within the area proposed to be annexed, demonstrating the surface property owners' consent to the annexation into the public infrastructure district.
+Utah Code Annotated § 17D-4-201(3)(b): (3)(a); 67-1a-6.5; 67-1a-6.5(3); 67-1a-6.5 Within 30 days of meeting the requirements of Subsection
+Utah Code Annotated § 17D-4-201(3)(b)(i): 67-1a-6.5; 67-1a-6.5(3) a copy of a notice of impending boundary action, as defined in Section
+Utah Code Annotated § 17D-4-201(3)(b)(ii): 67-1a-6.5 a copy of an approved final local entity plat, as defined in Section
+Utah Code Annotated § 17D-4-201(4): Title 17B, Chapter 1, Part 5, Withdrawal; (4)(a); (b); 17B-1-512
+Utah Code Annotated § 17D-4-201(4)(a): Title 17B, Chapter 1, Part 5, Withdrawal Notwithstanding
+Utah Code Annotated § 17D-4-201(4)(a)(i): 
+Utah Code Annotated § 17D-4-201(4)(a)(i)(A): adoption of resolutions of the board and the creating entity, each approving of the withdrawal; or
+Utah Code Annotated § 17D-4-201(4)(a)(i)(B): adoption of a resolution of the board to withdraw the property, provided that the governing document or creation resolution for the public infrastructure district authorizes the board to withdraw property from the public infrastructure district without further consent from the creating entity;
+Utah Code Annotated § 17D-4-201(4)(a)(ii): if there are any registered voters within the area proposed to be withdrawn, a petition is filed with the creating entity that contains the signatures of 100% of registered voters within the area, demonstrating that the registered voters approve of the withdrawal from the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(4)(a)(iii): a petition is filed with the creating entity that contains the signatures of 100% of surface property owners within the area proposed to be withdrawn, demonstrating that the surface property owners consent to the withdrawal from the public infrastructure district.
+Utah Code Annotated § 17D-4-201(4)(b): If any bonds that the public infrastructure district issues are allocable to the area to be withdrawn remain unpaid at the time of the proposed withdrawal, the property remains subject to any taxes, fees, or assessments that the public infrastructure district imposes until the bonds or any associated refunding bonds are paid.
+Utah Code Annotated § 17D-4-201(4)(c): (4)(a); (b); 17B-1-512 Upon meeting the requirements of Subsections
+Utah Code Annotated § 17D-4-201(5): A creating entity may impose limitations on the powers of a public infrastructure district through the governing document.
+Utah Code Annotated § 17D-4-201(6): (6)(b)(ii); (6)(b)(i); 17B-1-216; (6)(d)(i)(A); (6)(d)(i); Title 59, Chapter 2, Property Tax Act; Title 11, Chapter 42, Assessment Area Act
+Utah Code Annotated § 17D-4-201(6)(a): A public infrastructure district is separate and distinct from the creating entity.
+Utah Code Annotated § 17D-4-201(6)(b): (6)(b)(ii); (6)(b)(i); 17B-1-216
+Utah Code Annotated § 17D-4-201(6)(b)(i): (6)(b)(ii) Except as provided in Subsection
+Utah Code Annotated § 17D-4-201(6)(b)(i)(A): is borne solely by the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(6)(b)(i)(B): is not borne by the creating entity, by the state, or by any municipality, county, or other political subdivision.
+Utah Code Annotated § 17D-4-201(6)(b)(ii): (6)(b)(i); 17B-1-216 Notwithstanding Subsection
+Utah Code Annotated § 17D-4-201(6)(b)(ii)(A): the district applicant to bear the initial costs of the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(6)(b)(ii)(B): the public infrastructure district to reimburse the district applicant for the initial costs the creating entity bears.
+Utah Code Annotated § 17D-4-201(6)(c): Any liability, judgment, or claim against a public infrastructure district:
+Utah Code Annotated § 17D-4-201(6)(c)(i): is the sole responsibility of the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(6)(c)(ii): does not constitute a liability, judgment, or claim against the creating entity, the state, or any municipality, county, or other political subdivision.
+Utah Code Annotated § 17D-4-201(6)(d): (6)(d)(i)(A); (6)(d)(i); Title 59, Chapter 2, Property Tax Act; Title 11, Chapter 42, Assessment Area Act
+Utah Code Annotated § 17D-4-201(6)(d)(i): (6)(d)(i)(A)
+Utah Code Annotated § 17D-4-201(6)(d)(i)(A): The public infrastructure district solely bears the responsibility of any collection, enforcement, or foreclosure proceeding with regard to any tax, fee, or assessment the public infrastructure district imposes.
+Utah Code Annotated § 17D-4-201(6)(d)(i)(B): (6)(d)(i)(A) The creating entity does not bear the responsibility described in Subsection
+Utah Code Annotated § 17D-4-201(6)(d)(ii): (6)(d)(i); Title 59, Chapter 2, Property Tax Act; Title 11, Chapter 42, Assessment Area Act A public infrastructure district, and not the creating entity, shall undertake the enforcement responsibility described in, as applicable, Subsection
+Utah Code Annotated § 17D-4-201(7): A creating entity may establish criteria in determining whether to approve or disapprove of the creation of a public infrastructure district, including:
+Utah Code Annotated § 17D-4-201(7)(a): historical performance of the district applicant;
+Utah Code Annotated § 17D-4-201(7)(b): compliance with the creating entity's master plan;
+Utah Code Annotated § 17D-4-201(7)(c): credit worthiness of the district applicant;
+Utah Code Annotated § 17D-4-201(7)(d): plan of finance of the public infrastructure district; and
+Utah Code Annotated § 17D-4-201(7)(e): proposed development within the public infrastructure district.
+Utah Code Annotated § 17D-4-201(8): 
+Utah Code Annotated § 17D-4-201(8)(a): The creation of a public infrastructure district is subject to the sole discretion of the creating entity responsible for approving or rejecting the creation of the public infrastructure district.
+Utah Code Annotated § 17D-4-201(8)(b): The proposed creating entity bears no liability for rejecting the proposed creation of a public infrastructure district.
+
+
+Utah Code Annotated § 17D-4-202 Public infrastructure district board -- Governing document.
+-------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-4-202(1): The legislative body or board of the creating entity shall appoint the members of the board of a public infrastructure district, in accordance with the governing document.
+Utah Code Annotated § 17D-4-202(2): (2)(b); (2)(a)
+Utah Code Annotated § 17D-4-202(2)(a): (2)(b) Unless otherwise limited in the governing document and except as provided in Subsection
+Utah Code Annotated § 17D-4-202(2)(b): (2)(a) Notwithstanding Subsection
+Utah Code Annotated § 17D-4-202(2)(c): A board may elect that a majority of the board serve an initial term of six years.
+Utah Code Annotated § 17D-4-202(2)(d): After the initial term, the term of each member of the board is four years.
+Utah Code Annotated § 17D-4-202(3): 17B-1-302(1)(b); 17B-1-306(5); (3)(a)(iii); (iv); 17B-1-302(1)(b)
+Utah Code Annotated § 17D-4-202(3)(a): 17B-1-302(1)(b); 17B-1-306(5) Notwithstanding Subsection
+Utah Code Annotated § 17D-4-202(3)(a)(i): all of the surface property owners consent to the waiver of the residency requirement;
+Utah Code Annotated § 17D-4-202(3)(a)(ii): there are no residents within the boundaries of the public infrastructure district;
+Utah Code Annotated § 17D-4-202(3)(a)(iii): no qualified candidate timely files to be considered for appointment to the board; or
+Utah Code Annotated § 17D-4-202(3)(a)(iv): 17B-1-306(5) no qualified individual files a declaration of candidacy for a board position in accordance with Subsection
+Utah Code Annotated § 17D-4-202(3)(b): (3)(a)(iii); (iv); 17B-1-302(1)(b) Except under the circumstances described in Subsection
+Utah Code Annotated § 17D-4-202(3)(c): An individual who is not a resident within the boundaries of the public infrastructure district may not serve as a board member unless the individual is:
+Utah Code Annotated § 17D-4-202(3)(c)(i): an owner of land or an agent or officer of the owner of land within the boundaries of the public infrastructure district; and
+Utah Code Annotated § 17D-4-202(3)(c)(ii): a registered voter at the individual's primary residence.
+Utah Code Annotated § 17D-4-202(4): (1); (4)(a); (1)
+Utah Code Annotated § 17D-4-202(4)(a): (1) A governing document may provide for a transition from legislative body appointment under Subsection
+Utah Code Annotated § 17D-4-202(4)(a)(i): for a division, the registered voters of the division elect a member of the board in place of an appointed member at the next municipal general election for the board position; or
+Utah Code Annotated § 17D-4-202(4)(a)(ii): for an at large board position established in the governing document, the registered voters of the public infrastructure district elect a member of the board in place of an appointed member at the next municipal general election for the board position.
+Utah Code Annotated § 17D-4-202(4)(b): (4)(a); (1) Regardless of whether a board member is elected under Subsection
+Utah Code Annotated § 17D-4-202(5): (5)(c); (4)(a); (5)(a); (5)(a)
+Utah Code Annotated § 17D-4-202(5)(a): (5)(c); (4)(a) Subject to Subsection
+Utah Code Annotated § 17D-4-202(5)(b): (5)(a) In reestablishing division boundaries under Subsection
+Utah Code Annotated § 17D-4-202(5)(c): (5)(a) The governing document may prohibit the board from reestablishing, without the consent of the creating entity, the division boundaries as described in Subsection
+Utah Code Annotated § 17D-4-202(6): 17B-1-307 A public infrastructure district may not compensate a board member for the member's service on the board under Section
+Utah Code Annotated § 17D-4-202(7): A governing document shall:
+Utah Code Annotated § 17D-4-202(7)(a): include a boundary description and a map of the public infrastructure district;
+Utah Code Annotated § 17D-4-202(7)(b): state the number of board members;
+Utah Code Annotated § 17D-4-202(7)(c): describe any divisions of the public infrastructure district;
+Utah Code Annotated § 17D-4-202(7)(d): establish any applicable property tax levy rate limit for the public infrastructure district;
+Utah Code Annotated § 17D-4-202(7)(e): establish any applicable limitation on the principal amount of indebtedness for the public infrastructure district; and
+Utah Code Annotated § 17D-4-202(7)(f): include other information that the public infrastructure district or the creating entity determines to be necessary or advisable.
+Utah Code Annotated § 17D-4-202(8): (8)(b); (8)(a)
+Utah Code Annotated § 17D-4-202(8)(a): (8)(b) Except as provided in Subsection
+Utah Code Annotated § 17D-4-202(8)(b): (8)(a) Notwithstanding Subsection
+Utah Code Annotated § 17D-4-202(8)(b)(i): 100% of surface property owners within the boundaries of the public infrastructure district; and
+Utah Code Annotated § 17D-4-202(8)(b)(ii): 100% of the registered voters, if any, within the boundaries of the public infrastructure district.
+Utah Code Annotated § 17D-4-202(9): 67-16-9; 67-16-7; 67-16-8 A board member is not in violation of Section
+Utah Code Annotated § 17D-4-202(9)(a): 67-16-7; 67-16-8 discloses a business relationship in accordance with Sections
+Utah Code Annotated § 17D-4-202(9)(a)(i): before any appointment or election; and
+Utah Code Annotated § 17D-4-202(9)(a)(ii): upon any significant change in the business relationship; and
+Utah Code Annotated § 17D-4-202(9)(b): conducts the affairs of the public infrastructure district in accordance with this title and any parameters described in the governing document.
+Utah Code Annotated § 17D-4-202(10): Notwithstanding any other provision of this section, the governing document governs the number, appointment, and terms of board members of a public infrastructure district created by the development authority.
+
+
+Utah Code Annotated § 17D-4-203 Public infrastructure district powers.
+----------------------------------------------------------------------
+A public infrastructure district:Utah Code Annotated § 17D-4-203(1): 17B-1-103 has all of the authority conferred upon a special district under Section
+Utah Code Annotated § 17D-4-203(2): 11-14-103; 11-42a-102; 11-42a-102; 11-58-102; Title 11, Chapter 13, Interlocal Cooperation Act; Title 11, Chapter 13, Interlocal Cooperation Act; Title 11, Chapter 42, Assessment Area Act; 11-58-102 may:
+Utah Code Annotated § 17D-4-203(2)(a): 11-14-103; 11-42a-102; 11-42a-102; 11-58-102 issue negotiable bonds to pay:
+Utah Code Annotated § 17D-4-203(2)(a)(i): 11-14-103 all or part of the costs of acquiring, acquiring an interest in, improving, or extending any of the improvements, facilities, or property allowed under Section
+Utah Code Annotated § 17D-4-203(2)(a)(ii): 11-42a-102; 11-42a-102 capital costs of improvements in an energy assessment area, as defined in Section
+Utah Code Annotated § 17D-4-203(2)(a)(iii): public improvements related to the provision of housing;
+Utah Code Annotated § 17D-4-203(2)(a)(iv): capital costs related to public transportation;
+Utah Code Annotated § 17D-4-203(2)(a)(v): for a public infrastructure district created by a development authority, the cost of acquiring or financing public infrastructure and improvements; and
+Utah Code Annotated § 17D-4-203(2)(a)(vi): 11-58-102 for a public infrastructure district that is a subsidiary of the Utah Inland Port Authority, the costs associated with a remediation project, as defined in Section
+Utah Code Annotated § 17D-4-203(2)(b): Title 11, Chapter 13, Interlocal Cooperation Act; Title 11, Chapter 13, Interlocal Cooperation Act enter into an interlocal agreement in accordance with
+Utah Code Annotated § 17D-4-203(2)(c): acquire completed or partially completed improvements for fair market value as reasonably determined by:
+Utah Code Annotated § 17D-4-203(2)(c)(i): the board;
+Utah Code Annotated § 17D-4-203(2)(c)(ii): the creating entity, if required in the governing document; or
+Utah Code Annotated § 17D-4-203(2)(c)(iii): a surveyor or engineer that a public infrastructure district employs or engages to perform the necessary engineering services for and to supervise the construction or installation of the improvements;
+Utah Code Annotated § 17D-4-203(2)(d): contract with the creating entity for the creating entity to provide administrative services on behalf of the public infrastructure district, when agreed to by both parties, in order to achieve cost savings and economic efficiencies, at the discretion of the creating entity; and
+Utah Code Annotated § 17D-4-203(2)(e): Title 11, Chapter 42, Assessment Area Act for a public infrastructure district created by a development authority:
+Utah Code Annotated § 17D-4-203(2)(e)(i): 
+Utah Code Annotated § 17D-4-203(2)(e)(i)(A): operate and maintain public infrastructure and improvements the district acquires or finances; and
+Utah Code Annotated § 17D-4-203(2)(e)(i)(B): use fees, assessments, or taxes to pay for the operation and maintenance of those public infrastructure and improvements; and
+Utah Code Annotated § 17D-4-203(2)(e)(ii): Title 11, Chapter 42, Assessment Area Act issue bonds under
+Utah Code Annotated § 17D-4-203(2)(f): 11-58-102 for a public infrastructure district that is a subsidiary of the Utah Inland Port Authority, pay for costs associated with a remediation project, as defined in Section
+
+
+Utah Code Annotated § 17D-4-204 Relation to other local entities.
+-----------------------------------------------------------------
+Utah Code Annotated § 17D-4-204(1): Notwithstanding the creation of a public infrastructure district, the creating entity and any other public entity, as applicable, retains all of the entity's authority over all zoning, planning, design specifications and approvals, and permitting within the public infrastructure district.
+Utah Code Annotated § 17D-4-204(2): The inclusion of property within the boundaries of a public infrastructure district does not preclude the inclusion of the property within any other special district.
+Utah Code Annotated § 17D-4-204(3): (3)(a)
+Utah Code Annotated § 17D-4-204(3)(a): All infrastructure that is connected to another public entity's system:
+Utah Code Annotated § 17D-4-204(3)(a)(i): belongs to that public entity, regardless of inclusion within the boundaries of a public infrastructure district, unless the public infrastructure district and the public entity otherwise agree; and
+Utah Code Annotated § 17D-4-204(3)(a)(ii): shall comply with the design, inspection requirements, and other standards of the public entity.
+Utah Code Annotated § 17D-4-204(3)(b): (3)(a) A public infrastructure district shall convey or transfer the infrastructure described in Subsection
+
+
+Utah Code Annotated § 17D-4-205 Transparency.
+---------------------------------------------
+A public infrastructure district shall file annual reports with the creating entity regarding the public infrastructure district's actions as provided in the governing document.
+
+Utah Code Annotated § 17D-4-301 Public infrastructure district bonds.
+---------------------------------------------------------------------
+Utah Code Annotated § 17D-4-301(1): (1)(b); 17D-4-203; Title 11, Chapter 14, Local Government Bonding Act; Title 11, Chapter 27, Utah Refunding Bond Act; Title 11, Chapter 42, Assessment Area Act; 63C-25-101; 63C-25-201
+Utah Code Annotated § 17D-4-301(1)(a): (1)(b); 17D-4-203; Title 11, Chapter 14, Local Government Bonding Act; Title 11, Chapter 27, Utah Refunding Bond Act; Title 11, Chapter 42, Assessment Area Act Subject to Subsection
+Utah Code Annotated § 17D-4-301(1)(a)(i): Title 11, Chapter 14, Local Government Bonding Act
+Utah Code Annotated § 17D-4-301(1)(a)(ii): Title 11, Chapter 27, Utah Refunding Bond Act
+Utah Code Annotated § 17D-4-301(1)(a)(iii): Title 11, Chapter 42, Assessment Area Act
+Utah Code Annotated § 17D-4-301(1)(a)(iv): this section.
+Utah Code Annotated § 17D-4-301(1)(b): 63C-25-101; 63C-25-201 A public infrastructure district created by a bonding political subdivision, as defined in Section
+Utah Code Annotated § 17D-4-301(1)(b)(i): adopts a parameters resolution for the bonds that sets forth:
+Utah Code Annotated § 17D-4-301(1)(b)(i)(A): the maximum:
+Utah Code Annotated § 17D-4-301(1)(b)(i)(A)(I): amount of bonds;
+Utah Code Annotated § 17D-4-301(1)(b)(i)(A)(II): term; and
+Utah Code Annotated § 17D-4-301(1)(b)(i)(A)(III): interest rate; and
+Utah Code Annotated § 17D-4-301(1)(b)(i)(B): the expected security for the bonds; and
+Utah Code Annotated § 17D-4-301(1)(b)(ii): 63C-25-201 submits the parameters resolution for review and recommendation to the State Finance Review Commission created in Section
+Utah Code Annotated § 17D-4-301(2): A public infrastructure district bond:
+Utah Code Annotated § 17D-4-301(2)(a): shall mature within 40 years of the date of issuance; and
+Utah Code Annotated § 17D-4-301(2)(b): may not be secured by any improvement or facility paid for by the public infrastructure district.
+Utah Code Annotated § 17D-4-301(3): Title 11, Chapter 14, Local Government Bonding Act; (3)(a); 17B-1-1102(4); (3)(a); (3)(a); (3)(d); (3)(d); 17B-1-1102(4)(a)(xii); 59-2-919; 17D-4-303; (8)
+Utah Code Annotated § 17D-4-301(3)(a): Title 11, Chapter 14, Local Government Bonding Act A public infrastructure district may issue a limited tax bond, in the same manner as a general obligation bond:
+Utah Code Annotated § 17D-4-301(3)(a)(i): with the consent of 100% of surface property owners within the boundaries of the public infrastructure district and 100% of the registered voters, if any, within the boundaries of the proposed public infrastructure district; or
+Utah Code Annotated § 17D-4-301(3)(a)(ii): Title 11, Chapter 14, Local Government Bonding Act upon approval of a majority of the registered voters within the boundaries of the public infrastructure district voting in an election held for that purpose under
+Utah Code Annotated § 17D-4-301(3)(b): (3)(a); 17B-1-1102(4) A limited tax bond described in Subsection
+Utah Code Annotated § 17D-4-301(3)(b)(i): 17B-1-1102(4) is not subject to the limitation on a general obligation bond described in Subsection
+Utah Code Annotated § 17D-4-301(3)(b)(ii): is subject to a limitation, if any, on the principal amount of indebtedness as described in the governing document.
+Utah Code Annotated § 17D-4-301(3)(c): Unless limited tax bonds are initially purchased exclusively by one or more qualified institutional buyers as defined in Rule 144A, 17 C.F.R. Sec. 230.144A, the public infrastructure district may only issue limited tax bonds in denominations of not less than $500,000, and in integral multiples above $500,000 of not less than $1,000 each.
+Utah Code Annotated § 17D-4-301(3)(d): (3)(a); (3)(a); (3)(d); (3)(d); 17B-1-1102(4)(a)(xii)
+Utah Code Annotated § 17D-4-301(3)(d)(i): (3)(a) Without any further election or consent of property owners or registered voters, a public infrastructure district may convert a limited tax bond described in Subsection
+Utah Code Annotated § 17D-4-301(3)(d)(i)(A): an appraisal from an appraiser who is a member of the Appraisal Institute that is addressed to the public infrastructure district or a financial institution; or
+Utah Code Annotated § 17D-4-301(3)(d)(i)(B): the most recent market value of the property from the assessor of the county in which the property is located.
+Utah Code Annotated § 17D-4-301(3)(d)(ii): (3)(a); (3)(d) The consent to the issuance of a limited tax bond described in Subsection
+Utah Code Annotated § 17D-4-301(3)(d)(iii): (3)(d); 17B-1-1102(4)(a)(xii) A general obligation bond resulting from a conversion of a limited tax bond under this Subsection
+Utah Code Annotated § 17D-4-301(3)(e): 59-2-919; 17D-4-303; (8) A public infrastructure district that levies a property tax for payment of debt service on a limited tax bond issued under this section is not required to comply with the notice and hearing requirements of Section
+Utah Code Annotated § 17D-4-301(3)(e)(i): 17D-4-303; (8) Section
+Utah Code Annotated § 17D-4-301(3)(e)(ii): the governing document; or
+Utah Code Annotated § 17D-4-301(3)(e)(iii): the documents relating to the issuance of the limited tax bond.
+Utah Code Annotated § 17D-4-301(4): There is no limitation on the duration of revenues that a public infrastructure district may receive to cover any shortfall in the payment of principal of and interest on a bond that the public infrastructure district issues.
+Utah Code Annotated § 17D-4-301(5): A public infrastructure district is not a municipal corporation for purposes of the debt limitation of
+Utah Code Annotated § 17D-4-301(6): 11-14-302 The board may, by resolution, delegate to one or more officers of the public infrastructure district the authority to:
+Utah Code Annotated § 17D-4-301(6)(a): 11-14-302 in accordance and within the parameters set forth in a resolution adopted in accordance with Section
+Utah Code Annotated § 17D-4-301(6)(b): approve and execute any document relating to the issuance of a bond; and
+Utah Code Annotated § 17D-4-301(6)(c): approve any contract related to the acquisition and construction of the improvements, facilities, or property to be financed with a bond.
+Utah Code Annotated § 17D-4-301(7): 11-14-316(2); (7)(a)
+Utah Code Annotated § 17D-4-301(7)(a): 11-14-316(2) Any person may contest the legality of the issuance of a public infrastructure district bond or any provisions for the security and payment of the bond for a period of 30 days after:
+Utah Code Annotated § 17D-4-301(7)(a)(i): publication of the resolution authorizing the bond; or
+Utah Code Annotated § 17D-4-301(7)(a)(ii): 11-14-316(2) publication of a notice of bond containing substantially the items required under Subsection
+Utah Code Annotated § 17D-4-301(7)(b): (7)(a) After the 30-day period described in Subsection
+Utah Code Annotated § 17D-4-301(8): (8)(a); 17D-4-303; (8)(a)
+Utah Code Annotated § 17D-4-301(8)(a): In the event of any statutory change in the methodology of assessment or collection of property taxes in a manner that reduces the amounts which are devoted or pledged to the repayment of limited tax bonds, a public infrastructure district may charge a rate sufficient to receive the amount of property taxes or assessment the public infrastructure district would have received before the statutory change in order to pay the debt service on outstanding limited tax bonds.
+Utah Code Annotated § 17D-4-301(8)(b): (8)(a); 17D-4-303 The rate increase described in Subsection
+Utah Code Annotated § 17D-4-301(8)(c): (8)(a) The public infrastructure district may charge the rate increase described in Subsection
+Utah Code Annotated § 17D-4-301(9): 63C-25-101; 63C-25-201 No later than 60 days after the closing of any bonds by a public infrastructure district created by a bonding political subdivision, as defined in Section
+Utah Code Annotated § 17D-4-301(9)(a): the Executive Appropriations Committee; and
+Utah Code Annotated § 17D-4-301(9)(b): 63C-25-201 the State Finance Review Commission created in Section
+
+
+Utah Code Annotated § 17D-4-302 Fees.
+-------------------------------------
+A public infrastructure district may charge a fee or other charge for an administrative service that the public infrastructure district provides, to pay some or all of the public infrastructure district's:Utah Code Annotated § 17D-4-302(1): costs of acquiring, improving, or extending improvements, facilities, or property; or
+Utah Code Annotated § 17D-4-302(2): costs associated with the enforcement of a legal remedy.
+
+
+Utah Code Annotated § 17D-4-303 Limits on public infrastructure district property tax levy -- Notice requirements.
+------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-4-303(1): The property tax levy of a public infrastructure district, for all purposes, including payment of debt service on limited tax bonds, may not exceed .015 per dollar of taxable value of taxable property in the district.
+Utah Code Annotated § 17D-4-303(2): (1) The limitation described in Subsection
+Utah Code Annotated § 17D-4-303(3): 67-1a-6.5; (3)(a)
+Utah Code Annotated § 17D-4-303(3)(a): 67-1a-6.5 Within 30 days after the day on which the lieutenant governor issues a certificate of incorporation under Section
+Utah Code Annotated § 17D-4-303(3)(b): (3)(a) The notice described in Subsection
+Utah Code Annotated § 17D-4-303(3)(b)(i): contain a description of the boundaries of the public infrastructure district;
+Utah Code Annotated § 17D-4-303(3)(b)(ii): state that a copy of the governing document is on file at the office of the creating entity;
+Utah Code Annotated § 17D-4-303(3)(b)(iii): state that the public infrastructure district may finance and repay infrastructure and other improvements through the levy of a property tax; and
+Utah Code Annotated § 17D-4-303(3)(b)(iv): state the maximum rate that the public infrastructure district may levy.
+
+
+Utah Code Annotated § 17D-4-304 Property tax penalty for nonpayment.
+--------------------------------------------------------------------
+In the event of nonpayment of any tax, fee, or charge that a public infrastructure district imposes, the public infrastructure district may impose a property tax penalty at an annual rate of .07, in addition to any other lawful penalty for nonpayment of property tax.
+
+Utah Code Annotated § 17D-4-305 Action to contest tax, fee, or proceeding -- Requirements -- Exclusive remedy -- Bonds, taxes, and fees incontestable.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 17D-4-305(1): A person who contests a tax or fee or any proceeding to create a public infrastructure district, levy a tax, or impose a fee may bring a civil action against the public infrastructure district or the creating entity to:
+Utah Code Annotated § 17D-4-305(1)(a): set aside the proceeding; or
+Utah Code Annotated § 17D-4-305(1)(b): enjoin the levy, imposition, or collection of a tax or fee.
+Utah Code Annotated § 17D-4-305(2): (1) The person bringing an action described in Subsection
+Utah Code Annotated § 17D-4-305(2)(a): shall bring the action in the district court with jurisdiction in the county in which the public infrastructure district is located; and
+Utah Code Annotated § 17D-4-305(2)(b): may not bring the action against or serve a summons relating to the action on the public infrastructure district more than 30 days after the effective date of the:
+Utah Code Annotated § 17D-4-305(2)(b)(i): creation of the public infrastructure district, if the challenge is to the creation of the public infrastructure district; or
+Utah Code Annotated § 17D-4-305(2)(b)(ii): tax or fee, if the challenge is to a tax or fee.
+Utah Code Annotated § 17D-4-305(3): (1) An action under Subsection
+Utah Code Annotated § 17D-4-305(3)(a): claims an error or irregularity in a tax or fee or in any proceeding to create a public infrastructure district, levy a tax, or impose a fee; or
+Utah Code Annotated § 17D-4-305(3)(b): challenges a bondholder's right to repayment.
+Utah Code Annotated § 17D-4-305(4): (2)(b); (4)(b) After the expiration of the 30-day period described in Subsection
+Utah Code Annotated § 17D-4-305(4)(a): a bond issued or to be issued with respect to a public infrastructure district and any tax levied or fee imposed becomes incontestable against any person who has not brought an action and served a summons in accordance with this section;
+Utah Code Annotated § 17D-4-305(4)(b): a person may not bring a suit to:
+Utah Code Annotated § 17D-4-305(4)(b)(i): enjoin the issuance or payment of a bond or the levy, imposition, collection, or enforcement of a tax or fee; or
+Utah Code Annotated § 17D-4-305(4)(b)(ii): attack or question in any way the legality of a bond, tax, or fee; and
+Utah Code Annotated § 17D-4-305(4)(c): (4)(b) a court may not inquire into the matters described in Subsection
+Utah Code Annotated § 17D-4-305(5): (2)(b); (5)(b)(ii); (5)(b)(i)
+Utah Code Annotated § 17D-4-305(5)(a): (2)(b) This section does not insulate a public infrastructure district from a claim of misuse of funds after the expiration of the 30-day period described in Subsection
+Utah Code Annotated § 17D-4-305(5)(b): (5)(b)(ii); (5)(b)(i)
+Utah Code Annotated § 17D-4-305(5)(b)(i): (5)(b)(ii) Except as provided in Subsection
+Utah Code Annotated § 17D-4-305(5)(b)(ii): (5)(b)(i) The limitation in Subsection
+
+

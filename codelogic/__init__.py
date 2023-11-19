@@ -1,8 +1,9 @@
+"""CODELOGIC."""
 # **********************************************************
 # * CATEGORY  SOFTWARE
 # * GROUP     GOV. AFFAIRS
 # * AUTHOR    LANCE HAYNIE <LHAYNIE@SCCITY.ORG>
-# * FILE      SETTINGS.PY
+# * FILE      __INIT__.PY
 # **********************************************************
 # Utah Legislature Automation
 # Copyright Santa Clara City
@@ -15,20 +16,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import os, sys, yaml
-
-settings_file = "./utle/settings.yaml"
-if not os.path.exists(settings_file):
-    print("settings.yaml not found!")
-    sys.exit()
-
-with open(settings_file, "r") as f:
-    settings_data = yaml.load(f, Loader=yaml.FullLoader)
-
-version_file = "./utle/version.yaml"
-if not os.path.exists(version_file):
-    print("version.yaml not found!")
-    sys.exit()
-
-with open(version_file, "r") as f:
-    version_data = yaml.load(f, Loader=yaml.FullLoader)
+from .code import *
+from .train import *
+from .interactive import *
+from .api import *

@@ -60,7 +60,6 @@ class OpenAIConnector:
                     "Rate the potential negative impact on Utah municipalities from the provided text on a scale of 1 to 5, using whole numbers only. "
                     "Consider highlighted provisions, impact analysis, and Utah Code references for your rating. "
                     "If the referenced Utah Code is not in the specified categories (10, 11, 13, 17, 17B, 35A, 52, 53, 54, 59, 63A), rate it as 1. "
-                    "Also, rate as 1 if the focus isschool, special service districts, or state operations. "
                     "Areas to consider include local government operations, revenue, budgets, ordinances, and new restrictions on municipalities. "
                     "Be objective; bills related to leisure have less impact than revenue-related bills. "
                     "Bills necessitating local operational changes have a higher impact. "
@@ -69,24 +68,14 @@ class OpenAIConnector:
                 ).format(highlighted_provisions, text, code_sections)
 
                 response = openai.ChatCompletion.create(
-                    model="gpt-3.5-turbo",
+                    model="gpt-4",
                     messages=[role_system, {"role": "user", "content": prompt}],
                     max_tokens=1
                 )
     
                 rating = int(response.choices[0].message["content"].strip())
                 
-                explanation_prompt = f"Why did you rate the impact as {rating}? Please provide an explanation in 500 characters or less."
-                
-                explanation_response = openai.ChatCompletion.create(
-                    model="gpt-3.5-turbo",
-                    messages=[role_system, {"role": "user", "content": prompt}, role_system, {"role": "user", "content": explanation_prompt}],
-                    max_tokens=500
-                )
-
-                explanation = explanation_response.choices[0].message["content"].strip()
-                    
-                return rating, explanation
+                return rating
             except openai.error.OpenAIError as err:
                 print(f"OpenAI API error: {err}")
                 if "Rate limit reached" in str(err):
@@ -111,7 +100,7 @@ class BillProcessor:
             self.db_connector.conn.begin()  # Begin a transaction
 
             self.db_connector.cursor.execute(
-                "SELECT guid, ai_analysis, highlighted_provisions, code_sections FROM bills WHERE ai_impact_rating IS NULL OR ai_impact_rating = 0 AND level != 5 AND last_action_owner NOT LIKE '%not pass%'"
+                "SELECT guid, ai_analysis, highlighted_provisions, code_sections FROM bills WHERE ai_impact_rating IS NULL OR ai_impact_rating = 0 AND last_action_owner NOT LIKE '%not pass%'"
             )
             rows = self.db_connector.cursor.fetchall()
 
@@ -121,8 +110,8 @@ class BillProcessor:
                     print(f"Processing bill with guid: {guid}")
                     if ai_analysis is not None and ai_analysis.strip():
                         print("Performing impact rating...")
-                        rating, explanation = self.openai_connector.rate_impact(ai_analysis, highlighted_provisions, code_sections)
-                        self.update_bill_rating(guid, rating, explanation)
+                        rating = self.openai_connector.rate_impact(ai_analysis, highlighted_provisions, code_sections)
+                        self.update_bill_rating(guid, rating)
                         self.db_connector.conn.commit()  # Commit changes after each iteration
                     else:
                         print(f"Skipping processing for bill with guid {guid} due to empty or None ai_analysis")
@@ -137,9 +126,9 @@ class BillProcessor:
         finally:
             self.db_connector.disconnect()
 
-    def update_bill_rating(self, guid, rating, explanation):
-        update_query = "UPDATE bills SET ai_impact_rating = %s, ai_impact_rating_explanation = %s WHERE guid = %s"
-        self.db_connector.cursor.execute(update_query, (rating, explanation, guid))
+    def update_bill_rating(self, guid, rating):
+        update_query = "UPDATE bills SET ai_impact_rating = %s WHERE guid = %s"
+        self.db_connector.cursor.execute(update_query, (rating, guid))
 
 def process_impact():
     db_host = settings_data["database"]["host"]

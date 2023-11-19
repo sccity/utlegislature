@@ -1,0 +1,1696 @@
+Utah Code Annotated - Title 65A - Forestry, Fire, and State Lands
+=================================================================
+
+Utah Code Annotated - Title 65A - Chapter 1 - Division of Forestry, Fire, and State Lands
+*****************************************************************************************
+
+Utah Code Annotated § 65A-1-1 Definitions.
+------------------------------------------
+As used in this title:Utah Code Annotated § 65A-1-1(1): "Division" means the Division of Forestry, Fire, and State Lands.
+Utah Code Annotated § 65A-1-1(2): "Initial attack" means action taken by the first resource to arrive at a wildland fire incident, including evaluating the wildland fire, patrolling, monitoring, holding action, or aggressive suppression action.
+Utah Code Annotated § 65A-1-1(3): "Multiple use" means the management of various surface and subsurface resources in a manner that will best meet the present and future needs of the people of this state.
+Utah Code Annotated § 65A-1-1(4): "Municipality" means a city, town, or metro township.
+Utah Code Annotated § 65A-1-1(5): "Public trust assets" means those lands and resources, including sovereign lands, administered by the division.
+Utah Code Annotated § 65A-1-1(6): "Sovereign lands" means those lands lying below the ordinary high water mark of navigable bodies of water at the date of statehood and owned by the state by virtue of its sovereignty.
+Utah Code Annotated § 65A-1-1(7): "State lands" means all lands administered by the division.
+Utah Code Annotated § 65A-1-1(8): "Sustained yield" means the achievement and maintenance of high level annual or periodic output of the various renewable resources of land without impairment of the productivity of the land.
+Utah Code Annotated § 65A-1-1(9): "Wildland" means an area where:
+Utah Code Annotated § 65A-1-1(9)(a): development is essentially non-existent, except for roads, railroads, powerlines, or similar transportation facilities; and
+Utah Code Annotated § 65A-1-1(9)(b): structures, if any, are widely scattered.
+Utah Code Annotated § 65A-1-1(10): 65A-8a-102 "Wildland fire" means a fire that consumes:
+Utah Code Annotated § 65A-1-1(10)(a): wildland; or
+Utah Code Annotated § 65A-1-1(10)(b): 65A-8a-102 wildland-urban interface, as defined in Section
+
+
+Utah Code Annotated § 65A-1-4 Division of Forestry, Fire, and State Lands -- Creation -- Power and authority.
+-------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-1-4(1): 65A-8-101
+Utah Code Annotated § 65A-1-4(1)(a): The Division of Forestry, Fire, and State Lands is created within the Department of Natural Resources under the administration and general supervision of the executive director of the department.
+Utah Code Annotated § 65A-1-4(1)(b): 65A-8-101 The division is the executive authority for the management of sovereign lands, and the state's mineral estates on lands other than school and institutional trust lands, and shall provide for forestry and fire control activities as required in Section
+Utah Code Annotated § 65A-1-4(2): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The division shall adopt rules under
+Utah Code Annotated § 65A-1-4(3): The director of the Division of Forestry, Fire, and State Lands is the executive and administrative head of the division and shall be a person experienced in administration and management of natural resources.
+Utah Code Annotated § 65A-1-4(4): 
+Utah Code Annotated § 65A-1-4(4)(a): An aggrieved party to a final action by the director may appeal that action to the executive director of the Department of Natural Resources within 20 days after the action.
+Utah Code Annotated § 65A-1-4(4)(b): The executive director shall rule on the director's action within 20 days after receipt of the appeal.
+
+
+Utah Code Annotated § 65A-1-5 Attorney general -- Role in affairs of the division.
+----------------------------------------------------------------------------------
+Utah Code Annotated § 65A-1-5(1): 
+Utah Code Annotated § 65A-1-5(1)(a): The attorney general shall represent the division in any legal action relating to state lands and, upon request by the director, may institute action to enforce the provisions of this title.
+Utah Code Annotated § 65A-1-5(1)(b): Whenever an action is brought contesting a decision or act of the division, the division may be named a party in the case rather than the individuals that comprise the division.
+Utah Code Annotated § 65A-1-5(2): All leases, contracts, and agreements entered into by the division shall be approved as to form by the attorney general prior to execution.
+Utah Code Annotated § 65A-1-5(3): 
+Utah Code Annotated § 65A-1-5(3)(a): All suits for the collection of rental and damages shall be instituted by the attorney general, upon request by the director, in the name of the state.
+Utah Code Annotated § 65A-1-5(3)(b): The attorney general, upon request by the director, shall prosecute actions for suppression costs or other damage caused by fires on state lands.
+
+
+Utah Code Annotated § 65A-1-6 Witnesses -- Subpoena and oaths.
+--------------------------------------------------------------
+Utah Code Annotated § 65A-1-6(1): The director may issue subpoenas to compel the attendance of witnesses and the production of documents in adjudicative proceedings authorized by law.
+Utah Code Annotated § 65A-1-6(2): The director may administer oaths in the performance of the council's or division's official duties.
+
+
+Utah Code Annotated § 65A-1-8 Division employees -- Prohibited from acquiring an interest in state lands.
+---------------------------------------------------------------------------------------------------------
+Division employees may not directly or indirectly acquire any interest in state lands.
+
+Utah Code Annotated § 65A-1-9 Application of Public Officers' and Employees' Ethics Act.
+----------------------------------------------------------------------------------------
+Employees and agents of the division are subject to
+
+Utah Code Annotated § 65A-1-10 Proprietary geologic or financial information -- Confidentiality -- Division to adopt rules.
+---------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-1-10(1): The division may keep geologic and financial information, which the provider and the division agree is of a proprietary nature, confidential unless the information is required by federal or state law to be of a nonproprietary nature.
+Utah Code Annotated § 65A-1-10(2): The division shall adopt rules to determine when to accept confidential information.
+
+
+Utah Code Annotated § 65A-1-11 Division's authority to examine records and inspect premises.
+--------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-1-11(1): For the purpose of determining compliance with any rule or any performance or payment obligation under a lease, permit, or contract, the division may, at reasonable times, places, and intervals:
+Utah Code Annotated § 65A-1-11(1)(a): require that the lessee, permittee, or contractor provide any pertinent books, records, or other documents of the lessee, permittee, or contractor; or
+Utah Code Annotated § 65A-1-11(1)(b): inspect the property acquired, used, or developed under the lease, permit, or contract after reasonable notice or as provided in the lease, permit, or contract.
+Utah Code Annotated § 65A-1-11(2): Nothing in the section shall be construed to limit or invalidate audits conducted by the division prior to the effective date of this act.
+
+
+Utah Code Annotated § 65A-1-12 Filing date of applications and bids.
+--------------------------------------------------------------------
+Any application or bid required for the lease, permitting, or sale of state lands in a competitive process shall be considered filed or made on the date received by the appropriate division office, whether transmitted by the United States mail or in any other manner.
+
+Utah Code Annotated - Title 65A - Chapter 2 - Administration and Management of State Lands
+******************************************************************************************
+
+Utah Code Annotated § 65A-2-1 Administration of state lands -- Multiple-use sustained yield management.
+-------------------------------------------------------------------------------------------------------
+The division shall administer state lands under comprehensive land management programs using multiple-use sustained yield principles.
+
+Utah Code Annotated § 65A-2-2 State land management planning procedures for natural and cultural resources -- Assistance from other state agencies -- Division action.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The division:Utah Code Annotated § 65A-2-2(1): shall develop planning procedures for natural and cultural resources on state lands; and
+Utah Code Annotated § 65A-2-2(2): may request other state agencies to generate technical data or other management support services for the development and implementation of state land management plans.
+
+
+Utah Code Annotated § 65A-2-3 Endangered or threatened plant species -- Division authorized to protect.
+-------------------------------------------------------------------------------------------------------
+The division may make determinations concerning the management, protection, and conservation of plant species officially designated as endangered or threatened under the federal Endangered Species Act of 1973, as amended, on state lands.
+
+Utah Code Annotated § 65A-2-4 State land management plans -- Division to adopt rules for notifying and consulting with interested parties.
+------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-2-4(1): The division shall adopt rules for notifying and consulting with interested parties including the general public, resources users, and federal, state, and local agencies on state land management plans.
+Utah Code Annotated § 65A-2-4(2): Division rules shall provide:
+Utah Code Annotated § 65A-2-4(2)(a): for reasonable notice and comment periods; and
+Utah Code Annotated § 65A-2-4(2)(b): that the division respond to all commenting parties and give the rationale for the acceptance or nonacceptance of the comments.
+
+
+Utah Code Annotated § 65A-2-5 Protection of leasehold interests.
+----------------------------------------------------------------
+The director of the Division of Forestry, Fire, and State Lands, in conjunction with the Wildlife Board, may restrict or limit public use of leased parcels of sovereign lands for hunting, trapping, or fishing:Utah Code Annotated § 65A-2-5(1): upon the petition of the affected lessee;
+Utah Code Annotated § 65A-2-5(2): after a public hearing; and
+Utah Code Annotated § 65A-2-5(3): upon a determination that unrestricted public use for hunting, trapping, or fishing substantially interferes with the primary activities authorized by the lease.
+
+
+Utah Code Annotated § 65A-2-6 Permitted areas at Bear Lake for launching and retrieving watercraft -- Rulemaking authority.
+---------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-2-6(1): 73-18-2 As used in this section, "motorboat" means the same as that term is defined in Section
+Utah Code Annotated § 65A-2-6(2): The division shall issue a permit to an applicant that allows the applicant to launch or retrieve a motorboat on state lands surrounding Bear Lake.
+Utah Code Annotated § 65A-2-6(3): A permit is required to launch or retrieve a motorboat on state lands surrounding Bear Lake.
+Utah Code Annotated § 65A-2-6(4): A permit authorizes a person to launch or retrieve a motorboat if:
+Utah Code Annotated § 65A-2-6(4)(a): the person owns private property adjacent to state lands surrounding Bear Lake, or has legal right to occupy or use private property adjacent to state lands surrounding Bear Lake, and the person accesses the water from that private property; or
+Utah Code Annotated § 65A-2-6(4)(b): the person accesses the water from a recorded point of public access that allows motor vehicle traffic.
+Utah Code Annotated § 65A-2-6(5): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The division shall, in accordance with
+
+
+Utah Code Annotated § 65A-2-7 Development of Bear Lake.
+-------------------------------------------------------
+The division shall:Utah Code Annotated § 65A-2-7(1): designate state lands along Highway 30 from the Ideal Beach RV Park and Spinnaker Marina southward approximately four miles to Rendezvous Beach State Park, which lands are located in Township 13N, Range 5E, Sections 003, 010, 015, 022, and 023, as an area for the ongoing development of facilities for boating, fishing, beach going, swimming, parking, picnicking, and other recreational activities; and
+Utah Code Annotated § 65A-2-7(2): (1) develop the area described in Subsection
+Utah Code Annotated § 65A-2-7(2)(a): consistent with the division's Bear Lake comprehensive management plan; and
+Utah Code Annotated § 65A-2-7(2)(b): as funding allows.
+
+
+Utah Code Annotated § 65A-2-8 Jordan River improvement projects.
+----------------------------------------------------------------
+Utah Code Annotated § 65A-2-8(1): As used in this section:
+Utah Code Annotated § 65A-2-8(1)(a): "Commission" means the Jordan River Commission created by interlocal agreement.
+Utah Code Annotated § 65A-2-8(1)(b): "Zone" means the Jordan River Recreation Area, the area 250 yards on each side of the Jordan River from the edge of the river between SR-201 and 5400 South.
+Utah Code Annotated § 65A-2-8(2): (3); (5); (2)(a) The division, subject to applicable federal, state, and local laws and ordinances and Subsections
+Utah Code Annotated § 65A-2-8(2)(a): expend money for the following purposes:
+Utah Code Annotated § 65A-2-8(2)(a)(i): enhancing safety, recreation, and conservation in the zone;
+Utah Code Annotated § 65A-2-8(2)(a)(ii): capital improvements within the zone, including:
+Utah Code Annotated § 65A-2-8(2)(a)(ii)(A): lighting along the Jordan River and within the zone;
+Utah Code Annotated § 65A-2-8(2)(a)(ii)(B): completing construction of a paved pathway on both sides of the Jordan River within the zone;
+Utah Code Annotated § 65A-2-8(2)(a)(ii)(C): building a boat launch, picnic pavilion, bench, restroom, or other amenity within the zone; and
+Utah Code Annotated § 65A-2-8(2)(a)(ii)(D): supporting Tracy Aviary, a nature area, bike or boat rental concessionaire, or other partnerships to enhance recreation in the zone;
+Utah Code Annotated § 65A-2-8(2)(a)(iii): funding programs to clean the zone, remove invasive species, and restore riparian habitat;
+Utah Code Annotated § 65A-2-8(2)(a)(iv): hiring or contracting for personnel to perform tasks as directed by the commission;
+Utah Code Annotated § 65A-2-8(2)(a)(v): partnering or contracting with an urban ranger or conservation corp operated by a state institution of higher education or similar service-oriented organizations or programs:
+Utah Code Annotated § 65A-2-8(2)(a)(v)(A): to provide trail, river, and parkway maintenance, invasive species removal and revegetation, emergency care, and environmental education for the area 250 yards on each side of the Jordan River from the edge of the river for the entire length of the river; and
+Utah Code Annotated § 65A-2-8(2)(a)(v)(B): to report to the appropriate public official all health, safety, or law enforcement concerns that the organization encounters, as directed by the commission; and
+Utah Code Annotated § 65A-2-8(2)(a)(vi): partnering or contracting with local law enforcement or a certified peace officer to provide patrol, security, and law enforcement for the area 250 yards on each side of the Jordan River from the edge of the river for the entire length of the river; and
+Utah Code Annotated § 65A-2-8(2)(b): (2)(a) purchase, lease, sell, or dispose of property or an easement within the zone to achieve the goals in Subsection
+Utah Code Annotated § 65A-2-8(3): (2)(a)(i); (2)(a)(iii); (2)(b); (2)(a)(iv); (2)(a)(vi)
+Utah Code Annotated § 65A-2-8(3)(a): (2)(a)(i); (2)(a)(iii); (2)(b) Before engaging in any activity described in Subsections
+Utah Code Annotated § 65A-2-8(3)(a)(i): the commission;
+Utah Code Annotated § 65A-2-8(3)(a)(ii): any relevant governmental entity that owns or is responsible for the maintenance of real property within the zone, including Salt Lake County Flood Control; and
+Utah Code Annotated § 65A-2-8(3)(a)(iii): the relevant municipality within the zone.
+Utah Code Annotated § 65A-2-8(3)(b): (2)(a)(iv); (2)(a)(vi) Before engaging in any activity described in Subsections
+Utah Code Annotated § 65A-2-8(3)(b)(i): receive the approval of the commission; and
+Utah Code Annotated § 65A-2-8(3)(b)(ii): consult with:
+Utah Code Annotated § 65A-2-8(3)(b)(ii)(A): any relevant governmental entity that owns or is responsible for the maintenance of real property within the zone; and
+Utah Code Annotated § 65A-2-8(3)(b)(ii)(B): the relevant municipality within the zone.
+Utah Code Annotated § 65A-2-8(4): 72-1-201; Title 72, Chapter 4, Designation of State Highways Act The commission shall work with the Department of Transportation, created in Section
+Utah Code Annotated § 65A-2-8(4)(a): Title 72, Chapter 4, Designation of State Highways Act have the Department of Transportation post by no later than July 1, 2025, as funding allows, consistent and attractive signs where a highway that is designated as a state highway under
+Utah Code Annotated § 65A-2-8(4)(b): advise in the development of methods to provide access from a state highway to the trails along the Jordan River where the trail can be safely accessed.
+Utah Code Annotated § 65A-2-8(5): (5)(b)(ii)(A); 63J-1-602.2
+Utah Code Annotated § 65A-2-8(5)(a): The programs described in this section may only be implemented as appropriations from the Legislature allow.
+Utah Code Annotated § 65A-2-8(5)(b): (5)(b)(ii)(A)
+Utah Code Annotated § 65A-2-8(5)(b)(i): Money appropriated to programs in this section is managed by the division in accordance with this section and may include the division dispersing money through issuing grants.
+Utah Code Annotated § 65A-2-8(5)(b)(ii): (5)(b)(ii)(A) The division shall:
+Utah Code Annotated § 65A-2-8(5)(b)(ii)(A): before December 31, 2022, issue a five-year grant to a zoo, aviary, nature center, or other educational program located within the zone; and
+Utah Code Annotated § 65A-2-8(5)(b)(ii)(B): (5)(b)(ii)(A) renew the grant described in Subsection
+Utah Code Annotated § 65A-2-8(5)(c): 63J-1-602.2 Money that the Legislature appropriates to programs described in this section is nonlapsing in accordance with Section
+
+
+Utah Code Annotated - Title 65A - Chapter 3 - Illegal Activities on State Lands and Wildland Fire Liability
+***********************************************************************************************************
+
+Utah Code Annotated § 65A-3-1 Trespassing on state lands -- Penalties.
+----------------------------------------------------------------------
+Utah Code Annotated § 65A-3-1(1): 73-18-2; 73-18-2; 73-18-2; 41-22-2; 73-18-2 As used in this section:
+Utah Code Annotated § 65A-3-1(1)(a): 73-18-2 "Anchored" means the same as that term is defined in Section
+Utah Code Annotated § 65A-3-1(1)(b): 73-18-2 "Beached" means the same as that term is defined in Section
+Utah Code Annotated § 65A-3-1(1)(c): 73-18-2 "Motorboat" means the same as that term is defined in Section
+Utah Code Annotated § 65A-3-1(1)(d): 41-22-2 "Motor vehicle" means the same as that term is defined in Section
+Utah Code Annotated § 65A-3-1(1)(e): 73-18-2 "Vessel" means the same as that term is defined in Section
+Utah Code Annotated § 65A-3-1(2): (4) A person is guilty of a class B misdemeanor and liable for the civil damages prescribed in Subsection
+Utah Code Annotated § 65A-3-1(2)(a): removes, extracts, uses, consumes, or destroys any mineral resource, gravel, sand, soil, vegetation, or improvement on state lands;
+Utah Code Annotated § 65A-3-1(2)(b): grazes livestock on state lands;
+Utah Code Annotated § 65A-3-1(2)(c): uses, occupies, or constructs improvements or structures on state lands;
+Utah Code Annotated § 65A-3-1(2)(d): uses or occupies state lands for more than 30 days after the cancellation or expiration of written authorization;
+Utah Code Annotated § 65A-3-1(2)(e): knowingly and willfully uses state lands for commercial gain;
+Utah Code Annotated § 65A-3-1(2)(f): appropriates, alters, injures, or destroys any historical, prehistorical, archaeological, or paleontological resource on state lands;
+Utah Code Annotated § 65A-3-1(2)(g): starts or maintains a fire on state lands except in a posted and designated area;
+Utah Code Annotated § 65A-3-1(2)(h): camps on state lands, except in posted or designated areas;
+Utah Code Annotated § 65A-3-1(2)(i): camps on state lands for longer than 15 consecutive days at the same location or within one mile of the same location;
+Utah Code Annotated § 65A-3-1(2)(j): camps on state lands for 15 consecutive days, and then returns to camp at the same location before 15 consecutive days have elapsed after the day on which the person left that location;
+Utah Code Annotated § 65A-3-1(2)(k): leaves an anchored or beached vessel unattended for longer than 48 hours on state lands;
+Utah Code Annotated § 65A-3-1(2)(l): anchors or beaches a vessel on state lands at the same location for longer than 72 hours or within two miles of the same location for longer than 72 hours;
+Utah Code Annotated § 65A-3-1(2)(m): anchors or beaches a vessel on state lands at the same location for 72 hours, and then returns to anchor or beach the vessel at the same location or within two miles of the same location before 72 hours have elapsed after the day on which the person left that location;
+Utah Code Annotated § 65A-3-1(2)(n): posts a sign claiming state land as private property;
+Utah Code Annotated § 65A-3-1(2)(o): prohibits, prevents, or obstructs public entry to state land where public entry is authorized by the division; or
+Utah Code Annotated § 65A-3-1(2)(p): parks or operates a motor vehicle on the bed of a navigable lake or river except in those areas:
+Utah Code Annotated § 65A-3-1(2)(p)(i): supervised by the Division of State Parks, the Division of Outdoor Recreation, or another state or local enforcement entity; and
+Utah Code Annotated § 65A-3-1(2)(p)(ii): which are posted as open to vehicle use.
+Utah Code Annotated § 65A-3-1(3): (4) A person is guilty of a class C misdemeanor and liable for civil damages described in Subsection
+Utah Code Annotated § 65A-3-1(3)(a): parks or operates a motor vehicle in an area on the exposed lake bed that is specifically posted by the division as closed for usage;
+Utah Code Annotated § 65A-3-1(3)(b): camps, except in an area that is posted and designated as open to camping;
+Utah Code Annotated § 65A-3-1(3)(c): exceeds a speed limit of 10 miles per hour while operating a motor vehicle;
+Utah Code Annotated § 65A-3-1(3)(d): drives recklessly while operating a motor vehicle;
+Utah Code Annotated § 65A-3-1(3)(e): parks or operates a motor vehicle within an area between the water's edge and 100 feet of the water's edge except as necessary to:
+Utah Code Annotated § 65A-3-1(3)(e)(i): launch or retrieve a motorboat, if the person is permitted to launch or retrieve a motorboat;
+Utah Code Annotated § 65A-3-1(3)(e)(ii): transport an individual with limited mobility; or
+Utah Code Annotated § 65A-3-1(3)(e)(iii): deposit or retrieve equipment to a beach site;
+Utah Code Annotated § 65A-3-1(3)(f): travels in a motor vehicle parallel to the water's edge:
+Utah Code Annotated § 65A-3-1(3)(f)(i): in areas designated by the division as closed;
+Utah Code Annotated § 65A-3-1(3)(f)(ii): a distance greater than 500 yards; or
+Utah Code Annotated § 65A-3-1(3)(f)(iii): for purposes other than travel to or from a beach site;
+Utah Code Annotated § 65A-3-1(3)(g): parks or operates a motor vehicle between the hours of 10 p.m. and 7 a.m.; or
+Utah Code Annotated § 65A-3-1(3)(h): starts a campfire or uses fireworks.
+Utah Code Annotated § 65A-3-1(4): (2); (3) A person who commits any act described in Subsection
+Utah Code Annotated § 65A-3-1(4)(a): three times the value of the mineral or other resource removed, destroyed, or extracted;
+Utah Code Annotated § 65A-3-1(4)(b): three times the value of damage committed; or
+Utah Code Annotated § 65A-3-1(4)(c): three times the consideration which would have been charged by the division for use of the land during the period of trespass.
+Utah Code Annotated § 65A-3-1(5): (4); (2); (3); 76-3-204 In addition to the damages described in Subsection
+Utah Code Annotated § 65A-3-1(6): Money collected under this section shall be deposited in the fund in which similar revenues from that land would be deposited.
+
+
+Utah Code Annotated § 65A-3-2 Wildland fire prevention -- Prohibited acts.
+--------------------------------------------------------------------------
+Utah Code Annotated § 65A-3-2(1): A person is guilty of a class B misdemeanor who:
+Utah Code Annotated § 65A-3-2(1)(a): throws or places a lighted cigarette, cigar, firecracker, ashes, or other flaming or glowing substance that may cause a fire on a highway or a wildland fire;
+Utah Code Annotated § 65A-3-2(1)(b): obstructs the state forester, an employee of the division, or an agent of the division, in the performance of controlling a fire;
+Utah Code Annotated § 65A-3-2(1)(c): refuses, on proper request of the state forester, an employee of the division, or an agent of the division, to assist in the controlling of a fire, without good and sufficient reason; or
+Utah Code Annotated § 65A-3-2(1)(d): fires a tracer or incendiary ammunition:
+Utah Code Annotated § 65A-3-2(1)(d)(i): anywhere except within the confines of established military reservations; or
+Utah Code Annotated § 65A-3-2(1)(d)(ii): except with the written permission of the director of the Division of Forestry, Fire, and State Lands, given upon written request, if the director:
+Utah Code Annotated § 65A-3-2(1)(d)(ii)(A): specifies a limited period of time and a limited area in which the ammunition may be used; and
+Utah Code Annotated § 65A-3-2(1)(d)(ii)(B): issues the written permission in accordance with this title and applicable rules.
+Utah Code Annotated § 65A-3-2(2): Fines assessed under this section are deposited in the General Fund.
+
+
+Utah Code Annotated § 65A-3-2.5 Wildland fire and unmanned aircraft.
+--------------------------------------------------------------------
+Utah Code Annotated § 65A-3-2.5(1): (1)(c)(i); (vii) As used in this section:
+Utah Code Annotated § 65A-3-2.5(1)(a): "Incident commander" means the government official or employee in command of the response to a wildland fire.
+Utah Code Annotated § 65A-3-2.5(1)(b): "Neutralize" means to terminate the operation of an unmanned aircraft by:
+Utah Code Annotated § 65A-3-2.5(1)(b)(i): disabling or damaging the unmanned aircraft;
+Utah Code Annotated § 65A-3-2.5(1)(b)(ii): interfering with any portion of the unmanned aircraft system associated with the unmanned aircraft; or
+Utah Code Annotated § 65A-3-2.5(1)(b)(iii): otherwise taking control of the unmanned aircraft or the unmanned aircraft system associated with the unmanned aircraft.
+Utah Code Annotated § 65A-3-2.5(1)(c): (1)(c)(i); (vii) "Sanctioned entity" includes a person that oversees, is employed by, or is working under the direction of:
+Utah Code Annotated § 65A-3-2.5(1)(c)(i): a government entity;
+Utah Code Annotated § 65A-3-2.5(1)(c)(ii): a telecommunications provider;
+Utah Code Annotated § 65A-3-2.5(1)(c)(iii): a utility provider;
+Utah Code Annotated § 65A-3-2.5(1)(c)(iv): the owner or operator of a pipeline;
+Utah Code Annotated § 65A-3-2.5(1)(c)(v): an insurance provider;
+Utah Code Annotated § 65A-3-2.5(1)(c)(vi): a resource extraction entity;
+Utah Code Annotated § 65A-3-2.5(1)(c)(vii): news media;
+Utah Code Annotated § 65A-3-2.5(1)(c)(viii): a person that operates an unmanned aircraft system under a certificate of waiver, a certificate of authorization, or any other grant of authority obtained from the Federal Aviation Administration that expressly authorizes operation of the unmanned aircraft system; or
+Utah Code Annotated § 65A-3-2.5(1)(c)(ix): (1)(c)(i); (vii) a person similar to a person described in Subsections
+Utah Code Annotated § 65A-3-2.5(1)(d): "Unmanned aircraft" means an aircraft that is:
+Utah Code Annotated § 65A-3-2.5(1)(d)(i): capable of sustaining flight; and
+Utah Code Annotated § 65A-3-2.5(1)(d)(ii): operated with no possible direct human intervention from on or within the aircraft.
+Utah Code Annotated § 65A-3-2.5(1)(e): "Unmanned aircraft system" means the entire system used to operate an unmanned aircraft, including:
+Utah Code Annotated § 65A-3-2.5(1)(e)(i): the unmanned aircraft;
+Utah Code Annotated § 65A-3-2.5(1)(e)(ii): communications equipment;
+Utah Code Annotated § 65A-3-2.5(1)(e)(iii): navigation equipment;
+Utah Code Annotated § 65A-3-2.5(1)(e)(iv): controllers;
+Utah Code Annotated § 65A-3-2.5(1)(e)(v): support equipment; and
+Utah Code Annotated § 65A-3-2.5(1)(e)(vi): autopilot functionality.
+Utah Code Annotated § 65A-3-2.5(2): A person may not operate an unmanned aircraft system in a manner that causes an unmanned aircraft to fly within an area that is under a temporary flight restriction that is issued by the Federal Aviation Administration as a result of the wildland fire, or an area designated as a wildland fire scene on a system managed by a federal, state, or local government entity that disseminates emergency information to the public, unless the person operates the unmanned aircraft system with the permission of, and in accordance with the restrictions established by, the incident commander.
+Utah Code Annotated § 65A-3-2.5(3): (2); (3)(b); (c); (d); 76-3-204; (3)(c); (d); 76-3-204; (3)(d); 76-3-203; 76-3-203 A person, other than a government official or a government employee acting within the person's capacity as a government official or government employee, that recklessly operates an unmanned aircraft system in a manner that causes an unmanned aircraft to fly within an area described in Subsection
+Utah Code Annotated § 65A-3-2.5(3)(a): (3)(b); (c); (d); 76-3-204 except as provided in Subsection
+Utah Code Annotated § 65A-3-2.5(3)(b): (3)(c); (d); 76-3-204 except as provided in Subsection
+Utah Code Annotated § 65A-3-2.5(3)(b)(i): causes an aircraft being used to contain or control a wildland fire to drop a payload of water or fire retardant in a location other than the location originally designated for the aircraft to drop the payload;
+Utah Code Annotated § 65A-3-2.5(3)(b)(ii): causes an aircraft being used to contain or control a wildland fire to land without dropping a payload of water or fire retardant in the location originally designated for the aircraft to drop the payload; or
+Utah Code Annotated § 65A-3-2.5(3)(b)(iii): prevents an aircraft, intended for use in containing or controlling a wildland fire, from taking flight;
+Utah Code Annotated § 65A-3-2.5(3)(c): (3)(d); 76-3-203 except as provided in Subsection
+Utah Code Annotated § 65A-3-2.5(3)(d): 76-3-203 a second degree felony, punishable by imprisonment as provided in Section
+Utah Code Annotated § 65A-3-2.5(4): (3) A judge may require a person convicted of a violation under Subsection
+Utah Code Annotated § 65A-3-2.5(5): The incident commander of a wildland fire shall grant reasonable access to the area of, and within three miles of, the wildland fire to a sanctioned entity if:
+Utah Code Annotated § 65A-3-2.5(5)(a): the access is for a purpose related to the responsibilities or business of the sanctioned entity; and
+Utah Code Annotated § 65A-3-2.5(5)(b): the access can be granted, with reasonable restrictions, without imposing a safety risk or impairing efforts to control the wildland fire.
+Utah Code Annotated § 65A-3-2.5(6): (2); (2); (3) The chief law enforcement officer for a jurisdiction located in an area described in Subsection
+Utah Code Annotated § 65A-3-2.5(7): A political subdivision of the state, or an entity within a political subdivision of the state, may not enact a law, ordinance, or rule governing the private use of an unmanned aircraft in relation to a wildland fire.
+
+
+Utah Code Annotated § 65A-3-3 Enforcement of laws -- City, county, or district attorney to prosecute.
+-----------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-3-3(1): It is the duty of the division, county sheriffs, their deputies, peace officers, and other law enforcement officers within the law enforcement jurisdiction to enforce the provisions of this chapter and to investigate and gather evidence that may indicate a violation under this chapter.
+Utah Code Annotated § 65A-3-3(2): 10-3-928; 17-18a-202; 17-18a-203; 65A-8-203
+Utah Code Annotated § 65A-3-3(2)(a): 10-3-928; 17-18a-202; 17-18a-203 The city attorney, county attorney, or district attorney, as appropriate under Sections
+Utah Code Annotated § 65A-3-3(2)(b): 65A-8-203 The counsel for an eligible entity, as defined in Section
+
+
+Utah Code Annotated § 65A-3-4 Liability for causing wildland fires.
+-------------------------------------------------------------------
+Utah Code Annotated § 65A-3-4(1): 54-24-102; 54-24-102; 54-24-201; 54-24-203; 54-17-801 As used in this section:
+Utah Code Annotated § 65A-3-4(1)(a): 54-24-102 "Electric cooperative" means the same as that term is defined in Section
+Utah Code Annotated § 65A-3-4(1)(b): 54-24-102; 54-24-201; 54-24-203 "Electrical transmission wildland fire protection plan" means a wildland fire protection plan, as defined in Section
+Utah Code Annotated § 65A-3-4(1)(b)(i): 54-24-201 prepared and submitted by a qualified utility and approved as provided in Section
+Utah Code Annotated § 65A-3-4(1)(b)(ii): 54-24-203 prepared and submitted by an electric cooperative and approved as provided in Section
+Utah Code Annotated § 65A-3-4(1)(c): 54-17-801 "Qualified utility" means the same as that term is defined in Section
+Utah Code Annotated § 65A-3-4(2): (3); (2)(a); 65A-3-2
+Utah Code Annotated § 65A-3-4(2)(a): (3) Except as provided in Subsection
+Utah Code Annotated § 65A-3-4(2)(a)(i): private land;
+Utah Code Annotated § 65A-3-4(2)(a)(ii): land owned by the state;
+Utah Code Annotated § 65A-3-4(2)(a)(iii): federal land; or
+Utah Code Annotated § 65A-3-4(2)(a)(iv): tribal land.
+Utah Code Annotated § 65A-3-4(2)(b): (2)(a); 65A-3-2 The conduct described in Subsection
+Utah Code Annotated § 65A-3-4(3): In an action under this section to recover for property damage resulting from a wildland fire or to recover the cost of fire suppression resulting from a wildland fire, a qualified utility or electric cooperative may not be considered to have negligently caused a wildland fire if:
+Utah Code Annotated § 65A-3-4(3)(a): 
+Utah Code Annotated § 65A-3-4(3)(a)(i): the electrical transmission wildland fire protection plan of the qualified utility or electric cooperative identifies and addresses the cause of the wildland fire for fire mitigation purposes; and
+Utah Code Annotated § 65A-3-4(3)(a)(ii): at the origin of the wildland fire, the qualified utility or electric cooperative has completed the fire mitigation work identified in the electrical transmission wildland fire protection plan, including:
+Utah Code Annotated § 65A-3-4(3)(a)(ii)(A): inspection, maintenance, and repair activities;
+Utah Code Annotated § 65A-3-4(3)(a)(ii)(B): modifications or upgrades to facilities or construction of new facilities;
+Utah Code Annotated § 65A-3-4(3)(a)(ii)(C): vegetation management work; and
+Utah Code Annotated § 65A-3-4(3)(a)(ii)(D): preventative programs; or
+Utah Code Annotated § 65A-3-4(3)(b): 
+Utah Code Annotated § 65A-3-4(3)(b)(i): the qualified utility or electric cooperative is denied or delayed access to a right-of-way on land owned by the state, a federal agency, or a tribal government after the qualified utility or electric cooperative requests access to the right-of-way to perform vegetation management or fire mitigation work in accordance with an electrical transmission wildland fire protection plan; and
+Utah Code Annotated § 65A-3-4(3)(b)(ii): the electrical transmission wildland fire protection plan identifies and addresses the cause of the wildland fire for fire mitigation purposes.
+Utah Code Annotated § 65A-3-4(4): A person who incurs costs to suppress a wildland fire may bring an action under this section to recover those costs.
+Utah Code Annotated § 65A-3-4(5): 
+Utah Code Annotated § 65A-3-4(5)(a): A property owner who suffers damages resulting from a wildland fire may bring an action under this section to recover those damages.
+Utah Code Annotated § 65A-3-4(5)(b): An award for damages to real property resulting from a wildland fire, including the loss of vegetation, shall be the lesser of:
+Utah Code Annotated § 65A-3-4(5)(b)(i): the cost to restore the real property to its pre-wildland fire condition; or
+Utah Code Annotated § 65A-3-4(5)(b)(ii): the difference between:
+Utah Code Annotated § 65A-3-4(5)(b)(ii)(A): the fair market value of the real property before the wildland fire; and
+Utah Code Annotated § 65A-3-4(5)(b)(ii)(B): the fair market value of the real property after the wildland fire.
+Utah Code Annotated § 65A-3-4(6): (4); (5) A person who suffers damage from a wildland fire may pursue all other legal remedies in addition to seeking damages under Subsection
+
+
+Utah Code Annotated - Title 65A - Chapter 4 - Acquisition and Disposition of Land by State Agencies
+***************************************************************************************************
+
+Utah Code Annotated § 65A-4-1 Acquisition and disposition of land by state agencies.
+------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-4-1(1): All state agencies may acquire land by gift, devise, bequest, exchange, compensation for public resource value loss, or in satisfaction of a debt and are authorized to sell, lease, or otherwise dispose of land no longer needed for public purposes, unless otherwise provided by law.
+Utah Code Annotated § 65A-4-1(2): The proceeds from the sale, lease, or other disposition of land shall go to the state agency using or holding the land unless:
+Utah Code Annotated § 65A-4-1(2)(a): the governor or the Legislature order its deposit in the fund from which the state agency receives its appropriations; or
+Utah Code Annotated § 65A-4-1(2)(b): the use or disposition of the proceeds is specified elsewhere in law.
+Utah Code Annotated § 65A-4-1(3): (1); (2); 63A-5b-901 Subsections
+
+
+Utah Code Annotated § 65A-4-2 Central index -- Division to maintain index of lands owned by agencies of the Department of Natural Resources -- Information to be furnished.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-4-2(1): The division shall maintain a central index of all lands owned by agencies of the Department of Natural Resources and shall make that index available for the public.
+Utah Code Annotated § 65A-4-2(2): All agencies of the Department of Natural Resources having any right, title, or interest in lands shall furnish the division with the following information:
+Utah Code Annotated § 65A-4-2(2)(a): legal description of the land;
+Utah Code Annotated § 65A-4-2(2)(b): when the land was acquired;
+Utah Code Annotated § 65A-4-2(2)(c): where the abstracts, deeds, or other indicia of interest in the property may be found;
+Utah Code Annotated § 65A-4-2(2)(d): name of agency acquiring or holding the mineral interest;
+Utah Code Annotated § 65A-4-2(2)(e): name of the grantor; and
+Utah Code Annotated § 65A-4-2(2)(f): nature of state's interest in the land including whether mineral interests were obtained.
+Utah Code Annotated § 65A-4-2(3): This section does not apply to Board of Water Resources lands that are subject to a repurchase agreement by the water project sponsor.
+
+
+Utah Code Annotated § 65A-4-3 Mineral leases -- Made exclusively by division -- Disposition of state mineral lease revenues.
+----------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-4-3(1): Mineral leases of all lands owned by the state, except school and institutional trust lands, shall be made exclusively through the division, pursuant to division rules, with the consent of the state agency using or holding the land.
+Utah Code Annotated § 65A-4-3(2): 
+Utah Code Annotated § 65A-4-3(2)(a): All revenues from mineral leases of sovereign lands shall be deposited in the Sovereign Lands Management Account.
+Utah Code Annotated § 65A-4-3(2)(b): That portion of all revenues from mineral leases on other lands managed by the division necessary to recover management costs shall be deposited in the Sovereign Lands Management Account.
+Utah Code Annotated § 65A-4-3(2)(c): The balance of state mineral lease revenues shall be utilized as directed by the agency or donor.
+
+
+Utah Code Annotated - Title 65A - Chapter 5 - Deposit and Allocation of Revenues from State Lands
+*************************************************************************************************
+
+Utah Code Annotated § 65A-5-1 Sovereign Lands Management Account.
+-----------------------------------------------------------------
+Utah Code Annotated § 65A-5-1(1): There is created within the General Fund a restricted account known as the "Sovereign Lands Management Account."
+Utah Code Annotated § 65A-5-1(2): 73-32-304; 41-1a-418; 41-1a-422; 59-23-4 The Sovereign Lands Management Account shall consist of the following:
+Utah Code Annotated § 65A-5-1(2)(a): 73-32-304 the revenues derived from sovereign lands, except for revenues deposited into the Great Salt Lake Account under Section
+Utah Code Annotated § 65A-5-1(2)(b): that portion of the revenues derived from mineral leases on other lands managed by the division necessary to recover management costs;
+Utah Code Annotated § 65A-5-1(2)(c): 41-1a-418; 41-1a-422 revenues derived from the Great Salt Lake Preservation support special group license plate described in Sections
+Utah Code Annotated § 65A-5-1(2)(d): fees deposited by the division; and
+Utah Code Annotated § 65A-5-1(2)(e): 59-23-4 amounts deposited into the account in accordance with Section
+Utah Code Annotated § 65A-5-1(3): 
+Utah Code Annotated § 65A-5-1(3)(a): The expenditures of the division relating directly to the management of sovereign lands shall be funded by appropriation by the Legislature from the Sovereign Lands Management Account or other sources.
+Utah Code Annotated § 65A-5-1(3)(b): Money in the Sovereign Lands Management Account may be used only for the direct benefit of sovereign lands, including the management of sovereign lands.
+Utah Code Annotated § 65A-5-1(3)(c): In appropriating money from the Sovereign Lands Management Account, the Legislature shall prefer appropriations that benefit the sovereign land from which the money is derived unless compelling circumstances require that money be appropriated for sovereign land other than the sovereign land from which the money is derived.
+Utah Code Annotated § 65A-5-1(4): (2)(d); 65A-10-203; 73-32-302 The division shall use the amount deposited into the account under Subsection
+
+
+Utah Code Annotated § 65A-5-2 Deposit and allocation of money received.
+-----------------------------------------------------------------------
+Utah Code Annotated § 65A-5-2(1): 
+Utah Code Annotated § 65A-5-2(1)(a): The division shall pay to the state treasurer money received, accompanied by a statement showing the respective sources of the money.
+Utah Code Annotated § 65A-5-2(1)(b): Each source shall be classified as to sales, rentals, royalties, interest, fees, penalties, and forfeitures.
+Utah Code Annotated § 65A-5-2(2): (2)(a)
+Utah Code Annotated § 65A-5-2(2)(a): Money received by the division as a first or down payment on an application to purchase, permit, or lease state lands or minerals shall be paid to the state treasurer and held in suspense pending final action on the application.
+Utah Code Annotated § 65A-5-2(2)(b): (2)(a) After final action a payment described in Subsection
+
+
+Utah Code Annotated - Title 65A - Chapter 6 - Mineral Leases
+************************************************************
+
+Utah Code Annotated § 65A-6-1 Coal and mineral deposits reserved -- Exceptions.
+-------------------------------------------------------------------------------
+Utah Code Annotated § 65A-6-1(1): 
+Utah Code Annotated § 65A-6-1(1)(a): Except as otherwise expressly provided by law, coal and mineral deposits in state-owned lands are reserved to the state.   Each certificate of sale and patent issued shall contain such a reservation.
+Utah Code Annotated § 65A-6-1(1)(b): The purchaser of any lands belonging to the state:
+Utah Code Annotated § 65A-6-1(1)(b)(i): acquires no right, title, or interest in coal or mineral deposits; and
+Utah Code Annotated § 65A-6-1(1)(b)(ii): is subject to the conditions and limitations prescribed by law providing for the state and any person authorized by it to:
+Utah Code Annotated § 65A-6-1(1)(b)(ii)(A): prospect or mine;
+Utah Code Annotated § 65A-6-1(1)(b)(ii)(B): remove the deposits; and
+Utah Code Annotated § 65A-6-1(1)(b)(ii)(C): occupy and use as much of the surface of the lands as may be required for any purpose reasonably incident to the mining and removal of the deposits.
+Utah Code Annotated § 65A-6-1(1)(c): Improved farm lands acquired by the state through foreclosure proceedings or conveyed to the state by deed in satisfaction of farm loan mortgages may be sold by the state without mineral reservations.
+Utah Code Annotated § 65A-6-1(1)(d): Coal and mineral deposits in state-owned lands may not be sold but may be leased on a rental and royalty basis.
+Utah Code Annotated § 65A-6-1(2): Except as otherwise prohibited by the Jones Act of January 25, 1927, 43 U.S.C. Sections 870-871, mineral interests in state-owned lands may be exchanged for mineral interests of comparable value or otherwise disposed of, if their retention would create a liability exceeding their value.
+Utah Code Annotated § 65A-6-1(3): 
+Utah Code Annotated § 65A-6-1(3)(a): Salts and other minerals in the waters of navigable lakes and streams are reserved to the state and may be sold by the division only upon a royalty basis.
+Utah Code Annotated § 65A-6-1(3)(b): A contract for the recovery of salts or minerals from navigable waters shall be subject to the use of the waters for public purposes.
+Utah Code Annotated § 65A-6-1(3)(c): Before a contract for the recovery of salts or minerals from navigable waters is executed, the applicant shall provide evidence that:
+Utah Code Annotated § 65A-6-1(3)(c)(i): an application for the appropriation of water for that purpose has been filed with the state engineer; and
+Utah Code Annotated § 65A-6-1(3)(c)(ii): the application is pending or accepted in that office.
+Utah Code Annotated § 65A-6-1(4): Common varieties of sand, gravel, and cinders are not considered to be minerals under this section.  Common varieties do not include deposits which are valuable because the deposit contains other materials giving it distinct and special value.
+
+
+Utah Code Annotated § 65A-6-2 Mineral leases -- Division to prescribe rules.
+----------------------------------------------------------------------------
+The division shall by rule prescribe:Utah Code Annotated § 65A-6-2(1): the term of the lease;
+Utah Code Annotated § 65A-6-2(2): the annual rental;
+Utah Code Annotated § 65A-6-2(3): 65A-6-4 subject to Section
+Utah Code Annotated § 65A-6-2(4): the basis upon which the royalty shall be computed.
+
+
+Utah Code Annotated § 65A-6-3 Applications for mineral leases -- Compliance with business laws.
+-----------------------------------------------------------------------------------------------
+Applicants for mineral leases shall fully comply with all of the laws of the state as to qualification to do business within this state and must not be in default under any such laws during the pendency of the application and throughout the duration of the lease.
+
+Utah Code Annotated § 65A-6-4 Mineral leases -- Multiple leases on same land -- Rentals and royalties -- Lease terms -- Great Salt Lake.
+----------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-6-4(1): As used in this section:
+Utah Code Annotated § 65A-6-4(1)(a): "Great Salt Lake element or mineral" means:
+Utah Code Annotated § 65A-6-4(1)(a)(i): a rare earth element;
+Utah Code Annotated § 65A-6-4(1)(a)(ii): a trace element or mineral; or
+Utah Code Annotated § 65A-6-4(1)(a)(iii): a chemical compound that includes a rare earth element or trace element or mineral.
+Utah Code Annotated § 65A-6-4(1)(b): "Rare earth element" is one of the following ores, minerals, or elements located in the brines or the sovereign lands of the Great Salt Lake:
+Utah Code Annotated § 65A-6-4(1)(b)(i): lanthanum;
+Utah Code Annotated § 65A-6-4(1)(b)(ii): cerium;
+Utah Code Annotated § 65A-6-4(1)(b)(iii): praseodymium;
+Utah Code Annotated § 65A-6-4(1)(b)(iv): neodymium;
+Utah Code Annotated § 65A-6-4(1)(b)(v): samarium;
+Utah Code Annotated § 65A-6-4(1)(b)(vi): europium;
+Utah Code Annotated § 65A-6-4(1)(b)(vii): gadolinium;
+Utah Code Annotated § 65A-6-4(1)(b)(viii): terbium;
+Utah Code Annotated § 65A-6-4(1)(b)(ix): dysprosium;
+Utah Code Annotated § 65A-6-4(1)(b)(x): holmium;
+Utah Code Annotated § 65A-6-4(1)(b)(xi): erbium;
+Utah Code Annotated § 65A-6-4(1)(b)(xii): thulium;
+Utah Code Annotated § 65A-6-4(1)(b)(xiii): ytterbium;
+Utah Code Annotated § 65A-6-4(1)(b)(xiv): lutetium; and
+Utah Code Annotated § 65A-6-4(1)(b)(xv): yttrium.
+Utah Code Annotated § 65A-6-4(1)(c): "Trace element or mineral" means an element or mineral that is located in the brines or the sovereign lands of the Great Salt Lake that is not in production by July 1, 2020, and for which the state has not received a royalty payment by July 1, 2020.
+Utah Code Annotated § 65A-6-4(2): 
+Utah Code Annotated § 65A-6-4(2)(a): Mineral leases, including oil, gas, and hydrocarbon leases, may be issued for prospecting, exploring, developing, and producing minerals covering any portion of state lands or the reserved mineral interests of the state.
+Utah Code Annotated § 65A-6-4(2)(b): 
+Utah Code Annotated § 65A-6-4(2)(b)(i): Leases may be issued for different types of minerals on the same land.
+Utah Code Annotated § 65A-6-4(2)(b)(ii): If leases are issued for different types of minerals on the same land, the leases shall include stipulations for simultaneous operations, except that for leases related to the Great Salt Lake the leases shall include stipulations for simultaneous operations that will not interfere with, impede, limit, or require changes to pre-existing rights.
+Utah Code Annotated § 65A-6-4(2)(c): No more than one lease may be issued for the same resource on the same land.
+Utah Code Annotated § 65A-6-4(2)(d): The division shall require a separate royalty agreement for extraction of minerals from brines of the Great Salt Lake when:
+Utah Code Annotated § 65A-6-4(2)(d)(i): a mineral lease, a royalty agreement, or both that are in effect before the operator seeks to extract a particular mineral or mineral compound do not expressly include the right to extract the particular mineral or mineral compound; or
+Utah Code Annotated § 65A-6-4(2)(d)(ii): the proposed operation will use brines from the Great Salt Lake, but will not occupy sovereign lands for the direct production of minerals other than for incidental structures such as pumps and intake and outflow pipelines.
+Utah Code Annotated § 65A-6-4(3): 
+Utah Code Annotated § 65A-6-4(3)(a): Each mineral lease issued by the division shall provide for an annual rental of not less than $1 per acre per year, except that a mineral lease issued by the division involving the extraction of mineral from brines in the Great Salt Lake shall provide for an annual rental of not less than $100 per acre per year.
+Utah Code Annotated § 65A-6-4(3)(b): However, a lease may provide for a rental credit, minimum rental, or minimum royalty upon commencement of production, as prescribed by rule.
+Utah Code Annotated § 65A-6-4(4): The primary term of a mineral lease may not exceed:
+Utah Code Annotated § 65A-6-4(4)(a): 20 years for oil shale and tar sands; and
+Utah Code Annotated § 65A-6-4(4)(b): 10 years for oil and gas and any other mineral.
+Utah Code Annotated § 65A-6-4(5): (5); 65A-10-201; (5)(a)(ii); (5)(a)(v)
+Utah Code Annotated § 65A-6-4(5)(a): (5); 65A-10-201 Subject to the other provisions of this Subsection
+Utah Code Annotated § 65A-6-4(5)(a)(i): an extraction operation or extraction method shall adhere to commercially viable technologies that minimize water depletion;
+Utah Code Annotated § 65A-6-4(5)(a)(ii): an extraction operation or extraction method shall mitigate for the total amount of water depleted by providing water back into the Great Salt Lake that approximates the total volume of water depleted;
+Utah Code Annotated § 65A-6-4(5)(a)(iii): 65A-10-201 a provision authorizing the division to curtail or limit mineral production at any time the condition of the Great Salt Lake reaches the emergency trigger, as defined in Section
+Utah Code Annotated § 65A-6-4(5)(a)(iv): a provision authorizing the division to withdraw lands, operations, extraction methods, or technologies from mineral production or mineral operations; and
+Utah Code Annotated § 65A-6-4(5)(a)(v): a provision allowing the division to require an existing operator to use commercially viable, innovative technologies to minimize water depletions caused by the planned mineral extraction as a condition of continued operations.
+Utah Code Annotated § 65A-6-4(5)(b): (5)(a)(ii) If as of May 3, 2023, an operator has a mineral lease but not a royalty agreement involving the extraction of minerals from brines in the Great Salt Lake, the extraction operation or extraction method shall mitigate the total water depleted as provided in Subsection
+Utah Code Annotated § 65A-6-4(5)(c): (5)(a)(v) If under Subsection
+Utah Code Annotated § 65A-6-4(6): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (6)(a)(iii); 59-5-202(5)
+Utah Code Annotated § 65A-6-4(6)(a): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (6)(a)(iii) Upon nomination from a prospective operator, the division shall by rule, made in accordance with
+Utah Code Annotated § 65A-6-4(6)(a)(i): provides for a full and fair return to the state from the production of the Great Salt Lake element or mineral;
+Utah Code Annotated § 65A-6-4(6)(a)(ii): is consistent with market royalty rates applicable to the production of the Great Salt Lake element or mineral or of the production of oil and gas;
+Utah Code Annotated § 65A-6-4(6)(a)(iii): provides a base royalty rate;
+Utah Code Annotated § 65A-6-4(6)(a)(iv): (6)(a)(iii) provides a reduced royalty rate from the royalty rate under Subsection
+Utah Code Annotated § 65A-6-4(6)(a)(iv)(A): relates to a non-evaporative method of producing the Great Salt Lake element or mineral; or
+Utah Code Annotated § 65A-6-4(6)(a)(iv)(B): provides an incentive to use commercially viable, innovative technology to minimize water depletion and evaporation as determined by the division; and
+Utah Code Annotated § 65A-6-4(6)(a)(v): provides for a royalty rate that is based on the highest market value prevailing at the time of the sale or disposal of the following:
+Utah Code Annotated § 65A-6-4(6)(a)(v)(A): the Great Salt Lake element or mineral; or
+Utah Code Annotated § 65A-6-4(6)(a)(v)(B): a product the lessee produces from the Great Salt Lake element or mineral.
+Utah Code Annotated § 65A-6-4(6)(b): Before entering into a royalty agreement permitting the extraction of Great Salt Lake elements or minerals, the operator shall:
+Utah Code Annotated § 65A-6-4(6)(b)(i): demonstrate commercial viability;
+Utah Code Annotated § 65A-6-4(6)(b)(ii): certify before operation begins that the operator is not negatively impacting the biota or chemistry of the Great Salt Lake; and
+Utah Code Annotated § 65A-6-4(6)(b)(iii): obtain the approval of the division and the Department of Environmental Quality that the certification supports a finding that the operation will not negatively impact the biota or chemistry of the Great Salt Lake.
+Utah Code Annotated § 65A-6-4(6)(c): A new mineral lease for a mineral in production in the Great Salt Lake as of May 3, 2023, is subject to new royalty rates due to emergent technologies.
+Utah Code Annotated § 65A-6-4(6)(d): 59-5-202(5) An operator who as of July 1, 2020, had a mineral lease with the division but not a royalty agreement and who is subject to a severance tax under Subsection
+Utah Code Annotated § 65A-6-4(7): An operator who extracts a Great Salt Lake element or mineral from tailings from the production of minerals from brines in the Great Salt Lake is subject to this section to the same extent as an operator producing a Great Salt Lake element or mineral from brines in the Great Salt Lake.
+Utah Code Annotated § 65A-6-4(8): (6) The division shall annually report to the Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee regarding the amount of money collected under this section from royalties provided for in Subsection
+Utah Code Annotated § 65A-6-4(9): In the issuance of royalty agreements for the extraction of lithium from the Great Salt Lake, the division shall prioritize applicants that:
+Utah Code Annotated § 65A-6-4(9)(a): do not use evaporative concentration of Great Salt Lake brines in any stage of the extractive process; and
+Utah Code Annotated § 65A-6-4(9)(b): use commercially viable extractive processes.
+Utah Code Annotated § 65A-6-4(10): Except in relationship to mineral leases related to the Great Salt Lake, the division shall make rules regarding the continuation of a mineral lease after the primary term has expired, which shall provide that a mineral lease shall continue so long as:
+Utah Code Annotated § 65A-6-4(10)(a): the mineral covered by the lease is being produced in paying quantities from:
+Utah Code Annotated § 65A-6-4(10)(a)(i): the leased premises;
+Utah Code Annotated § 65A-6-4(10)(a)(ii): lands pooled, communitized, or unitized with the leased premises; or
+Utah Code Annotated § 65A-6-4(10)(a)(iii): lands constituting an approved mining or drilling unit with respect to the leased premises; or
+Utah Code Annotated § 65A-6-4(10)(b): 
+Utah Code Annotated § 65A-6-4(10)(b)(i): the lessee is engaged in diligent operations, exploration, research, or development which is reasonably calculated to advance development or production of the mineral covered by the lease from:
+Utah Code Annotated § 65A-6-4(10)(b)(i)(A): the leased premises;
+Utah Code Annotated § 65A-6-4(10)(b)(i)(B): lands pooled, communitized, or unitized with the leased premises; or
+Utah Code Annotated § 65A-6-4(10)(b)(i)(C): lands constituting an approved mining or drilling unit with respect to the leased premises; and
+Utah Code Annotated § 65A-6-4(10)(b)(ii): the lessee pays a minimum royalty.
+Utah Code Annotated § 65A-6-4(11): (10) For the purposes of Subsection
+Utah Code Annotated § 65A-6-4(12): (12)
+Utah Code Annotated § 65A-6-4(12)(a): The division shall study and analyze each mineral lease and mineral royalty agreement issued on the Great Salt Lake and compare and evaluate whether the mineral leases and royalty agreements are representative of current market conditions.  As part of this study, the division shall:
+Utah Code Annotated § 65A-6-4(12)(a)(i): make the following determinations for mineral leases:
+Utah Code Annotated § 65A-6-4(12)(a)(i)(A): whether the entire surface area described within the mineral lease is being used; and
+Utah Code Annotated § 65A-6-4(12)(a)(i)(B): whether the annual lease payments are representative of current market conditions; and
+Utah Code Annotated § 65A-6-4(12)(a)(ii): for royalty agreements, perform studies and comparative analyses to determine whether the state is receiving royalty rates consistent with current market conditions.
+Utah Code Annotated § 65A-6-4(12)(b): (12) By no later than the 2023 November interim meeting, the division shall report the division's findings of the study required by this Subsection
+
+
+Utah Code Annotated § 65A-6-5 Division may withdraw lands from leasing -- Mineral lease application procedures.
+---------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-6-5(1): The division may at any time withdraw state lands from leasing.
+Utah Code Annotated § 65A-6-5(2): Lands that are not encumbered by a current mineral lease for the same resource, a withdrawal order, or other division rule prohibiting the lease of the lands, shall be offered for lease as provided in this section.
+Utah Code Annotated § 65A-6-5(3): A notice of the land available for leasing shall be posted in the office of the division.  The notice shall:
+Utah Code Annotated § 65A-6-5(3)(a): describe the land;
+Utah Code Annotated § 65A-6-5(3)(b): indicate what mineral interest in each tract is available for leasing; and
+Utah Code Annotated § 65A-6-5(3)(c): state the last date, which shall be no less than 15 days after the notice is posted, on which bids may be received.
+Utah Code Annotated § 65A-6-5(4): 
+Utah Code Annotated § 65A-6-5(4)(a): Applications for the lease of lands filed before the closing date stated in the notice shall be considered to be filed simultaneously.
+Utah Code Annotated § 65A-6-5(4)(b): The applications shall be:
+Utah Code Annotated § 65A-6-5(4)(b)(i): submitted in sealed envelopes; and
+Utah Code Annotated § 65A-6-5(4)(b)(ii): opened in the office of the division at 10:00 a.m. of the first business day following the last day on which bids may be received.
+Utah Code Annotated § 65A-6-5(4)(c): Leases shall be awarded to the highest responsible, qualified bidder, in terms of the bonus paid in addition to the first year's rental, who submitted a bid in the manner required.
+Utah Code Annotated § 65A-6-5(4)(d): 
+Utah Code Annotated § 65A-6-5(4)(d)(i): In cases of identical bids of successful bidders, the right to lease shall be determined by drawing.
+Utah Code Annotated § 65A-6-5(4)(d)(ii): The drawing shall be held in public at the office of the division.
+Utah Code Annotated § 65A-6-5(5): 
+Utah Code Annotated § 65A-6-5(5)(a): At the discretion of the division, mineral leases may be offered at an oral public auction.
+Utah Code Annotated § 65A-6-5(5)(b): The division may set a minimum bid for a public auction.
+Utah Code Annotated § 65A-6-5(6): (3); (4) The division may award a mineral lease without following the competitive bidding procedures specified in Subsections
+Utah Code Annotated § 65A-6-5(7): Following the awarding of a lease to a successful bidder, deposits, except filing fees, made by unsuccessful bidders shall be returned.
+Utah Code Annotated § 65A-6-5(8): 
+Utah Code Annotated § 65A-6-5(8)(a): Lands acquired through exchange  from the federal government shall be subject to the vested rights of unpatented mining claimants under the Mining Law of 1872, as amended, and other federal vested rights, both surface and minerals.
+Utah Code Annotated § 65A-6-5(8)(b): This provision does not prevent the state from negotiating the accommodation of vested rights through any method acceptable to the parties.
+Utah Code Annotated § 65A-6-5(9): (3); (6) The division may lease lands in the order in which applications are filed if:
+Utah Code Annotated § 65A-6-5(9)(a): (3); (6) the division offers newly acquired or existing state lands for lease for mineral purposes according to the procedures in Subsections
+Utah Code Annotated § 65A-6-5(9)(b): a period of time of one year or more has elapsed following:
+Utah Code Annotated § 65A-6-5(9)(b)(i): a revocation of a withdrawal; or
+Utah Code Annotated § 65A-6-5(9)(b)(ii): the date an existing mineral lease is canceled, relinquished, surrendered, or for any reason terminated.
+
+
+Utah Code Annotated § 65A-6-6 Mineral lease covenants.
+------------------------------------------------------
+Each mineral lease shall contain the following covenants:Utah Code Annotated § 65A-6-6(1): the lessee shall promptly pay any rent annually in advance;
+Utah Code Annotated § 65A-6-6(2): waste may not be committed on the land;
+Utah Code Annotated § 65A-6-6(3): the premises shall be surrendered at the expiration of the term;
+Utah Code Annotated § 65A-6-6(4): the lessee may not assign or sublet without the written authorization of the director; and
+Utah Code Annotated § 65A-6-6(5): where improvements have been placed on the land by any person other than the lessee, the lessee will allow the owner of the improvements to remove them within 90 days.
+
+
+Utah Code Annotated § 65A-6-7 Mineral information to be furnished -- Confidentiality.
+-------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-6-7(1): The division may require the lessee to furnish any information necessary to carry out the duties of this chapter, including geological and mine maps, well logs, and assays.
+Utah Code Annotated § 65A-6-7(2): Any information submitted to the division which the lessee and the division agree is of a proprietary nature shall be classified as protected and may not be released without written permission from the lessee.
+
+
+Utah Code Annotated § 65A-6-8 Mineral leases -- Cancellation -- Use of surface land -- Liability for damage.
+------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-6-8(1): Upon violation by the lessee of any lawful provision in a mineral lease, the division may cancel the lease after 30 days' notice by registered or certified return receipt mail, unless the lessee:
+Utah Code Annotated § 65A-6-8(1)(a): remedies the violation;
+Utah Code Annotated § 65A-6-8(1)(b): rectifies the condition; or
+Utah Code Annotated § 65A-6-8(1)(c): requests a hearing within:
+Utah Code Annotated § 65A-6-8(1)(c)(i): the 30 days; or
+Utah Code Annotated § 65A-6-8(1)(c)(ii): any extension of time the division grants.
+Utah Code Annotated § 65A-6-8(2): 
+Utah Code Annotated § 65A-6-8(2)(a): A mineral lessee, subject to conditions required by the division, shall have:
+Utah Code Annotated § 65A-6-8(2)(a)(i): the right at all times to enter upon the leasehold for prospecting, exploring, developing, and producing minerals; and
+Utah Code Annotated § 65A-6-8(2)(a)(ii): reasonable use of the surface.
+Utah Code Annotated § 65A-6-8(2)(b): The lessee shall not injure, damage, or destroy the improvements of the surface owner or lessee.
+Utah Code Annotated § 65A-6-8(2)(c): The lessee is liable to the surface owner or lessee for all damage to the surface of the land and improvements, except for reasonable use.
+Utah Code Annotated § 65A-6-8(3): Any mineral lessee may occupy as much of the surface of the leased land as may be required for all purposes reasonably incident to the exercise of lessee's rights under the lease by:
+Utah Code Annotated § 65A-6-8(3)(a): securing the written consent or waiver of the surface owner or lessee;
+Utah Code Annotated § 65A-6-8(3)(b): payment for the damage to the surface of the land and improvements to the surface owner or lessee where there is agreement as to the amount of the damage; or
+Utah Code Annotated § 65A-6-8(3)(c): upon the execution of a good and sufficient bond to the state for the use and benefit of the surface owner or lessee of the land to secure the payment of damages as may be determined and fixed by agreement or in action brought upon the bond or undertaking in a court of competent jurisdiction against the principal and sureties of the bond.
+Utah Code Annotated § 65A-6-8(4): (3)(c) The bond required by Subsection
+Utah Code Annotated § 65A-6-8(4)(a): in a form and amount as prescribed by the division; and
+Utah Code Annotated § 65A-6-8(4)(b): filed with the division.
+
+
+Utah Code Annotated § 65A-6-9 Shut-in gas wells.
+------------------------------------------------
+Utah Code Annotated § 65A-6-9(1): Under a mineral lease for oil and gas, gas is considered to be produced in paying quantities from a shut-in gas well if the shut-in gas well is capable of producing gas in paying quantities, but the gas cannot be marketed at a reasonable price due to existing marketing or transportation conditions.
+Utah Code Annotated § 65A-6-9(2): 
+Utah Code Annotated § 65A-6-9(2)(a): The division shall make rules establishing:
+Utah Code Annotated § 65A-6-9(2)(a)(i): a minimum rental or minimum royalty for a shut-in gas well that is considered to be producing gas in paying quantities; and
+Utah Code Annotated § 65A-6-9(2)(a)(ii): the basis upon which the minimum rental or minimum royalty shall be paid.
+Utah Code Annotated § 65A-6-9(2)(b): The minimum rental or minimum royalty may not be less than twice the annual lease rental.
+
+
+Utah Code Annotated § 65A-6-10 Unitization of mineral leases.
+-------------------------------------------------------------
+Utah Code Annotated § 65A-6-10(1): Mineral lessees, upon prior written authorization from the division, may commit leased state lands to unit, cooperative, or other plans of development with other lands.
+Utah Code Annotated § 65A-6-10(2): The division may, with the consent of the mineral lessee, modify any term of a mineral lease for lands that are committed to a unit, cooperative, or other plan of development.
+Utah Code Annotated § 65A-6-10(3): Production allocated to leased state lands under the terms of a unit, cooperative, or other plan of development shall be considered produced from the leased lands whether or not the point of production is located on the leased state lands.
+
+
+Utah Code Annotated § 65A-6-11 Land subject to a federal mineral lease.
+-----------------------------------------------------------------------
+Utah Code Annotated § 65A-6-11(1): With respect to any tract of land in which the state acquires or has acquired any interest subject to an outstanding federal mineral lease or prospecting permit, the lessee or permittee may submit a petition seeking extension of the permit or lease or any other action as may be necessary to give to the lessee or permittee any and all rights, privileges, and benefits which he would have had under the permit or lease had the state not acquired its interest in the tract.
+Utah Code Annotated § 65A-6-11(2): In consideration of the voluntary termination by the federal lessee or permittee of his lease or permit as it relates to that tract, the division may issue to that lessee or permittee a lease of the acquired tract or any portion of that tract for recovery of the same mineral substances upon terms that the lessee shall have all the rights, privileges, and benefits with reference to that tract which he would have had by reason of his lease or permit from the United States had the state not acquired its interest in the tract.
+
+
+Utah Code Annotated § 65A-6-12 Agreements for the administration of mineral leases by a federal agency.
+-------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-6-12(1): If the state has succeeded or will succeed to the position of the United States under a federal mineral or prospecting permit in which only a portion of the lands are subject to the permit, agreements may be entered into with the federal agency having jurisdiction over the remaining portion providing for the continued administration by that agency of the entire lease or permit or any lease pursuant to that permit.
+Utah Code Annotated § 65A-6-12(2): Consideration for continued administration of the federal agency may not exceed 10% of the revenue allocable to the state's portion.
+
+
+Utah Code Annotated - Title 65A - Chapter 7 - Sale, Exchange, and Lease of State Lands
+**************************************************************************************
+
+Utah Code Annotated § 65A-7-1 Division to make rules for the sale, exchange, or lease of state lands.
+-----------------------------------------------------------------------------------------------------
+The division shall establish criteria by rule for the sale, exchange, lease, or other disposition or conveyance of state lands including procedures for determining fair market value of those lands.
+
+Utah Code Annotated § 65A-7-5 Surface leases -- Procedures for issuing leases -- Leases for the construction of a highway facility.
+-----------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-7-5(1): The division may issue surface leases of state lands for any period up to 99 years.
+Utah Code Annotated § 65A-7-5(2): This section does not apply to leases for oil and gas, grazing, or mining purposes.
+Utah Code Annotated § 65A-7-5(3): The division shall disclose any known geologic hazard affecting leased property.
+Utah Code Annotated § 65A-7-5(4): (4)(b)
+Utah Code Annotated § 65A-7-5(4)(a): 
+Utah Code Annotated § 65A-7-5(4)(a)(i): Surface leases may be entered into by negotiation, public auction, or other public competitive bidding process as determined by rules of the division.
+Utah Code Annotated § 65A-7-5(4)(a)(ii): Requests for proposals (RFP) on state lands may be offered by the division after public notice.
+Utah Code Annotated § 65A-7-5(4)(b): 
+Utah Code Annotated § 65A-7-5(4)(b)(i): A notice of an invitation for bids or a public auction shall, prior to the auction or acceptance of a bid, be published at least once a week for three consecutive weeks in one or more newspapers of general circulation in the county in which the lease is offered.
+Utah Code Annotated § 65A-7-5(4)(b)(ii): The notice shall be sent, by certified mail, at least 30 days prior to the auction or acceptance of a bid, to each person who owns property adjoining the state lands offered for lease.
+Utah Code Annotated § 65A-7-5(4)(c): (4)(b)
+Utah Code Annotated § 65A-7-5(4)(c)(i): (4)(b) Surface leases entered into through negotiation shall be published in the manner set forth in Subsection
+Utah Code Annotated § 65A-7-5(4)(c)(ii): The notice shall include, at a minimum, a general description of the lands proposed for lease and the type of lease.
+Utah Code Annotated § 65A-7-5(5): 72-6-303; 72-6-303; 72-6-303(5)(e); (5)
+Utah Code Annotated § 65A-7-5(5)(a): 72-6-303 The division may not issue a lease to a private entity for the construction of a highway facility over sovereign lakebed lands unless the applicant for the lease submits an approval for the construction of a highway facility over sovereign lakebed lands from the Transportation Commission in accordance with Section
+Utah Code Annotated § 65A-7-5(5)(b): 72-6-303 The division shall consider the information and analysis provided by the Transportation Commission under Section
+Utah Code Annotated § 65A-7-5(5)(c): 72-6-303(5)(e) A lease for the construction of a highway facility over sovereign lakebed lands:
+Utah Code Annotated § 65A-7-5(5)(c)(i): may include an option to renew the lease upon expiration; and
+Utah Code Annotated § 65A-7-5(5)(c)(ii): 72-6-303(5)(e) shall include a provision that requires that at the termination of the lease:
+Utah Code Annotated § 65A-7-5(5)(c)(ii)(A): the ownership of the highway facility shall revert to the state;
+Utah Code Annotated § 65A-7-5(5)(c)(ii)(B): 72-6-303(5)(e) the highway facility shall be in a state of proper maintenance as outlined in the agreement under Subsection
+Utah Code Annotated § 65A-7-5(5)(c)(ii)(C): the highway facility shall be returned to the Department of Transportation in satisfactory condition at no further cost to the Department of Transportation, in a condition of good repair.
+Utah Code Annotated § 65A-7-5(5)(d): (5) The requirements under this Subsection
+
+
+Utah Code Annotated § 65A-7-6 Lease covenants.
+----------------------------------------------
+Each surface lease shall contain the following covenants:Utah Code Annotated § 65A-7-6(1): the lessee shall promptly pay the rent annually in advance;
+Utah Code Annotated § 65A-7-6(2): no waste shall be committed on the land;
+Utah Code Annotated § 65A-7-6(3): the premises shall be surrendered at the expiration of the term;
+Utah Code Annotated § 65A-7-6(4): the lessee may not sublet or assign without the written consent of the division;
+Utah Code Annotated § 65A-7-6(5): a failure to pay the agreed rent for a period of one month from the time rent is due shall result in a forfeiture of the lease after notice; and
+Utah Code Annotated § 65A-7-6(6): if improvements have been placed on the land by any person other than the lessee, the lessee shall allow the owner of the improvements to remove them within 90 days.
+
+
+Utah Code Annotated § 65A-7-7 Exchanges of sovereign lands -- Based on equal value -- Lands encumbered by a lease.
+------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-7-7(1): 
+Utah Code Annotated § 65A-7-7(1)(a): In accordance with division rules and when in the best interest of the state, sovereign lands may be exchanged for other land or other assets within the state held by other proprietors.
+Utah Code Annotated § 65A-7-7(1)(b): Upon request of the division, the governor  shall execute and deliver the necessary patents to other proprietors and receive proper deeds of the lands so exchanged.
+Utah Code Annotated § 65A-7-7(1)(c): An exchange may not be made by the division until a deed or patent for the land received in exchange has been issued by the proprietors.
+Utah Code Annotated § 65A-7-7(2): 
+Utah Code Annotated § 65A-7-7(2)(a): If sovereign lands are encumbered by an existing lease, the division, upon approval of an exchange, may, with the consent of the lessee, terminate the existing lease and issue a lease of the same type, on lands of comparable acreage or value, which may be acquired in the same exchange in which the leased lands are used as base.
+Utah Code Annotated § 65A-7-7(2)(b): Upon acceptance of exchanged lands, the state shall honor all vested rights.
+
+
+Utah Code Annotated § 65A-7-8 Easements on state lands -- Division to make rules.
+---------------------------------------------------------------------------------
+Utah Code Annotated § 65A-7-8(1): The division shall establish rules for the issuance of easements on, through, and over any state land, and shall establish price schedules.
+Utah Code Annotated § 65A-7-8(2): A patent for state lands is subject to any existing easement or public right-of-way.
+
+
+Utah Code Annotated - Title 65A - Chapter 8 - Management of Forest Lands and Fire Control
+*****************************************************************************************
+
+Utah Code Annotated § 65A-8-101 Division responsibilities for fire management and the conservation of forest, watershed, and other lands -- Reciprocal agreements for fire protection.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-101(1): (1)(d) The division, in consultation with local authorities, shall determine and execute the best method for protecting private and public property by:
+Utah Code Annotated § 65A-8-101(1)(a): (1)(d) except as provided by Subsection
+Utah Code Annotated § 65A-8-101(1)(b): encouraging a landowner to conserve, protect, and manage forest or other land throughout the state;
+Utah Code Annotated § 65A-8-101(1)(c): taking action the division considers appropriate to manage wildland fire and protect life and property on nonfederal forest, range, watershed, or wildland urban interface land within the state; and
+Utah Code Annotated § 65A-8-101(1)(d): implementing a limited fire suppression strategy, including allowing a fire to burn with limited or modified suppression, if the division determines that the strategy is appropriate for a specific area or circumstance.
+Utah Code Annotated § 65A-8-101(2): The division may:
+Utah Code Annotated § 65A-8-101(2)(a): enter into an agreement with a public or private agency or individual:
+Utah Code Annotated § 65A-8-101(2)(a)(i): for the purpose of protecting, managing, or rehabilitating land owned or managed by the agency or individual; and
+Utah Code Annotated § 65A-8-101(2)(a)(ii): establishing a predetermined fire suppression plan, including a limited fire suppression strategy, for a specific fire management area; and
+Utah Code Annotated § 65A-8-101(2)(b): enter into a reciprocal agreement with a fire protection organization, including a federal agency, to provide fire protection for land, and an improvement on land, for which the organization normally provides fire protection.
+
+
+Utah Code Annotated § 65A-8-102 State forester.
+-----------------------------------------------
+Utah Code Annotated § 65A-8-102(1): There is created the position of state forester to carry out the provisions of this chapter.
+Utah Code Annotated § 65A-8-102(2): The state forester shall be a graduate of an accredited school of forestry, technically and professionally competent, and experienced in administration.
+Utah Code Annotated § 65A-8-102(3): The state forester shall be responsible to the director of the division.
+Utah Code Annotated § 65A-8-102(4): In all matters pertaining to forestry and fire control in which the state recognizes a responsibility, the state forester shall be the official representative of the state.
+
+
+Utah Code Annotated § 65A-8-103 Forestry and fire control funds.
+----------------------------------------------------------------
+Utah Code Annotated § 65A-8-103(1): The division shall use money available to it to meet the costs of:
+Utah Code Annotated § 65A-8-103(1)(a): managing forest, range, watershed, and wildland urban interface fires;
+Utah Code Annotated § 65A-8-103(1)(b): managing insect and disease epidemics;
+Utah Code Annotated § 65A-8-103(1)(c): rehabilitating or reforesting nonfederal forest, range, and watershed lands;
+Utah Code Annotated § 65A-8-103(1)(d): promoting wildfire preparedness, wildfire mitigation, and wildfire prevention;
+Utah Code Annotated § 65A-8-103(1)(e): restoring and maintaining landscapes ensuring landscapes across the state are resilient to wildfire-related disturbances, in accordance with fire management objectives;
+Utah Code Annotated § 65A-8-103(1)(f): creating fire-adapted communities, ensuring that human populations and infrastructure can withstand a wildfire without loss of life or property;
+Utah Code Annotated § 65A-8-103(1)(g): improving wildfire response, ensuring that all political subdivisions can participate in making and implementing safe, effective, and efficient risk-based wildfire management decisions;
+Utah Code Annotated § 65A-8-103(1)(h): reducing risks to wildlife such as the greater sage grouse; and
+Utah Code Annotated § 65A-8-103(1)(i): carrying on the purposes of this chapter.
+Utah Code Annotated § 65A-8-103(2): (1)(a); (i) All money available to the division to meet the costs of Subsections
+Utah Code Annotated § 65A-8-103(3): 
+Utah Code Annotated § 65A-8-103(3)(a): The collection and disbursement of all money made available to the division shall be in accordance with the rules of the Division of Finance.
+Utah Code Annotated § 65A-8-103(3)(b): Money collected by the division from fees, rentals, sales, contributions, reimbursements, and other such sources shall be deposited in the appropriate account.
+
+
+Utah Code Annotated § 65A-8-105 Urban and community forestry program.
+---------------------------------------------------------------------
+Utah Code Annotated § 65A-8-105(1): An urban and community forestry program is created within the division.
+Utah Code Annotated § 65A-8-105(2): The purpose of the program is to encourage the planting and maintenance of trees within municipalities and unincorporated communities.
+Utah Code Annotated § 65A-8-105(3): Title 63J, Chapter 5, Federal Funds Procedures Act The division may:
+Utah Code Annotated § 65A-8-105(3)(a): advise and assist municipalities, counties, and other public and private entities in developing and coordinating policies, programs, and activities promoting urban and community forestry;
+Utah Code Annotated § 65A-8-105(3)(b): Title 63J, Chapter 5, Federal Funds Procedures Act receive, by following the procedures and requirements of
+Utah Code Annotated § 65A-8-105(3)(c): provide grants to municipalities and counties for urban and community forestry programs and cooperative projects.
+Utah Code Annotated § 65A-8-105(4): The division shall:
+Utah Code Annotated § 65A-8-105(4)(a): develop a public education program to inform tree care professionals and citizens of the hazards involved with the planting of new trees and the maintenance of existing trees near overhead power lines and highways; and
+Utah Code Annotated § 65A-8-105(4)(b): develop and implement a program of public awareness to inform citizens about the benefits of planting trees in urban areas and how to maintain trees.
+
+
+Utah Code Annotated § 65A-8-201 Uncontrolled fire is a public nuisance.
+-----------------------------------------------------------------------
+Any fire on forest, range, watershed, or wildland urban interface land in the state burning uncontrolled and without proper and adequate action being taken to manage it is a public nuisance.
+
+Utah Code Annotated § 65A-8-202 Fire control -- County responsibilities.
+------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-202(1): A county shall abate the public nuisance caused by wildfire on unincorporated, privately owned or county owned forest, range, watershed, and wildland urban interface lands within its boundaries.
+Utah Code Annotated § 65A-8-202(2): A county may participate in the wildland fire protection system of the division and become eligible for assistance from the state by agreement under the provisions of this chapter.
+Utah Code Annotated § 65A-8-202(3): A county shall:
+Utah Code Annotated § 65A-8-202(3)(a): reduce the risk of wildfire to unincorporated, privately owned or county owned forest, range, watershed, and wildland urban interface land within the county's boundaries, with private landowner permission, through appropriate wildfire prevention, preparedness, and mitigation actions; and
+Utah Code Annotated § 65A-8-202(3)(b): ensure effective wildfire initial attack on unincorporated privately owned or county owned forest, range, watershed, and wildland urban interface land within the county's boundaries.
+Utah Code Annotated § 65A-8-202(4): (1); (3); 65A-8-203 A county may assign the responsibilities described in Subsections
+Utah Code Annotated § 65A-8-202(5): The state forester shall make certain that appropriate action is taken to control wildland fires on unincorporated nonfederal forest, range, watershed, and wildland urban interface lands.
+Utah Code Annotated § 65A-8-202(6): Nothing in this section excuses a private landowner from complying with an applicable county ordinance.
+
+
+Utah Code Annotated § 65A-8-202.5 City and town responsibilities.
+-----------------------------------------------------------------
+Utah Code Annotated § 65A-8-202.5(1): A municipality shall abate the public nuisance caused by wildfire on forest, range, watershed, and wildland urban interface land within the boundaries of the municipality if the land is:
+Utah Code Annotated § 65A-8-202.5(1)(a): privately owned; or
+Utah Code Annotated § 65A-8-202.5(1)(b): owned by the municipality.
+Utah Code Annotated § 65A-8-202.5(2): A municipality may participate in the wildland fire protection system of the division and become eligible for assistance from the state by agreement under the provisions of this chapter.
+Utah Code Annotated § 65A-8-202.5(3): A municipality shall:
+Utah Code Annotated § 65A-8-202.5(3)(a): reduce the risk of wildfire to incorporated, privately owned and municipality owned forest, range, watershed, and wildland urban interface land, with private landowner permission, through appropriate wildfire prevention, preparedness, and mitigation actions; and
+Utah Code Annotated § 65A-8-202.5(3)(b): ensure effective wildfire initial attack on forest, range, watershed, and wildland urban interface land within the municipality's fire protection boundary.
+Utah Code Annotated § 65A-8-202.5(4): (1); (3); 65A-8-203 A municipality may assign the responsibilities described in Subsections
+Utah Code Annotated § 65A-8-202.5(5): The state forester shall make certain that appropriate action is taken to control wildland fires on incorporated, nonfederal forest, range, watershed, and wildland urban interface lands.
+Utah Code Annotated § 65A-8-202.5(6): Nothing in this section excuses a private landowner from complying with an applicable county ordinance.
+
+
+Utah Code Annotated § 65A-8-203 Cooperative fire protection agreements with counties, cities, towns, or special service districts.
+----------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-203(1): 11-7-1; 11-7-1(1) As used in this section:
+Utah Code Annotated § 65A-8-203(1)(a): 11-7-1 "Eligible entity" means:
+Utah Code Annotated § 65A-8-203(1)(a)(i): 11-7-1 a county, a municipality, or a special service district, special district, or service area with:
+Utah Code Annotated § 65A-8-203(1)(a)(i)(A): 11-7-1 wildland fire suppression responsibility as described in Section
+Utah Code Annotated § 65A-8-203(1)(a)(i)(B): wildland fire suppression cost responsibility and taxing authority for a specific geographic jurisdiction; or
+Utah Code Annotated § 65A-8-203(1)(a)(ii): upon approval by the director, a political subdivision established by a county, municipality, special service district, special district, or service area that is responsible for:
+Utah Code Annotated § 65A-8-203(1)(a)(ii)(A): providing wildland fire suppression services; and
+Utah Code Annotated § 65A-8-203(1)(a)(ii)(B): paying for the cost of wildland fire suppression services.
+Utah Code Annotated § 65A-8-203(1)(b): 11-7-1(1) "Fire service provider" means a public or private entity that fulfills the duties of Subsection
+Utah Code Annotated § 65A-8-203(2): 
+Utah Code Annotated § 65A-8-203(2)(a): The governing body of any eligible entity may enter into a cooperative agreement with the division to receive financial and wildfire management cooperation and assistance from the division, as described in this part.
+Utah Code Annotated § 65A-8-203(2)(b): A cooperative agreement shall last for a term of no more than five years and be renewable if the eligible entity continues to meet the requirements of this chapter.
+Utah Code Annotated § 65A-8-203(3): (2)(a); 65A-8-203.2
+Utah Code Annotated § 65A-8-203(3)(a): (2)(a) An eligible entity may not receive financial cooperation or financial assistance under Subsection
+Utah Code Annotated § 65A-8-203(3)(b): The state shall assume an eligible entity's cost of suppressing catastrophic wildfire as defined in the cooperative agreement if the eligible entity has entered into, and is in full compliance with, a cooperative agreement with the division, as described in this section.
+Utah Code Annotated § 65A-8-203(3)(c): 65A-8-203.2 A county or municipality that is not covered by a cooperative agreement with the division, as described in this section, shall be responsible for wildland fire costs within the county or municipality's jurisdiction, as described in Section
+Utah Code Annotated § 65A-8-203(4): (6); 65A-8-209.1 In order to enter into a cooperative agreement with the division, the eligible entity shall:
+Utah Code Annotated § 65A-8-203(4)(a): if the eligible entity is a county, adopt and enforce on unincorporated land a wildland fire ordinance based upon minimum standards established by the division or Uniform Building Code Commission;
+Utah Code Annotated § 65A-8-203(4)(b): require that the fire department or equivalent fire service provider under contract with, or delegated by, the eligible entity on unincorporated land meet minimum standards for wildland fire training, certification, and suppression equipment based upon nationally accepted standards as specified by the division;
+Utah Code Annotated § 65A-8-203(4)(c): invest in prevention, preparedness, and mitigation efforts, as agreed to with the division, that will reduce the eligible entity's risk of catastrophic wildfire;
+Utah Code Annotated § 65A-8-203(4)(d): file with the division an annual accounting of wildfire prevention, preparedness, mitigation actions, and associated costs;
+Utah Code Annotated § 65A-8-203(4)(e): (6) return the financial statement described in Subsection
+Utah Code Annotated § 65A-8-203(4)(f): 65A-8-209.1 if the eligible entity is a county, have a designated fire warden as described in Section
+Utah Code Annotated § 65A-8-203(5): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (4)
+Utah Code Annotated § 65A-8-203(5)(a): The state forester may execute a cooperative agreement with the eligible entity.
+Utah Code Annotated § 65A-8-203(5)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (4) The division shall make rules, in accordance with
+Utah Code Annotated § 65A-8-203(5)(b)(i): cooperative agreements described in this section;
+Utah Code Annotated § 65A-8-203(5)(b)(ii): (4) manner in which an eligible entity shall provide proof of compliance with Subsection
+Utah Code Annotated § 65A-8-203(5)(b)(iii): manner by which the division may revoke a cooperative agreement if an eligible entity ceases to meet the requirements described in this section;
+Utah Code Annotated § 65A-8-203(5)(b)(iv): accounting system for determining suppression costs;
+Utah Code Annotated § 65A-8-203(5)(b)(v): manner in which the division shall determine the eligible entity's participation commitment; and
+Utah Code Annotated § 65A-8-203(5)(b)(vi): manner in which an eligible entity may appeal a division determination.
+Utah Code Annotated § 65A-8-203(6): (4)(c); (6)(b)
+Utah Code Annotated § 65A-8-203(6)(a): (4)(c) The division shall send a financial statement to each eligible entity participating in a cooperative agreement that details the eligible entity's participation commitment for the coming fiscal year, including the prevention, preparedness, and mitigation actions agreed to under Subsection
+Utah Code Annotated § 65A-8-203(6)(b): Each eligible entity participating in a cooperative agreement shall:
+Utah Code Annotated § 65A-8-203(6)(b)(i): have the chief executive of the eligible entity sign the financial statement, or the legislative body of the eligible entity approve the financial statement by resolution, confirming the eligible entity's participation for the upcoming year; and
+Utah Code Annotated § 65A-8-203(6)(b)(ii): return the financial statement to the division, on or before a date set by the division.
+Utah Code Annotated § 65A-8-203(6)(c): (6)(b) A financial statement shall be effective for one calendar year, beginning on the date set by the division, as described in Subsection
+Utah Code Annotated § 65A-8-203(7): (6)(b); (6)(c)
+Utah Code Annotated § 65A-8-203(7)(a): (6)(b) An eligible entity may revoke a cooperative agreement before the end of the cooperative agreement's term by:
+Utah Code Annotated § 65A-8-203(7)(a)(i): informing the division, in writing, of the eligible entity's intention to revoke the cooperative agreement; or
+Utah Code Annotated § 65A-8-203(7)(a)(ii): (6)(b) failing to sign and return its annual financial statement, as described in Subsection
+Utah Code Annotated § 65A-8-203(7)(b): (6)(c) An eligible entity may not revoke a cooperative agreement before the end of the term of a signed annual financial statement, as described in Subsection
+Utah Code Annotated § 65A-8-203(8): The division shall develop and maintain a wildfire risk assessment mapping tool that is online and publicly accessible.
+Utah Code Annotated § 65A-8-203(9): By no later than the 2021 November interim meeting of the Natural Resources, Agriculture, and Environment Interim Committee, the division shall report on the eligible entities' adherence to and implementation of their participation commitment under this chapter.
+
+
+Utah Code Annotated § 65A-8-203.1 Delegation of fire management authority.
+--------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-203.1(1): 65A-8-203 As used in this section, "delegation of fire management authority" means the acceptance by the division of responsibility for:
+Utah Code Annotated § 65A-8-203.1(1)(a): managing a wildfire; and
+Utah Code Annotated § 65A-8-203.1(1)(b): 65A-8-203 the cost of fire suppression, as described in Section
+Utah Code Annotated § 65A-8-203.1(2): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The division shall make rules, in accordance with
+Utah Code Annotated § 65A-8-203.1(3): Upon delegation of fire management authority, the division and its named designee becomes the primary incident commander.
+
+
+Utah Code Annotated § 65A-8-203.2 Billing a county or municipality not covered by a cooperative agreement -- Calculating cost of wildfire suppression.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-203.2(1): 65A-8-203 The division shall bill a county that is not covered by a cooperative agreement with the division, as described in Section
+Utah Code Annotated § 65A-8-203.2(2): 65A-8-203 The division shall bill a municipality that is not covered by a cooperative agreement with the division, as described in Section
+Utah Code Annotated § 65A-8-203.2(3): 65A-8-203 The cost of wildfire suppression to a county or municipality that is not covered by a cooperative agreement with the division, as described in Section
+Utah Code Annotated § 65A-8-203.2(4): 65A-8-203(5)(b)(vi) A county or municipality that receives a bill from the division, pursuant to this section, shall pay the bill, or make arrangements to pay the bill, within 90 days of receipt of the bill, subject to the county or municipality's right to appeal, as described in Subsection
+
+
+Utah Code Annotated § 65A-8-204 Wildland Fire Suppression Fund created.
+-----------------------------------------------------------------------
+Utah Code Annotated § 65A-8-204(1): There is created an expendable special revenue fund known as the "Wildland Fire Suppression Fund."
+Utah Code Annotated § 65A-8-204(2): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; 65A-8-203 The Wildland Fire Suppression Fund shall be administered by the division to pay wildfire suppression costs on eligible lands, as wildfire suppression costs are defined by the division by rule made in accordance with
+Utah Code Annotated § 65A-8-204(3): 65A-8-213; 59-21-2; 63J-1-314 Subject to Section
+Utah Code Annotated § 65A-8-204(3)(a): interest and earnings from the investment of fund money;
+Utah Code Annotated § 65A-8-204(3)(b): money appropriated by the Legislature;
+Utah Code Annotated § 65A-8-204(3)(c): federal funds received by the division for wildfire management costs;
+Utah Code Annotated § 65A-8-204(3)(d): suppression costs billed to an eligible entity that does not participate in a cooperative agreement;
+Utah Code Annotated § 65A-8-204(3)(e): suppression costs paid to the division by another state agency;
+Utah Code Annotated § 65A-8-204(3)(f): costs recovered from settlements and civil or administrative actions related to wildfire suppression;
+Utah Code Annotated § 65A-8-204(3)(g): restitution payments ordered by a court following a criminal adjudication;
+Utah Code Annotated § 65A-8-204(3)(h): the balance of the fund as of July 1, 2016;
+Utah Code Annotated § 65A-8-204(3)(i): 59-21-2 money deposited by the Division of Finance, pursuant to Section
+Utah Code Annotated § 65A-8-204(3)(j): 63J-1-314 money transferred by the Division of Finance, pursuant to Section
+Utah Code Annotated § 65A-8-204(4): Fund money shall be invested by the state treasurer with the earnings and interest accruing to the Wildland Fire Suppression Fund.
+
+
+Utah Code Annotated § 65A-8-206 Disbursements from the Wildland Fire Suppression Fund.
+--------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-206(1): 65A-8-204 Disbursements from the fund created in Section
+Utah Code Annotated § 65A-8-206(2): If the state forester determines money in the fund may be insufficient to cover eligible costs in a program year, the state forester may:
+Utah Code Annotated § 65A-8-206(2)(a): delay making disbursements from the fund until the close of the program year; and
+Utah Code Annotated § 65A-8-206(2)(b): request supplemental appropriations from the Legislature.
+
+
+Utah Code Annotated § 65A-8-207 Division to administer Wildland Fire Suppression Fund -- Rulemaking -- Procedures.
+------------------------------------------------------------------------------------------------------------------
+By following the procedures and requirements of
+
+Utah Code Annotated § 65A-8-209 Responsibilities of county sheriffs and fire wardens in controlling fires.
+----------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-209(1): 65A-8-203 In a county that has not entered into a cooperative agreement as described in Section
+Utah Code Annotated § 65A-8-209(2): In all cases the county sheriff shall:
+Utah Code Annotated § 65A-8-209(2)(a): report, as prescribed by the state forester, on wildland fire control action;
+Utah Code Annotated § 65A-8-209(2)(b): investigate and report wildfire causes; and
+Utah Code Annotated § 65A-8-209(2)(c): enforce the provisions of this chapter either independently or in cooperation with the state forester.
+Utah Code Annotated § 65A-8-209(3): 65A-8-203; 65A-8-203.1 In an eligible entity that has entered into a cooperative agreement, as described in Section
+Utah Code Annotated § 65A-8-209(4): The county sheriff and the county sheriff's organization shall maintain cooperative support of the fire management organization.
+
+
+Utah Code Annotated § 65A-8-209.1 County fire warden.
+-----------------------------------------------------
+Utah Code Annotated § 65A-8-209.1(1): 65A-8-203 As used in this section, "participating county" means a county that participates in a cooperative agreement with the division, as described in Section
+Utah Code Annotated § 65A-8-209.1(2): (2)
+Utah Code Annotated § 65A-8-209.1(2)(a): (2) A county fire warden who is employed by the division as a county fire warden full-time and year round shall represent a participating county, except as provided in Subsections
+Utah Code Annotated § 65A-8-209.1(2)(b): A county of the fifth class that, as of January 1, 2016, is cost-sharing a county fire warden with an adjacent county may continue to do so with the approval of the state forester.
+Utah Code Annotated § 65A-8-209.1(2)(c): A county of the sixth class may cost-share a county fire warden with an adjacent county, with the approval of the state forester.
+Utah Code Annotated § 65A-8-209.1(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 65A-8-209.1(3)(a): The salary and benefits paid to a county fire warden shall be:
+Utah Code Annotated § 65A-8-209.1(3)(a)(i): divided by the division and the county; or
+Utah Code Annotated § 65A-8-209.1(3)(a)(ii): paid partly by the division with the remainder shared by agreement between the counties the county fire warden represents.
+Utah Code Annotated § 65A-8-209.1(3)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The division may annually increase the amount agreed to for the county portion if:
+Utah Code Annotated § 65A-8-209.1(3)(b)(i): the increase takes effect at the beginning of a calendar year;
+Utah Code Annotated § 65A-8-209.1(3)(b)(ii): the division provides the participating county six months notice before the increase takes effect; and
+Utah Code Annotated § 65A-8-209.1(3)(b)(iii): Title 63G, Chapter 3, Utah Administrative Rulemaking Act the increase is based on the Consumer Price Index for All Urban Consumers as published by the Bureau of Labor Statistics of the United States Department of Labor, in accordance with a formula established by the division by rule made in accordance with
+Utah Code Annotated § 65A-8-209.1(4): 
+Utah Code Annotated § 65A-8-209.1(4)(a): The division shall employ the county fire wardens.
+Utah Code Annotated § 65A-8-209.1(4)(b): An individual who is employed by a county as a county fire warden on or before January 1, 2016, is not subject to the requirement to be employed by the division.
+
+
+Utah Code Annotated § 65A-8-210 Fire control on state-owned lands -- Responsibilities of state agencies.
+--------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-210(1): The division shall abate the public nuisance caused by wildfire on state-owned forest, range, watershed, and wildland urban interface lands.
+Utah Code Annotated § 65A-8-210(2): State agencies responsible for the administration of state-owned lands shall recognize the need for providing wildland fire protection and the responsibility for reducing the risk of wildfire through appropriate wildfire prevention, preparedness, and mitigation actions.
+
+
+Utah Code Annotated § 65A-8-211 Closed fire season -- Notice -- Violations -- Red Flag Warnings -- Burning permits -- Personal liability -- Exemptions from burning permits.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-211(1): 63H-7a-103 As used in this section:
+Utah Code Annotated § 65A-8-211(1)(a): 63H-7a-103 "Applicable public safety answering point" means a public safety answering point or dispatch center, as those terms are defined in Section
+Utah Code Annotated § 65A-8-211(1)(b): "Cultivated land" means land that is not enrolled in a conservation reserve program that is readily identifiable as:
+Utah Code Annotated § 65A-8-211(1)(b)(i): land whose soil is loosened or broken up for the raising of crops;
+Utah Code Annotated § 65A-8-211(1)(b)(ii): land used for the raising of crops; or
+Utah Code Annotated § 65A-8-211(1)(b)(iii): pasturage that is artificially irrigated.
+Utah Code Annotated § 65A-8-211(1)(c): "Field" means land where grass, grain, stubble, or hay may be burned in accordance with this section.
+Utah Code Annotated § 65A-8-211(1)(d): "Red Flag Warning" means a weather forecast issued by the National Weather Service on a publicly available website or notification system indicating that weather conditions associated with the outbreak of wildfires are occurring.
+Utah Code Annotated § 65A-8-211(2): 63A-16-601
+Utah Code Annotated § 65A-8-211(2)(a): The period from June 1 to October 31 of each year is a closed fire season throughout the state.
+Utah Code Annotated § 65A-8-211(2)(b): The state forester may advance or extend the closed season wherever and whenever that action is necessary.
+Utah Code Annotated § 65A-8-211(2)(c): 63A-16-601 The state forester shall notify the public of the alteration of the closed season by posting the appropriate proclamation on the division's website and on the Utah Public Notice Website, created in Section
+Utah Code Annotated § 65A-8-211(3): (3)(b)(i); (10) During the closed fire season, an individual is guilty of  a class C misdemeanor if the individual sets on fire, or causes to be set on fire:
+Utah Code Annotated § 65A-8-211(3)(a): 
+Utah Code Annotated § 65A-8-211(3)(a)(i): a forest;
+Utah Code Annotated § 65A-8-211(3)(a)(ii): brush;
+Utah Code Annotated § 65A-8-211(3)(a)(iii): range;
+Utah Code Annotated § 65A-8-211(3)(a)(iv): a field;
+Utah Code Annotated § 65A-8-211(3)(a)(v): cultivated land; or
+Utah Code Annotated § 65A-8-211(3)(a)(vi): a debris pile; and
+Utah Code Annotated § 65A-8-211(3)(b): (3)(b)(i); (10) without:
+Utah Code Annotated § 65A-8-211(3)(b)(i): first securing a written permit from the state forester or a deputy designated by the state forester;
+Utah Code Annotated § 65A-8-211(3)(b)(ii): (3)(b)(i) complying fully with the permit described in Subsection
+Utah Code Annotated § 65A-8-211(3)(b)(iii): (10) subject to Subsection
+Utah Code Annotated § 65A-8-211(4): (4)(b)(i); (10) During a period when a Red Flag Warning is issued, an individual is guilty of a class C misdemeanor if the individual sets on fire, or causes to be set on fire:
+Utah Code Annotated § 65A-8-211(4)(a): 
+Utah Code Annotated § 65A-8-211(4)(a)(i): a forest;
+Utah Code Annotated § 65A-8-211(4)(a)(ii): brush;
+Utah Code Annotated § 65A-8-211(4)(a)(iii): range;
+Utah Code Annotated § 65A-8-211(4)(a)(iv): a field;
+Utah Code Annotated § 65A-8-211(4)(a)(v): cultivated land;
+Utah Code Annotated § 65A-8-211(4)(a)(vi): a fence line;
+Utah Code Annotated § 65A-8-211(4)(a)(vii): a canal; or
+Utah Code Annotated § 65A-8-211(4)(a)(viii): an irrigation ditch; and
+Utah Code Annotated § 65A-8-211(4)(b): (4)(b)(i); (10) without:
+Utah Code Annotated § 65A-8-211(4)(b)(i): first securing a written permit from the state forester or a deputy designated by the state forester;
+Utah Code Annotated § 65A-8-211(4)(b)(ii): (4)(b)(i) complying fully with the permit described in Subsection
+Utah Code Annotated § 65A-8-211(4)(b)(iii): (10) subject to Subsection
+Utah Code Annotated § 65A-8-211(5): The state forester or the state forester's designee shall issue burning permits using the form prescribed by the division.
+Utah Code Annotated § 65A-8-211(6): 
+Utah Code Annotated § 65A-8-211(6)(a): The burning permit does not relieve an individual from personal liability as a result of damage caused by the fire.
+Utah Code Annotated § 65A-8-211(6)(b): A fire escaping control of the permittee that necessitates fire control action or does injury to the property of another is prima facie evidence that due care was not used in the burning and that the fire was not safe.
+Utah Code Annotated § 65A-8-211(7): 65A-8-203 The following may refuse, revoke, postpone, or cancel a permit if the person finds that it is necessary in the interest of public safety:
+Utah Code Annotated § 65A-8-211(7)(a): the state forester;
+Utah Code Annotated § 65A-8-211(7)(b): a state forester's designee; or
+Utah Code Annotated § 65A-8-211(7)(c): 65A-8-203 a county sheriff if there is no cooperative agreement with the division as described in Section
+Utah Code Annotated § 65A-8-211(8): (4)(a); (10); (10)
+Utah Code Annotated § 65A-8-211(8)(a): (4)(a); (10) Except for during a Red Flag Warning as described in Subsection
+Utah Code Annotated § 65A-8-211(8)(a)(i): for the burning within 10 feet of:
+Utah Code Annotated § 65A-8-211(8)(a)(i)(A): fence lines on cultivated lands;
+Utah Code Annotated § 65A-8-211(8)(a)(i)(B): the banks of canals; or
+Utah Code Annotated § 65A-8-211(8)(a)(i)(C): the banks of irrigation ditches; and
+Utah Code Annotated § 65A-8-211(8)(a)(ii): (10) if:
+Utah Code Annotated § 65A-8-211(8)(a)(ii)(A): the burning does not pose a threat to forest, range, or watershed lands;
+Utah Code Annotated § 65A-8-211(8)(a)(ii)(B): due care is used in the control of the burning; and
+Utah Code Annotated § 65A-8-211(8)(a)(ii)(C): (10) subject to Subsection
+Utah Code Annotated § 65A-8-211(8)(b): (10) For a burning with or without a permit, an individual is guilty of a class C misdemeanor if the individual fails to notify, subject to Subsection
+Utah Code Annotated § 65A-8-211(9): (8); 76-6-104 A burning conducted in accordance with Subsection
+Utah Code Annotated § 65A-8-211(10): (10)(a); 63A-16-601
+Utah Code Annotated § 65A-8-211(10)(a): The state forester or state forester's designee shall annually determine the notification process for a jurisdiction after receiving approval from the following for the jurisdiction:
+Utah Code Annotated § 65A-8-211(10)(a)(i): the applicable municipal chief, county fire warden, or state forester's designee; and
+Utah Code Annotated § 65A-8-211(10)(a)(ii): the governing body of the one or more applicable public safety answering points.
+Utah Code Annotated § 65A-8-211(10)(b): (10)(a); 63A-16-601 On June 1 of each year, beginning with June 1, 2023, the state forester or state forester's designee shall publish for each jurisdiction the notification process adopted under Subsection
+Utah Code Annotated § 65A-8-211(10)(c): If the state forester or state forester's designee cannot determine the notification process for a jurisdiction, a person is required to notify the applicable public safety answering point.
+
+
+Utah Code Annotated § 65A-8-212 Power of state forester to close hazardous areas -- Violations of an order closing an area.
+---------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-212(1): (5); (5); (1)(d)(i); (d)(iii)
+Utah Code Annotated § 65A-8-212(1)(a): (5) If the state forester finds conditions in a given area in the state to be extremely hazardous, "extremely hazardous" means categorized as "extreme" under a nationally recognized standard for rating fire danger, he shall close those areas to any forms of use by the public, or to limit that use, except as provided in Subsection
+Utah Code Annotated § 65A-8-212(1)(b): (5) The closure shall include, for the period of time the state forester considers necessary, the prohibition of open fires, and may include restrictions and prohibitions on:
+Utah Code Annotated § 65A-8-212(1)(b)(i): smoking;
+Utah Code Annotated § 65A-8-212(1)(b)(ii): the use of vehicles or equipment;
+Utah Code Annotated § 65A-8-212(1)(b)(iii): welding, cutting, or grinding of metals;
+Utah Code Annotated § 65A-8-212(1)(b)(iv): (5) subject to Subsection
+Utah Code Annotated § 65A-8-212(1)(b)(v): explosives; or
+Utah Code Annotated § 65A-8-212(1)(b)(vi): the use of firearms for target shooting.
+Utah Code Annotated § 65A-8-212(1)(c): Any restriction or closure relating to firearms use:
+Utah Code Annotated § 65A-8-212(1)(c)(i): shall be done with support of the duly elected county sheriff of the affected county or counties;
+Utah Code Annotated § 65A-8-212(1)(c)(ii): shall undergo a formal review by the State Forester and County Sheriff every 14 days; and
+Utah Code Annotated § 65A-8-212(1)(c)(iii): may not prohibit a person from legally possessing a firearm or lawfully participating in a hunt.
+Utah Code Annotated § 65A-8-212(1)(d): (1)(d)(i); (d)(iii) The State Forester and County Sheriff shall:
+Utah Code Annotated § 65A-8-212(1)(d)(i): agree to the terms of any restriction or closure relating to firearms use;
+Utah Code Annotated § 65A-8-212(1)(d)(ii): reduce the agreement to writing;
+Utah Code Annotated § 65A-8-212(1)(d)(iii): sign the agreement indicating approval of its terms and duration; and
+Utah Code Annotated § 65A-8-212(1)(d)(iv): (1)(d)(i); (d)(iii) complete the steps in Subsections
+Utah Code Annotated § 65A-8-212(2): Nothing in this chapter prohibits any resident within the area from full and free access to his home or property, or any legitimate use by the owner or lessee of the property.
+Utah Code Annotated § 65A-8-212(3): The order or proclamation closing or limiting the use in the area shall set forth:
+Utah Code Annotated § 65A-8-212(3)(a): the exact area coming under the order;
+Utah Code Annotated § 65A-8-212(3)(b): the date when the order becomes effective; and
+Utah Code Annotated § 65A-8-212(3)(c): if advisable, the authority from whom permits for entry into the area may be obtained.
+Utah Code Annotated § 65A-8-212(4): Any entry into or use of any area in violation of this section is a class B misdemeanor.
+Utah Code Annotated § 65A-8-212(5): The state forester may not restrict or prohibit the discharge of fireworks within the municipal boundaries of a city, town, or metro township.
+
+
+Utah Code Annotated § 65A-8-213 Creation of the Wildland Fire Preparedness Grants Fund -- Awarding of grants -- Rulemaking.
+---------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-213(1): 65A-8-204(3)(f); (g); (1)(c)(ii); (1)(a); Title 51, Chapter 7, State Money Management Act; (1)(c)(i)
+Utah Code Annotated § 65A-8-213(1)(a): There is created an expendable special revenue fund known as the "Wildland Fire Preparedness Grants Fund."
+Utah Code Annotated § 65A-8-213(1)(b): 65A-8-204(3)(f); (g); (1)(c)(ii) The Wildland Fire Preparedness Grants Fund shall consist of:
+Utah Code Annotated § 65A-8-213(1)(b)(i): voluntary contributions received;
+Utah Code Annotated § 65A-8-213(1)(b)(ii): appropriations the Legislature makes to the Wildland Fire Preparedness Grants Fund;
+Utah Code Annotated § 65A-8-213(1)(b)(iii): 65A-8-204(3)(f); (g) 10% of the costs recovered annually related to wildfire suppression described in Subsections
+Utah Code Annotated § 65A-8-213(1)(b)(iv): (1)(c)(ii) interest or other earnings accrued in accordance with Subsection
+Utah Code Annotated § 65A-8-213(1)(c): (1)(a); Title 51, Chapter 7, State Money Management Act; (1)(c)(i) The state treasurer shall:
+Utah Code Annotated § 65A-8-213(1)(c)(i): (1)(a); Title 51, Chapter 7, State Money Management Act invest the money in the Wildland Fire Preparedness Grants Fund described in Subsection
+Utah Code Annotated § 65A-8-213(1)(c)(ii): (1)(c)(i) deposit all interest or other earnings derived from each investment described in Subsection
+Utah Code Annotated § 65A-8-213(2): Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+Utah Code Annotated § 65A-8-213(2)(a): The state forester shall make one or more grants from the Wildland Fire Preparedness Grants Fund to one or more local fire departments or volunteer fire departments to assist in building capacity for the suppression of wildland fire.
+Utah Code Annotated § 65A-8-213(2)(b): Title 63G, Chapter 3, Utah Administrative Rulemaking Act In accordance with
+
+
+Utah Code Annotated § 65A-8-215 Wildland-urban interface fire prevention, preparedness, and mitigation.
+-------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-215(1): 65A-8-204 As used in this section:
+Utah Code Annotated § 65A-8-215(1)(a): "Prevention, preparedness, and mitigation fund" means the Wildland-urban Interface Prevention, Preparedness, and Mitigation Fund created in this section.
+Utah Code Annotated § 65A-8-215(1)(b): 65A-8-204 "Suppression fund" means the Wildland Fire Suppression Fund created in Section
+Utah Code Annotated § 65A-8-215(1)(c): "Wildland-urban interface" means the zone where structures and other human development meets, or intermingles with, undeveloped wildland.
+Utah Code Annotated § 65A-8-215(2): 63J-1-314; Title 63G, Chapter 3, Utah Administrative Rulemaking Act; 65A-8-203; 65A-8-204
+Utah Code Annotated § 65A-8-215(2)(a): There is created an expendable special revenue fund known as the "Wildland-urban Interface Prevention, Preparedness, and Mitigation Fund."
+Utah Code Annotated § 65A-8-215(2)(b): 63J-1-314 The prevention, preparedness, and mitigation fund shall consist of:
+Utah Code Annotated § 65A-8-215(2)(b)(i): interest and earnings from the investment of money from the prevention, preparedness, and mitigation fund;
+Utah Code Annotated § 65A-8-215(2)(b)(ii): money appropriated by the Legislature; and
+Utah Code Annotated § 65A-8-215(2)(b)(iii): 63J-1-314 money transferred to the prevention, preparedness, and mitigation fund under Section
+Utah Code Annotated § 65A-8-215(2)(c): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; 65A-8-203; 65A-8-204 The division shall administer the prevention, preparedness, and mitigation fund to:
+Utah Code Annotated § 65A-8-215(2)(c)(i): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; 65A-8-203 pay costs of prevention and preparedness efforts on wildland-urban interface within the state, as defined by the division by rule made in accordance with
+Utah Code Annotated § 65A-8-215(2)(c)(ii): issue fire department assistance grants, which in the aggregate may not exceed 10% of the money in the prevention, preparedness, and mitigation fund each fiscal year; and
+Utah Code Annotated § 65A-8-215(2)(c)(iii): 65A-8-204 in cases of catastrophic need as determined by the state forester, pay costs that could be paid from the suppression fund under Section
+Utah Code Annotated § 65A-8-215(2)(d): Disbursements from the prevention, preparedness, and mitigation fund may only be made upon written order of the state forester or the state forester's authorized representative.
+Utah Code Annotated § 65A-8-215(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; 65A-8-203
+Utah Code Annotated § 65A-8-215(3)(a): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The division may by rule, made in accordance with
+Utah Code Annotated § 65A-8-215(3)(a)(i): qualitative and quantitative; and
+Utah Code Annotated § 65A-8-215(3)(a)(ii): leads to reduced wildfire risk.
+Utah Code Annotated § 65A-8-215(3)(b): 65A-8-203 An eligible entity, as defined in Section
+
+
+Utah Code Annotated § 65A-8-301 Legislative finding and purpose.
+----------------------------------------------------------------
+Utah Code Annotated § 65A-8-301(1): The Legislature finds the health and welfare of the people of the state require the preservation of certain rare, or threatened, or vanishing species of trees to preserve the state's scenic beauty and preserve its historic past as it relates to such trees.
+Utah Code Annotated § 65A-8-301(2): It is the intent of this part to retain as many heritage trees as possible consistent with the reasonable and economic enjoyment of private property.
+
+
+Utah Code Annotated § 65A-8-302 Definitions.
+--------------------------------------------
+As used in this part:Utah Code Annotated § 65A-8-302(1): "Alter" means to change the configuration of a heritage tree by pruning, trimming, topping, cutting, or by any other means.
+Utah Code Annotated § 65A-8-302(2): "Committee" means the Heritage Trees Advisory Committee.
+Utah Code Annotated § 65A-8-302(3): "Division" means the Division of Forestry, Fire, and State Lands.
+Utah Code Annotated § 65A-8-302(4): "Heritage tree" means any tree or group of trees designated as such by the division, in accordance with the following criteria:
+Utah Code Annotated § 65A-8-302(4)(a): any live tree or group of trees indigenous to the state, or which has adapted exceptionally well to the climatic conditions of the state, or is one of a kind;
+Utah Code Annotated § 65A-8-302(4)(b): any tree or group of trees that has exceptional national, state, or local historic significance;
+Utah Code Annotated § 65A-8-302(4)(c): any tree or group of trees which has an exceptional size or exceptional form for its species;
+Utah Code Annotated § 65A-8-302(4)(d): any tree or group of trees which has an exceptional age for its species; or
+Utah Code Annotated § 65A-8-302(4)(e): any tree or group of trees in the state which is the sole representative of its species.
+Utah Code Annotated § 65A-8-302(5): "Person" means any individual, partnership, corporation, or association.
+
+
+Utah Code Annotated § 65A-8-303 Application to alter or remove trees.
+---------------------------------------------------------------------
+Utah Code Annotated § 65A-8-303(1): Any person that desires to alter or remove one or more heritage trees from any public property within this state shall before altering or removing any such tree make application to the division on forms prescribed by it.
+Utah Code Annotated § 65A-8-303(2): An application for alteration or removal shall be filed with the division at least 60 days before the actual alteration or removal of any such trees.
+Utah Code Annotated § 65A-8-303(3): The application shall state:
+Utah Code Annotated § 65A-8-303(3)(a): the name of the applicant;
+Utah Code Annotated § 65A-8-303(3)(b): the number, location, and species of the trees proposed to be altered or removed;
+Utah Code Annotated § 65A-8-303(3)(c): the reason for alteration or removal; and
+Utah Code Annotated § 65A-8-303(3)(d): other information as the division may reasonably require.
+
+
+Utah Code Annotated § 65A-8-304 Guidelines and standards for granting or denying applications to alter or remove trees.
+-----------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-304(1): The committee shall develop published guidelines and standards to be used by the board in granting or denying applications for the alteration or removal of heritage trees.
+Utah Code Annotated § 65A-8-304(2): In addition to the guidelines and standards developed by the committee, the division shall consider the following criteria in granting or denying an application:
+Utah Code Annotated § 65A-8-304(2)(a): the physical condition of the heritage tree or trees with respect to:
+Utah Code Annotated § 65A-8-304(2)(a)(i): insect infestation;
+Utah Code Annotated § 65A-8-304(2)(a)(ii): disease;
+Utah Code Annotated § 65A-8-304(2)(a)(iii): danger of falling;
+Utah Code Annotated § 65A-8-304(2)(a)(iv): proximity to existing or proposed structures; and
+Utah Code Annotated § 65A-8-304(2)(a)(v): interference with utility services;
+Utah Code Annotated § 65A-8-304(2)(b): the necessity of alteration or removal of the heritage tree or trees in order to construct proposed improvements and allow economic enjoyment of property;
+Utah Code Annotated § 65A-8-304(2)(c): the topography of the land and the effect of removal of the heritage tree or trees on:
+Utah Code Annotated § 65A-8-304(2)(c)(i): erosion;
+Utah Code Annotated § 65A-8-304(2)(c)(ii): soil retention; and
+Utah Code Annotated § 65A-8-304(2)(c)(iii): the diversion or increased flow of surface waters resultant upon alteration or removal;
+Utah Code Annotated § 65A-8-304(2)(d): the number of heritage trees existing in the neighborhood on improved property;
+Utah Code Annotated § 65A-8-304(2)(e): the effect alteration or removal would have on established standards and property values in the area; and
+Utah Code Annotated § 65A-8-304(2)(f): the number of heritage trees the particular parcel can support according to good forestry practices.
+
+
+Utah Code Annotated § 65A-8-305 Powers of division.
+---------------------------------------------------
+The division may:Utah Code Annotated § 65A-8-305(1): grant or deny applications for designation of heritage trees from individuals, local shade tree commissions, or local governments;
+Utah Code Annotated § 65A-8-305(2): grant or deny applications for alteration or removal of heritage trees;
+Utah Code Annotated § 65A-8-305(3): acquire land if one or more heritage trees are located on the land;
+Utah Code Annotated § 65A-8-305(4): accept gifts, bequests, or donations; and
+Utah Code Annotated § 65A-8-305(5): determine policies necessary to carry out this part.
+
+
+Utah Code Annotated § 65A-8-306 Heritage Trees Advisory Committee -- Members -- Officers -- Expenses -- Functions.
+------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-306(1): There is created a Heritage Trees Advisory Committee composed of five persons appointed by the division from among persons who are members of the Utah Community Forestry Council.
+Utah Code Annotated § 65A-8-306(2): (2)(b); (2)(a)
+Utah Code Annotated § 65A-8-306(2)(a): (2)(b) Except as required by Subsection
+Utah Code Annotated § 65A-8-306(2)(b): (2)(a) Notwithstanding the requirements of Subsection
+Utah Code Annotated § 65A-8-306(3): When a vacancy occurs in the membership for any reason, the replacement shall be appointed for the unexpired term.
+Utah Code Annotated § 65A-8-306(4): 
+Utah Code Annotated § 65A-8-306(4)(a): The committee shall elect a chair who is responsible to call and conduct meetings.
+Utah Code Annotated § 65A-8-306(4)(b): Three members present at a duly called meeting constitute a quorum for the transaction of official business.
+Utah Code Annotated § 65A-8-306(4)(c): Members of the committee may meet as often as considered necessary.
+Utah Code Annotated § 65A-8-306(4)(d): The urban forestry staff person of the division shall serve as secretary to the committee.
+Utah Code Annotated § 65A-8-306(5): 63A-3-106; 63A-3-107; 63A-3-106; 63A-3-107 A member may not receive compensation or benefits for the member's service, but may receive per diem and travel expenses in accordance with:
+Utah Code Annotated § 65A-8-306(5)(a): 63A-3-106 Section
+Utah Code Annotated § 65A-8-306(5)(b): 63A-3-107 Section
+Utah Code Annotated § 65A-8-306(5)(c): 63A-3-106; 63A-3-107 rules made by the Division of Finance pursuant to Sections
+Utah Code Annotated § 65A-8-306(6): The committee shall:
+Utah Code Annotated § 65A-8-306(6)(a): publish guidelines for division use in granting or denying applications for the designation of heritage trees;
+Utah Code Annotated § 65A-8-306(6)(b): publish an annual register of designated heritage trees and distribute it to public utilities, tree service companies, municipal forestry and parks departments, and the public; and
+Utah Code Annotated § 65A-8-306(6)(c): develop a system for visibly identifying designated heritage trees.
+
+
+Utah Code Annotated § 65A-8-307 Exemption for emergency or permit.
+------------------------------------------------------------------
+This part shall not apply to any emergency when heritage trees constitute a danger to life or property, or to any person whose application for alteration or removal of a heritage tree has been granted by the division.
+
+Utah Code Annotated § 65A-8-308 Enforcement -- Prosecution of violations.
+-------------------------------------------------------------------------
+Utah Code Annotated § 65A-8-308(1): County sheriffs, police, and other law enforcement officers within their respective jurisdictions are responsible for the enforcement of this part.
+Utah Code Annotated § 65A-8-308(2): The county attorney or district attorney shall prosecute any violation of this part.
+
+
+Utah Code Annotated § 65A-8-309 Injury -- Violation of part -- Misdemeanor.
+---------------------------------------------------------------------------
+Any person who intentionally or knowingly alters, injures, damages, or causes death of a heritage tree or who otherwise violates this part is guilty of a class B misdemeanor.
+
+Utah Code Annotated - Title 65A - Chapter 8a - Utah Forest Practices Act
+************************************************************************
+
+Utah Code Annotated § 65A-8a-101 Title.
+---------------------------------------
+This chapter is known as the "Utah Forest Practices Act."
+
+Utah Code Annotated § 65A-8a-102 Definitions.
+---------------------------------------------
+As used in this chapter:Utah Code Annotated § 65A-8a-102(1): "Commercial tree species" means:
+Utah Code Annotated § 65A-8a-102(1)(a): Abies concolor (white fir);
+Utah Code Annotated § 65A-8a-102(1)(b): Abies lasiocarpa (subalpine fir);
+Utah Code Annotated § 65A-8a-102(1)(c): Juniperus osteosperma (Utah juniper);
+Utah Code Annotated § 65A-8a-102(1)(d): Juniperus scopulorum (Rocky Mountain juniper);
+Utah Code Annotated § 65A-8a-102(1)(e): Picea engelmannii (Engelmann spruce);
+Utah Code Annotated § 65A-8a-102(1)(f): Picea pungens (blue spruce);
+Utah Code Annotated § 65A-8a-102(1)(g): Pinus contorta (lodgepole pine);
+Utah Code Annotated § 65A-8a-102(1)(h): Pinus edulis (pi
+Utah Code Annotated § 65A-8a-102(1)(i): Pinus flexilis (limber pine);
+Utah Code Annotated § 65A-8a-102(1)(j): Pinus longaeva (bristlecone pine);
+Utah Code Annotated § 65A-8a-102(1)(k): Pinus monophylla (singleleaf pi
+Utah Code Annotated § 65A-8a-102(1)(l): Pinus ponderosa (ponderosa pine);
+Utah Code Annotated § 65A-8a-102(1)(m): Populous tremuloides (quaking aspen);
+Utah Code Annotated § 65A-8a-102(1)(n): Pseudotsuga menziesii (Douglas fir); or
+Utah Code Annotated § 65A-8a-102(1)(o): Quercus gambelii (gambel oak).
+Utah Code Annotated § 65A-8a-102(2): (2)(b)
+Utah Code Annotated § 65A-8a-102(2)(a): (2)(b) "Forest practice" means, except as provided in Subsection
+Utah Code Annotated § 65A-8a-102(2)(a)(i): the harvesting of commercial tree species;
+Utah Code Annotated § 65A-8a-102(2)(a)(ii): new road construction associated with harvesting or accessing trees;
+Utah Code Annotated § 65A-8a-102(2)(a)(iii): site preparation for regeneration of a timber stand;
+Utah Code Annotated § 65A-8a-102(2)(a)(iv): reforestation; or
+Utah Code Annotated § 65A-8a-102(2)(a)(v): the management of logging slash.
+Utah Code Annotated § 65A-8a-102(2)(b): "Forest practice" does not include:
+Utah Code Annotated § 65A-8a-102(2)(b)(i): the operation of a nursery or Christmas tree farm;
+Utah Code Annotated § 65A-8a-102(2)(b)(ii): the harvest of Christmas trees;
+Utah Code Annotated § 65A-8a-102(2)(b)(iii): the harvest of trees for the noncommercial, personal use by the owner of forested land from which the trees are harvested;
+Utah Code Annotated § 65A-8a-102(2)(b)(iv): a harvesting operation encompassing fewer than five contiguous acres of forested land;
+Utah Code Annotated § 65A-8a-102(2)(b)(v): clearing land for defensible space in a wildland-urban interface; or
+Utah Code Annotated § 65A-8a-102(2)(b)(vi): fuel reduction for a wildland-urban interface or hazardous fuel reduction project.
+Utah Code Annotated § 65A-8a-102(3): "Forested land" means land, except land owned by the federal government or located within an incorporated city, growing commercial tree species that are, or could be at maturity, capable of furnishing raw material used in the manufacture of lumber or other forest products.
+Utah Code Annotated § 65A-8a-102(4): "Forest Water Quality Guidelines" means the field-applicable practice guidelines adopted by the division for use during forestry activities to protect water quality and contained within a nonpoint source management plan.
+Utah Code Annotated § 65A-8a-102(5): "Landowner" means a person who holds an ownership interest in forested land.
+Utah Code Annotated § 65A-8a-102(6): "Operator" means a person who:
+Utah Code Annotated § 65A-8a-102(6)(a): is responsible for conducting forest practices; or
+Utah Code Annotated § 65A-8a-102(6)(b): through a contractual agreement with the landowner, is obligated to or entitled to conduct forest practices or to carry out a timber sale.
+Utah Code Annotated § 65A-8a-102(7): "Wildland-urban interface" means the zone where structures and other human development meets, or intermingles with, undeveloped wildland.
+
+
+Utah Code Annotated § 65A-8a-103 Registration of operators.
+-----------------------------------------------------------
+Utah Code Annotated § 65A-8a-103(1): An operator intending to conduct forest practices in Utah, except a landowner conducting forest practices on the landowner's own land, shall register with the division.
+Utah Code Annotated § 65A-8a-103(2): The operator shall submit the following information to the division:
+Utah Code Annotated § 65A-8a-103(2)(a): the name of the company;
+Utah Code Annotated § 65A-8a-103(2)(b): the name of the state where the company is incorporated; and
+Utah Code Annotated § 65A-8a-103(2)(c): the name, telephone number, and address of a company officer and an on-the-ground supervisor.
+Utah Code Annotated § 65A-8a-103(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act In consultation with industry representatives, the division may establish, by rule, minimum requirements for registration of operators in accordance with
+Utah Code Annotated § 65A-8a-103(4): The division shall make available to landowners a list of registered operators.
+
+
+Utah Code Annotated § 65A-8a-104 Notification of intent to conduct forest practices.
+------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8a-104(1): No later than 30 days before an operator commences forest practices, the operator shall notify the division of the operator's intent to conduct forest practices.
+Utah Code Annotated § 65A-8a-104(2): The notification shall include:
+Utah Code Annotated § 65A-8a-104(2)(a): the name and address of the operator;
+Utah Code Annotated § 65A-8a-104(2)(b): the name, address, and other current contact information of the landowner;
+Utah Code Annotated § 65A-8a-104(2)(c): a legal description of the area in which the forest practices are to be conducted;
+Utah Code Annotated § 65A-8a-104(2)(d): a description of the proposed forest practices to be conducted, including the number of acres with timber to be harvested; and
+Utah Code Annotated § 65A-8a-104(2)(e): an agreement granting the state forestry personnel permission to enter the area in which the forest practices are to be conducted to conduct an inspection, when the state forestry personnel reasonably consider an inspection necessary to ensure compliance with this chapter.
+Utah Code Annotated § 65A-8a-104(3): Upon the receipt of notification, the division shall, within 10 days, mail to the landowner and the operator:
+Utah Code Annotated § 65A-8a-104(3)(a): an acknowledgment of notification;
+Utah Code Annotated § 65A-8a-104(3)(b): information on Forest Water Quality Guidelines; and
+Utah Code Annotated § 65A-8a-104(3)(c): any other information the division believes would assist the landowner and operator in conducting forest practices.
+Utah Code Annotated § 65A-8a-104(4): (4)(b)
+Utah Code Annotated § 65A-8a-104(4)(a): Failure to notify the division in accordance with this section is a class B misdemeanor.
+Utah Code Annotated § 65A-8a-104(4)(b): The division may file an action in the district court of any county in which the area in which the forest practices are to be conducted is located to enjoin an operator engaged in conduct violating this chapter from operating until the operator complies with this chapter.
+Utah Code Annotated § 65A-8a-104(4)(c): (4)(b) In an action by the division in accordance with Subsection
+
+
+Utah Code Annotated § 65A-8a-105 Division to promote implementation of Forest Water Quality Guidelines.
+-------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8a-105(1): The division shall promote implementation of Forest Water Quality Guidelines before, during, and after the conduct of forest practices on forested land in order to:
+Utah Code Annotated § 65A-8a-105(1)(a): preserve water quality and soil stability;
+Utah Code Annotated § 65A-8a-105(1)(b): prevent the hazard of fire and insect infestation;
+Utah Code Annotated § 65A-8a-105(1)(c): minimize waste of timber resources; and
+Utah Code Annotated § 65A-8a-105(1)(d): protect the regenerative and productive capacity of forested land.
+Utah Code Annotated § 65A-8a-105(2): The division, in cooperation with Utah State University Extension Services:
+Utah Code Annotated § 65A-8a-105(2)(a): shall implement a program to develop demonstration areas, books, brochures, informational material, seminars and workshops, and other aids to display correct application of the Forest Water Quality Guidelines; and
+Utah Code Annotated § 65A-8a-105(2)(b): may aid private landowners by providing technical assistance to landowners and operators in implementing Forest Water Quality Guidelines.
+
+
+Utah Code Annotated § 65A-8a-106 Division to provide technical assistance -- Administrative rules.
+--------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-8a-106(1): The division may provide:
+Utah Code Annotated § 65A-8a-106(1)(a): advice and technical assistance to landowners and operators by:
+Utah Code Annotated § 65A-8a-106(1)(a)(i): developing forest stewardship plans;
+Utah Code Annotated § 65A-8a-106(1)(a)(ii): developing harvest or forest management plans; and
+Utah Code Annotated § 65A-8a-106(1)(a)(iii): developing programs and activities promoting stewardship of forest and other lands;
+Utah Code Annotated § 65A-8a-106(1)(b): information about tax incentives or other financial incentives designed to enhance the productive potential of forested land; or
+Utah Code Annotated § 65A-8a-106(1)(c): federal cost-share incentives to eligible nonindustrial, private forest landowners, if available.
+Utah Code Annotated § 65A-8a-106(2): The division, in cooperation with Utah State University Extension Services, shall:
+Utah Code Annotated § 65A-8a-106(2)(a): develop and implement a public education and awareness program to inform citizens about the benefits of long-term stewardship of forest and other lands; and
+Utah Code Annotated § 65A-8a-106(2)(b): provide technical assistance to landowners in developing management plans that may be required for financial incentive programs.
+Utah Code Annotated § 65A-8a-106(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The division shall make rules, in accordance with
+
+
+Utah Code Annotated - Title 65A - Chapter 9 - Management of Range Resources
+***************************************************************************
+
+Utah Code Annotated § 65A-9-1 Responsibility of division to manage range resources.
+-----------------------------------------------------------------------------------
+Utah Code Annotated § 65A-9-1(1): The division is responsible for the efficient management of all range resources on lands under its administration.
+Utah Code Annotated § 65A-9-1(2): Its management shall be based on sound conservation principles, including practices to improve range conditions.
+
+
+Utah Code Annotated § 65A-9-2 Grazing leases -- Maximum term -- Treatment of leases on federal lands acquired by the state.
+---------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-9-2(1): The division may issue grazing leases on state lands under terms and conditions established by rule.
+Utah Code Annotated § 65A-9-2(2): Those terms shall be based on the fair market value of the lease.
+Utah Code Annotated § 65A-9-2(3): No lease may be for a term in excess of 15 years.
+Utah Code Annotated § 65A-9-2(4): The division shall determine the number and kind of stock that may be grazed each year on state land, and regulate the number of days that the land may be grazed.
+Utah Code Annotated § 65A-9-2(5): 
+Utah Code Annotated § 65A-9-2(5)(a): Upon selecting, exchanging, or otherwise acquiring lands of the United States, the division shall honor all leases, permits, contracts, and terms and conditions of user agreements on United States' lands, including permitted stocking rates, grazing fee levels, access rights, and all existing activities that currently or historically have dictated an understanding of usage between the land user and the federal government.
+Utah Code Annotated § 65A-9-2(5)(b): Improvements by the permittee or lessee to the land shall be honored by the state in the acquisition of federal lands.
+
+
+Utah Code Annotated § 65A-9-3 Authority of division to control noxious weeds, plant species, and insects.
+---------------------------------------------------------------------------------------------------------
+The division may enter into cooperative agreements with other public agencies and private landowners for the control of noxious weeds, new and invading plant species, insects, and disease infestations on state-owned and adjacent lands.
+
+Utah Code Annotated - Title 65A - Chapter 10 - Management of Sovereign Lands
+****************************************************************************
+
+Utah Code Annotated § 65A-10-1 Authority of division to manage sovereign lands.
+-------------------------------------------------------------------------------
+Utah Code Annotated § 65A-10-1(1): Title 73, Chapter 32, Great Salt Lake Commissioner Act Subject to
+Utah Code Annotated § 65A-10-1(2): Nothing in this section shall be construed as asserting state ownership of the beds of nonnavigable lakes, bays, rivers, or streams.
+Utah Code Annotated § 65A-10-1(3): 65A-7-5(5) A lease for the construction of a highway facility over sovereign lakebed lands shall comply with the requirements described in Subsection
+
+
+Utah Code Annotated § 65A-10-2 Recreational use of sovereign lands.
+-------------------------------------------------------------------
+Utah Code Annotated § 65A-10-2(1): The division, with the approval of the executive director of the Department of Natural Resources and the governor, may set aside for public or recreational use any part of the lands claimed by the state as the beds of lakes or streams.
+Utah Code Annotated § 65A-10-2(2): Management of those lands may be delegated to the Division of State Parks, the Division of Outdoor Recreation, the Division of Wildlife Resources, or any other state agency.
+
+
+Utah Code Annotated § 65A-10-3 Establishment of sovereign land boundaries.
+--------------------------------------------------------------------------
+Utah Code Annotated § 65A-10-3(1): The division, after consultation with the attorney general and affected state agencies, shall develop plans for the resolution of disputes over the location of sovereign land boundaries.
+Utah Code Annotated § 65A-10-3(2): The division, after notice to affected state agencies and any person with an ownership interest in the land, may enter into agreements with owners of land adjoining navigable lakes and streams to establish sovereign land boundaries.
+
+
+Utah Code Annotated § 65A-10-201 Definitions.
+---------------------------------------------
+As used in this part:Utah Code Annotated § 65A-10-201(1): "Adaptive management berm" means a berm installed in the UP causeway breach to manage salinity to protect the ecosystem of Gilbert Bay.
+Utah Code Annotated § 65A-10-201(2): "Emergency trigger" means that the salinity levels of the Gilbert Bay of the Great Salt Lake do not satisfy the ecological conditions required for healthy brine shrimp and brine fly reproduction.
+Utah Code Annotated § 65A-10-201(3): "Healthy physical and ecological condition" means that the Gilbert Bay of the Great Salt Lake has sustained salinity levels that satisfy the ecological conditions required for healthy brine shrimp and brine fly reproduction.
+Utah Code Annotated § 65A-10-201(4): "UP causeway breach" means a breach in the 21-mile Union Pacific Railroad causeway across the Great Salt Lake that separates the Great Salt Lake into Gunnison Bay and Gilbert Bay.
+
+
+Utah Code Annotated § 65A-10-202 Legislative findings.
+------------------------------------------------------
+The Legislature finds that:Utah Code Annotated § 65A-10-202(1): 65A-10-1 under Section
+Utah Code Annotated § 65A-10-202(2): the Great Salt Lake is a critical resource owned and managed by the state;
+Utah Code Annotated § 65A-10-202(3): the lake levels of the Great Salt Lake have reached historic lows, requiring action by the state to address significant risks and minimize dangers to protect the ecological integrity of the Great Salt Lake, the state's environment in general, and the welfare of the state's citizens; and
+Utah Code Annotated § 65A-10-202(4): (3) the management of the Great Salt Lake under this part, especially if the emergency trigger is reached, is reasonable and necessary to serve important public purposes and no reasonable alternative meets the interests described in Subsection
+
+
+Utah Code Annotated § 65A-10-203 Great Salt Lake -- Management responsibilities of the division.
+------------------------------------------------------------------------------------------------
+The division has the following powers and duties:Utah Code Annotated § 65A-10-203(1): Title 63G, Chapter 3, Utah Administrative Rulemaking Act The division shall make rules, in accordance with
+Utah Code Annotated § 65A-10-203(1)(a): strategies to effectively and efficiently manage the Great Salt Lake based on the Great Salt Lake's fluctuating lake levels;
+Utah Code Annotated § 65A-10-203(1)(b): development of the Great Salt Lake that balances, in a manner that promotes a healthy physical and ecological condition:
+Utah Code Annotated § 65A-10-203(1)(b)(i): migratory and shorebirds habitats;
+Utah Code Annotated § 65A-10-203(1)(b)(ii): wetlands;
+Utah Code Annotated § 65A-10-203(1)(b)(iii): brines, minerals, chemicals, and petro-chemicals;
+Utah Code Annotated § 65A-10-203(1)(b)(iv): brine shrimp;
+Utah Code Annotated § 65A-10-203(1)(b)(v): the protection of wildlife and wildlife habitat;
+Utah Code Annotated § 65A-10-203(1)(b)(vi): the protection of recreational access and facilities; and
+Utah Code Annotated § 65A-10-203(1)(b)(vii): search and rescue efforts;
+Utah Code Annotated § 65A-10-203(1)(c): promote water quality management for the Great Salt Lake and the Great Salt Lake's tributary streams;
+Utah Code Annotated § 65A-10-203(1)(d): public access to the Great Salt Lake for recreation, hunting, and fishing;
+Utah Code Annotated § 65A-10-203(1)(e): temperature moderation, a stable role in the water cycle, and dust mitigation;
+Utah Code Annotated § 65A-10-203(1)(f): maintain the Great Salt Lake's flood plain as a hazard zone;
+Utah Code Annotated § 65A-10-203(1)(g): maintain the Great Salt Lake and the marshes as important shorebirds, waterfowl, and other waterbird flyway system;
+Utah Code Annotated § 65A-10-203(1)(h): promote and maintain recreation areas on and surrounding the Great Salt Lake; and
+Utah Code Annotated § 65A-10-203(1)(i): maintain and protect state, federal, and private marshlands, rookeries, and wildlife refuges.
+Utah Code Annotated § 65A-10-203(2): (1); (1) The division shall prepare and maintain a comprehensive management plan for the Great Salt Lake that is consistent with the public trust values and public interest benefits described in Subsection
+Utah Code Annotated § 65A-10-203(3): The division may employ personnel and purchase equipment and supplies that the Legislature authorizes through appropriations for the purposes of this chapter.
+Utah Code Annotated § 65A-10-203(4): The division may initiate studies of the Great Salt Lake and the Great Salt Lake's related resources.
+Utah Code Annotated § 65A-10-203(5): The division may publish scientific and technical information concerning the Great Salt Lake.
+Utah Code Annotated § 65A-10-203(6): The division shall define the Great Salt Lake's flood plain.
+Utah Code Annotated § 65A-10-203(7): The division may qualify for, accept, and administer grants, gifts, or other funds from the federal government and other sources, for carrying out any functions under this chapter.
+Utah Code Annotated § 65A-10-203(8): The division shall determine the need for public works and utilities for the lake area.
+Utah Code Annotated § 65A-10-203(9): (2) The division may implement the comprehensive plan described in Subsection
+Utah Code Annotated § 65A-10-203(10): The division shall coordinate the activities of the various divisions within the Department of Natural Resources with respect to the Great Salt Lake.
+Utah Code Annotated § 65A-10-203(11): The division shall retain and encourage the continued activity of the Great Salt Lake technical team.
+Utah Code Annotated § 65A-10-203(12): Chapter 16, Great Salt Lake Watershed Enhancement Program The division shall administer
+Utah Code Annotated § 65A-10-203(13): 65A-10-204 The division shall administer Section
+Utah Code Annotated § 65A-10-203(14): The division shall manage the adaptive management berm in the UP causeway breach to manage salinity to protect the ecosystem of Gilbert Bay. Unless salinity conditions in Gilbert Bay warrant raising the adaptive management berm, the policy of the state is to keep the UP causeway breach open so as to allow the exchange of water between Gilbert and Gunnison Bays.
+Utah Code Annotated § 65A-10-203(15): (1); (14) The division may perform acts other than those described in Subsections
+Utah Code Annotated § 65A-10-203(16): This part may not be interpreted to override, supersede, or modify any water right within the state, or the role and authority of the state engineer.
+
+
+Utah Code Annotated § 65A-10-204 Emergency management responsibilities of the division.
+---------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-10-204(1): Title 63G, Chapter 6a, Utah Procurement Code When the Great Salt Lake reaches the emergency trigger, the division:
+Utah Code Annotated § 65A-10-204(1)(a): may construct, operate, modify, and maintain the adaptive management berm;
+Utah Code Annotated § 65A-10-204(1)(b): may construct, operate, modify, and maintain one or more additional berms, dikes, structures, or management systems consistent with the authority granted in this title;
+Utah Code Annotated § 65A-10-204(1)(c): may enter into agreements as necessary to provide for all or a portion of a berm, dike, system, or structure;
+Utah Code Annotated § 65A-10-204(1)(d): Title 63G, Chapter 6a, Utah Procurement Code is exempt from
+Utah Code Annotated § 65A-10-204(1)(e): is not liable for a third-party claim resulting from the division's actions to manage the Great Salt Lake under this section;
+Utah Code Annotated § 65A-10-204(1)(f): may decline to issue a new permit, authorization, or agreement and may curtail mineral production for leases that contain provisions contemplating curtailment or similar contractual remedies;
+Utah Code Annotated § 65A-10-204(1)(g): may implement mineral lease withdrawal over one or more of the following:
+Utah Code Annotated § 65A-10-204(1)(g)(i): portions of the Great Salt Lake;
+Utah Code Annotated § 65A-10-204(1)(g)(ii): specific methods of extraction; or
+Utah Code Annotated § 65A-10-204(1)(g)(iii): specific minerals; and
+Utah Code Annotated § 65A-10-204(1)(h): may require the implementation of one or more of the following:
+Utah Code Annotated § 65A-10-204(1)(h)(i): extraction methods that are non-depletive in nature;
+Utah Code Annotated § 65A-10-204(1)(h)(ii): mitigation to offset depletion; or
+Utah Code Annotated § 65A-10-204(1)(h)(iii): innovative extraction technologies.
+Utah Code Annotated § 65A-10-204(2): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; (1) The division shall make rules in accordance with
+
+
+Utah Code Annotated § 65A-10-205 Force majeure.
+-----------------------------------------------
+Utah Code Annotated § 65A-10-205(1): For purposes of managing the Great Salt Lake, the division may treat the fact that the Great Salt Lake has reached the emergency trigger as a triggering event for the purposes of invoking a force majeure provision in a contract, mineral lease, or royalty agreement.
+Utah Code Annotated § 65A-10-205(2): In addition to the standard mechanisms whereby performance is excused by invocation of a force majeure provision, the division shall include language in a contract, mineral lease, or royalty agreement whereby the division may curtail or prohibit mineral production that results in a net depletion of water.
+Utah Code Annotated § 65A-10-205(3): The division shall allow an operator to continue processing brines that have already been extracted from the Great Salt Lake that are residing in the operator's process, and selling products derived from brines that have already been extracted at the time the force majeure is invoked.
+Utah Code Annotated § 65A-10-205(4): The division shall include standard mechanisms to promptly waive force majeure once salinity conditions improve by declining below the emergency trigger threshold.
+Utah Code Annotated § 65A-10-205(5): If the division invokes a force majeure provision in a contract, mineral lease, or royalty agreement, the effected operator is relieved from performance of any contractual provision requiring production to hold the contract, mineral lease, or royalty agreement for a maximum of two years. If the conditions creating the emergency trigger persist beyond a two-year period, the division shall terminate the contract, mineral lease, or royalty agreement and require the operator to engage in new contractual agreements whereby the operator represents and warrants that future operations will not amount to a net depletion of water.
+
+
+Utah Code Annotated - Title 65A - Chapter 11 - Flood Control and Prevention
+***************************************************************************
+
+Utah Code Annotated § 65A-11-1 Authority of division to control and prevent floods.
+-----------------------------------------------------------------------------------
+Utah Code Annotated § 65A-11-1(1): The division may authorize surveys of any state lands or other areas of the state for the purpose of controlling and preventing floods.
+Utah Code Annotated § 65A-11-1(2): If after a survey the division concludes that floods are likely to affect any state lands, and will endanger life, health, or property, then the division shall take action necessary to control or to prevent the occurrence of those floods.
+Utah Code Annotated § 65A-11-1(3): For the purpose of controlling and preventing floods, the division may cooperate with public and private entities.
+Utah Code Annotated § 65A-11-1(4): The division may authorize construction of necessary control works on a basis of equitable participation and for these purposes may acquire any additional lands, necessary for the control or the prevention of the floods, either by purchase, exchange, lease, condemnation, or gift.
+Utah Code Annotated § 65A-11-1(5): The division may transfer these lands to any existing agencies or agencies created to maintain prevention or control works.
+Utah Code Annotated § 65A-11-1(6): The division may cooperate with the federal government in acquiring watershed lands becoming barren and susceptible to flooding.
+
+
+Utah Code Annotated - Title 65A - Chapter 12 - Lands Granted Under the Carey Act
+********************************************************************************
+
+Utah Code Annotated § 65A-12-1 Authority of division to manage lands granted under the Carey Act.
+-------------------------------------------------------------------------------------------------
+The selection, management, and disposal of lands granted by Congress under the Carey Act is vested in the division, which is authorized to make rules and contracts necessary to carry out the provisions of this chapter.
+
+Utah Code Annotated § 65A-12-2 Reclamation Trust Fund -- Carey Act Expense Fund.
+--------------------------------------------------------------------------------
+Utah Code Annotated § 65A-12-2(1): 
+Utah Code Annotated § 65A-12-2(1)(a): All money received by the division from the sale of lands selected under this chapter shall be deposited with the state treasurer.
+Utah Code Annotated § 65A-12-2(1)(b): Any sums necessary shall be available for the payment of the expenses of the division in carrying out the provisions of this chapter.
+Utah Code Annotated § 65A-12-2(2): 
+Utah Code Annotated § 65A-12-2(2)(a): Any balance remaining over and above the expenses necessary to carry out the provisions of this chapter shall constitute a trust fund to be used only for the reclamation of other arid lands.
+Utah Code Annotated § 65A-12-2(2)(b): 
+Utah Code Annotated § 65A-12-2(2)(b)(i): Until there is sufficient money in the Reclamation Trust Fund, the expenses of the division in carrying out the provisions of this chapter may be paid from a Carey Act Expense Fund to be appropriated by the Legislature.
+Utah Code Annotated § 65A-12-2(2)(b)(ii): The Division of Finance shall register claims paid out of the expense fund in the order of their presentation.
+Utah Code Annotated § 65A-12-2(2)(c): Whenever, except as provided in this chapter, money in the reclamation trust fund equals a claim which has been paid out of the Carey Act Expense Fund, the Division of Finance shall draw a warrant on the reclamation fund to reimburse the state for sums that have been paid out of the Carey Act Expense Fund.
+Utah Code Annotated § 65A-12-2(3): 
+Utah Code Annotated § 65A-12-2(3)(a): The division shall draw by requisition on the Division of Finance the sums necessary to pay the United States in order to obtain patent to lands accepted in this chapter.
+Utah Code Annotated § 65A-12-2(3)(b): The Division of Finance shall draw this warrant on the Reclamation Trust Fund giving precedence to sums to be paid to the United States over warrants to reimburse the state for expenses.
+
+
+Utah Code Annotated § 65A-12-3 Water rights to be appurtenant to land -- Lien for purchase price -- Foreclosure and redemption.
+-------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-12-3(1): 
+Utah Code Annotated § 65A-12-3(1)(a): The water rights to all lands acquired under this chapter shall attach to and become appurtenant to the land as soon as the title passes from the United States to the state.
+Utah Code Annotated § 65A-12-3(1)(b): Any person furnishing water for any tract of land so acquired shall have a first and prior lien on those water rights and land upon which the water is used for all deferred payments for such water rights.
+Utah Code Annotated § 65A-12-3(1)(c): The lien is to be in all respects prior to any and all other liens created or attempted to be created by the owner and possessor of the land.
+Utah Code Annotated § 65A-12-3(1)(d): The lien shall remain in force and effect until the last deferred payment for the water rights is fully paid and settled according to the terms of the contract under which such water rights were acquired.
+Utah Code Annotated § 65A-12-3(2): 
+Utah Code Annotated § 65A-12-3(2)(a): The contract for the water rights upon which the lien is founded shall be recorded in the office of the county recorder of the county where the land is situated.
+Utah Code Annotated § 65A-12-3(2)(b): Upon default of any deferred payments secured by any lien under this chapter, the person holding the lien may foreclose the lien according to the terms and conditions of the contract granting and selling to the settler the water rights.
+Utah Code Annotated § 65A-12-3(2)(c): Foreclosure shall be in the manner in which mortgages are foreclosed in this state.
+Utah Code Annotated § 65A-12-3(2)(d): The settler shall have the right, within one year from the date of foreclosure as provided in this section, to redeem the land and water rights, by payment of the sum of deferred payment with interest at not to exceed 12% per annum, with accrued cost of maintenance.
+
+
+Utah Code Annotated - Title 65A - Chapter 14 - Utah Bioprospecting Act
+**********************************************************************
+
+Utah Code Annotated § 65A-14-101 Title.
+---------------------------------------
+This chapter is known as the "Utah Bioprospecting Act."
+
+Utah Code Annotated § 65A-14-102 Definitions.
+---------------------------------------------
+As used in this chapter:Utah Code Annotated § 65A-14-102(1): 
+Utah Code Annotated § 65A-14-102(1)(a): "Bioprospecting" means the removal from a natural environment for research or commercial use of:
+Utah Code Annotated § 65A-14-102(1)(a)(i): a naturally occurring microorganism, plant, or fungus; or
+Utah Code Annotated § 65A-14-102(1)(a)(ii): information concerning a naturally occurring microorganism's, plant's, or fungus' physical or genetic properties.
+Utah Code Annotated § 65A-14-102(1)(b): "Bioprospecting" does not include:
+Utah Code Annotated § 65A-14-102(1)(b)(i): horticultural cultivation, except for horticultural genetic engineering conducted in a manner otherwise constituting bioprospecting;
+Utah Code Annotated § 65A-14-102(1)(b)(ii): an agricultural enterprise;
+Utah Code Annotated § 65A-14-102(1)(b)(iii): a forest and range management practice;
+Utah Code Annotated § 65A-14-102(1)(b)(iv): invasive weed management;
+Utah Code Annotated § 65A-14-102(1)(b)(v): Christmas tree and related sales; or
+Utah Code Annotated § 65A-14-102(1)(b)(vi): incidental removal of a microorganism, plant, or fungus while engaged in bona fide research or commercial enterprises.
+Utah Code Annotated § 65A-14-102(2): 53C-1-103 "Nonfederal public land" means land in the state that:
+Utah Code Annotated § 65A-14-102(2)(a): is not owned, controlled, or held in trust by the federal government; and
+Utah Code Annotated § 65A-14-102(2)(b): 53C-1-103
+Utah Code Annotated § 65A-14-102(2)(b)(i): is owned or controlled by:
+Utah Code Annotated § 65A-14-102(2)(b)(i)(A): the state;
+Utah Code Annotated § 65A-14-102(2)(b)(i)(B): a county, city, or town; or
+Utah Code Annotated § 65A-14-102(2)(b)(i)(C): a governmental entity other than the federal government; or
+Utah Code Annotated § 65A-14-102(2)(b)(ii): 53C-1-103 is school and institutional trust lands, as defined in Section
+
+
+Utah Code Annotated § 65A-14-103 Scope of chapter.
+--------------------------------------------------
+Utah Code Annotated § 65A-14-103(1): This chapter does not modify or replace any other requirement under federal, state, or local law related to an act that under this chapter is considered bioprospecting, including any requirement to obtain the permission of a landowner.
+Utah Code Annotated § 65A-14-103(2): This chapter applies only to non-federal public land.
+
+
+Utah Code Annotated § 65A-14-104 Rulemaking.
+--------------------------------------------
+In accordance with
+
+Utah Code Annotated § 65A-14-201 Registration for bioprospecting.
+-----------------------------------------------------------------
+Utah Code Annotated § 65A-14-201(1): 
+Utah Code Annotated § 65A-14-201(1)(a): On and after July 1, 2011, before engaging in an act of bioprospecting, a person shall register with the division.
+Utah Code Annotated § 65A-14-201(1)(b): A registration under this chapter expires on June 30 of each year.
+Utah Code Annotated § 65A-14-201(2): (3); 63J-1-504 To register with the division or renew a registration, a person shall:
+Utah Code Annotated § 65A-14-201(2)(a): (3) submit a registration form created by the division in accordance with Subsection
+Utah Code Annotated § 65A-14-201(2)(b): 63J-1-504 pay a fee established by the division in accordance with Section
+Utah Code Annotated § 65A-14-201(3): Title 63G, Chapter 3, Utah Administrative Rulemaking Act; 65A-14-202; 65A-14-202 The division shall create, by rule made in accordance with
+Utah Code Annotated § 65A-14-201(3)(a): 65A-14-202 notice of the state's reservation of economic interests provided in Section
+Utah Code Annotated § 65A-14-201(3)(b): 65A-14-202 a statement to be signed by a person who registers that states that the person agrees to negotiate as described in Section
+Utah Code Annotated § 65A-14-201(3)(c): a requirement that the person lists the locations at which the person anticipates bioprospecting during the 12-month period of the registration.
+
+
+Utah Code Annotated § 65A-14-202 Reservation of economic interests -- Agreement to negotiate in good faith.
+-----------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-14-202(1): The right of a person to engage in an act of bioprospecting in this state is subject to the state's reservation of any right the state may have to an economic benefit derived from:
+Utah Code Annotated § 65A-14-202(1)(a): the act of bioprospecting;
+Utah Code Annotated § 65A-14-202(1)(b): a microorganism, plant, or fungus removed from a natural environment in the state; or
+Utah Code Annotated § 65A-14-202(1)(c): information concerning a microorganism's, plant's, or fungus' physical or genetic properties removed from a natural environment in the state.
+Utah Code Annotated § 65A-14-202(2): 65A-14-201; (1) A person may not engage in an act of bioprospecting in this state if the person, as part of the registration required under Section
+
+
+Utah Code Annotated § 65A-14-301 Economic benefits of bioprospecting denied.
+----------------------------------------------------------------------------
+Utah Code Annotated § 65A-14-301(1): 76-6-206 A person who engages in an act of bioprospecting in violation of this chapter is guilty of criminal trespass punishable in accordance with Section
+Utah Code Annotated § 65A-14-301(2): 76-6-206; 65A-14-202 If found guilty of a violation under this chapter, a court may in addition to a penalty imposed under Section
+
+
+Utah Code Annotated - Title 65A - Chapter 15 - Utah Lake Restoration Act
+************************************************************************
+
+Utah Code Annotated § 65A-15-101 Title.
+---------------------------------------
+This chapter is known as the "Utah Lake Restoration Act."
+
+Utah Code Annotated § 65A-15-102 Definitions.
+---------------------------------------------
+As used in this chapter:Utah Code Annotated § 65A-15-102(1): "Restoration project" means a project for the comprehensive restoration of Utah Lake, as provided in this chapter.
+Utah Code Annotated § 65A-15-102(2): "Restoration proposal" means a proposal submitted to the division for a restoration project.
+
+
+Utah Code Annotated § 65A-15-103 Legislative findings.
+------------------------------------------------------
+The Legislature finds that:Utah Code Annotated § 65A-15-103(1): Utah Lake currently faces serious challenges, including:
+Utah Code Annotated § 65A-15-103(1)(a): fluctuating lake levels;
+Utah Code Annotated § 65A-15-103(1)(b): uncontrolled, toxic algal blooms;
+Utah Code Annotated § 65A-15-103(1)(c): loss of native vegetation;
+Utah Code Annotated § 65A-15-103(1)(d): invasive fish and plant species;
+Utah Code Annotated § 65A-15-103(1)(e): loss of littoral zone plants;
+Utah Code Annotated § 65A-15-103(1)(f): suspended silt on the lake bottom;
+Utah Code Annotated § 65A-15-103(1)(g): poor water clarity;
+Utah Code Annotated § 65A-15-103(1)(h): heavy nutrient loading of lake sediments and within the water column; and
+Utah Code Annotated § 65A-15-103(1)(i): high wind and wave action;
+Utah Code Annotated § 65A-15-103(2): initial conservation efforts are producing measurable results and demonstrate that conservation solutions can produce restoration objective on Utah Lake;
+Utah Code Annotated § 65A-15-103(3): additional and significant conservation investments are needed to implement the comprehensive solutions needed to fully restore Utah Lake and its water quality;
+Utah Code Annotated § 65A-15-103(4): there is not a reasonable public funding source to undertake the comprehensive solutions needed to restore Utah Lake; and
+Utah Code Annotated § 65A-15-103(5): it is in the interest of the state to undertake a comprehensive restoration of Utah Lake for the benefit of public trust uses on the lake.
+
+
+Utah Code Annotated § 65A-15-201 Division recommendation on disposal of state land in exchange for Utah Lake restoration project -- Approval of Legislature and governor required -- Criteria -- Division recommendations for defining and meeting objectives.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-15-201(1): (1)(a)
+Utah Code Annotated § 65A-15-201(1)(a): The division may recommend the disposal of appropriately available state land in and around Utah Lake as compensation for the comprehensive restoration of Utah Lake under a restoration proposal if the division finds that the restoration project will enhance the following public benefits:
+Utah Code Annotated § 65A-15-201(1)(a)(i): restoring the clarity and quality of the water in Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(ii): conserving water resources in and around Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(iii): preserving the water storage and water supply functions of Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(iv): removing invasive plant and animal species, including phragmites and carp, from Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(v): restoring littoral zone and other plant communities in and around Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(vi): restoring and conserving native fish and other aquatic species in Utah Lake, including Bonneville cutthroat trout and June Sucker;
+Utah Code Annotated § 65A-15-201(1)(a)(vii): increasing the suitability of Utah Lake and its surrounding areas for shore birds, waterfowl, and other avian species;
+Utah Code Annotated § 65A-15-201(1)(a)(viii): improving navigability of Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(ix): maximizing, enhancing, and ensuring recreational access and opportunities on Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(x): preserving current water rights related to water associated with Utah Lake;
+Utah Code Annotated § 65A-15-201(1)(a)(xi): otherwise improving the use of Utah Lake for residents and visitors;
+Utah Code Annotated § 65A-15-201(1)(a)(xii): substantially accommodating an existing use on land in or around Utah Lake; and
+Utah Code Annotated § 65A-15-201(1)(a)(xiii): providing any other benefits identified by the division.
+Utah Code Annotated § 65A-15-201(1)(b): (1)(a) If the division chooses to make a recommendation under Subsection
+Utah Code Annotated § 65A-15-201(2): (1) In determining whether to recommend the disposal of state land in exchange for the execution of a restoration project, as provided in Subsection
+Utah Code Annotated § 65A-15-201(2)(a): the potential that the restoration project presents for additional revenue to state and local government entities;
+Utah Code Annotated § 65A-15-201(2)(b): the ability of the proposed use of the state land given in exchange for the restoration project to enhance state property adjacent to Utah Lake;
+Utah Code Annotated § 65A-15-201(2)(c): the proposed timetable for completion of the restoration project;
+Utah Code Annotated § 65A-15-201(2)(d): the ability of the person who submits a restoration project to execute and complete the restoration project satisfactorily; and
+Utah Code Annotated § 65A-15-201(2)(e): the desirability of the proposed use of Utah Lake and the surrounding areas as a result of the restoration project.
+Utah Code Annotated § 65A-15-201(3): (1); (3); (1)(a) The Legislature and governor may, through the adoption of a concurrent resolution, authorize the disposal of state land in and around Utah Lake as compensation for the comprehensive restoration of Utah Lake under a restoration proposal if:
+Utah Code Annotated § 65A-15-201(3)(a): (1) the division recommends the disposal as provided in Subsection
+Utah Code Annotated § 65A-15-201(3)(b): (3); (1)(a) the Legislature and governor make a determination, in a concurrent resolution adopted under this Subsection
+Utah Code Annotated § 65A-15-201(3)(b)(i): (1)(a) the restoration project will accomplish the objectives listed in Subsection
+Utah Code Annotated § 65A-15-201(3)(b)(ii): the disposal is:
+Utah Code Annotated § 65A-15-201(3)(b)(ii)(A): a fiscally sound and fair method of providing for the comprehensive restoration of Utah Lake; and
+Utah Code Annotated § 65A-15-201(3)(b)(ii)(B): constitutionally sound and legal.
+Utah Code Annotated § 65A-15-201(4): (1)(a); (3)(b)(ii); (4)(a); (4)(a) In support of the required permitting application for a restoration project, the division shall:
+Utah Code Annotated § 65A-15-201(4)(a): (1)(a); (3)(b)(ii) prepare recommendations for standards, criteria, and thresholds to define more specifically the objectives listed in Subsections
+Utah Code Annotated § 65A-15-201(4)(b): (4)(a) report on the division's efforts under Subsection
+Utah Code Annotated § 65A-15-201(4)(c): (4)(a) upon completion of recommendations under Subsection
+
+
+Utah Code Annotated § 65A-15-202 Status of state lands after a change in ownership.
+-----------------------------------------------------------------------------------
+Once the division transfers ownership of state land to a private party in exchange for and in furtherance of a restoration project, the land becomes subject to, as applicable:Utah Code Annotated § 65A-15-202(1): Title 10, Chapter 9a, Municipal Land Use, Development, and Management Act
+Utah Code Annotated § 65A-15-202(2): Title 17, Chapter 27a, County Land Use, Development, and Management Act
+
+
+Utah Code Annotated - Title 65A - Chapter 16 - Great Salt Lake Watershed Enhancement Program
+********************************************************************************************
+
+Utah Code Annotated § 65A-16-101 Definitions.
+---------------------------------------------
+As used in this chapter:Utah Code Annotated § 65A-16-101(1): 73-32-201 "Commissioner" means the Great Salt Lake commissioner appointed under Section
+Utah Code Annotated § 65A-16-101(2): "Conservation organization" means an institution, corporation, foundation, or association that is:
+Utah Code Annotated § 65A-16-101(2)(a): private;
+Utah Code Annotated § 65A-16-101(2)(b): nonprofit; and
+Utah Code Annotated § 65A-16-101(2)(c): founded for the purpose of promoting conservation of natural resources.
+Utah Code Annotated § 65A-16-101(3): 73-32-302 "Council" means the Great Salt Lake Advisory Council created in Section
+Utah Code Annotated § 65A-16-101(4): "Division" means the Division of Forestry, Fire, and State Lands.
+Utah Code Annotated § 65A-16-101(5): 65A-16-201; 65A-16-201(3)(a) "Eligible applicant" means two or more conservation organizations that submit a joint grant application to the division under Section
+Utah Code Annotated § 65A-16-101(6): "Grant money" means money awarded to an eligible applicant pursuant to this chapter.
+Utah Code Annotated § 65A-16-101(7): "Grantee" means an eligible applicant that receives a grant authorized under this chapter.
+Utah Code Annotated § 65A-16-101(8): "Great Salt Lake watershed" means the area comprised of the Great Salt Lake, the Bear River watershed, the Jordan River watershed, the Utah Lake watershed, the Weber River watershed, and the West Desert watershed.
+Utah Code Annotated § 65A-16-101(9): 65A-16-201 "Program" means the Great Salt Lake Watershed Enhancement Program created under Section
+
+
+Utah Code Annotated § 65A-16-102 Rulemaking.
+--------------------------------------------
+In accordance with
+
+Utah Code Annotated § 65A-16-201 Great Salt Lake Watershed Enhancement Program established.
+-------------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-16-201(1): (1); (1) There is created the "Great Salt Lake Watershed Enhancement Program" to issue grant money to establish a water trust to implement projects, programs, or voluntary arrangements that:
+Utah Code Annotated § 65A-16-201(1)(a): retain or enhance water flows to:
+Utah Code Annotated § 65A-16-201(1)(a)(i): sustain the Great Salt Lake and the Great Salt Lake's wetlands; and
+Utah Code Annotated § 65A-16-201(1)(a)(ii): improve water quality and quantity for the Great Salt Lake within the Great Salt Lake watershed;
+Utah Code Annotated § 65A-16-201(1)(b): conserve and restore upstream habitats that are key to protecting the hydrology and health of the Great Salt Lake and the Great Salt Lake's surrounding ecosystem;
+Utah Code Annotated § 65A-16-201(1)(c): attract or leverage other public or private funding to enhance and preserve the Great Salt Lake watershed;
+Utah Code Annotated § 65A-16-201(1)(d): engage agricultural producers, local landowners, local planning authorities, and others to support the Great Salt Lake;
+Utah Code Annotated § 65A-16-201(1)(e): support or benefit the Great Salt Lake's natural infrastructure;
+Utah Code Annotated § 65A-16-201(1)(f): protect and restore uplands, wetlands, and habitats in the Great Salt Lake watershed that benefit hydrologic or ecosystem functions of the Great Salt Lake;
+Utah Code Annotated § 65A-16-201(1)(g): support efforts to integrate water planning and management efforts that benefit the Great Salt Lake watershed;
+Utah Code Annotated § 65A-16-201(1)(h): (1) undertake assessments or studies as necessary, consistent with the goals of this Subsection
+Utah Code Annotated § 65A-16-201(1)(i): support projects or programs to respond to low water levels and rising salinity in the Great Salt Lake;
+Utah Code Annotated § 65A-16-201(1)(j): require the creation and operation of one or more endowments to sustain the water trust and fulfill the purposes of this chapter; or
+Utah Code Annotated § 65A-16-201(1)(k): (1) otherwise fulfill the purposes of this Subsection
+Utah Code Annotated § 65A-16-201(2): (2)
+Utah Code Annotated § 65A-16-201(2)(a): Subject to legislative appropriations, the division shall award a one-time grant to one eligible applicant to establish a water trust authorized under this section.
+Utah Code Annotated § 65A-16-201(2)(b): (2) The amount of the one-time grant under this Subsection
+Utah Code Annotated § 65A-16-201(2)(c): Notwithstanding the requirements for the division issuing a one-time grant under this section, after the grant is issued, the division may receive additional appropriations to be used for the purposes of this chapter, including providing money to the water trust created under this chapter.
+Utah Code Annotated § 65A-16-201(3): (2); (1); Part 3, Water Trust To be considered for the one-time grant under Subsection
+Utah Code Annotated § 65A-16-201(3)(a): demonstrates that the eligible applicant meets the following criteria that are necessary to submit a written application, that the eligible applicant:
+Utah Code Annotated § 65A-16-201(3)(a)(i): has offices and staff located in Utah; and
+Utah Code Annotated § 65A-16-201(3)(a)(ii): individually or collectively possesses:
+Utah Code Annotated § 65A-16-201(3)(a)(ii)(A): a history and ability to attract private funding to implement water and land conservation projects;
+Utah Code Annotated § 65A-16-201(3)(a)(ii)(B): knowledge and experience with the Great Salt Lake and the Great Salt Lake watershed;
+Utah Code Annotated § 65A-16-201(3)(a)(ii)(C): knowledge and experience managing wetlands in the vicinity of the Great Salt Lake;
+Utah Code Annotated § 65A-16-201(3)(a)(ii)(D): knowledge and experience in the creation of three or more water trusts or water funds;
+Utah Code Annotated § 65A-16-201(3)(a)(ii)(E): knowledge and experience in securing approval from the Division of Water Rights for water right applications that support the beneficial use of water in the Great Salt Lake;
+Utah Code Annotated § 65A-16-201(3)(a)(ii)(F): knowledge and experience with Utah water laws; and
+Utah Code Annotated § 65A-16-201(3)(a)(ii)(G): participation in the development of studies and reports on the Great Salt Lake and Utah water policy;
+Utah Code Annotated § 65A-16-201(3)(b): (1) how the applicant will accomplish the objectives of Subsection
+Utah Code Annotated § 65A-16-201(3)(c): Part 3, Water Trust how the applicant will satisfy
+Utah Code Annotated § 65A-16-201(3)(d): a description of the types of money, in-kind contributions, and other resources the applicant could contribute or attract to support the creation, operation, and administration of a water trust.
+Utah Code Annotated § 65A-16-201(4): (3) The division, in consultation with the council and the director of the Division of Water Quality, shall evaluate and rank the applications received under Subsection
+Utah Code Annotated § 65A-16-201(4)(a): attract and secure public and private funding to implement water and land conservation projects;
+Utah Code Annotated § 65A-16-201(4)(b): address water quality and hydrology issues of the Great Salt Lake and within the Great Salt Lake watershed;
+Utah Code Annotated § 65A-16-201(4)(c): create and operate water trusts;
+Utah Code Annotated § 65A-16-201(4)(d): secure approval from the Division of Water Rights for water right applications that support beneficial use of water in the Great Salt Lake;
+Utah Code Annotated § 65A-16-201(4)(e): understand, use, and work to improve Utah water laws in a manner that benefits the Great Salt Lake watershed while protecting other beneficial uses of water; and
+Utah Code Annotated § 65A-16-201(4)(f): participate in collaborative efforts to develop strategies and recommendations to ensure adequate water for the Great Salt Lake and the Great Salt Lake watershed.
+Utah Code Annotated § 65A-16-201(5): 51-2a-201.5(4); 63J-1-220(2); (5); 65A-16-102
+Utah Code Annotated § 65A-16-201(5)(a): Within 90 days of March 21, 2022, the division shall select the highest ranking eligible applicant as the grantee.
+Utah Code Annotated § 65A-16-201(5)(b): 51-2a-201.5(4); 63J-1-220(2) The division shall distribute the appropriated money to the grantee as soon as reasonably practicable following the execution of an agreement or agreements that satisfy the requirements of Subsections
+Utah Code Annotated § 65A-16-201(5)(c): (5); 65A-16-102 The division shall issue the grant within the time period required under this Subsection
+Utah Code Annotated § 65A-16-201(6): (4) If the division does not receive an application from an eligible applicant that satisfies each of the evaluation criteria of Subsection
+
+
+Utah Code Annotated § 65A-16-202 Oversight.
+-------------------------------------------
+Utah Code Annotated § 65A-16-202(1): 
+Utah Code Annotated § 65A-16-202(1)(a): The division shall oversee whether a grantee and the water trust that the grantee establishes comply with this chapter.
+Utah Code Annotated § 65A-16-202(1)(b): In overseeing a grantee under this chapter, the division shall consult with the commissioner.
+Utah Code Annotated § 65A-16-202(2): 65A-16-102; (2)(a)
+Utah Code Annotated § 65A-16-202(2)(a): 65A-16-102 The division, in consultation with the council and the Division of Water Quality, shall establish by rule made in accordance with Section
+Utah Code Annotated § 65A-16-202(2)(b): (2)(a) The rules establishing interventions under Subsection
+Utah Code Annotated § 65A-16-202(3): 51-2a-201.5 This section may not be construed as limiting the state auditor's enforcement authority under Section
+
+
+Utah Code Annotated § 65A-16-203 Grantee requirements.
+------------------------------------------------------
+A grantee that receives grant money under this chapter shall:Utah Code Annotated § 65A-16-203(1): 51-2a-201.5; 63J-1-220(2) comply with Section
+Utah Code Annotated § 65A-16-203(2): 65A-16-201(1); 65A-16-301 use grant money to carry out the objectives of Subsection
+
+
+Utah Code Annotated § 65A-16-301 Water trust -- Powers and duties -- Advisory councils.
+---------------------------------------------------------------------------------------
+Utah Code Annotated § 65A-16-301(1): The grantee under this chapter shall establish a water trust that:
+Utah Code Annotated § 65A-16-301(1)(a): is organized:
+Utah Code Annotated § 65A-16-301(1)(a)(i): as a private nonprofit organization; or
+Utah Code Annotated § 65A-16-301(1)(a)(ii): as an agreement between two or more conservation organizations; and
+Utah Code Annotated § 65A-16-301(1)(b): complies with this section.
+Utah Code Annotated § 65A-16-301(2): (6); 51-2a-201.5; 51-2a-201.5(2); (4); (3)(a); (2)(b)(ii); 51-2a-201.5(4); 63J-1-220(2); (2)(b)(iv) A water trust created under this section shall:
+Utah Code Annotated § 65A-16-301(2)(a): use a fiduciary to hold and administer grant money appropriated under this chapter;
+Utah Code Annotated § 65A-16-301(2)(b): (6); 51-2a-201.5; 51-2a-201.5(2); (4); (3)(a); (2)(b)(ii); 51-2a-201.5(4); 63J-1-220(2); (2)(b)(iv) subject to Subsection
+Utah Code Annotated § 65A-16-301(2)(b)(i): 51-2a-201.5 register with the lieutenant governor as a limited purpose entity pursuant to Section
+Utah Code Annotated § 65A-16-301(2)(b)(ii): 51-2a-201.5(2); (4); (3)(a) file with the state auditor on or before June 30 of each year the accounting report that:
+Utah Code Annotated § 65A-16-301(2)(b)(ii)(A): 51-2a-201.5(2) satisfies Subsection
+Utah Code Annotated § 65A-16-301(2)(b)(ii)(B): (4) includes an itemized accounting of the in-kind contributions and other monetary contributions described in Subsection
+Utah Code Annotated § 65A-16-301(2)(b)(ii)(C): (3)(a) includes an itemized accounting of the costs incurred under Subsection
+Utah Code Annotated § 65A-16-301(2)(b)(iii): (2)(b)(ii) provide a copy of the accounting report described in Subsection
+Utah Code Annotated § 65A-16-301(2)(b)(iii)(A): the division;
+Utah Code Annotated § 65A-16-301(2)(b)(iii)(B): the commissioner;
+Utah Code Annotated § 65A-16-301(2)(b)(iii)(C): the Division of Water Quality;
+Utah Code Annotated § 65A-16-301(2)(b)(iii)(D): the council; and
+Utah Code Annotated § 65A-16-301(2)(b)(iii)(E): the Natural Resources, Agriculture, and Environment Quality Appropriations Subcommittee;
+Utah Code Annotated § 65A-16-301(2)(b)(iv): 51-2a-201.5(4); 63J-1-220(2) file with the division on or before January 31 of each year a report that satisfies the requirements of Subsections
+Utah Code Annotated § 65A-16-301(2)(b)(v): (2)(b)(iv) provide a copy of the report described in Subsection
+Utah Code Annotated § 65A-16-301(2)(b)(v)(A): the Division of Water Quality;
+Utah Code Annotated § 65A-16-301(2)(b)(v)(B): the council; and
+Utah Code Annotated § 65A-16-301(2)(b)(v)(C): the Natural Resources, Agriculture, and Environment Quality Appropriations Subcommittee; and
+Utah Code Annotated § 65A-16-301(2)(c): comply with applicable laws, regulations, ordinances, and rules.
+Utah Code Annotated § 65A-16-301(3): 65A-16-201(1) A water trust established by a grantee under this section:
+Utah Code Annotated § 65A-16-301(3)(a): may use grant money for costs to establish, operate, or administer the water trust, including the hiring of staff or contractors;
+Utah Code Annotated § 65A-16-301(3)(b): shall use no less than 25% of the grant money to protect and restore wetlands and habitats in the Great Salt Lake's surrounding ecosystem to benefit the hydrology of the Great Salt Lake; and
+Utah Code Annotated § 65A-16-301(3)(c): 65A-16-201(1) may invest grant money the water trust receives under this chapter or any private money the water trust may receive, except that the water trust shall:
+Utah Code Annotated § 65A-16-301(3)(c)(i): invest and account for grant money and private money separately; and
+Utah Code Annotated § 65A-16-301(3)(c)(ii): 65A-16-201(1) use the earnings received from the investment of grant money to carry out the purposes described in Subsection
+Utah Code Annotated § 65A-16-301(4): 65A-16-201(1) The water trust shall provide a significant match of in-kind contributions or other monetary contributions to support the water trust's operations and for the purposes described in Subsection
+Utah Code Annotated § 65A-16-301(5): 
+Utah Code Annotated § 65A-16-301(5)(a): A water trust established under this section shall create and consult with one or more advisory councils on matters related to the mission and objectives of the water trust.
+Utah Code Annotated § 65A-16-301(5)(b): At least one of the advisory councils shall consist of nine members with a representative from the following:
+Utah Code Annotated § 65A-16-301(5)(b)(i): agriculture;
+Utah Code Annotated § 65A-16-301(5)(b)(ii): a private land owner adjacent to the Great Salt Lake;
+Utah Code Annotated § 65A-16-301(5)(b)(iii): a conservation organization dedicated to the preservation of migratory waterfowl;
+Utah Code Annotated § 65A-16-301(5)(b)(iv): a conservation organization dedicated to the protection of non-game avian species;
+Utah Code Annotated § 65A-16-301(5)(b)(v): another conservation organization working on Great Salt Lake issues;
+Utah Code Annotated § 65A-16-301(5)(b)(vi): aquaculture;
+Utah Code Annotated § 65A-16-301(5)(b)(vii): mineral extraction;
+Utah Code Annotated § 65A-16-301(5)(b)(viii): a water conservancy district; and
+Utah Code Annotated § 65A-16-301(5)(b)(ix): wastewater treatment facilities.
+Utah Code Annotated § 65A-16-301(6): (2)(b) The duties of the water trust under Subsection
+
+

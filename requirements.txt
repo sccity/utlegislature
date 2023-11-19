@@ -80,3 +80,9 @@ wsproto==1.2.0
 xmltodict==0.13.0
 yarl==1.9.2
 zipp==3.13.0
+flask
+flask_restful
+PyYAML
+waitress
+langchain
+llama_index

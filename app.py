@@ -17,6 +17,10 @@
 # limitations under the License.
 import click
 import utle as le
+import codelogic as c
+from utle.settings import settings_data, version_data
+from flask import Flask, jsonify
+from flask_restful import Api
 
 @click.group()
 def main():
@@ -36,13 +40,55 @@ def bills(year, session):
         
 @main.command()
 def analysis():
-    """Provide an in-depth analysiss"""
+    """Provide an In-depth Analysiss"""
     le.process_analysis()
 
 @main.command()
 def impact():
-    """Calculate impact analysis"""
+    """Calculate Impact Analysis"""
     le.process_impact()
+    
+@main.command()
+def updatecode():
+    """Update Utah Code Files"""
+    uc = c.UtahCode()
+    uc.update()
+    
+@main.command()
+def train():
+    """Train/Fine-Tune LLM"""
+    c.train.run()
+    
+@main.command()
+def codelogic():
+    """Interactive Chat"""
+    c.interactive.run()
+    
+@main.command()
+def server():
+    """Start the API Server"""
+    app = Flask(__name__)
+    api = Api(app)
+    
+    @app.route("/")
+    def http_root():
+        return jsonify(
+            application=version_data["program"],
+            version=version_data["version"],
+            environment=settings_data["global"]["env"],
+            copyright=version_data["copyright"],
+            author=version_data["author"],
+        )
+    
+    @app.errorhandler(404)
+    def page_not_found(e):
+        return jsonify(error=str(e)), 404
+    
+    c.api.init()
+    api.add_resource(c.api, "/chat")
+    
+    from waitress import serve
+    serve(app, host="0.0.0.0", port=settings_data["global"]["port"])
 
 if __name__ == "__main__":
     main()

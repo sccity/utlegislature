@@ -1,0 +1,1012 @@
+Utah Code Annotated - Title 22 - Fiduciaries and Trusts
+=======================================================
+
+Utah Code Annotated - Title 22 - Chapter 1 - Fiduciaries
+********************************************************
+
+Utah Code Annotated § 22-1-1 Definitions.
+-----------------------------------------
+In this chapter unless the context or subject matter otherwise requires:
+
+Utah Code Annotated § 22-1-2 Payments made to fiduciaries.
+----------------------------------------------------------
+A person who in good faith pays or transfers to a fiduciary any money or other property which the fiduciary as such is authorized to receive is not responsible for the proper application thereof by the fiduciary; and no right or title acquired from the fiduciary in consideration of such payment or transfer is invalid in consequence of a misapplication by the fiduciary.
+
+Utah Code Annotated § 22-1-4 Transfer of negotiable instruments by fiduciaries.
+-------------------------------------------------------------------------------
+If any negotiable instrument payable or indorsed to a fiduciary as such is endorsed by the fiduciary, or if any negotiable instrument payable or endorsed to his principal is endorsed by a fiduciary empowered to endorse such instrument on behalf of his principal, the indorsee is not bound to inquire whether the fiduciary is committing a breach of his obligation as fiduciary in endorsing or delivering the instrument, and is not chargeable with notice that the fiduciary is committing a breach of his obligation as fiduciary, unless he takes the instrument with actual knowledge of such breach or with knowledge of such facts that his action in taking the instrument amounts to bad faith. If, however, such instrument is transferred by the fiduciary in payment of, or as security for, a personal debt of the fiduciary to the actual knowledge of the creditor, or is transferred in any transaction known by the transferee to be for the personal benefit of the fiduciary, the creditor or other transferee is liable to the principal, if the fiduciary in fact commits a breach of his obligation as fiduciary in transferring the instrument.
+
+Utah Code Annotated § 22-1-5 Checks -- Drawn by fiduciaries, payable to third persons.
+--------------------------------------------------------------------------------------
+If a check or other bill of exchange is drawn by a fiduciary as such, or in the name of his principal by a fiduciary empowered to draw such instrument in the name of his principal, the payee is not bound to inquire whether the fiduciary is committing a breach of his obligation as fiduciary in drawing or delivering the instrument, and is not chargeable with notice that the fiduciary is committing a breach of his obligation as fiduciary, unless he takes the instrument with actual knowledge of such breach or with knowledge of such facts that his action in taking the instrument amounts to bad faith. If, however, such instrument is payable to a personal creditor of the fiduciary and delivered to the creditor in payment of, or as security for, a personal debt of the fiduciary to the actual knowledge of the creditor, or is drawn and delivered in any transaction known by the payee to be for the personal benefit of the fiduciary, the creditor or other payee is liable to the principal, if the fiduciary in fact commits a breach of his obligation as fiduciary in drawing or delivering the instrument.
+
+Utah Code Annotated § 22-1-6 Checks drawn by or payable to fiduciary.
+---------------------------------------------------------------------
+If a check or other bill of exchange is drawn by a fiduciary as such, or in the name of his principal by a fiduciary empowered to draw such instrument in the name of his principal, payable to the fiduciary personally, or payable to a third person and by him transferred to the fiduciary, and is thereafter transferred by the fiduciary, whether in payment of a personal debt of the fiduciary or otherwise, the transferee is not bound to inquire whether the fiduciary is committing a breach of his obligation as fiduciary in transferring the instrument, and is not chargeable with notice that the fiduciary is committing a breach of his obligation as fiduciary, unless he takes the instrument with actual knowledge of such breach or with knowledge of such facts that his action in taking the instrument amounts to bad faith.
+
+Utah Code Annotated § 22-1-7 Bank deposits in name of fiduciary.
+----------------------------------------------------------------
+If a deposit is made in a bank to the credit of a fiduciary as such, the bank is authorized to pay the amount of the deposit or any part thereof upon the check of the fiduciary, signed with the name in which such deposit is entered, without being liable to the principal, unless the bank pays the check with actual knowledge that the fiduciary is committing a breach of his obligation as fiduciary in drawing the check, or with knowledge of such facts that its action in paying the check amounts to bad faith. If, however, such a check is payable to the drawee bank and is delivered to it in payment of, or as security for, a personal debt of the fiduciary to it, the bank is liable to the principal, if the fiduciary in fact commits a breach of his obligation as fiduciary in drawing or delivering the check.
+
+Utah Code Annotated § 22-1-8 Checks drawn in name of principal.
+---------------------------------------------------------------
+If a check is drawn upon the account of his principal in a bank by a fiduciary who is empowered to draw checks upon his principal's account, the bank is authorized to pay such check without being liable to the principal, unless the bank pays the check with actual knowledge that the fiduciary is committing a breach of his obligation as fiduciary in drawing such check, or with knowledge of such facts that its action in paying the check amounts to bad faith. If, however, such a check is payable to the drawee bank and is delivered to it in payment of, or as security for, a personal debt of the fiduciary to it, the bank is liable to the principal, if the fiduciary in fact commits a breach of his obligation as fiduciary in drawing or delivering the check.
+
+Utah Code Annotated § 22-1-9 Deposits in fiduciary's personal account.
+----------------------------------------------------------------------
+If a fiduciary makes a deposit in a bank to his personal credit of checks drawn by him upon an account in his own name as fiduciary, or of checks payable to him as fiduciary, or of checks drawn by him upon an account in the name of his principal, if he is empowered to draw checks thereon, or of checks payable to his principal and indorsed by him, if he is empowered to indorse such checks, or if he otherwise makes a deposit of funds held by him as fiduciary, the bank receiving such deposit is not bound to inquire whether the fiduciary is committing thereby a breach of his obligation as fiduciary; and the bank is authorized to pay the amount of the deposit or any part thereof upon the personal check of the fiduciary without being liable to the principal, unless the bank receives the deposit or pays the check with actual knowledge that the fiduciary is committing a breach of his obligation as fiduciary in making such deposit or in drawing such check, or with knowledge of such facts that its action in receiving the deposit or paying the check amounts to bad faith.
+
+Utah Code Annotated § 22-1-10 Deposits in name of several trustees.
+-------------------------------------------------------------------
+When a deposit is made in a bank in the name of two or more persons as trustees and a check is drawn upon the trust account by any trustee or trustees authorized by the other trustee or trustees to draw checks upon the trust account, neither the payee nor other holder nor the bank is bound to inquire whether it is a breach of trust to authorize such trustee or trustees to draw checks upon the trust account, and is not liable, unless the circumstances are such that the action of the payee or other holder or the bank amounts to bad faith.
+
+Utah Code Annotated § 22-1-11 Transactions prior to May 12, 1925, excepted.
+---------------------------------------------------------------------------
+The provisions of this chapter do not apply to transactions taking place prior to May 12, 1925.
+
+Utah Code Annotated - Title 22 - Chapter 2 - Trusts
+***************************************************
+
+Utah Code Annotated § 22-2-1 Death of trustee -- Trust estate vests in successor.
+---------------------------------------------------------------------------------
+Upon the death of a sole or surviving trustee of an express trust the trust estate does not descend to his heirs or pass to his personal representatives, but shall by virtue hereof, upon the appointment and qualification of a successor to such trustee, become immediately vested in such successor in trust.
+
+Utah Code Annotated - Title 22 - Chapter 3 - Uniform Fiduciary Income and Principal Act
+***************************************************************************************
+
+Utah Code Annotated § 22-3-101 Title.
+-------------------------------------
+This chapter is known as the "Uniform Fiduciary Income and Principal Act."
+
+Utah Code Annotated § 22-3-102 Definitions.
+-------------------------------------------
+In this chapter:Utah Code Annotated § 22-3-102(1): 
+Utah Code Annotated § 22-3-102(1)(a): "Accounting period" means a calendar year, unless a fiduciary selects another period of 12 calendar months or approximately 12 calendar months.
+Utah Code Annotated § 22-3-102(1)(b): "Accounting period" includes a part of a calendar year or another period of 12 calendar months or approximately 12 calendar months that begins when an income interest begins or ends when an income interest ends.
+Utah Code Annotated § 22-3-102(2): 22-3-401; 22-3-409; 22-3-414
+Utah Code Annotated § 22-3-102(2)(a): "Asset-backed security" means a security that is serviced primarily by the cash flows of a discrete pool of fixed or revolving receivables or other financial assets that by the financial assets' terms convert into cash within a finite time.
+Utah Code Annotated § 22-3-102(2)(b): "Asset-backed security" includes rights or other assets that ensure the servicing or timely distribution of proceeds to the holder of the asset-backed security.
+Utah Code Annotated § 22-3-102(2)(c): 22-3-401; 22-3-409; 22-3-414 "Asset-backed security" does not include an asset to which Section
+Utah Code Annotated § 22-3-102(3): "Beneficiary" includes:
+Utah Code Annotated § 22-3-102(3)(a): for a trust:
+Utah Code Annotated § 22-3-102(3)(a)(i): a current beneficiary, including a current income beneficiary and a beneficiary that may receive only principal;
+Utah Code Annotated § 22-3-102(3)(a)(ii): a remainder beneficiary; and
+Utah Code Annotated § 22-3-102(3)(a)(iii): any other successor beneficiary;
+Utah Code Annotated § 22-3-102(3)(b): for an estate, an heir and devisee; and
+Utah Code Annotated § 22-3-102(3)(c): for a life estate or term interest, a person that holds a life estate, term interest, or remainder, or other interest following a life estate or term interest.
+Utah Code Annotated § 22-3-102(4): 22-3-103(2) "Court" means a court in this state with jurisdiction over a trust or estate, or a life estate or other term interest described in Subsection
+Utah Code Annotated § 22-3-102(5): "Current income beneficiary" means a beneficiary to which a fiduciary may distribute net income, even if the fiduciary also may distribute principal to the beneficiary.
+Utah Code Annotated § 22-3-102(6): 
+Utah Code Annotated § 22-3-102(6)(a): "Distribution" means a payment or transfer by a fiduciary to a beneficiary in the beneficiary's capacity as a beneficiary, made under the terms of the trust, without consideration other than the beneficiary's right to receive the payment or transfer under the terms of the trust.
+Utah Code Annotated § 22-3-102(6)(b): "Distribute," "distributed," and "distributee" have corresponding meanings.
+Utah Code Annotated § 22-3-102(7): 
+Utah Code Annotated § 22-3-102(7)(a): "Estate" means a decedent's estate.
+Utah Code Annotated § 22-3-102(7)(b): "Estate" includes the property of the decedent as the estate is originally constituted and the property of the estate as it exists at any time during administration.
+Utah Code Annotated § 22-3-102(8): 75-12-102 "Fiduciary" includes:
+Utah Code Annotated § 22-3-102(8)(a): 75-12-102 a trustee, trust director as defined in Section
+Utah Code Annotated § 22-3-102(8)(b): a person that holds property for a successor beneficiary whose interest may be affected by an allocation of receipts and expenditures between income and principal; and
+Utah Code Annotated § 22-3-102(8)(c): if there are two or more co-fiduciaries, all co-fiduciaries acting under the terms of the trust and applicable law.
+Utah Code Annotated § 22-3-102(9): Part 4, Allocation of Receipts
+Utah Code Annotated § 22-3-102(9)(a): "Income" means money or other property a fiduciary receives as current return from principal.
+Utah Code Annotated § 22-3-102(9)(b): Part 4, Allocation of Receipts "Income" includes a part of receipts from a sale, exchange, or liquidation of a principal asset to the extent provided in
+Utah Code Annotated § 22-3-102(10): 
+Utah Code Annotated § 22-3-102(10)(a): "Income interest" means the right of a current income beneficiary to receive all or part of net income, whether the terms of the trust require the net income to be distributed or authorize the net income to be distributed in the fiduciary's discretion.
+Utah Code Annotated § 22-3-102(10)(b): "Income interest" includes the right of a current beneficiary to use property held by a fiduciary.
+Utah Code Annotated § 22-3-102(11): 75-7-103; (11)(a); (b); (11)(a); (c); (11)(a); (b); (c); (d) "Independent person" means a person that is not:
+Utah Code Annotated § 22-3-102(11)(a): 75-7-103 for a trust:
+Utah Code Annotated § 22-3-102(11)(a)(i): 75-7-103 a qualified beneficiary as determined under Section
+Utah Code Annotated § 22-3-102(11)(a)(ii): a settlor of the trust; or
+Utah Code Annotated § 22-3-102(11)(a)(iii): an individual whose legal obligation to support a beneficiary may be satisfied by a distribution from the trust;
+Utah Code Annotated § 22-3-102(11)(b): for an estate, a beneficiary;
+Utah Code Annotated § 22-3-102(11)(c): (11)(a); (b) a spouse, parent, brother, sister, or issue of an individual described in Subsection
+Utah Code Annotated § 22-3-102(11)(d): (11)(a); (c) a corporation, partnership, limited liability company, or other entity in which persons described in Subsections
+Utah Code Annotated § 22-3-102(11)(e): (11)(a); (b); (c); (d) an employee of a person described in Subsection
+Utah Code Annotated § 22-3-102(12): "Mandatory income interest" means the right of a current income beneficiary to receive net income that the terms of the trust require the fiduciary to distribute.
+Utah Code Annotated § 22-3-102(13): Part 3, Unitrust; Part 3, Unitrust; 22-3-203; 22-3-203
+Utah Code Annotated § 22-3-102(13)(a): Part 3, Unitrust; Part 3, Unitrust "Net income" means:
+Utah Code Annotated § 22-3-102(13)(a)(i): the total allocations during an accounting period to income under the terms of a trust and this chapter minus the disbursements during the accounting period, other than distributions, allocated to income under the terms of the trust and this chapter; and
+Utah Code Annotated § 22-3-102(13)(a)(ii): Part 3, Unitrust; Part 3, Unitrust to the extent the trust is a unitrust under
+Utah Code Annotated § 22-3-102(13)(b): 22-3-203 "Net income" includes an adjustment from principal to income under Section
+Utah Code Annotated § 22-3-102(13)(c): 22-3-203 "Net income" does not include an adjustment from income to principal under Section
+Utah Code Annotated § 22-3-102(14): "Person" means:
+Utah Code Annotated § 22-3-102(14)(a): an individual;
+Utah Code Annotated § 22-3-102(14)(b): an estate;
+Utah Code Annotated § 22-3-102(14)(c): a trust;
+Utah Code Annotated § 22-3-102(14)(d): a business or nonprofit entity;
+Utah Code Annotated § 22-3-102(14)(e): a public corporation, government or governmental subdivision, agency, or instrumentality; or
+Utah Code Annotated § 22-3-102(14)(f): any other legal entity.
+Utah Code Annotated § 22-3-102(15): "Personal representative" means an executor, administrator, successor personal representative, special administrator, or person that performs substantially the same function with respect to an estate under the law governing the person's status.
+Utah Code Annotated § 22-3-102(16): "Principal" means property held in trust for distribution to, production of income for, or use by a current or successor beneficiary.
+Utah Code Annotated § 22-3-102(17): "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+Utah Code Annotated § 22-3-102(18): 75-7-103 "Settlor" means the same as that term is defined in Section
+Utah Code Annotated § 22-3-102(19): "Special tax benefit" means:
+Utah Code Annotated § 22-3-102(19)(a): exclusion of a transfer to a trust from gifts described in Section 2503(b) of the Internal Revenue Code because of the qualification of an income interest in the trust as a present interest in property;
+Utah Code Annotated § 22-3-102(19)(b): status as a qualified subchapter S trust described in Section 1361(d)(3) of the Internal Revenue Code at a time the trust holds stock of an S corporation described in Section 1361(a)(1) of the Internal Revenue Code;
+Utah Code Annotated § 22-3-102(19)(c): an estate or gift tax marital deduction for a transfer to a trust under Section 2056 or 2523 of the Internal Revenue Code that depends or depended in whole or in part on the right of the settlor's spouse to receive the net income of the trust;
+Utah Code Annotated § 22-3-102(19)(d): exemption in whole or in part of a trust from the federal generation-skipping transfer tax imposed by Section 2601 of the Internal Revenue Code because the trust was irrevocable on September 25, 1985, if there is any possibility that:
+Utah Code Annotated § 22-3-102(19)(d)(i): a taxable distribution, as defined in Section 2612(b) of the Internal Revenue Code, could be made from the trust; or
+Utah Code Annotated § 22-3-102(19)(d)(ii): a taxable termination, as defined in Section 2612(a) of the Internal Revenue Code, could occur with respect to the trust; or
+Utah Code Annotated § 22-3-102(19)(e): an inclusion ratio, as defined in Section 2642(a) of the Internal Revenue Code, of the trust which is less than one, if there is any possibility that:
+Utah Code Annotated § 22-3-102(19)(e)(i): a taxable distribution, as defined in Section 2612(b) of the Internal Revenue Code, could be made from the trust; or
+Utah Code Annotated § 22-3-102(19)(e)(ii): a taxable termination, as defined in Section 2612(a) of the Internal Revenue Code, could occur with respect to the trust.
+Utah Code Annotated § 22-3-102(20): "Successive interest" means the interest of a successor beneficiary.
+Utah Code Annotated § 22-3-102(21): "Successor beneficiary" means a person entitled to receive income or principal or  to use property when an income interest or other current interest ends.
+Utah Code Annotated § 22-3-102(22): (22)(b); 75-7-110 "Terms of a trust" means:
+Utah Code Annotated § 22-3-102(22)(a): (22)(b) except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-102(22)(a)(i): expressed in the trust instrument; or
+Utah Code Annotated § 22-3-102(22)(a)(ii): established by other evidence that would be admissible in a judicial proceeding;
+Utah Code Annotated § 22-3-102(22)(b): 75-7-110 the trust's provisions as established, determined, or amended by:
+Utah Code Annotated § 22-3-102(22)(b)(i): a trustee or trust director in accordance with applicable law;
+Utah Code Annotated § 22-3-102(22)(b)(ii): a court order; or
+Utah Code Annotated § 22-3-102(22)(b)(iii): 75-7-110 a nonjudicial settlement agreement under Section
+Utah Code Annotated § 22-3-102(22)(c): for an estate, a will; or
+Utah Code Annotated § 22-3-102(22)(d): for a life estate or term interest, the corresponding manifestation of the rights of the beneficiaries.
+Utah Code Annotated § 22-3-102(23): 
+Utah Code Annotated § 22-3-102(23)(a): "Trust" includes:
+Utah Code Annotated § 22-3-102(23)(a)(i): an express trust, private or charitable, with additions to the trust, wherever and however created; and
+Utah Code Annotated § 22-3-102(23)(a)(ii): a trust created or determined by judgment or decree under which the trust is to be administered in the manner of an express trust.
+Utah Code Annotated § 22-3-102(23)(b): "Trust" does not include:
+Utah Code Annotated § 22-3-102(23)(b)(i): a constructive trust;
+Utah Code Annotated § 22-3-102(23)(b)(ii): a resulting trust, conservatorship, guardianship, multi-party account, custodial arrangement for a minor, business trust, voting trust, security arrangement, liquidation trust, or trust for the primary purpose of paying debts, dividends, interest, salaries, wages, profits, pensions, retirement benefits, or employee benefits of any kind; or
+Utah Code Annotated § 22-3-102(23)(b)(iii): an arrangement under which a person is a nominee, escrowee, or agent for another.
+Utah Code Annotated § 22-3-102(24): 
+Utah Code Annotated § 22-3-102(24)(a): "Trustee" means a person, other than a personal representative, that owns or holds property for the benefit of a beneficiary.
+Utah Code Annotated § 22-3-102(24)(b): "Trustee" includes an original, additional, or successor trustee, whether appointed or confirmed by a court.
+Utah Code Annotated § 22-3-102(25): 
+Utah Code Annotated § 22-3-102(25)(a): "Will" means any testamentary instrument recognized by applicable law that makes a legally effective disposition of an individual's property effective at the individual's death.
+Utah Code Annotated § 22-3-102(25)(b): "Will" includes a codicil or other amendment to a testamentary instrument.
+
+
+Utah Code Annotated § 22-3-103 Scope.
+-------------------------------------
+Except as otherwise provided in the terms of a trust or this chapter, this chapter applies to:Utah Code Annotated § 22-3-103(1): a trust or estate; and
+Utah Code Annotated § 22-3-103(2): a life estate or other term interest in which the interest of one or more persons will be succeeded by the interest of one or more other persons.
+
+
+Utah Code Annotated § 22-3-104 Governing law.
+---------------------------------------------
+Utah Code Annotated § 22-3-104(1): 22-3-103(2) Except as otherwise provided in the terms of a trust or this chapter, this chapter applies when this state is:
+Utah Code Annotated § 22-3-104(1)(a): the principal place of administration of a trust or estate; or
+Utah Code Annotated § 22-3-104(1)(b): 22-3-103(2) the situs of property that is not held in a trust or estate and is subject to a life estate or other term interest described in Subsection
+Utah Code Annotated § 22-3-104(2): By accepting the trusteeship of a trust having the trust's principal place of administration in this state or by moving the principal place of administration of a trust to this state, the trustee submits to the application of this chapter to any matter within the scope of this chapter involving the trust.
+
+
+Utah Code Annotated § 22-3-201 Fiduciary duties -- General principles.
+----------------------------------------------------------------------
+Utah Code Annotated § 22-3-201(1): In making an allocation or determination or exercising discretion under this chapter, a fiduciary shall:
+Utah Code Annotated § 22-3-201(1)(a): act in good faith, based on what is fair and reasonable to all beneficiaries;
+Utah Code Annotated § 22-3-201(1)(b): administer a trust or estate impartially, except to the extent the terms of the trust manifest an intent that the fiduciary shall or may favor one or more beneficiaries;
+Utah Code Annotated § 22-3-201(1)(c): administer the trust or estate in accordance with the terms of the trust, even if there is a different provision in this chapter; and
+Utah Code Annotated § 22-3-201(1)(d): administer the trust or estate in accordance with this chapter, except to the extent the terms of the trust provide otherwise or authorize the fiduciary to determine otherwise.
+Utah Code Annotated § 22-3-201(2): 
+Utah Code Annotated § 22-3-201(2)(a): A fiduciary's allocation, determination, or exercise of discretion under this chapter is presumed to be fair and reasonable to all beneficiaries.
+Utah Code Annotated § 22-3-201(2)(b): A fiduciary may exercise a discretionary power of administration given to the fiduciary by the terms of the trust, and an exercise of the power that produces a result different from a result required or permitted by this chapter does not create an inference that the fiduciary abused the fiduciary's discretion.
+Utah Code Annotated § 22-3-201(3): A fiduciary shall:
+Utah Code Annotated § 22-3-201(3)(a): add a receipt to principal, to the extent neither the terms of the trust nor this chapter allocates the receipt between income and principal; and
+Utah Code Annotated § 22-3-201(3)(b): charge a disbursement to principal, to the extent neither the terms of the trust nor this chapter allocates the disbursement between income and principal.
+Utah Code Annotated § 22-3-201(4): 22-3-203; 22-3-303(1)(a); 22-3-303(1)(b); 22-3-303(1)(c) If a fiduciary determines an exercise of discretionary power will assist the fiduciary to administer the trust or estate impartially, the fiduciary may:
+Utah Code Annotated § 22-3-201(4)(a): 22-3-203 exercise the power to adjust under Section
+Utah Code Annotated § 22-3-201(4)(b): 22-3-303(1)(a) convert an income trust to a unitrust under Subsection
+Utah Code Annotated § 22-3-201(4)(c): 22-3-303(1)(b) change the percentage or method used to calculate a unitrust amount under Subsection
+Utah Code Annotated § 22-3-201(4)(d): 22-3-303(1)(c) convert a unitrust to an income trust under Subsection
+Utah Code Annotated § 22-3-201(5): (4); Part 4, Allocation of Receipts; Part 5, Allocation of Disbursements; Part 6, Death of Individual or Termination of Income Interest; Part 7, Apportionment at Beginning and End of Income Interest In making the determination under Subsection
+Utah Code Annotated § 22-3-201(5)(a): the terms of the trust;
+Utah Code Annotated § 22-3-201(5)(b): the nature, distribution standards, and expected duration of the trust;
+Utah Code Annotated § 22-3-201(5)(c): Part 4, Allocation of Receipts; Part 5, Allocation of Disbursements; Part 6, Death of Individual or Termination of Income Interest; Part 7, Apportionment at Beginning and End of Income Interest the effect of the allocation rules, including specific adjustments between income and principal, under
+Utah Code Annotated § 22-3-201(5)(d): the desirability of liquidity and regularity of income;
+Utah Code Annotated § 22-3-201(5)(e): the desirability of the preservation and appreciation of principal;
+Utah Code Annotated § 22-3-201(5)(f): the extent to which an asset is used or may be used by a beneficiary;
+Utah Code Annotated § 22-3-201(5)(g): the increase or decrease in the value of principal assets, reasonably determined by the fiduciary;
+Utah Code Annotated § 22-3-201(5)(h): whether and to what extent the terms of the trust:
+Utah Code Annotated § 22-3-201(5)(h)(i): give the fiduciary power to accumulate income or invade principal; or
+Utah Code Annotated § 22-3-201(5)(h)(ii): prohibit the fiduciary from accumulating income or invading principal;
+Utah Code Annotated § 22-3-201(5)(i): the extent to which the fiduciary has accumulated income or invaded principal in preceding accounting periods;
+Utah Code Annotated § 22-3-201(5)(j): the effect of current and reasonably expected economic conditions; and
+Utah Code Annotated § 22-3-201(5)(k): the reasonably expected tax consequences of the exercise of the power.
+
+
+Utah Code Annotated § 22-3-202 Judicial review of exercise of discretionary power -- Request for instruction.
+-------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-202(1): 22-3-203; 22-3-303(1)(a); 22-3-303(1)(b); 22-3-303(1)(c); (1)(a); (b) In this section, "fiduciary decision" means:
+Utah Code Annotated § 22-3-202(1)(a): a fiduciary's allocation between income and principal or other determination regarding income and principal required or authorized by the terms of the trust or this chapter;
+Utah Code Annotated § 22-3-202(1)(b): 22-3-203; 22-3-303(1)(a); 22-3-303(1)(b); 22-3-303(1)(c) the fiduciary's exercise or nonexercise of a discretionary power regarding income and principal granted by the terms of the trust or this chapter, including the power to:
+Utah Code Annotated § 22-3-202(1)(b)(i): 22-3-203 adjust under Section
+Utah Code Annotated § 22-3-202(1)(b)(ii): 22-3-303(1)(a) convert an income trust to a unitrust under Subsection
+Utah Code Annotated § 22-3-202(1)(b)(iii): 22-3-303(1)(b) change the percentage or method used to calculate a unitrust amount under Subsection
+Utah Code Annotated § 22-3-202(1)(b)(iv): 22-3-303(1)(c) convert a unitrust to an income trust under Subsection
+Utah Code Annotated § 22-3-202(1)(c): (1)(a); (b) the fiduciary's implementation of a decision described in Subsection
+Utah Code Annotated § 22-3-202(2): The court may not order a fiduciary to change a fiduciary decision, unless the court determines that the fiduciary decision was an abuse of the fiduciary's discretion.
+Utah Code Annotated § 22-3-202(3): 75-7-1001; 22-3-203; 22-3-303(1)(a); 22-3-303(1)(b); 22-3-303(1)(c)
+Utah Code Annotated § 22-3-202(3)(a): 75-7-1001 If the court determines that a fiduciary decision was an abuse of the fiduciary's discretion, the court may order a remedy authorized by law, including a remedy authorized in Section
+Utah Code Annotated § 22-3-202(3)(b): 22-3-203; 22-3-303(1)(a); 22-3-303(1)(b); 22-3-303(1)(c) To place the beneficiaries in the positions that the beneficiaries would have occupied if there had not been an abuse of the fiduciary's discretion, the court may order:
+Utah Code Annotated § 22-3-202(3)(b)(i): 22-3-203 the fiduciary to exercise or refrain from exercising the power to adjust under Section
+Utah Code Annotated § 22-3-202(3)(b)(ii): 22-3-303(1)(a); 22-3-303(1)(b); 22-3-303(1)(c) the fiduciary to exercise or refrain from exercising the power to:
+Utah Code Annotated § 22-3-202(3)(b)(ii)(A): 22-3-303(1)(a) convert an income trust to a unitrust under Subsection
+Utah Code Annotated § 22-3-202(3)(b)(ii)(B): 22-3-303(1)(b) change the percentage or method used to calculate a unitrust amount under Subsection
+Utah Code Annotated § 22-3-202(3)(b)(ii)(C): 22-3-303(1)(c) convert a unitrust to an income trust under Subsection
+Utah Code Annotated § 22-3-202(3)(b)(iii): the fiduciary to distribute an amount to a beneficiary;
+Utah Code Annotated § 22-3-202(3)(b)(iv): a beneficiary to return some or all of a distribution; or
+Utah Code Annotated § 22-3-202(3)(b)(v): the fiduciary to withhold an amount from one or more future distributions to a beneficiary.
+Utah Code Annotated § 22-3-202(4): 
+Utah Code Annotated § 22-3-202(4)(a): On petition by a fiduciary for instruction, the court may determine whether a proposed fiduciary decision will result in an abuse of the fiduciary's discretion.
+Utah Code Annotated § 22-3-202(4)(b): A beneficiary that opposes the proposed decision has the burden to establish that the proposed decision will result in an abuse of the fiduciary's discretion if the petition:
+Utah Code Annotated § 22-3-202(4)(b)(i): describes the proposed decision;
+Utah Code Annotated § 22-3-202(4)(b)(ii): contains sufficient information to inform the beneficiary of the reasons for making the proposed decision and the facts on which the fiduciary relies; and
+Utah Code Annotated § 22-3-202(4)(b)(iii): explains how the beneficiary will be affected by the proposed decision.
+
+
+Utah Code Annotated § 22-3-203 Fiduciary's power to adjust.
+-----------------------------------------------------------
+Utah Code Annotated § 22-3-203(1): Except as otherwise provided in the terms of a trust or this section, a fiduciary, in a record, without court approval, may adjust between income and principal if the fiduciary determines the exercise of the power to adjust will assist the fiduciary to administer the trust or estate impartially.
+Utah Code Annotated § 22-3-203(2): (1) This section does not create a duty to exercise or consider the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(3): (1) A fiduciary that in good faith exercises or fails to exercise the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(4): (1); 22-3-201(5); 22-3-401(9); 22-3-408; 22-3-413 In deciding whether and to what extent to exercise the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(5): (1); 22-3-408; Part 3, Unitrust A fiduciary may not exercise the power to make an adjustment under Subsection
+Utah Code Annotated § 22-3-203(5)(a): the adjustment or determination would reduce the amount payable to a current income beneficiary from a trust that qualifies for a special tax benefit, except to the extent the adjustment is made to provide for a reasonable apportionment of the total return of the trust between the current income beneficiary and successor beneficiaries;
+Utah Code Annotated § 22-3-203(5)(b): the adjustment or determination would change the amount payable to a beneficiary, as a fixed annuity or a fixed fraction of the value of the trust assets, under the terms of the trust;
+Utah Code Annotated § 22-3-203(5)(c): the adjustment or determination would reduce an amount that is permanently set aside for a charitable purpose under the terms of the trust, unless both income and principal are set aside for the charitable purpose;
+Utah Code Annotated § 22-3-203(5)(d): possessing or exercising the power would cause a person to be treated as the owner of all or part of the trust for federal income tax purposes;
+Utah Code Annotated § 22-3-203(5)(e): possessing or exercising the power would cause all or part of the value of the trust assets to be included in the gross estate of an individual for federal estate tax purposes;
+Utah Code Annotated § 22-3-203(5)(f): possessing or exercising the power would cause an individual to be treated as making a gift for federal gift tax purposes;
+Utah Code Annotated § 22-3-203(5)(g): the fiduciary is not an independent person;
+Utah Code Annotated § 22-3-203(5)(h): the trust is irrevocable and provides for income to be paid to the settlor and possessing or exercising the power would cause the adjusted principal or income to be considered an available resource or available income under a public-benefit program; or
+Utah Code Annotated § 22-3-203(5)(i): Part 3, Unitrust the trust is a unitrust under
+Utah Code Annotated § 22-3-203(6): (5)(d); (e); (f); (g); (5)(d); (g); (5)(d); (g); (6)(b)(ii)(A); (5)(d); (g); (6)(b)(ii)(B); (1); (1) If Subsection
+Utah Code Annotated § 22-3-203(6)(a): (5)(d); (g) a co-fiduciary to which Subsections
+Utah Code Annotated § 22-3-203(6)(b): (5)(d); (g); (6)(b)(ii)(A); (5)(d); (g); (6)(b)(ii)(B); (1); (1)
+Utah Code Annotated § 22-3-203(6)(b)(i): (5)(d); (g); (6)(b)(ii)(A); (5)(d); (g); (6)(b)(ii)(B); (1) if there is no co-fiduciary to which Subsections
+Utah Code Annotated § 22-3-203(6)(b)(i)(A): (6)(b)(ii)(A); (5)(d); (g) except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-203(6)(b)(i)(B): (6)(b)(ii)(B); (1) except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-203(6)(b)(i)(C): the appointed co-fiduciary may be a special fiduciary with limited powers.
+Utah Code Annotated § 22-3-203(6)(b)(ii): (1)
+Utah Code Annotated § 22-3-203(6)(b)(ii)(A): If the appointment of a co-fiduciary is not permitted by the terms of the trust or by a provision of law outside this chapter, a fiduciary may not appoint a co-fiduciary.
+Utah Code Annotated § 22-3-203(6)(b)(ii)(B): (1) If the exercise of the power to adjust by a co-fiduciary is not permitted by the terms of the trust or by a provision of law outside this chapter, the co-fiduciary may not exercise the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(7): (1); (5)(a); (f); (h); (5)(a); (f) A fiduciary may release or delegate to a co-fiduciary the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(7)(a): (5)(a); (f); (h) cause a result described in Subsections
+Utah Code Annotated § 22-3-203(7)(b): (5)(a); (f) deprive the trust of a tax benefit or impose a tax burden not described in Subsections
+Utah Code Annotated § 22-3-203(8): (7); (1); (8)(c) A fiduciary's release or delegation to a co-fiduciary under Subsection
+Utah Code Annotated § 22-3-203(8)(a): must be in a record;
+Utah Code Annotated § 22-3-203(8)(b): applies to the entire power to adjust, unless the release or delegation provides a limitation, which may be a limitation to the power to adjust:
+Utah Code Annotated § 22-3-203(8)(b)(i): from income to principal;
+Utah Code Annotated § 22-3-203(8)(b)(ii): from principal to income;
+Utah Code Annotated § 22-3-203(8)(b)(iii): for specified property; or
+Utah Code Annotated § 22-3-203(8)(b)(iv): in specified circumstances;
+Utah Code Annotated § 22-3-203(8)(c): for a delegation, may be modified by a redelegation under this subsection by the co-fiduciary to which the delegation is made; and
+Utah Code Annotated § 22-3-203(8)(d): (8)(c) subject to Subsection
+Utah Code Annotated § 22-3-203(9): (1) Terms of a trust that deny or limit the power to adjust between income and principal do not affect the application of this section, unless the terms of the trust expressly deny or limit the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(10): (1) The exercise of the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(11): (1); 75-7-811(3); 75-7-103(1)(h) A description of the exercise of the power to adjust under Subsection
+Utah Code Annotated § 22-3-203(11)(a): 75-7-811(3) included in a report, if any, sent to beneficiaries under Subsection
+Utah Code Annotated § 22-3-203(11)(b): 75-7-103(1)(h) communicated at least annually to the qualified beneficiaries determined under Subsection
+
+
+Utah Code Annotated § 22-3-301 Definitions.
+-------------------------------------------
+In this part:Utah Code Annotated § 22-3-301(1): 22-3-307 "Applicable value" means the amount of the net fair market value of a trust taken into account under Section
+Utah Code Annotated § 22-3-301(2): "Express unitrust" means a trust for which, under the terms of the trust without regard to this part, income or net income is permitted or required to be calculated as a unitrust amount.
+Utah Code Annotated § 22-3-301(3): "Income trust" means a trust that is not a unitrust.
+Utah Code Annotated § 22-3-301(4): "Net fair market value of a trust" means the fair market value of the assets of the trust minus the noncontingent liabilities of the trust.
+Utah Code Annotated § 22-3-301(5): 
+Utah Code Annotated § 22-3-301(5)(a): "Unitrust" means a trust for which net income is a unitrust amount.
+Utah Code Annotated § 22-3-301(5)(b): "Unitrust" includes an express unitrust.
+Utah Code Annotated § 22-3-301(6): "Unitrust amount" means:
+Utah Code Annotated § 22-3-301(6)(a): an amount computed by multiplying a determined value of a trust by a determined percentage; and
+Utah Code Annotated § 22-3-301(6)(b): for a unitrust administered under a unitrust policy, the applicable value multiplied by the unitrust rate.
+Utah Code Annotated § 22-3-301(7): 22-3-305; 22-3-309; 22-3-303 "Unitrust policy" means a policy described in Sections
+Utah Code Annotated § 22-3-301(8): (6) "Unitrust rate" means the rate used to compute the unitrust amount under Subsection
+
+
+Utah Code Annotated § 22-3-302 Application -- Duties and remedies.
+------------------------------------------------------------------
+Utah Code Annotated § 22-3-302(1): (2) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-302(1)(a): an income trust, unless the terms of the trust expressly prohibit use of this part by:
+Utah Code Annotated § 22-3-302(1)(a)(i): a specific reference to this part; or
+Utah Code Annotated § 22-3-302(1)(a)(ii): an explicit expression of intent that net income not be calculated as a unitrust amount; and
+Utah Code Annotated § 22-3-302(1)(b): an express unitrust, except to the extent the terms of the trust explicitly:
+Utah Code Annotated § 22-3-302(1)(b)(i): prohibit use of this part by a specific reference to this part;
+Utah Code Annotated § 22-3-302(1)(b)(ii): prohibit conversion to an income trust; or
+Utah Code Annotated § 22-3-302(1)(b)(iii): limit changes to the method of calculating the unitrust amount.
+Utah Code Annotated § 22-3-302(2): This part does not apply to a trust described in Section 170(f)(2)(B), 642(c)(5), 664(d), 2702(a)(3)(A)(ii) or (iii), or 2702(b) of the Internal Revenue Code.
+Utah Code Annotated § 22-3-302(3): (1)(a)
+Utah Code Annotated § 22-3-302(3)(a): (1)(a) An income trust to which this part applies under Subsection
+Utah Code Annotated § 22-3-302(3)(b): Conversion to a unitrust under this part does not affect other terms of the trust concerning distributions of income or principal.
+Utah Code Annotated § 22-3-302(4): 
+Utah Code Annotated § 22-3-302(4)(a): This part applies to an estate only to the extent a trust is a beneficiary of the estate.
+Utah Code Annotated § 22-3-302(4)(b): To the extent of the trust's interest in the estate, and in the same manner as for a trust under this part:
+Utah Code Annotated § 22-3-302(4)(b)(i): the estate may be administered as a unitrust;
+Utah Code Annotated § 22-3-302(4)(b)(ii): the administration of the estate as a unitrust may be discontinued; or
+Utah Code Annotated § 22-3-302(4)(b)(iii): the percentage or method used to calculate the unitrust amount may be changed.
+Utah Code Annotated § 22-3-302(5): This part does not create a duty to take or consider action under this part or to inform a beneficiary about the applicability of this part.
+Utah Code Annotated § 22-3-302(6): A fiduciary that in good faith takes or fails to take an action under this part is not liable to a person affected by the action or inaction of the fiduciary.
+
+
+Utah Code Annotated § 22-3-303 Authority of fiduciary.
+------------------------------------------------------
+Utah Code Annotated § 22-3-303(1): (2); (6) A fiduciary, without court approval, by complying with Subsections
+Utah Code Annotated § 22-3-303(1)(a): convert an income trust to a unitrust if the fiduciary adopts, in a record, a unitrust policy for the trust providing:
+Utah Code Annotated § 22-3-303(1)(a)(i): that, in administering the trust, the net income of the trust will be a unitrust amount rather than net income determined without regard to this part; and
+Utah Code Annotated § 22-3-303(1)(a)(ii): the percentage and method used to calculate the unitrust amount;
+Utah Code Annotated § 22-3-303(1)(b): change the percentage or method used to calculate a unitrust amount for a unitrust if the fiduciary adopts in a record a unitrust policy or an amendment or replacement of a unitrust policy providing changes in the percentage or method used to calculate the unitrust amount; or
+Utah Code Annotated § 22-3-303(1)(c): convert a unitrust to an income trust if the fiduciary adopts, in a record, a determination that, in administering the trust, the net income of the trust will be net income determined without regard to this part rather than a unitrust amount.
+Utah Code Annotated § 22-3-303(2): (1); 22-3-304; (2)(b); 75-7-103(1)(h); (2)(b); 22-3-304(2); 22-3-304(4)(e); (2)(b); (2)(b) A fiduciary may take an action under Subsection
+Utah Code Annotated § 22-3-303(2)(a): the fiduciary determines that the action will assist the fiduciary to administer a trust impartially;
+Utah Code Annotated § 22-3-303(2)(b): 22-3-304 the fiduciary sends a notice in a record, in the manner required by Section
+Utah Code Annotated § 22-3-303(2)(c): (2)(b) the fiduciary sends a copy of the notice under Subsection
+Utah Code Annotated § 22-3-303(2)(c)(i): if an individual, living; or
+Utah Code Annotated § 22-3-303(2)(c)(ii): if not an individual, in existence;
+Utah Code Annotated § 22-3-303(2)(d): 75-7-103(1)(h); (2)(b); 22-3-304(2) at least one member of each class of the qualified beneficiaries determined under Subsection
+Utah Code Annotated § 22-3-303(2)(d)(i): if an individual, legally competent;
+Utah Code Annotated § 22-3-303(2)(d)(ii): if not an individual, in existence; or
+Utah Code Annotated § 22-3-303(2)(d)(iii): 22-3-304(2) represented in the manner provided in Subsection
+Utah Code Annotated § 22-3-303(2)(e): 22-3-304(4)(e); (2)(b); (2)(b) the fiduciary does not receive, by the date specified in the notice under Subsection
+Utah Code Annotated § 22-3-303(3): 22-3-304(4)(e); 22-3-304(4)(d); 22-3-304(1); (3)(a); 22-3-304(3); 22-3-304(4)(d)
+Utah Code Annotated § 22-3-303(3)(a): 22-3-304(4)(e); 22-3-304(4)(d) If a fiduciary receives, not later than the date stated in the notice under Subsection
+Utah Code Annotated § 22-3-303(3)(a)(i): require the fiduciary to take the proposed action;
+Utah Code Annotated § 22-3-303(3)(a)(ii): require the fiduciary to take the proposed action with modifications; or
+Utah Code Annotated § 22-3-303(3)(a)(iii): prevent the proposed action.
+Utah Code Annotated § 22-3-303(3)(b): 22-3-304(1); (3)(a); 22-3-304(3); 22-3-304(4)(d) A person described in Subsection
+Utah Code Annotated § 22-3-303(3)(b)(i): 22-3-304(3) consented under Subsection
+Utah Code Annotated § 22-3-303(3)(b)(ii): 22-3-304(4)(d) objected under Subsection
+Utah Code Annotated § 22-3-303(4): (2)(b); 22-3-304(1) If, after sending a notice under Subsection
+Utah Code Annotated § 22-3-303(5): (1) If a beneficiary requests in a record that a fiduciary take an action described in Subsection
+Utah Code Annotated § 22-3-303(6): (1); (5); 22-3-201(5) In deciding whether and how to take an action authorized by Subsection
+Utah Code Annotated § 22-3-303(7): 22-3-203(7); 22-3-203(8); (1)(a); (1)(b); (1)(c) For a reason described in Subsection
+Utah Code Annotated § 22-3-303(7)(a): (1)(a) release or delegate the power to convert an income trust to a unitrust under Subsection
+Utah Code Annotated § 22-3-303(7)(b): (1)(b) change the percentage or method used to calculate a unitrust amount under Subsection
+Utah Code Annotated § 22-3-303(7)(c): (1)(c) convert a unitrust to an income trust under Subsection
+
+
+Utah Code Annotated § 22-3-304 Notice.
+--------------------------------------
+Utah Code Annotated § 22-3-304(1): 22-3-303(2)(b); 75-7-109; 75-7-103(1)(h); Title 75, Chapter 12, Uniform Directed Trust Act; (1)(b); (1)(b) A fiduciary shall send a notice required by Subsection
+Utah Code Annotated § 22-3-304(1)(a): 75-7-103(1)(h) the qualified beneficiaries determined under Subsection
+Utah Code Annotated § 22-3-304(1)(b): Title 75, Chapter 12, Uniform Directed Trust Act each person acting, in accordance with
+Utah Code Annotated § 22-3-304(1)(c): (1)(b); (1)(b) each person that is granted a power by the terms of the trust to appoint or remove a trustee or person described in Subsection
+Utah Code Annotated § 22-3-304(2): 75-7-301; 75-7-305 The representation provisions of Sections
+Utah Code Annotated § 22-3-304(3): 22-3-303(2)(b); (1); (3)(a)
+Utah Code Annotated § 22-3-304(3)(a): 22-3-303(2)(b) A person may consent in a record at any time to action proposed under Subsection
+Utah Code Annotated § 22-3-304(3)(b): (1); (3)(a) If a person required to receive a notice under Subsection
+Utah Code Annotated § 22-3-304(4): 22-3-303(2)(b); 22-3-303(2)(b); 22-3-303(1)(a); 22-3-303(1)(b); (4)(d) A notice required by Subsection
+Utah Code Annotated § 22-3-304(4)(a): 22-3-303(2)(b) the action proposed under Subsection
+Utah Code Annotated § 22-3-304(4)(b): 22-3-303(1)(a) for a conversion of an income trust to a unitrust, a copy of the unitrust policy adopted under Subsection
+Utah Code Annotated § 22-3-304(4)(c): 22-3-303(1)(b) for a change in the percentage or method used to calculate the unitrust amount, a copy of the unitrust policy or amendment or replacement of the unitrust policy adopted under Subsection
+Utah Code Annotated § 22-3-304(4)(d): a statement that the person to which the notice is sent may object to the proposed action by stating in a record the basis for the objection and sending or delivering the record to the fiduciary;
+Utah Code Annotated § 22-3-304(4)(e): (4)(d) the date by which the fiduciary shall receive an objection under Subsection
+Utah Code Annotated § 22-3-304(4)(f): the date on which the action is proposed to be taken and the date on which the action is proposed to take effect;
+Utah Code Annotated § 22-3-304(4)(g): the name and contact information of the fiduciary; and
+Utah Code Annotated § 22-3-304(4)(h): the name and contact information of a person that may be contacted for additional information.
+
+
+Utah Code Annotated § 22-3-305 Unitrust policy.
+-----------------------------------------------
+Utah Code Annotated § 22-3-305(1): 22-3-303(1)(a); (b); 22-3-303(1)(b) In administering a unitrust under this part, a fiduciary shall follow a unitrust policy:
+Utah Code Annotated § 22-3-305(1)(a): 22-3-303(1)(a); (b) adopted under Subsection
+Utah Code Annotated § 22-3-305(1)(b): 22-3-303(1)(b) amended or replaced under Subsection
+Utah Code Annotated § 22-3-305(2): 22-3-306; 22-3-307; 22-3-306; 22-3-309; 22-3-307(1); 22-3-308(1); 22-3-306; 22-3-307(2); 22-3-308(2); 22-3-309(1) A unitrust policy shall provide:
+Utah Code Annotated § 22-3-305(2)(a): 22-3-306 the unitrust rate or the method for determining the unitrust rate under Section
+Utah Code Annotated § 22-3-305(2)(b): 22-3-307 the method for determining the applicable value under Section
+Utah Code Annotated § 22-3-305(2)(c): 22-3-306; 22-3-309; 22-3-307(1); 22-3-308(1); 22-3-306; 22-3-307(2); 22-3-308(2); 22-3-309(1) the rules described in Sections
+Utah Code Annotated § 22-3-305(2)(c)(i): 22-3-307(1); 22-3-308(1) mandatory, as provided in Subsections
+Utah Code Annotated § 22-3-305(2)(c)(ii): 22-3-306; 22-3-307(2); 22-3-308(2); 22-3-309(1) optional, as provided in Section
+
+
+Utah Code Annotated § 22-3-306 Unitrust rate.
+---------------------------------------------
+Utah Code Annotated § 22-3-306(1): 22-3-309(2)(a) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-306(1)(a): a fixed unitrust rate; or
+Utah Code Annotated § 22-3-306(1)(b): a unitrust rate that is determined for each period using:
+Utah Code Annotated § 22-3-306(1)(b)(i): a market index or other published data; or
+Utah Code Annotated § 22-3-306(1)(b)(ii): a mathematical blend of market indices or other published data over a stated number of preceding periods.
+Utah Code Annotated § 22-3-306(2): 22-3-309(2)(a); (1)(b); (1)(b); (1)(b); (1)(b); (1)(b); (2)(a); (d) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-306(2)(a): (1)(b) a limit on how high the unitrust rate determined under Subsection
+Utah Code Annotated § 22-3-306(2)(b): (1)(b) a limit on how low the unitrust rate determined under Subsection
+Utah Code Annotated § 22-3-306(2)(c): (1)(b) a limit on how much the unitrust rate determined under Subsection
+Utah Code Annotated § 22-3-306(2)(d): (1)(b) a limit on how much the unitrust rate determined under Subsection
+Utah Code Annotated § 22-3-306(2)(e): (1)(b); (2)(a); (d) a mathematical blend of any of the unitrust rates determined under Subsection
+
+
+Utah Code Annotated § 22-3-307 Applicable value.
+------------------------------------------------
+Utah Code Annotated § 22-3-307(1): A unitrust policy shall provide the method for determining the fair market value of an asset for the purpose of determining the unitrust amount, including:
+Utah Code Annotated § 22-3-307(1)(a): the frequency of valuing the asset, which need not require a valuation in every period; and
+Utah Code Annotated § 22-3-307(1)(b): the date for valuing the asset in each period that the asset is valued.
+Utah Code Annotated § 22-3-307(2): 22-3-309(2)(b); (2)(a); (h) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-307(2)(a): obtaining an appraisal of an asset for which fair market value is not readily available;
+Utah Code Annotated § 22-3-307(2)(b): exclusion of specific assets or groups or types of assets;
+Utah Code Annotated § 22-3-307(2)(c): other exceptions or modifications of the treatment of specific assets or groups or types of assets;
+Utah Code Annotated § 22-3-307(2)(d): identification and treatment of cash or property held for distribution;
+Utah Code Annotated § 22-3-307(2)(e): use of:
+Utah Code Annotated § 22-3-307(2)(e)(i): an average of fair market values over a stated number of preceding periods; or
+Utah Code Annotated § 22-3-307(2)(e)(ii): another mathematical blend of fair market values over a stated number of preceding periods;
+Utah Code Annotated § 22-3-307(2)(f): a limit on how much the applicable value of all assets, groups of assets, or individual assets may increase over:
+Utah Code Annotated § 22-3-307(2)(f)(i): the corresponding applicable value for the preceding period; or
+Utah Code Annotated § 22-3-307(2)(f)(ii): a mathematical blend of applicable values over a stated number of preceding time periods;
+Utah Code Annotated § 22-3-307(2)(g): a limit on how much the applicable value of all assets, groups of assets, or individual assets may decrease below:
+Utah Code Annotated § 22-3-307(2)(g)(i): the corresponding applicable value for the preceding period; or
+Utah Code Annotated § 22-3-307(2)(g)(ii): a mathematical blend of applicable values over a stated number of preceding periods;
+Utah Code Annotated § 22-3-307(2)(h): the treatment of accrued income and other features of an asset that affect value; and
+Utah Code Annotated § 22-3-307(2)(i): (2)(a); (h) determining the liabilities of the trust, including treatment of liabilities to conform with the treatment of assets under Subsections
+
+
+Utah Code Annotated § 22-3-308 Period.
+--------------------------------------
+Utah Code Annotated § 22-3-308(1): 22-3-306; 22-3-307; 22-3-309(2)(c)
+Utah Code Annotated § 22-3-308(1)(a): 22-3-306; 22-3-307 A unitrust policy shall provide the period used under Sections
+Utah Code Annotated § 22-3-308(1)(b): 22-3-309(2)(c) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-308(1)(b)(i): a calendar year;
+Utah Code Annotated § 22-3-308(1)(b)(ii): a 12-month period other than a calendar year;
+Utah Code Annotated § 22-3-308(1)(b)(iii): a calendar quarter;
+Utah Code Annotated § 22-3-308(1)(b)(iv): a three-month period other than a calendar quarter; or
+Utah Code Annotated § 22-3-308(1)(b)(v): another period.
+Utah Code Annotated § 22-3-308(2): 22-3-309(2); 22-3-306(1)(b)(ii); (2)(c); (2)(d); 22-3-307(2)(e)(i); (ii); (f)(ii); (g)(ii) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-308(2)(a): 22-3-306(1)(b)(ii); (2)(c); (2)(d) using fewer preceding periods under Subsection
+Utah Code Annotated § 22-3-308(2)(a)(i): the trust was not in existence in a preceding period; or
+Utah Code Annotated § 22-3-308(2)(a)(ii): market indices or other published data are not available for a preceding period;
+Utah Code Annotated § 22-3-308(2)(b): 22-3-307(2)(e)(i); (ii); (f)(ii); (g)(ii) using fewer preceding periods under Subsection
+Utah Code Annotated § 22-3-308(2)(b)(i): the trust was not in existence in a preceding period; or
+Utah Code Annotated § 22-3-308(2)(b)(ii): fair market values are not available for a preceding period; and
+Utah Code Annotated § 22-3-308(2)(c): prorating the unitrust amount on a daily basis for a part of a period in which the trust or the administration of the trust as a unitrust or the interest of any beneficiary commences or terminates.
+
+
+Utah Code Annotated § 22-3-309 Special tax benefits -- Other rules.
+-------------------------------------------------------------------
+Utah Code Annotated § 22-3-309(1): A unitrust policy may:
+Utah Code Annotated § 22-3-309(1)(a): provide methods and standards for:
+Utah Code Annotated § 22-3-309(1)(a)(i): determining the timing of distributions;
+Utah Code Annotated § 22-3-309(1)(a)(ii): making distributions in cash or in kind or partly in cash and partly in kind; or
+Utah Code Annotated § 22-3-309(1)(a)(iii): correcting an underpayment or overpayment to a beneficiary based on the unitrust amount if there is an error in calculating the unitrust amount;
+Utah Code Annotated § 22-3-309(1)(b): specify sources and the order of sources, including categories of income for federal income tax purposes, from which distributions of a unitrust amount are paid; or
+Utah Code Annotated § 22-3-309(1)(c): provide other standards and rules the fiduciary determines serve the interests of the beneficiaries.
+Utah Code Annotated § 22-3-309(2): 22-3-306; 22-3-307; 22-3-307(1); (2)(a); (d); (e)(i); (i); 22-3-308; 22-3-308(1); 22-3-308; 22-3-308(2)(b)(i); (c) If a trust qualifies for a special tax benefit or a fiduciary is not an independent person:
+Utah Code Annotated § 22-3-309(2)(a): 22-3-306 the unitrust rate established under Section
+Utah Code Annotated § 22-3-309(2)(b): 22-3-307; 22-3-307(1); (2)(a); (d); (e)(i); (i) the only provisions of Section
+Utah Code Annotated § 22-3-309(2)(c): 22-3-308; 22-3-308(1) the only period that may be used under Section
+Utah Code Annotated § 22-3-309(2)(d): 22-3-308; 22-3-308(2)(b)(i); (c) the only other provisions of Section
+
+
+Utah Code Annotated § 22-3-401 Receipts from entity -- Character of receipts from entity.
+-----------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-401(1): 22-3-402; 22-3-403; (1)(b)(i); 22-3-416 In this section:
+Utah Code Annotated § 22-3-401(1)(a): "Capital distribution" means an entity distribution of money that is a:
+Utah Code Annotated § 22-3-401(1)(a)(i): return of capital; or
+Utah Code Annotated § 22-3-401(1)(a)(ii): distribution in total or partial liquidation of the entity.
+Utah Code Annotated § 22-3-401(1)(b): 22-3-402; 22-3-403; (1)(b)(i); 22-3-416
+Utah Code Annotated § 22-3-401(1)(b)(i): "Entity" means a corporation, partnership, limited liability company, regulated investment company, real estate investment trust, common trust fund, or any other organization or arrangement in which a fiduciary owns or holds an interest, regardless of whether the entity is a taxpayer for federal income tax purposes.
+Utah Code Annotated § 22-3-401(1)(b)(ii): 22-3-402; 22-3-403; (1)(b)(i); 22-3-416 "Entity" does not include:
+Utah Code Annotated § 22-3-401(1)(b)(ii)(A): 22-3-402 a trust or estate to which Section
+Utah Code Annotated § 22-3-401(1)(b)(ii)(B): 22-3-403; (1)(b)(i) a business or other activity to which Section
+Utah Code Annotated § 22-3-401(1)(b)(ii)(C): an asset-backed security; or
+Utah Code Annotated § 22-3-401(1)(b)(ii)(D): 22-3-416 an instrument or arrangement to which Section
+Utah Code Annotated § 22-3-401(1)(c): "Entity distribution" means a payment or transfer by an entity made to a person in the person's capacity as an owner or holder of an interest in the entity.
+Utah Code Annotated § 22-3-401(2): In this section, an attribute or action of an entity includes an attribute or action of any other entity in which the entity owns or holds an interest, including an interest owned or held indirectly through another entity.
+Utah Code Annotated § 22-3-401(3): (4)(b); (d) Except as otherwise provided in Subsections
+Utah Code Annotated § 22-3-401(3)(a): money received in an entity distribution; and
+Utah Code Annotated § 22-3-401(3)(b): tangible personal property of nominal value received from the entity.
+Utah Code Annotated § 22-3-401(4): (4)(d)(i) A fiduciary shall allocate to principal:
+Utah Code Annotated § 22-3-401(4)(a): property received in an entity distribution that is not:
+Utah Code Annotated § 22-3-401(4)(a)(i): money; or
+Utah Code Annotated § 22-3-401(4)(a)(ii): tangible personal property of nominal value;
+Utah Code Annotated § 22-3-401(4)(b): money received in an entity distribution in an exchange for part or all of the fiduciary's interest in the entity, to the extent the entity distribution reduces the fiduciary's interest in the entity relative to the interests of other persons that own or hold interests in the entity;
+Utah Code Annotated § 22-3-401(4)(c): money received in an entity distribution that the fiduciary determines or estimates is a capital distribution; and
+Utah Code Annotated § 22-3-401(4)(d): (4)(d)(i) money received in an entity distribution from an entity that is:
+Utah Code Annotated § 22-3-401(4)(d)(i): a regulated investment company or real estate investment trust if the money received is a capital gain dividend for federal income tax purposes; or
+Utah Code Annotated § 22-3-401(4)(d)(ii): (4)(d)(i) treated for federal income tax purposes in a comparable manner to the treatment described in Subsection
+Utah Code Annotated § 22-3-401(5): (5)(a); (6) A fiduciary may determine or estimate that money received in an entity distribution is a capital distribution:
+Utah Code Annotated § 22-3-401(5)(a): by relying without inquiry or investigation on a characterization of the entity distribution provided by or on behalf of the entity, unless the fiduciary:
+Utah Code Annotated § 22-3-401(5)(a)(i): determines, on the basis of information known to the fiduciary, that the characterization is or may be incorrect; or
+Utah Code Annotated § 22-3-401(5)(a)(ii): owns or holds more than 50% of the voting interest in the entity;
+Utah Code Annotated § 22-3-401(5)(b): by determining or estimating, on the basis of information known to the fiduciary or provided to the fiduciary by or on behalf of the entity, that the total amount of money and property received by the fiduciary in the entity distribution or a series of related entity distributions is or will be greater than 20% of the fair market value of the fiduciary's interest in the entity; or
+Utah Code Annotated § 22-3-401(5)(c): (5)(a); (6) if neither Subsection
+Utah Code Annotated § 22-3-401(6): (5)(c); (6)(b); 22-3-407; 22-3-410; 22-3-411; 22-3-412 In making a determination or estimate under Subsection
+Utah Code Annotated § 22-3-401(6)(a): a characterization of an entity distribution provided by or on behalf of the entity;
+Utah Code Annotated § 22-3-401(6)(b): the amount of money or property received in:
+Utah Code Annotated § 22-3-401(6)(b)(i): the entity distribution; or
+Utah Code Annotated § 22-3-401(6)(b)(ii): what the fiduciary determines is or will be a series of related entity distributions;
+Utah Code Annotated § 22-3-401(6)(c): (6)(b); 22-3-407; 22-3-410; 22-3-411; 22-3-412 the amount described in Subsection
+Utah Code Annotated § 22-3-401(6)(c)(i): the entity's operating income;
+Utah Code Annotated § 22-3-401(6)(c)(ii): the proceeds of the entity's sale or other disposition of:
+Utah Code Annotated § 22-3-401(6)(c)(ii)(A): all or part of the business or other activity conducted by the entity;
+Utah Code Annotated § 22-3-401(6)(c)(ii)(B): one or more business assets that are not sold to customers in the ordinary course of the business or other activity conducted by the entity; or
+Utah Code Annotated § 22-3-401(6)(c)(ii)(C): one or more assets other than business assets, unless the entity's primary activity is to invest in assets to realize gain on the disposition of all or some of the assets;
+Utah Code Annotated § 22-3-401(6)(c)(iii): if the entity's primary activity is to invest in assets to realize gain on the disposition of all or some of the assets, the gain realized on the disposition;
+Utah Code Annotated § 22-3-401(6)(c)(iv): the entity's regular, periodic entity distributions;
+Utah Code Annotated § 22-3-401(6)(c)(v): the amount of money that the entity has accumulated;
+Utah Code Annotated § 22-3-401(6)(c)(vi): the amount of money that the entity has borrowed;
+Utah Code Annotated § 22-3-401(6)(c)(vii): 22-3-407; 22-3-410; 22-3-411; 22-3-412 the amount of money that the entity has received from the sources described in Sections
+Utah Code Annotated § 22-3-401(6)(c)(viii): the amount of money that the entity has received from a source not otherwise described in this subsection; and
+Utah Code Annotated § 22-3-401(6)(d): any other factor the fiduciary determines is relevant.
+Utah Code Annotated § 22-3-401(7): (3); (6) If, after applying Subsections
+Utah Code Annotated § 22-3-401(8): If a fiduciary receives additional information about the application of this section to an entity distribution before the fiduciary has paid part of the entity distribution to a beneficiary, the fiduciary may consider the additional information before making the payment to the beneficiary and may change a decision to make the payment to the beneficiary.
+Utah Code Annotated § 22-3-401(9): 22-3-203 If a fiduciary receives additional information about the application of this section to an entity distribution after the fiduciary has paid part of the entity distribution to a beneficiary, the fiduciary is not required to change or recover the payment to the beneficiary but may consider that information in determining whether to exercise the power to adjust under Section
+
+
+Utah Code Annotated § 22-3-402 Receipts from entity -- Distribution from trust or estate.
+-----------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-402(1): Part 3, Unitrust A fiduciary shall allocate:
+Utah Code Annotated § 22-3-402(1)(a): Part 3, Unitrust to income an amount received as a distribution of income, including a unitrust distribution under
+Utah Code Annotated § 22-3-402(1)(b): to principal an amount received as a distribution of principal from the trust or estate.
+Utah Code Annotated § 22-3-402(2): 22-3-401; 22-3-415; 22-3-416 If a fiduciary purchases, or receives from a settlor, an interest in a trust that is an investment entity, Section
+
+
+Utah Code Annotated § 22-3-403 Receipts from entity -- Business or other activity conducted by fiduciary.
+---------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-403(1): 22-3-401(1)(b)(i) This section applies to a business or other activity conducted by a fiduciary if the fiduciary determines that it is in the interests of the beneficiaries to account separately for the business or other activity instead of:
+Utah Code Annotated § 22-3-403(1)(a): accounting for the business or other activity as part of the fiduciary's general accounting records; or
+Utah Code Annotated § 22-3-403(1)(b): 22-3-401(1)(b)(i) conducting the business or other activity through an entity described in Subsection
+Utah Code Annotated § 22-3-403(2): A fiduciary may account separately under this section for the transactions of a business or other activity, whether or not assets of the business or other activity are segregated from other assets held by the fiduciary.
+Utah Code Annotated § 22-3-403(3): (3)(a) A fiduciary that accounts separately under this section for a business or other activity:
+Utah Code Annotated § 22-3-403(3)(a): may determine:
+Utah Code Annotated § 22-3-403(3)(a)(i): the extent to which the net cash receipts of the business or other activity shall be retained for:
+Utah Code Annotated § 22-3-403(3)(a)(i)(A): working capital;
+Utah Code Annotated § 22-3-403(3)(a)(i)(B): the acquisition or replacement of fixed assets; and
+Utah Code Annotated § 22-3-403(3)(a)(i)(C): other reasonably foreseeable needs of the business or other activity; and
+Utah Code Annotated § 22-3-403(3)(a)(ii): the extent that the remaining net cash receipts are accounted for as principal or income in the fiduciary's general accounting records for the trust;
+Utah Code Annotated § 22-3-403(3)(b): (3)(a) may make a determination under Subsection
+Utah Code Annotated § 22-3-403(3)(c): shall account for the net amount received from the sale of an asset of the business or other activity, other than a sale in the ordinary course of the business or other activity, as principal in the fiduciary's general accounting records for the trust, to the extent the fiduciary determines that the net amount received is no longer required in the conduct of the business or other activity.
+Utah Code Annotated § 22-3-403(4): 22-3-414; 22-3-415; 22-3-416 A fiduciary may account separately under this section for activities that include:
+Utah Code Annotated § 22-3-403(4)(a): retail, manufacturing, service, and other traditional business activities;
+Utah Code Annotated § 22-3-403(4)(b): farming;
+Utah Code Annotated § 22-3-403(4)(c): raising and selling livestock and other animals;
+Utah Code Annotated § 22-3-403(4)(d): managing rental properties;
+Utah Code Annotated § 22-3-403(4)(e): extracting minerals, water, and other natural resources;
+Utah Code Annotated § 22-3-403(4)(f): growing and cutting timber;
+Utah Code Annotated § 22-3-403(4)(g): 22-3-414; 22-3-415; 22-3-416 an activity to which Section
+Utah Code Annotated § 22-3-403(4)(h): any other business conducted by the fiduciary.
+
+
+Utah Code Annotated § 22-3-404 Receipts not normally apportioned -- Principal receipts.
+---------------------------------------------------------------------------------------
+A fiduciary shall allocate to principal:Utah Code Annotated § 22-3-404(1): to the extent not allocated to income under this chapter, an asset received from:
+Utah Code Annotated § 22-3-404(1)(a): an individual during the individual's lifetime;
+Utah Code Annotated § 22-3-404(1)(b): an estate;
+Utah Code Annotated § 22-3-404(1)(c): a trust on termination of an income interest; or
+Utah Code Annotated § 22-3-404(1)(d): a payor under a contract naming the fiduciary as beneficiary;
+Utah Code Annotated § 22-3-404(2): except as otherwise provided in this part, money or other property received from the sale, exchange, liquidation, or change in form of a principal asset;
+Utah Code Annotated § 22-3-404(3): 22-3-502(1) an amount recovered from a third party to reimburse the fiduciary because of a disbursement described in Subsection
+Utah Code Annotated § 22-3-404(4): proceeds of property taken by eminent domain, except that proceeds awarded for loss of income in an accounting period are income if a current income beneficiary had a mandatory income interest during the accounting period;
+Utah Code Annotated § 22-3-404(5): net income received in an accounting period during which there is no beneficiary to which a fiduciary is permitted or required to distribute income; and
+Utah Code Annotated § 22-3-404(6): Part 3, Unitrust other receipts as provided in
+
+
+Utah Code Annotated § 22-3-405 Receipts not normally apportioned -- Rental property.
+------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-405(1): 22-3-403 To the extent a fiduciary does not account for the management of rental property as a business under Section
+Utah Code Annotated § 22-3-405(2): An amount received as a refundable deposit, including a security deposit or a deposit that is to be applied as rent for future periods:
+Utah Code Annotated § 22-3-405(2)(a): shall be added to principal and held subject to the terms of the lease, except as otherwise provided by law other than this chapter; and
+Utah Code Annotated § 22-3-405(2)(b): is not allocated to income or available for distribution to a beneficiary until the fiduciary's contractual obligations have been satisfied with respect to that amount.
+
+
+Utah Code Annotated § 22-3-406 Receipts not normally apportioned -- Receipt on obligation to be paid in money.
+--------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-406(1): 22-3-409; 22-3-410; 22-3-411; 22-3-412; 22-3-414; 22-3-415; 22-3-416 This section does not apply to an obligation to which Section
+Utah Code Annotated § 22-3-406(2): A fiduciary shall allocate to income, without provision for amortization of premium, an amount received as interest on an obligation to pay money to the fiduciary, including an amount received as consideration for prepaying principal.
+Utah Code Annotated § 22-3-406(3): 
+Utah Code Annotated § 22-3-406(3)(a): A fiduciary shall allocate to principal an amount received from the sale, redemption, or other disposition of an obligation to pay money to the fiduciary.
+Utah Code Annotated § 22-3-406(3)(b): A fiduciary shall allocate to income the increment in value of a bond or other obligation for the payment of money bearing no stated interest but payable or redeemable, at maturity or another future time, in an amount that exceeds the amount in consideration of which it was issued.
+
+
+Utah Code Annotated § 22-3-407 Receipts not normally apportioned -- Insurance policy or contract.
+-------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-407(1): 22-3-409 This section does not apply to a contract to which Section
+Utah Code Annotated § 22-3-407(2): (3)
+Utah Code Annotated § 22-3-407(2)(a): (3) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-407(2)(b): The fiduciary shall allocate dividends on an insurance policy:
+Utah Code Annotated § 22-3-407(2)(b)(i): to income, to the extent premiums on the policy are paid from income; and
+Utah Code Annotated § 22-3-407(2)(b)(ii): to principal, to the extent premiums on the policy are paid from principal.
+Utah Code Annotated § 22-3-407(3): 22-3-403 A fiduciary shall allocate to income proceeds of a contract that insures the fiduciary against loss of:
+Utah Code Annotated § 22-3-407(3)(a): occupancy or other use by a current income beneficiary;
+Utah Code Annotated § 22-3-407(3)(b): income; or
+Utah Code Annotated § 22-3-407(3)(c): 22-3-403 subject to Section
+
+
+Utah Code Annotated § 22-3-408 Receipts normally apportioned -- Insubstantial allocation not required.
+------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-408(1): 22-3-409; 22-3-410; 22-3-411; 22-3-412; 22-3-415; 22-3-203(5) If a fiduciary determines that an allocation between income and principal required by Section
+Utah Code Annotated § 22-3-408(2): (1) A fiduciary may presume an allocation is insubstantial under Subsection
+Utah Code Annotated § 22-3-408(2)(a): the amount of the allocation would increase or decrease net income in an accounting period, as determined before the allocation, by less than 10%; and
+Utah Code Annotated § 22-3-408(2)(b): the asset producing the receipt to be allocated has a fair market value less than 10% of the total fair market value of the assets owned or held by the fiduciary at the beginning of the accounting period.
+Utah Code Annotated § 22-3-408(3): (1); 22-3-203(6); 22-3-203(7); 22-3-203(8) The power to make a determination under Subsection
+Utah Code Annotated § 22-3-408(3)(a): 22-3-203(6) exercised by a co-fiduciary in the manner described in Subsection
+Utah Code Annotated § 22-3-408(3)(b): 22-3-203(7); 22-3-203(8) released or delegated for a reason described in Subsection
+
+
+Utah Code Annotated § 22-3-409 Receipts normally apportioned -- Deferred compensation, annuity, or similar payment.
+-------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-409(1): (2) In this section:
+Utah Code Annotated § 22-3-409(1)(a): (2) "Internal income of a separate fund" means the amount determined under Subsection
+Utah Code Annotated § 22-3-409(1)(b): "Marital trust" means a trust:
+Utah Code Annotated § 22-3-409(1)(b)(i): of which the settlor's surviving spouse is the only current income beneficiary and is entitled to a distribution of all the current net income of the trust; and
+Utah Code Annotated § 22-3-409(1)(b)(ii): that qualifies for a marital deduction with respect to the settlor's estate under Section 2056 of the Internal Revenue Code because:
+Utah Code Annotated § 22-3-409(1)(b)(ii)(A): an election to qualify for a marital deduction under Section 2056(b)(7) of the Internal Revenue Code has been made; or
+Utah Code Annotated § 22-3-409(1)(b)(ii)(B): the trust qualifies for a marital deduction under Section 2056(b)(5) of the Internal Revenue Code.
+Utah Code Annotated § 22-3-409(1)(c): 
+Utah Code Annotated § 22-3-409(1)(c)(i): "Payment" means an amount a fiduciary may receive over a fixed number of years or during the life of one or more individuals because of services rendered or property transferred to the payor in exchange for future amounts the fiduciary may receive.
+Utah Code Annotated § 22-3-409(1)(c)(ii): "Payment" includes an amount received in money or property from the payor's general assets or from a separate fund created by the payor.
+Utah Code Annotated § 22-3-409(1)(d): "Separate fund" includes a private or commercial annuity, an individual retirement account, and a pension, profit-sharing, stock-bonus, or stock-ownership plan.
+Utah Code Annotated § 22-3-409(2): (2)(a); (2)(b) For each accounting period, and for each separate fund:
+Utah Code Annotated § 22-3-409(2)(a): the fiduciary shall determine the internal income of the separate fund as if the separate fund were a trust subject to this chapter;
+Utah Code Annotated § 22-3-409(2)(b): (2)(a) if the fiduciary cannot determine the internal income of the separate fund under Subsection
+Utah Code Annotated § 22-3-409(2)(c): (2)(b) if the fiduciary cannot determine the value of the separate fund under Subsection
+Utah Code Annotated § 22-3-409(3): A fiduciary shall allocate a payment received from a separate fund during an accounting period to income, to the extent of the internal income of the separate fund during the accounting period, and the balance to principal.
+Utah Code Annotated § 22-3-409(4): (4)(a); (4)(b) The fiduciary of a marital trust shall:
+Utah Code Annotated § 22-3-409(4)(a): withdraw from a separate fund the amount the current income beneficiary of the trust requests the fiduciary to withdraw, not greater than the amount by which the internal income of the separate fund during the accounting period exceeds the amount the fiduciary otherwise receives from the separate fund during the accounting period;
+Utah Code Annotated § 22-3-409(4)(b): (4)(a) transfer from principal to income the amount the current income beneficiary requests the fiduciary to transfer, not greater than the amount by which the internal income of the separate fund during the accounting period exceeds the amount the fiduciary receives from the separate fund during the accounting period after the application of Subsection
+Utah Code Annotated § 22-3-409(4)(c): (4)(b) distribute to the current income beneficiary as income:
+Utah Code Annotated § 22-3-409(4)(c)(i): the amount of the internal income of the separate fund received or withdrawn during the accounting period; and
+Utah Code Annotated § 22-3-409(4)(c)(ii): (4)(b) the amount transferred from principal to income under Subsection
+Utah Code Annotated § 22-3-409(5): For a trust, other than a marital trust, of which one or more current income beneficiaries are entitled to a distribution of all the current net income, the fiduciary shall transfer from principal to income the amount by which the internal income of a separate fund during the accounting period exceeds the amount the fiduciary receives from the separate fund during the accounting period.
+
+
+Utah Code Annotated § 22-3-410 Receipts normally apportioned -- Liquidating asset.
+----------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-410(1): In this section:
+Utah Code Annotated § 22-3-410(1)(a): "Liquidating asset" means an asset whose value will diminish or terminate because the asset is expected to produce receipts for a limited time.
+Utah Code Annotated § 22-3-410(1)(b): "Liquidating asset" includes a leasehold, patent, copyright, royalty right, and right to receive payments during a period of more than one year under an arrangement that does not provide for the payment of interest on the unpaid balance.
+Utah Code Annotated § 22-3-410(2): 22-3-401; 22-3-409; 22-3-411; 22-3-412; 22-3-414; 22-3-415; 22-3-416; 22-3-503 This section does not apply to a receipt subject to Section
+Utah Code Annotated § 22-3-410(3): A fiduciary shall allocate:
+Utah Code Annotated § 22-3-410(3)(a): to income:
+Utah Code Annotated § 22-3-410(3)(a)(i): a receipt produced by a liquidating asset, to the extent the receipt does not exceed 3% of the value of the asset; or
+Utah Code Annotated § 22-3-410(3)(a)(ii): if the fiduciary cannot determine the value of the asset, 10% of the receipt; and
+Utah Code Annotated § 22-3-410(3)(b): to principal, the balance of the receipt.
+
+
+Utah Code Annotated § 22-3-411 Receipts normally apportioned -- Minerals, water, and other natural resources.
+-------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-411(1): 22-3-403; (1)(a)(ii); (1)(a); (b); (1)(c)(i); (ii) To the extent that a fiduciary does not account for a receipt from an interest in minerals, water, or other natural resources as a business under Section
+Utah Code Annotated § 22-3-411(1)(a): to income, to the extent received:
+Utah Code Annotated § 22-3-411(1)(a)(i): as delay rental or annual rent on a lease;
+Utah Code Annotated § 22-3-411(1)(a)(ii): as a factor for interest or the equivalent of interest under an agreement creating a production payment; or
+Utah Code Annotated § 22-3-411(1)(a)(iii): on account of an interest in renewable water;
+Utah Code Annotated § 22-3-411(1)(b): (1)(a)(ii) to principal, if received from a production payment, to the extent that Subsection
+Utah Code Annotated § 22-3-411(1)(c): (1)(a); (b); (1)(c)(i); (ii) between income and principal equitably, to the extent received:
+Utah Code Annotated § 22-3-411(1)(c)(i): on account of an interest in nonrenewable water;
+Utah Code Annotated § 22-3-411(1)(c)(ii): as a royalty, shut-in-well payment, take-or-pay payment, or bonus; or
+Utah Code Annotated § 22-3-411(1)(c)(iii): (1)(a); (b); (1)(c)(i); (ii) from a working interest or any other interest not provided for in Subsection
+Utah Code Annotated § 22-3-411(2): This section applies to an interest owned or held by a fiduciary regardless of whether a settlor was extracting minerals, water, or other natural resources before the fiduciary owned or held the interest.
+Utah Code Annotated § 22-3-411(3): (1)(c) An allocation of a receipt under Subsection
+Utah Code Annotated § 22-3-411(4): 
+Utah Code Annotated § 22-3-411(4)(a): If a fiduciary owns or holds an interest in minerals, water, or other natural resources before July 1, 2020, the fiduciary may allocate receipts from the interest as provided in this section or in the manner used by the fiduciary before July 1, 2020.
+Utah Code Annotated § 22-3-411(4)(b): If the fiduciary acquires an interest in minerals, water, or other natural resources on or after July 1, 2020, the fiduciary shall allocate receipts from the interest as provided in this section.
+
+
+Utah Code Annotated § 22-3-412 Receipts normally apportioned -- Timber.
+-----------------------------------------------------------------------
+Utah Code Annotated § 22-3-412(1): 22-3-403; (1)(a); (b); (1)(a); (b); (c) To the extent that a fiduciary does not account for receipts from the sale of timber and related products as a business under Section
+Utah Code Annotated § 22-3-412(1)(a): to income, to the extent that the amount of timber cut from the land does not exceed the rate of growth of the timber;
+Utah Code Annotated § 22-3-412(1)(b): to principal, to the extent that the amount of timber cut from the land exceeds the rate of growth of the timber or the net receipts are from the sale of standing timber;
+Utah Code Annotated § 22-3-412(1)(c): (1)(a); (b) between income and principal if the net receipts are from the lease of land used for growing and cutting timber or from a contract to cut timber from land, by determining the amount of timber cut from the land under the lease or contract and applying the rules in Subsections
+Utah Code Annotated § 22-3-412(1)(d): (1)(a); (b); (c) to principal, to the extent that advance payments, bonuses, and other payments are not allocated under Subsection
+Utah Code Annotated § 22-3-412(2): (1) In determining net receipts to be allocated under Subsection
+Utah Code Annotated § 22-3-412(3): This section applies to land owned or held by a fiduciary regardless of whether a settlor was cutting timber from the land before the fiduciary owned or held the property.
+Utah Code Annotated § 22-3-412(4): 
+Utah Code Annotated § 22-3-412(4)(a): If a fiduciary owns or holds an interest in land used for growing and cutting timber before July 1, 2020, the fiduciary may allocate net receipts from the sale of timber and related products as provided in this section or in the manner used by the fiduciary before July 1, 2020.
+Utah Code Annotated § 22-3-412(4)(b): If the fiduciary acquires an interest in land used for growing and cutting timber on or after July 1, 2020, the fiduciary shall allocate net receipts from the sale of timber and related products as provided in this section.
+
+
+Utah Code Annotated § 22-3-413 Receipts normally apportioned -- Marital deduction property not productive of income.
+--------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-413(1): 22-3-203 If a trust received property for which a gift or estate tax marital deduction was allowed and the settlor's spouse holds a mandatory income interest in the trust, the spouse may require the trustee, to the extent the trust assets otherwise do not provide the spouse with sufficient income from or use of the trust assets to qualify for the deduction, to:
+Utah Code Annotated § 22-3-413(1)(a): make property productive of income;
+Utah Code Annotated § 22-3-413(1)(b): convert property to property productive of income within a reasonable time; or
+Utah Code Annotated § 22-3-413(1)(c): 22-3-203 exercise the power to adjust under Section
+Utah Code Annotated § 22-3-413(2): (1) The trustee may decide which action or combination of actions in Subsection
+
+
+Utah Code Annotated § 22-3-414 Receipts normally apportioned -- Derivative or option.
+-------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-414(1): In this section:
+Utah Code Annotated § 22-3-414(1)(a): "Derivative" means a contract, instrument, other arrangement, or combination of contracts, instruments, or other arrangements, for which the value, rights, and obligations are, in whole or in part, dependent on or derived from an underlying tangible or intangible asset, group of tangible or intangible assets, index, or occurrence of an event.
+Utah Code Annotated § 22-3-414(1)(b): "Derivative" includes stocks, fixed income securities, and financial instruments and arrangements based on indices, commodities, interest rates, weather-related events, and credit-default events.
+Utah Code Annotated § 22-3-414(2): 22-3-403 To the extent that a fiduciary does not account for a transaction in derivatives as a business under Section
+Utah Code Annotated § 22-3-414(2)(a): 10% of receipts from the transaction and 10% of disbursements made in connection with the transaction to income; and
+Utah Code Annotated § 22-3-414(2)(b): the balance to principal.
+Utah Code Annotated § 22-3-414(3): (4) Subsection
+Utah Code Annotated § 22-3-414(3)(a): a fiduciary:
+Utah Code Annotated § 22-3-414(3)(a)(i): grants an option to buy property from a trust, regardless of whether the trust owns the property when the option is granted;
+Utah Code Annotated § 22-3-414(3)(a)(ii): grants an option that permits another person to sell property to the trust; or
+Utah Code Annotated § 22-3-414(3)(a)(iii): acquires an option to buy property for the trust or an option to sell an asset owned by the trust; and
+Utah Code Annotated § 22-3-414(3)(b): the fiduciary or other owner of the asset is required to deliver the asset if the option is exercised.
+Utah Code Annotated § 22-3-414(4): If this subsection applies, the fiduciary shall allocate 10% to income and the balance to principal of the following amounts:
+Utah Code Annotated § 22-3-414(4)(a): an amount received for granting the option;
+Utah Code Annotated § 22-3-414(4)(b): an amount paid to acquire the option; and
+Utah Code Annotated § 22-3-414(4)(c): gain or loss realized on the exercise, exchange, settlement, offset, closing, or expiration of the option.
+
+
+Utah Code Annotated § 22-3-415 Receipts normally apportioned -- Asset-backed security.
+--------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-415(1): (2) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-415(1)(a): to income, a receipt from or related to an asset-backed security, to the extent that the payor identifies the payment as being from interest or other current return; and
+Utah Code Annotated § 22-3-415(1)(b): to principal, the balance of the receipt.
+Utah Code Annotated § 22-3-415(2): If a fiduciary receives one or more payments in exchange for part or all of the fiduciary's interest in an asset-backed security, including a liquidation or redemption of the fiduciary's interest in the security, the fiduciary shall allocate:
+Utah Code Annotated § 22-3-415(2)(a): to income, 10% of receipts from the transaction and 10% of disbursements made in connection with the transaction; and
+Utah Code Annotated § 22-3-415(2)(b): to principal, the balance of the receipts and disbursements.
+
+
+Utah Code Annotated § 22-3-416 Receipts normally apportioned -- Other financial instrument or arrangement.
+----------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-416(1): A fiduciary shall allocate receipts from or related to a financial instrument or arrangement not otherwise addressed by this chapter.
+Utah Code Annotated § 22-3-416(2): 22-3-414; 22-3-415 The allocation must be consistent with Sections
+
+
+Utah Code Annotated § 22-3-501 Disbursement from income.
+--------------------------------------------------------
+Subject to SectionUtah Code Annotated § 22-3-501(1): one-half of:
+Utah Code Annotated § 22-3-501(1)(a): the regular compensation of the fiduciary and any person providing investment advisory, custodial, or other services to the fiduciary, to the extent income is sufficient; and
+Utah Code Annotated § 22-3-501(1)(b): an expense for an accounting, judicial or nonjudicial proceeding, or other matter that involves both income and successive interests, to the extent income is sufficient;
+Utah Code Annotated § 22-3-501(2): (1) the balance of the disbursements described in Subsection
+Utah Code Annotated § 22-3-501(3): another ordinary expense incurred in connection with administration, management, or preservation of property and distribution of income, including interest, an ordinary repair, regularly recurring tax assessed against principal, and an expense of an accounting, judicial or nonjudicial proceeding, or other matter that involves primarily an income interest, to the extent income is sufficient; and
+Utah Code Annotated § 22-3-501(4): a premium on insurance covering loss of a principal asset or income from or use of the asset.
+
+
+Utah Code Annotated § 22-3-502 Disbursement from principal.
+-----------------------------------------------------------
+Utah Code Annotated § 22-3-502(1): 22-3-505; 22-3-601(3)(b); (c); 22-3-501(1); (3); 22-3-501(2); 22-3-501(4); (1)(h)(i)(A); (E); (1)(h)(i) Subject to Section
+Utah Code Annotated § 22-3-502(1)(a): 22-3-501(1); (3); 22-3-501(2) the balance of the disbursements described in Subsections
+Utah Code Annotated § 22-3-502(1)(b): the fiduciary's compensation calculated on principal as a fee for acceptance, distribution, or termination;
+Utah Code Annotated § 22-3-502(1)(c): a payment of an expense to prepare for or execute a sale or other disposition of property;
+Utah Code Annotated § 22-3-502(1)(d): a payment on the principal of a trust debt;
+Utah Code Annotated § 22-3-502(1)(e): a payment of an expense of an accounting, judicial or nonjudicial proceeding, or other matter that involves primarily principal, including a proceeding to construe the terms of the trust or protect property;
+Utah Code Annotated § 22-3-502(1)(f): 22-3-501(4) a payment of a premium for insurance, including title insurance, not described in Subsection
+Utah Code Annotated § 22-3-502(1)(g): a payment of an estate or inheritance tax or other tax imposed because of the death of a decedent, including penalties, apportioned to the trust; and
+Utah Code Annotated § 22-3-502(1)(h): (1)(h)(i)(A); (E); (1)(h)(i) a payment:
+Utah Code Annotated § 22-3-502(1)(h)(i): (1)(h)(i)(A); (E) related to environmental matters, including:
+Utah Code Annotated § 22-3-502(1)(h)(i)(A): reclamation;
+Utah Code Annotated § 22-3-502(1)(h)(i)(B): assessing environmental conditions;
+Utah Code Annotated § 22-3-502(1)(h)(i)(C): remedying and removing environmental contamination;
+Utah Code Annotated § 22-3-502(1)(h)(i)(D): monitoring remedial activities and the release of substances;
+Utah Code Annotated § 22-3-502(1)(h)(i)(E): preventing future releases of substances;
+Utah Code Annotated § 22-3-502(1)(h)(i)(F): (1)(h)(i)(A); (E) collecting amounts from persons liable or potentially liable for the costs of activities described in Subsections
+Utah Code Annotated § 22-3-502(1)(h)(i)(G): penalties imposed under environmental laws or regulations;
+Utah Code Annotated § 22-3-502(1)(h)(i)(H): other actions to comply with environmental laws or regulations;
+Utah Code Annotated § 22-3-502(1)(h)(i)(I): statutory or common law claims by third parties; and
+Utah Code Annotated § 22-3-502(1)(h)(i)(J): defending claims based on environmental matters; and
+Utah Code Annotated § 22-3-502(1)(h)(ii): (1)(h)(i) for a premium for insurance for matters described in Subsection
+Utah Code Annotated § 22-3-502(2): If a principal asset is encumbered with an obligation that requires income from the asset to be paid directly to a creditor, the fiduciary shall transfer from principal to income an amount equal to the income paid to the creditor in reduction of the principal balance of the obligation.
+
+
+Utah Code Annotated § 22-3-503 Transfer from income to principal for depreciation.
+----------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-503(1): In this section, "depreciation" means a reduction in value due to wear, tear, decay, corrosion, or gradual obsolescence of a tangible asset having a useful life of more than one year.
+Utah Code Annotated § 22-3-503(2): 22-3-410; 22-3-403 A fiduciary may transfer to principal a reasonable amount of the net cash receipts from a principal asset that is subject to depreciation, but may not transfer any amount for depreciation:
+Utah Code Annotated § 22-3-503(2)(a): of the part of real property used or available for use by a beneficiary as a residence;
+Utah Code Annotated § 22-3-503(2)(b): of tangible personal property held or made available for the personal use or enjoyment of a beneficiary; or
+Utah Code Annotated § 22-3-503(2)(c): 22-3-410; 22-3-403 under this section, to the extent the fiduciary accounts:
+Utah Code Annotated § 22-3-503(2)(c)(i): 22-3-410 under Section
+Utah Code Annotated § 22-3-503(2)(c)(ii): 22-3-403 under Section
+Utah Code Annotated § 22-3-503(3): An amount transferred to principal under this section need not be separately held.
+
+
+Utah Code Annotated § 22-3-504 Reimbursement of income from principal.
+----------------------------------------------------------------------
+Utah Code Annotated § 22-3-504(1): (2) If a fiduciary makes or expects to make an income disbursement described in Subsection
+Utah Code Annotated § 22-3-504(2): (1); 22-3-502(1) To the extent the fiduciary has not been and does not expect to be reimbursed by a third party, income disbursements to which Subsection
+Utah Code Annotated § 22-3-504(2)(a): an amount chargeable to principal but paid from income because principal is illiquid;
+Utah Code Annotated § 22-3-504(2)(b): a disbursement made to prepare property for sale, including improvements and commissions; and
+Utah Code Annotated § 22-3-504(2)(c): 22-3-502(1) a disbursement described in Subsection
+Utah Code Annotated § 22-3-504(3): (1) If an asset whose ownership gives rise to an income disbursement becomes subject to a successive interest after an income interest ends, the fiduciary may continue to make transfers under Subsection
+
+
+Utah Code Annotated § 22-3-505 Reimbursement of principal from income.
+----------------------------------------------------------------------
+Utah Code Annotated § 22-3-505(1): (2) If a fiduciary makes or expects to make a principal disbursement described in Subsection
+Utah Code Annotated § 22-3-505(2): (1); 22-3-502(1) To the extent that a fiduciary has not been and does not expect to be reimbursed by a third party, principal disbursements to which Subsection
+Utah Code Annotated § 22-3-505(2)(a): an amount chargeable to income but paid from principal because income is not sufficient;
+Utah Code Annotated § 22-3-505(2)(b): the cost of an improvement to principal, regardless of whether the improvement is a change to an existing asset or the construction of a new asset, including a special assessment;
+Utah Code Annotated § 22-3-505(2)(c): a disbursement made to prepare property for rental, including tenant allowances, leasehold improvements, and commissions;
+Utah Code Annotated § 22-3-505(2)(d): a periodic payment on an obligation secured by a principal asset, to the extent that the amount transferred from income to principal for depreciation is less than the periodic payment; and
+Utah Code Annotated § 22-3-505(2)(e): 22-3-502(1) a disbursement described in Subsection
+Utah Code Annotated § 22-3-505(3): (1) If an asset whose ownership gives rise to a principal disbursement becomes subject to a successive interest after an income interest ends, the fiduciary may continue to make transfers under Subsection
+
+
+Utah Code Annotated § 22-3-506 Income taxes.
+--------------------------------------------
+Utah Code Annotated § 22-3-506(1): A tax required to be paid by a fiduciary that is based on receipts allocated to income shall be paid from income.
+Utah Code Annotated § 22-3-506(2): A tax required to be paid by a fiduciary that is based on receipts allocated to principal shall be paid from principal, even if the tax is called an income tax by the taxing authority.
+Utah Code Annotated § 22-3-506(3): (4); 22-3-504; 22-3-505; 22-3-507 Subject to Subsection
+Utah Code Annotated § 22-3-506(3)(a): income and principal proportionately to the allocation between income and principal of receipts from the entity in the period; and
+Utah Code Annotated § 22-3-506(3)(b): principal, to the extent that the tax exceeds the receipts from the entity in the accounting period.
+Utah Code Annotated § 22-3-506(4): (1); (3) After applying Subsections
+
+
+Utah Code Annotated § 22-3-507 Adjustment between income and principal because of taxes.
+----------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-507(1): (2) A fiduciary may make an adjustment between income and principal to offset the shifting of economic interests or tax benefits between current income beneficiaries and successor beneficiaries that arises from:
+Utah Code Annotated § 22-3-507(1)(a): (2) an election or decision the fiduciary makes regarding a tax matter, other than a decision to claim an income tax deduction to which Subsection
+Utah Code Annotated § 22-3-507(1)(b): an income tax or other tax imposed on the fiduciary or a beneficiary as a result of a transaction involving the fiduciary or a distribution by the fiduciary; or
+Utah Code Annotated § 22-3-507(1)(c): ownership by the fiduciary of an interest in an entity, a part of whose taxable income, regardless of whether the taxable income is distributed, is includable in the taxable income of the fiduciary or a beneficiary.
+Utah Code Annotated § 22-3-507(2): 
+Utah Code Annotated § 22-3-507(2)(a): If the amount of an estate tax marital or charitable deduction is reduced because a fiduciary deducts an amount paid from principal for income tax purposes instead of deducting the amount for estate tax purposes and, as a result, estate taxes paid from principal are increased and income taxes paid by the fiduciary or a beneficiary are decreased, the fiduciary shall charge each beneficiary that benefits from the decrease in income tax to reimburse the principal from which the increase in estate tax is paid.
+Utah Code Annotated § 22-3-507(2)(b): The total reimbursement must equal the increase in the estate tax, to the extent that the principal used to pay the increase would have qualified for a marital or charitable deduction but for the payment.
+Utah Code Annotated § 22-3-507(2)(c): The share of the reimbursement for each fiduciary or beneficiary whose income taxes are reduced shall be the same as the fiduciary's or beneficiary's share of the total decrease in income tax.
+Utah Code Annotated § 22-3-507(3): (2) A fiduciary that charges a beneficiary under Subsection
+
+
+Utah Code Annotated § 22-3-601 Determination and distribution of net income.
+----------------------------------------------------------------------------
+Utah Code Annotated § 22-3-601(1): This section applies when:
+Utah Code Annotated § 22-3-601(1)(a): the death of an individual results in the creation of an estate or trust; or
+Utah Code Annotated § 22-3-601(1)(b): an income interest in a trust terminates, regardless of whether the trust continues or is distributed.
+Utah Code Annotated § 22-3-601(2): (8); Part 4, Allocation of Receipts; Part 5, Allocation of Disbursements; Part 7, Apportionment at Beginning and End of Income Interest A fiduciary of an estate or trust with an income interest that terminates shall:
+Utah Code Annotated § 22-3-601(2)(a): (8); Part 4, Allocation of Receipts; Part 5, Allocation of Disbursements; Part 7, Apportionment at Beginning and End of Income Interest determine, in accordance with Subsection
+Utah Code Annotated § 22-3-601(2)(b): distribute the net income and net principal receipts to the beneficiary that is to receive the specific property.
+Utah Code Annotated § 22-3-601(3): (4); (2); Part 4, Allocation of Receipts; Part 5, Allocation of Disbursements; Part 7, Apportionment at Beginning and End of Income Interest Subject to Subsection
+Utah Code Annotated § 22-3-601(3)(a): including in net income all income from property used or sold to discharge liabilities;
+Utah Code Annotated § 22-3-601(3)(b): paying from income or principal, in the fiduciary's discretion:
+Utah Code Annotated § 22-3-601(3)(b)(i): fees of attorneys, accountants, and fiduciaries;
+Utah Code Annotated § 22-3-601(3)(b)(ii): court costs and other expenses of administration;
+Utah Code Annotated § 22-3-601(3)(b)(iii): interest on estate taxes, inheritance taxes, and other taxes imposed because of the decedent's death; and
+Utah Code Annotated § 22-3-601(3)(c): paying from principal other disbursements made or incurred in connection with the settlement of the estate or the winding up of an income interest that terminates, including:
+Utah Code Annotated § 22-3-601(3)(c)(i): to the extent authorized by the decedent's will, the terms of the trust, or applicable law, debts, funeral expenses, disposition of remains, family allowances, estate and inheritance taxes, and other taxes imposed because of the decedent's death; and
+Utah Code Annotated § 22-3-601(3)(c)(ii): related penalties that are apportioned, by the decedent's will, the terms of the trust, or applicable law, to the estate or income interest that terminates.
+Utah Code Annotated § 22-3-601(4): 22-3-507(2) A fiduciary may pay the expenses from income of property passing to a trust for which the fiduciary claims a federal estate tax marital or charitable deduction only to the extent:
+Utah Code Annotated § 22-3-601(4)(a): the payment of the expenses from income will not cause the reduction or loss of the deduction; or
+Utah Code Annotated § 22-3-601(4)(b): 22-3-507(2) the fiduciary makes an adjustment under Subsection
+Utah Code Annotated § 22-3-601(5): (3) If a decedent's will, the terms of a trust, or applicable law provides for the payment of interest or the equivalent of interest to a beneficiary that receives a pecuniary amount outright, the fiduciary shall make the payment from net income determined under Subsection
+Utah Code Annotated § 22-3-601(6): If a beneficiary is to receive a pecuniary amount outright from a trust after an income interest ends because of an income beneficiary's death, and no payment of interest or the equivalent of interest is provided for by the terms of the trust or applicable law, the fiduciary shall pay the interest or the equivalent of interest to which the beneficiary would be entitled under applicable law if the pecuniary amount were required to be paid under a will.
+Utah Code Annotated § 22-3-601(7): (5); (6); 22-3-602 A fiduciary shall distribute net income remaining after payments required by Subsections
+Utah Code Annotated § 22-3-601(8): (2); 22-3-501; 22-3-502
+Utah Code Annotated § 22-3-601(8)(a): (2); 22-3-501; 22-3-502 A fiduciary may not reduce principal or income receipts from property described in Subsection
+Utah Code Annotated § 22-3-601(8)(b): The net income and principal receipts from the property shall be determined by including the amount the fiduciary receives or pays regarding the property, whether the amount accrued or became due before, on, or after the date of the decedent's death or an income interest's terminating event, and making a reasonable provision for an amount the estate or income interest may become obligated to pay after the property is distributed.
+
+
+Utah Code Annotated § 22-3-602 Distribution to successor beneficiary.
+---------------------------------------------------------------------
+Utah Code Annotated § 22-3-602(1): Part 3, Unitrust; 22-3-601(6)
+Utah Code Annotated § 22-3-602(1)(a): Part 3, Unitrust; 22-3-601(6) Except to the extent
+Utah Code Annotated § 22-3-602(1)(b): If a fiduciary makes more than one distribution of assets to beneficiaries to which this section applies, each beneficiary, including a beneficiary that does not receive part of the distribution, is entitled, as of each distribution date, to a share of the net income the fiduciary received after the decedent's death, an income interest's other terminating event, or the preceding distribution by the fiduciary.
+Utah Code Annotated § 22-3-602(2): (1); (2)(a); (2)(a) In determining a beneficiary's share of net income under Subsection
+Utah Code Annotated § 22-3-602(2)(a): the beneficiary is entitled to receive a share of the net income equal to the beneficiary's fractional interest in the undistributed principal assets immediately before the distribution date;
+Utah Code Annotated § 22-3-602(2)(b): (2)(a) the beneficiary's fractional interest under Subsection
+Utah Code Annotated § 22-3-602(2)(b)(i): on the aggregate value of the assets as of the distribution date without reducing the value by any unpaid principal obligation; and
+Utah Code Annotated § 22-3-602(2)(b)(ii): without regard to:
+Utah Code Annotated § 22-3-602(2)(b)(ii)(A): property specifically given to a beneficiary under the decedent's will or the terms of the trust; and
+Utah Code Annotated § 22-3-602(2)(b)(ii)(B): property required to pay pecuniary amounts not in trust; and
+Utah Code Annotated § 22-3-602(2)(c): (2)(a) the distribution date under Subsection
+Utah Code Annotated § 22-3-602(3): To the extent that a fiduciary does not distribute under this section all the collected but undistributed net income to each beneficiary on or before a distribution date, the fiduciary shall maintain records showing the interest of each beneficiary in the net income.
+Utah Code Annotated § 22-3-602(4): (2) If this section applies to income from an asset, a fiduciary may apply Subsection
+
+
+Utah Code Annotated § 22-3-701 When right to income begins and ends.
+--------------------------------------------------------------------
+Utah Code Annotated § 22-3-701(1): 
+Utah Code Annotated § 22-3-701(1)(a): An income beneficiary is entitled to net income in accordance with the terms of the trust from the date on which an income interest begins.
+Utah Code Annotated § 22-3-701(1)(b): The income interest begins on the date that is specified in the terms of the trust or, if no date is specified, on the date an asset becomes subject to:
+Utah Code Annotated § 22-3-701(1)(b)(i): the trust for the current income beneficiary; or
+Utah Code Annotated § 22-3-701(1)(b)(ii): a successive interest for a successor beneficiary.
+Utah Code Annotated § 22-3-701(2): (1)(b)(i) An asset becomes subject to a trust under Subsection
+Utah Code Annotated § 22-3-701(2)(a): for an asset that is transferred to the trust during the settlor's life, on the date the asset is transferred;
+Utah Code Annotated § 22-3-701(2)(b): for an asset that becomes subject to the trust because of a decedent's death, on the date of the decedent's death, even if there is an intervening period of administration of the decedent's estate; or
+Utah Code Annotated § 22-3-701(2)(c): for an asset that is transferred to a fiduciary by a third party because of a decedent's death, on the date of the decedent's death.
+Utah Code Annotated § 22-3-701(3): (1)(b)(ii); (4) An asset becomes subject to a successive interest under Subsection
+Utah Code Annotated § 22-3-701(4): An income interest ends on the day before an income beneficiary dies or another terminating event occurs or on the last day of a period during which there is no beneficiary to which a fiduciary is permitted or required to  distribute income.
+
+
+Utah Code Annotated § 22-3-702 Apportionment of receipts and disbursements when decedent dies or income interest begins.
+------------------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-3-702(1): 22-3-601(2) A fiduciary shall allocate an income receipt or disbursement, other than a receipt to which Subsection
+Utah Code Annotated § 22-3-702(1)(a): for an estate, the decedent died; or
+Utah Code Annotated § 22-3-702(1)(b): for a trust or successive interest, an income interest begins.
+Utah Code Annotated § 22-3-702(2): If the due date of a periodic income receipt or disbursement occurs on or after the date on which a decedent died or an income interest begins, a fiduciary shall allocate the receipt or disbursement to income.
+Utah Code Annotated § 22-3-702(3): If an income receipt or disbursement is not periodic or has no due date, a fiduciary shall:
+Utah Code Annotated § 22-3-702(3)(a): treat the receipt or disbursement under this section as accruing from day to day; and
+Utah Code Annotated § 22-3-702(3)(b): allocate:
+Utah Code Annotated § 22-3-702(3)(b)(i): to principal, the portion of the receipt or disbursement accruing before the date on which a decedent died or an income interest begins; and
+Utah Code Annotated § 22-3-702(3)(b)(ii): to income, the balance.
+Utah Code Annotated § 22-3-702(4): (2); (3) A receipt or disbursement is periodic under Subsections
+Utah Code Annotated § 22-3-702(4)(a): the receipt or disbursement shall be paid at regular intervals under an obligation to make payments; or
+Utah Code Annotated § 22-3-702(4)(b): the payor customarily makes payments at regular intervals.
+Utah Code Annotated § 22-3-702(5): 
+Utah Code Annotated § 22-3-702(5)(a): An item of income or obligation is due under this section on the date on which the payor is required to make a payment.
+Utah Code Annotated § 22-3-702(5)(b): If a payment date is not stated, there is no due date.
+Utah Code Annotated § 22-3-702(6): 22-3-401 Distributions to shareholders or other owners from an entity to which Section
+Utah Code Annotated § 22-3-702(6)(a): on the date fixed by or on behalf of the entity for determining the persons entitled to receive the distribution;
+Utah Code Annotated § 22-3-702(6)(b): if no date is fixed, on the date of the decision by or on behalf of the entity to make the distribution; or
+Utah Code Annotated § 22-3-702(6)(c): if no date is fixed and the fiduciary does not know the date of the decision by or on behalf of the entity to make the distribution, on the date the fiduciary learns of the decision.
+
+
+Utah Code Annotated § 22-3-703 Apportionment when income interest ends.
+-----------------------------------------------------------------------
+Utah Code Annotated § 22-3-703(1): In this section:
+Utah Code Annotated § 22-3-703(1)(a): "Undistributed income" means net income received on or before the date on which an income interest ends.
+Utah Code Annotated § 22-3-703(1)(b): "Undistributed income" does not include an item of income or expense that is due or accrued or net income that has been added or is required to be added, to principal under the terms of the trust.
+Utah Code Annotated § 22-3-703(2): (3) Except as otherwise provided in Subsection
+Utah Code Annotated § 22-3-703(3): (2) If a beneficiary has an unqualified power to withdraw more than 5% of the value of a trust immediately before an income interest ends:
+Utah Code Annotated § 22-3-703(3)(a): the fiduciary shall allocate to principal the undistributed income from the portion of the trust that may be withdrawn; and
+Utah Code Annotated § 22-3-703(3)(b): (2) Subsection
+Utah Code Annotated § 22-3-703(4): When a fiduciary's obligation to pay a fixed annuity or a fixed fraction of the value of assets ends, the fiduciary shall prorate the final payment as required to preserve an income tax, gift tax, estate tax, or other tax benefit.
+
+
+Utah Code Annotated § 22-3-801 Uniformity of application and construction.
+--------------------------------------------------------------------------
+In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to the uniform act's subject matter among states that enact it.
+
+Utah Code Annotated § 22-3-802 Relation to Electronic Signatures in Global and National Commerce Act.
+-----------------------------------------------------------------------------------------------------
+This chapter modifies, limits, or supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede Section 101(c) of that act, 15 U.S.C. Sec. 7001(c), or authorize electronic delivery of any of the notices described in Section 103(b) of that act, 15 U.S.C. Sec. 7003(b).
+
+Utah Code Annotated § 22-3-803 Application to trust or estate.
+--------------------------------------------------------------
+This chapter applies to a trust or estate existing or created on or after July 1, 2020, except as otherwise expressly provided in the terms of the trust or this chapter.
+
+Utah Code Annotated § 22-3-804 Severability.
+--------------------------------------------
+If any provision of this chapter or the application of this chapter to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this chapter that can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable.
+
+Utah Code Annotated - Title 22 - Chapter 5 - Uniform Act for Simplification of Fiduciary Security Transfers
+***********************************************************************************************************
+
+Utah Code Annotated § 22-5-1 Title.
+-----------------------------------
+This chapter is known as the "Uniform Act for Simplification of Fiduciary Security Transfers."
+
+Utah Code Annotated § 22-5-2 Definitions.
+-----------------------------------------
+In this chapter, unless the context otherwise requires:Utah Code Annotated § 22-5-2(1): "Assignment" includes any written stock power, bond power, bill of sale, deed, declaration of trust or other instrument of transfer.
+Utah Code Annotated § 22-5-2(2): "Claim of beneficial interest" includes a claim of any interest by a decedent's legatee, distributee, heir or creditor, a beneficiary under a trust, a ward, a beneficial owner of a security registered in the name of a nominee, or a minor owner of a security registered in the name of a custodian, or a claim of any similar interest, whether the claim is asserted by the claimant or by a fiduciary or by any other authorized person in his behalf, and includes a claim that the transfer would be in breach of fiduciary duties.
+Utah Code Annotated § 22-5-2(3): "Corporation" means a private or public corporation, association or trust issuing a security.
+Utah Code Annotated § 22-5-2(4): "Fiduciary" means an executor, administrator, trustee, guardian, committee, conservator, curator, tutor, custodian or nominee.
+Utah Code Annotated § 22-5-2(5): "Person" includes an individual, a corporation, government or governmental subdivision or agency, business trust, estate, trust, partnership or association, two or more persons having a joint or common interest, or any other legal or commercial entity.
+Utah Code Annotated § 22-5-2(6): "Security" includes any share of stock, bond, debenture, note or other security issued by a corporation which is registered as to ownership on the books of the corporation.
+Utah Code Annotated § 22-5-2(7): "Transfer" means a change on the books of a corporation in the registered ownership of a security.
+Utah Code Annotated § 22-5-2(8): "Transfer agent" means a person employed or authorized by a corporation to transfer securities issued by the corporation.
+
+
+Utah Code Annotated § 22-5-3 Registration of security in the name of a fiduciary.
+---------------------------------------------------------------------------------
+A corporation or transfer agent registering a security in the name of a person who is a fiduciary or who is described as a fiduciary is not bound to inquire into the existence, extent, or correct description of the fiduciary relationship, and thereafter the corporation and its transfer agent may assume without inquiry that the newly registered owner continues to be the fiduciary until the corporation or transfer agent receives written notice that the fiduciary is no longer acting as such with respect to the particular security.
+
+Utah Code Annotated § 22-5-4 Assignment of security by a fiduciary.
+-------------------------------------------------------------------
+Except as otherwise provided in this chapter, a corporation or transfer agent making a transfer of a security pursuant to an assignment by a fiduciary:Utah Code Annotated § 22-5-4(1): may assume without inquiry that the assignment, even though to the fiduciary himself or to his nominee, is within his authority and capacity and is not in breach of his fiduciary duties;
+Utah Code Annotated § 22-5-4(2): may assume without inquiry that the fiduciary has complied with any controlling instrument and with the law of the jurisdiction governing the fiduciary relationship, including any law requiring the fiduciary to obtain court approval of the transfer; and
+Utah Code Annotated § 22-5-4(3): is not charged with notice of and is not bound to obtain or examine any court record or any recorded or unrecorded document relating to the fiduciary relationship or the assignment, even though the record or document is in its possession.
+
+
+Utah Code Annotated § 22-5-5 Assignment of security by a fiduciary -- Evidence of appointment or incumbency.
+------------------------------------------------------------------------------------------------------------
+A corporation or transfer agent making a transfer pursuant to an assignment by a fiduciary who is not the registered owner shall obtain the following evidence of appointment or incumbency:Utah Code Annotated § 22-5-5(1): in the case of a fiduciary appointed or qualified by a court, a certificate issued by or under the direction or supervision of that court or an officer thereof and dated within 60 days before the transfer; or
+Utah Code Annotated § 22-5-5(2): in any other case, a copy of a document showing the appointment or a certificate issued by or on behalf of a person reasonably believed by the corporation or transfer agent to be responsible or, in the absence of such a document or certificate, other evidence reasonably deemed by the corporation or transfer agent to be appropriate. Corporations and transfer agents may adopt standards with respect to evidence of appointment or incumbency under this subsection provided such standards are not manifestly unreasonable. Neither the corporation nor transfer agent is charged with notice of the contents of any document obtained pursuant to this subsection except to the extent that the contents relate directly to the appointment or incumbency.
+
+
+Utah Code Annotated § 22-5-6 Adverse claims to transfer of security by a fiduciary -- Notice.
+---------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-5-6(1): (2) A person asserting a claim of beneficial interest adverse to the transfer of a security pursuant to an assignment by a fiduciary may give the corporation or transfer agent written notice of the claim. The corporation or transfer agent is not put on notice unless the written notice identifies the claimant, the registered owner and the issue of which the security is a part, provides an address for communications directed to the claimant and is received before the transfer. Nothing in this act relieves the corporation or transfer agent of any liability for making or refusing to make the transfer after it is so put on notice, unless it proceeds in the manner authorized in Subsection
+Utah Code Annotated § 22-5-6(2): As soon as practicable after the presentation of a security for transfer pursuant to an assignment by a fiduciary, a corporation or transfer agent which has received notice of a claim of beneficial interest adverse to the transfer may send notice of the presentation by registered or certified mail to the claimant at the address given by him. If the corporation or transfer agent so mails such a notice it shall withhold the transfer for 30 days after the mailing and shall then make the transfer unless restrained by a court order.
+
+
+Utah Code Annotated § 22-5-7 Nonliability of corporation or transfer agent.
+---------------------------------------------------------------------------
+A corporation or transfer agent incurs no liability to any person by making a transfer or otherwise acting in a manner authorized by this act.
+
+Utah Code Annotated § 22-5-8 Nonliability of third persons.
+-----------------------------------------------------------
+Utah Code Annotated § 22-5-8(1): No person who participates in the acquisition, disposition, assignment or transfer of a security by or to a fiduciary including a person who guarantees the signature of the fiduciary is liable for participation in any breach of fiduciary duty by reason of failure to inquire whether the transaction involves such a breach unless it is shown that he acted with actual knowledge that the proceeds of the transaction were being or were to be used wrongfully for the individual benefit of the fiduciary or that the transaction was otherwise in breach of duty.
+Utah Code Annotated § 22-5-8(2): If a corporation or transfer agent makes a transfer pursuant to an assignment by a fiduciary, a person who guaranteed the signature of the fiduciary is not liable on the guarantee to any person to whom the corporation or transfer agent by reason of this act incurs no liability.
+Utah Code Annotated § 22-5-8(3): This section does not impose any liability upon the corporation or its transfer agent.
+
+
+Utah Code Annotated § 22-5-9 Territorial application of law to rights and duties of corporation or third persons.
+-----------------------------------------------------------------------------------------------------------------
+Utah Code Annotated § 22-5-9(1): The rights and duties of a corporation and its transfer agents in registering a security in the name of a fiduciary or in making a transfer of a security pursuant to an assignment by a fiduciary are governed by the law of the jurisdiction under whose laws the corporation is organized.
+Utah Code Annotated § 22-5-9(2): This chapter applies to the rights and duties of a person other than the corporation and its transfer agents with regard to acts and omissions in this state in connection with the acquisition, disposition, assignment, or transfer of a security by or to a fiduciary and of a person who guarantees in this state the signature of a fiduciary in connection with such a transaction.
+
+
+Utah Code Annotated § 22-5-10 Tax obligations not affected by act.
+------------------------------------------------------------------
+This act does not affect any obligation of a corporation or transfer agent with respect to estate, inheritance, succession or other taxes imposed by the laws of this state.
+
+Utah Code Annotated § 22-5-11 Construction.
+-------------------------------------------
+This act shall be so construed as to effectuate its general purpose to make uniform the law of those states which enact it.
+
+Utah Code Annotated - Title 22 - Chapter 6 - Retirement Trusts
+**************************************************************
+
+Utah Code Annotated § 22-6-1 Retirement trusts exempted from rules against perpetuities, accumulations or suspension of power of alienation.
+--------------------------------------------------------------------------------------------------------------------------------------------
+No trust heretofore or hereafter created by an employer as part of a pension, stock bonus, disability, death benefit, profit sharing, retirement or similar plan, primarily for the benefit of some or all of such employers' employees, their families, appointees or beneficiaries, to which contributions are made by such employer or employees, or by both employer and employees, which trust is for the purpose of distributing to such employees or their families, beneficiaries, or appointees, the earnings or principal, or both, shall be deemed to be invalid by reason of any rule against perpetuities, or against accumulations, or concerning the suspension of the power of alienation of title to property, or any other law restricting or limiting the duration of trusts; and such a trust may continue in perpetuity or for such time as may be necessary to accomplish the purposes for which it was created.
+
+Utah Code Annotated § 22-6-2 Income permitted to accumulate.
+------------------------------------------------------------
+The income arising from or earned by the property held in such trust within the classifications mentioned, may be permitted to accumulate in accordance with the terms of such trust, for so long a time as may be permitted by the instrument creating the trust, or if no time is so specified, for such time as the trustee or trustees may deem necessary to accomplish the purposes for which the trust was created.
+
