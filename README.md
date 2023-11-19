@@ -39,5 +39,5 @@ Santa Clara City
 The Utah Legislature Automation project is a critical asset designed to enhance the Government Affairs team's operational efficacy. It is essential to underscore that while these tools augment the decision-making process, they are designed to complement, rather than substitute, the nuanced insight inherent in human review. The automated assessments and generated explanations are valuable adjuncts, facilitating more expedient prioritization and comprehensive understanding. This project is still under active development and refinement and may not work as expected -- it may not work at all. Once the code is stable, this disclaimer will be removed/modified.
 
 ## Example GUI
-![Language Model](https://raw.githubusercontent.com/sccity/utlegislature/master/img/llm_mobile.png)
+<img src="https://raw.githubusercontent.com/sccity/utlegislature/master/img/llm_mobile.png" alt="Language Model" height="50%">
 ![Legislative Bill Tracking](https://raw.githubusercontent.com/sccity/utlegislature/b38da668d3a266cc31a1f4bf56d876c763575e9d/img/utle.png)
