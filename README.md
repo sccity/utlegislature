@@ -20,7 +20,7 @@ python app.py --year 2023 --session S1\
 python app.py impact
 
 ## Example Usage - Generative AI (LLM) trained on Utah Code
-python app.py updatecode\ 
+python app.py updatecode\
 python app.py train\
 python app.py server\
 
