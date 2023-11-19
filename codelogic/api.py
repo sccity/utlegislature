@@ -28,4 +28,4 @@ class api(Resource):
         
         response = query_engine.query(text)
         
-        return jsonify({'response': 'CodeLogic AI:' + str(response)})
+        return jsonify({'response': 'CodeLogic AI: ' + str(response)})
