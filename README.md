@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Utah Legislature Automation** project employs a suite of Python scripts developed to aid Government Affairs teams in automating and enhancing the analysis and evaluation of legislative bills within the state of Utah. These tools extend beyond the mere extraction of legislative data, facilitating rapid prioritization and the discernment of potential impacts bills might impose on local jurisdictions. Through the utilization of Artificial Intelligence, the project autonomously generates impact ratings, assesses potential impacts, and offers explanations thereof.
+The **Utah Legislature Automation** project employs a suite of Python scripts developed to aid Government Affairs teams in automating and enhancing the analysis and evaluation of legislative bills within the state of Utah. These tools extend beyond the mere extraction of legislative data, facilitating rapid prioritization and the discernment of potential impacts bills might impose on local jurisdictions. Through the utilization of Artificial Intelligence, the project autonomously generates impact ratings, assesses potential impacts, and offers explanations thereof. Furthermore, an implementation of a fine-tuned Large Language Model (LLM) trained on Utah Code allows for a ChatGPT like question/answer functionality when researching Utah Code. 
 
 However, it is crucial to acknowledge that the application of AI serves the purpose of streamlining the prioritization of bills for subsequent manual review and analysis based on their projected impacts. The project is intentionally designed to supplement and complement the efforts of proficient Government Affairs teams in various municipalities, rather than substituting their expertise.
 
@@ -14,10 +14,21 @@ The aim of the Utah Legislature Automation project is to create a new level of o
 ## License
 This project is developed under the Apache License 2.0. Refer to the LICENSE file for a comprehensive overview.
 
-## Example Usage
+## Example Usage - Bill Analysis
 python app.py bills\
 python app.py --year 2023 --session S1\
 python app.py impact
+
+## Example Usage - Generative AI (LLM) trained on Utah Code
+python app.py updatecode\ 
+python app.py train\
+python app.py server\
+
+The "updatecode" function will pull down the most recent version of Utah Code. This will need to be run after each legislative session after the updated code is available online. 
+
+The "train" function will train the Large Language Model (LLM) on Utah Code. Each time you run "updatecode" you will also need to retrain in order to incorporate changes to Utah Code in the model.
+
+The "server" function starts the API server so that it can be incorprated into your program.
 
 ## Author
 Lance Haynie\
