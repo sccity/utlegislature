@@ -38,6 +38,40 @@ The "train" function will train the Large Language Model (LLM) on Utah Code. Eac
 
 The "server" function starts the API server so that it can be incorprated into your program.
 
+## Example AI Analysis
+### HB0129 2017 General Session
+
+>The highlighted provisions have a potential impact on municipalities in Utah by defining "emergency protective services," requiring Adult Protective Services to provide such services subject to court order, providing access to the Adult Protective Services database for the Division of Occupational and Professional Licensing, clarifying that protective services are provided only on a voluntary basis, clarifying the venue for court proceedings for protective services and emergency protective services, establishing requirements and the process for a court to order emergency protective services, setting time limits for emergency protective services, allowing a court to authorize forcible entry into premises, repealing authority and procedures for court-ordered involuntary protective services, and making technical changes.
+
+>Economic Effects:
+Local businesses may be affected positively as emergency protective services could lead to increased demand for services such as home health care providers, assisted living facilities, and other services catering to vulnerable adults.
+Tax revenue may be impacted if emergency protective services require additional funding from the local government. The cost of providing these services, including staff training, equipment, and facility renovations, may increase the burden on the local budget.
+
+>Social Effects:
+The provision requiring Adult Protective Services to provide emergency protective services subject to court order ensures that vulnerable adults receive necessary and timely assistance in emergency situations, improving their well-being.
+The time limits for emergency protective services give vulnerable adults a clear timeframe for receiving support, preventing prolonged or unnecessary intervention.
+
+>Legal Effects:
+Granting access to the Adult Protective Services database to the Division of Occupational and Professional Licensing allows for improved coordination and communication between these entities, streamlining the process and avoiding duplication of efforts.
+The provision clarifying the venue for court proceedings ensures efficient and effective legal processes for ordering protective services.
+Allowing a court to authorize forcible entry into premises where vulnerable adults may be found can ensure the safety of these individuals and facilitate immediate intervention when necessary.
+
+>Local Government Operations:
+The establishment of requirements and a process for court-ordered emergency protective services provides a clear and structured framework under which local governments can operate, ensuring accountability and standardized procedures.
+Repealing authority and procedures for court-ordered involuntary protective services may reduce administrative burdens on local governments, allowing them to focus on other priorities.
+
+>Community Resources:
+The provision for emergency protective services provides additional resources and support for vulnerable adults, ensuring their safety and well-being during emergencies.
+However, the potential increase in demand for these services may strain existing community resources, requiring local governments to allocate additional resources to meet the needs of vulnerable adults.
+
+>Residents' Quality of Life:
+The availability of emergency protective services through court order can enhance the quality of life for vulnerable adults, addressing any immediate threats to their safety and potentially preventing further abuse or neglect.
+
+>Alignment with Municipal Laws and Regulations:
+These provisions align with existing municipal laws and regulations related to the protection and well-being of vulnerable adults, providing a clear and regulated framework for the provision of emergency protective services.
+
+>In summary, these provisions have both positive and negative effects on Utah municipalities. While they enhance vulnerable adults' well-being and safety, they may strain local resources and require additional funding. Decision-makers should consider the potential economic, social, and legal consequences of the provisions to ensure they align with local government operations, community resources, resident well-being, and legal frameworks.
+
 ## REQUIREMENTS
 *  A MySQL/MariaDB database with proper access rights. Currently, we are using Amazon AWS RDS.
 *  Python 3.7+.
