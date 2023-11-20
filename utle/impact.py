@@ -47,6 +47,7 @@ class OpenAIConnector:
     cache = TTLCache(maxsize=100, ttl=3600)
     
     def __init__(self, api_key):
+        openai.api_key = api_key
         
     def rate_impact(self, text, highlighted_provisions, code_sections, max_retries=5, retry_delay=5):
         for attempt in range(max_retries):
