@@ -48,7 +48,7 @@ class OpenAIConnector:
     cache = TTLCache(maxsize=100, ttl=3600)
     
     def __init__(self, api_key):
-        openai.api_key = api_key
+        
 
     @cached(cache)
     def rate_impact(self, text, highlighted_provisions, code_sections, max_retries=5, retry_delay=5):
@@ -76,7 +76,7 @@ class OpenAIConnector:
                 rating = int(response.choices[0].message["content"].strip())
                 
                 return rating
-            except openai.error.OpenAIError as err:
+            except openai.OpenAIError as err:
                 print(f"OpenAI API error: {err}")
                 if "Rate limit reached" in str(err):
                     print("Rate limit reached. Waiting for 60 seconds...")
