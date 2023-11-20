@@ -5,6 +5,7 @@ from datetime import datetime
 from cachetools import cached, TTLCache
 from .settings import settings_data
 
+
 class UtahLegislatureFiles:
     billfile_cache = TTLCache(maxsize=1024, ttl=360)
     legislator_cache = TTLCache(maxsize=1024, ttl=360)
@@ -79,7 +80,9 @@ class UtahLegislatureFiles:
     def insert_or_update_file(self, file_data):
         try:
             tracking_id = file_data["trackingid"]
-            logging.debug("Processing file for Insert or Update: {}".format(tracking_id))
+            logging.debug(
+                "Processing file for Insert or Update: {}".format(tracking_id)
+            )
             short_title = file_data["shorttitle"]
             sponsor_id = file_data["sponsor"]
             status = file_data["status"]
@@ -101,16 +104,28 @@ class UtahLegislatureFiles:
                     or existing_file[4] != sponsor
                     or existing_file[5] != status
                 ):
-                    update_query = (
-                        "UPDATE billfiles SET short_title = %s, sponsor = %s, status = %s WHERE tracking_id = %s AND year = %s AND session = %s"
+                    update_query = "UPDATE billfiles SET short_title = %s, sponsor = %s, status = %s WHERE tracking_id = %s AND year = %s AND session = %s"
+                    update_values = (
+                        short_title,
+                        sponsor,
+                        status,
+                        tracking_id,
+                        self.year,
+                        self.session,
                     )
-                    update_values = (short_title, sponsor, status, tracking_id, self.year, self.session)
                     self.cursor.execute(update_query, update_values)
                     self.connection.commit()
             else:
                 # Insert new record with year and session
                 insert_query = "INSERT INTO billfiles (tracking_id, year, session, short_title, sponsor, status) VALUES (%s, %s, %s, %s, %s, %s)"
-                insert_values = (tracking_id, self.year, self.session, short_title, sponsor, status)
+                insert_values = (
+                    tracking_id,
+                    self.year,
+                    self.session,
+                    short_title,
+                    sponsor,
+                    status,
+                )
                 self.cursor.execute(insert_query, insert_values)
                 self.connection.commit()
                 logging.debug("Inserted file: {}".format(tracking_id))

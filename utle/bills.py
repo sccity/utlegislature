@@ -26,7 +26,7 @@ class UtahLegislature:
     bill_list_cache = TTLCache(maxsize=1024, ttl=360)
     bill_detail_cache = TTLCache(maxsize=1024, ttl=360)
     legislator_cache = TTLCache(maxsize=1024, ttl=360)
-    
+
     def __init__(self, db_host, db_user, db_password, db_name, api_key, session, year):
         self.api_key = api_key
         self.db_host = db_host
@@ -174,7 +174,7 @@ class UtahLegislature:
                         self.session,
                     )
                     self.cursor.execute(update_query, update_values)
-                    self.connection.commit()  
+                    self.connection.commit()
             else:
                 guid = str(uuid.uuid4())
                 highlighted_provisions = bill_data.get("hilightedprovisions", "")
