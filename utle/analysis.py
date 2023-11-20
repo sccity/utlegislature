@@ -2,7 +2,7 @@
 # * CATEGORY  SOFTWARE
 # * GROUP     GOV. AFFAIRS
 # * AUTHOR    LANCE HAYNIE <LHAYNIE@SCCITY.ORG>
-# * FILE      IMPACT.PY
+# * FILE      ANALYSIS.PY
 # **********************************************************
 # Utah Legislature Automation
 # Copyright Santa Clara City
