@@ -45,8 +45,6 @@ class DatabaseConnector:
             self.conn.close()
 
 class OpenAIConnector:
-    cache = TTLCache(maxsize=100, ttl=3600)
-    
     def __init__(self, api_key):
         openai.api_key = api_key
         
