@@ -16,7 +16,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 import os, sys, yaml, pymysql, openai, time, logging
-from cachetools import cached, TTLCache
 from .settings import settings_data
 
 class DatabaseConnector:
@@ -45,11 +44,8 @@ class DatabaseConnector:
             self.conn.close()
 
 class OpenAIConnector:
-    cache = TTLCache(maxsize=100, ttl=3600)
-    
     def __init__(self, api_key):
         
-    @cached(cache)
     def rate_impact(self, text, highlighted_provisions, code_sections, max_retries=5, retry_delay=5):
         for attempt in range(max_retries):
             try:
