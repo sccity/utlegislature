@@ -40,6 +40,17 @@ def bills(year, session):
         click.echo("Processing bills for current year and general session")
         le.UtahLegislature.import_bills()
 
+@main.command()
+@click.option("--year", type=int, help="Specify the Year")
+@click.option("--session", type=str, help="Specify the Session")
+def billfiles(year, session):
+    """Process Legislative Bill Files"""
+    if year and session:
+        click.echo(f"Processing bill files for year {year} and session {session}")
+        le.UtahLegislatureFiles.import_files(year=year, session=session)
+    else:
+        click.echo("Processing bills for current year and general session")
+        le.UtahLegislatureFiles.import_files()
 
 @main.command()
 def analysis():

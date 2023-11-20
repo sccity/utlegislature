@@ -19,3 +19,4 @@
 from .bills import *
 from .impact import *
 from .analysis import *
+from .billfiles import *

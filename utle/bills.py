@@ -23,8 +23,10 @@ from .settings import settings_data
 
 
 class UtahLegislature:
-    cache = TTLCache(maxsize=100, ttl=3600)
-
+    bill_list_cache = TTLCache(maxsize=1024, ttl=360)
+    bill_detail_cache = TTLCache(maxsize=1024, ttl=360)
+    legislator_cache = TTLCache(maxsize=1024, ttl=360)
+    
     def __init__(self, db_host, db_user, db_password, db_name, api_key, session, year):
         self.api_key = api_key
         self.db_host = db_host
@@ -40,7 +42,7 @@ class UtahLegislature:
 
     def setup(self):
         logging.basicConfig(
-            level=logging.WARNING,
+            level=settings_data["global"]["loglevel"],
             filename="bills.log",
             format="%(asctime)s - %(levelname)s - %(message)s",
         )
@@ -70,7 +72,7 @@ class UtahLegislature:
             )
         )
 
-    @cached(cache)
+    @cached(bill_list_cache)
     def fetch_bill_list_data(self):
         try:
             logging.debug("Fetching bill list data...")
@@ -92,7 +94,7 @@ class UtahLegislature:
             logging.error(f"Error fetching bill list data: {error}")
             return None
 
-    @cached(cache)
+    @cached(bill_detail_cache)
     def fetch_bill_detail_data(self, bill_number):
         try:
             bill_detail_url = "{base_bill_url}{bill_number}/{api_key}".format(
@@ -118,6 +120,7 @@ class UtahLegislature:
             logging.debug(
                 "Processing bill for Insert or Update: {}".format(bill_number)
             )
+            tracking_id = bill_data["trackingid"]
             last_action_date_str = bill_data["lastactiontime"]
             last_action_date = datetime.strptime(
                 last_action_date_str, "%Y-%m-%dT%H:%M:%S.%fZ"
@@ -139,9 +142,7 @@ class UtahLegislature:
             )
 
             if existing_bill:
-
-                existing_last_action_date = existing_bill[12]
-                if last_action_date > existing_last_action_date:
+                if last_action_date > existing_bill[13]:
                     update_query = (
                         "UPDATE bills "
                         "SET last_action = %s, last_action_owner = %s, last_action_date = %s, "
@@ -160,6 +161,20 @@ class UtahLegislature:
                     )
                     self.cursor.execute(update_query, update_values)
                     self.connection.commit()
+                elif existing_bill[4] != tracking_id:
+                    update_query = (
+                        "UPDATE bills "
+                        "SET tracking_id = %s "
+                        "WHERE bill_number = %s AND bill_year = %s AND session = %s"
+                    )
+                    update_values = (
+                        tracking_id,
+                        bill_number,
+                        self.year,
+                        self.session,
+                    )
+                    self.cursor.execute(update_query, update_values)
+                    self.connection.commit()  
             else:
                 guid = str(uuid.uuid4())
                 highlighted_provisions = bill_data.get("hilightedprovisions", "")
@@ -176,16 +191,17 @@ class UtahLegislature:
 
                 insert_query = (
                     "INSERT INTO bills "
-                    "(guid, bill_year, session, bill_number, short_title, general_provisions, highlighted_provisions, "
+                    "(guid, bill_year, session, bill_number, tracking_id, short_title, general_provisions, highlighted_provisions, "
                     "subjects, code_sections, appropriations, last_action, last_action_owner, last_action_date, "
                     "bill_link, sponsor, floor_sponsor) "
-                    "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+                    "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
                 )
                 insert_values = (
                     guid,
                     self.year,
                     self.session,
                     bill_number,
+                    tracking_id,
                     bill_data.get("shorttitle", ""),
                     bill_data.get("generalprovisions", ""),
                     highlighted_provisions,
@@ -210,7 +226,7 @@ class UtahLegislature:
         except pymysql.Error as db_error:
             logging.error("MySQL error: {}".format(db_error))
 
-    @cached(cache)
+    @cached(legislator_cache)
     def get_formatted_name(self, legislator_id):
         legislator_url = (
             "https://glen.le.utah.gov/legislator/{legislator_id}/{api_key}".format(
@@ -221,7 +237,7 @@ class UtahLegislature:
             logging.debug(
                 "Fetching formatted name for legislator ID: {}".format(legislator_id)
             )
-            response = requests.get(legislator_url)
+            response = requests.get(legislator_url, timeout=15)
             if response.status_code == 200:
                 legislator_data = response.json()
                 formatted_name = legislator_data.get("formatName")
