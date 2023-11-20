@@ -15,16 +15,18 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import os, sys, yaml, pymysql, openai, time, logging
+import os, sys, yaml, pymysql, time, logging
+from openai import AsyncOpenAI, OpenAI
 from .settings import settings_data
+
 
 class DatabaseConnector:
     def __init__(self, user, password, host, database):
         self.db_config = {
-            'user': user,
-            'password': password,
-            'host': host,
-            'db': database
+            "user": user,
+            "password": password,
+            "host": host,
+            "db": database,
         }
         self.conn = None
         self.cursor = None
@@ -43,15 +45,21 @@ class DatabaseConnector:
         if self.conn:
             self.conn.close()
 
+
 class OpenAIConnector:
     def __init__(self, api_key):
-        openai.api_key = api_key
-        
-    def rate_impact(self, text, highlighted_provisions, code_sections, max_retries=5, retry_delay=5):
+        self.client = OpenAI(api_key=api_key)
+
+    def rate_impact(
+        self, text, highlighted_provisions, code_sections, max_retries=5, retry_delay=5
+    ):
         for attempt in range(max_retries):
             try:
-                role_system = {"role": "system", "content": "You're a legislative analyst for a Utah municipality, tasked with rating the impact of legislative bills on cities in Utah."}
-                
+                role_system = {
+                    "role": "system",
+                    "content": "You're a legislative analyst for a Utah municipality, tasked with rating the impact of legislative bills on cities in Utah.",
+                }
+
                 prompt = (
                     "Rate the potential negative impact on Utah municipalities from the provided text on a scale of 1 to 5, using whole numbers only. "
                     "Consider highlighted provisions, impact analysis, and Utah Code references for your rating. "
@@ -63,14 +71,14 @@ class OpenAIConnector:
                     "Provisions: {}\n\nAnalysis: {}\n\nImpacted Utah Code: {}."
                 ).format(highlighted_provisions, text, code_sections)
 
-                response = openai.ChatCompletion.create(
+                response = self.client.chat.completions.create(
                     model="gpt-4",
                     messages=[role_system, {"role": "user", "content": prompt}],
-                    max_tokens=1
+                    max_tokens=1,
                 )
-    
+
                 rating = int(response.choices[0].message["content"].strip())
-                
+
                 return rating
             except openai.OpenAIError as err:
                 print(f"OpenAI API error: {err}")
@@ -81,9 +89,12 @@ class OpenAIConnector:
                     print("Retrying in a few seconds...")
                     time.sleep(retry_delay)
                 else:
-                    print("Error occurred during impact rating calculation. Continuing to the next bill...")
+                    print(
+                        "Error occurred during impact rating calculation. Continuing to the next bill..."
+                    )
                     break
         return None  # or raise an exception, depending on your needs
+
 
 class BillProcessor:
     def __init__(self, db_connector, openai_connector):
@@ -106,13 +117,19 @@ class BillProcessor:
                     print(f"Processing bill with guid: {guid}")
                     if ai_analysis is not None and ai_analysis.strip():
                         print("Performing impact rating...")
-                        rating = self.openai_connector.rate_impact(ai_analysis, highlighted_provisions, code_sections)
+                        rating = self.openai_connector.rate_impact(
+                            ai_analysis, highlighted_provisions, code_sections
+                        )
                         self.update_bill_rating(guid, rating)
                         self.db_connector.conn.commit()  # Commit changes after each iteration
                     else:
-                        print(f"Skipping processing for bill with guid {guid} due to empty or None ai_analysis")
+                        print(
+                            f"Skipping processing for bill with guid {guid} due to empty or None ai_analysis"
+                        )
                 except Exception as inner_err:
-                    print(f"An error occurred while processing bill with guid {guid}: {inner_err}")
+                    print(
+                        f"An error occurred while processing bill with guid {guid}: {inner_err}"
+                    )
                     continue  # Skip to the next bill record on error
 
             self.db_connector.conn.commit()  # Commit the transaction
@@ -126,17 +143,19 @@ class BillProcessor:
         update_query = "UPDATE bills SET ai_impact_rating = %s WHERE guid = %s"
         self.db_connector.cursor.execute(update_query, (rating, guid))
 
+
 def process_impact():
     db_host = settings_data["database"]["host"]
     db_user = settings_data["database"]["user"]
     db_password = settings_data["database"]["password"]
     db_name = settings_data["database"]["schema"]
     openai_api_key = settings_data["api"]["openai"]
-    
+
     db_connector = DatabaseConnector(db_user, db_password, db_host, db_name)
     openai_connector = OpenAIConnector(openai_api_key)
     bill_processor = BillProcessor(db_connector, openai_connector)
     bill_processor.process_bills()
-    
+
+
 if __name__ == "__main__":
     process_impact()

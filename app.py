@@ -22,9 +22,11 @@ from utle.settings import settings_data, version_data
 from flask import Flask, jsonify
 from flask_restful import Api
 
+
 @click.group()
 def main():
     """Utah Legislature Automation"""
+
 
 @main.command()
 @click.option("--year", type=int, help="Specify the Year")
@@ -37,39 +39,45 @@ def bills(year, session):
     else:
         click.echo("Processing bills for current year and general session")
         le.UtahLegislature.import_bills()
-        
+
+
 @main.command()
 def analysis():
     """Provide an In-depth Analysiss"""
     le.process_analysis()
 
+
 @main.command()
 def impact():
     """Calculate Impact Analysis"""
     le.process_impact()
-    
+
+
 @main.command()
 def updatecode():
     """Update Utah Code Files"""
     uc = c.UtahCode()
     uc.update()
-    
+
+
 @main.command()
 def train():
     """Train/Fine-Tune LLM"""
     c.train.run()
-    
+
+
 @main.command()
 def codelogic():
     """Interactive Chat"""
     c.interactive.run()
-    
+
+
 @main.command()
 def server():
     """Start the API Server"""
     app = Flask(__name__)
     api = Api(app)
-    
+
     @app.route("/")
     def http_root():
         return jsonify(
@@ -79,16 +87,18 @@ def server():
             copyright=version_data["copyright"],
             author=version_data["author"],
         )
-    
+
     @app.errorhandler(404)
     def page_not_found(e):
         return jsonify(error=str(e)), 404
-    
+
     c.api.init()
     api.add_resource(c.api, "/chat")
-    
+
     from waitress import serve
+
     serve(app, host="0.0.0.0", port=settings_data["global"]["port"])
+
 
 if __name__ == "__main__":
     main()

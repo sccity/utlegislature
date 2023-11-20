@@ -15,17 +15,19 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import os, sys, yaml, pymysql, openai, time, logging
-#from cachetools import cached, TTLCache
+import os, sys, yaml, pymysql, time, logging
+from openai import AsyncOpenAI, OpenAI
+from cachetools import cached, TTLCache
 from .settings import settings_data
+
 
 class DatabaseConnector:
     def __init__(self, user, password, host, database):
         self.db_config = {
-            'user': user,
-            'password': password,
-            'host': host,
-            'db': database
+            "user": user,
+            "password": password,
+            "host": host,
+            "db": database,
         }
         self.conn = None
         self.cursor = None
@@ -44,10 +46,14 @@ class DatabaseConnector:
         if self.conn:
             self.conn.close()
 
+
 class OpenAIConnector:
+    cache = TTLCache(maxsize=100, ttl=3600)
+
     def __init__(self, api_key):
-        openai.api_key = api_key
-        
+        self.client = OpenAI(api_key=api_key)
+
+    @cached(cache)
     def analyze_provisions(self, provisions):
         role_system = {
             "role": "system",
@@ -58,7 +64,7 @@ class OpenAIConnector:
                 "community resources, resident well-being, and legal frameworks. Provide insights into potential effects on local businesses, "
                 "tax revenue, community services, and residents' quality of life. Your goal is to offer comprehensive insights "
                 "that aid decision-makers in understanding the potential consequences of these provisions for Utah municipalities."
-            )
+            ),
         }
         prompt = (
             f"Summarize in a single sentence whether the highlighted provisions have a potential impact on municipalities in Utah. "
@@ -69,11 +75,13 @@ class OpenAIConnector:
             f"Are there implications for community services and residents' quality of life? Do the provisions align with existing municipal laws and regulations? "
             f"Craft a comprehensive analysis that guides decision-makers in understanding the consequences of these provisions for municipalities."
         )
-        response = openai.ChatCompletion.create(
+
+        response = self.client.chat.completions.create(
             model="gpt-4",
             messages=[role_system, {"role": "user", "content": prompt}],
         )
-        return response.choices[0].message['content'].strip() 
+        return response.choices[0].message["content"].strip()
+
 
 class BillProcessor:
     def __init__(self, db_connector, openai_connector):
@@ -94,15 +102,24 @@ class BillProcessor:
                 guid, highlighted_provisions = row
                 try:
                     print(f"Processing bill with guid: {guid}")
-                    if highlighted_provisions is not None and highlighted_provisions.strip():
+                    if (
+                        highlighted_provisions is not None
+                        and highlighted_provisions.strip()
+                    ):
                         print("Performing analysis...")
-                        analysis = self.openai_connector.analyze_provisions(highlighted_provisions)
+                        analysis = self.openai_connector.analyze_provisions(
+                            highlighted_provisions
+                        )
                         self.update_bill_analysis(guid, analysis)
                         self.db_connector.conn.commit()  # Commit changes after each iteration
                     else:
-                        print(f"Skipping processing for bill with guid {guid} due to empty or None highlighted_provisions")
+                        print(
+                            f"Skipping processing for bill with guid {guid} due to empty or None highlighted_provisions"
+                        )
                 except Exception as inner_err:
-                    print(f"An error occurred while processing bill with guid {guid}: {inner_err}")
+                    print(
+                        f"An error occurred while processing bill with guid {guid}: {inner_err}"
+                    )
                     continue  # Skip to the next bill record on error
 
             self.db_connector.conn.commit()  # Commit the transaction
@@ -116,17 +133,19 @@ class BillProcessor:
         update_query = "UPDATE bills SET ai_analysis = %s WHERE guid = %s"
         self.db_connector.cursor.execute(update_query, (analysis, guid))
 
+
 def process_analysis():
     db_host = settings_data["database"]["host"]
     db_user = settings_data["database"]["user"]
     db_password = settings_data["database"]["password"]
     db_name = settings_data["database"]["schema"]
     openai_api_key = settings_data["api"]["openai"]
-    
+
     db_connector = DatabaseConnector(db_user, db_password, db_host, db_name)
     openai_connector = OpenAIConnector(openai_api_key)
     bill_processor = BillProcessor(db_connector, openai_connector)
     bill_processor.process_bills()
-    
+
+
 if __name__ == "__main__":
     process_impact()
