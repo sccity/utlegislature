@@ -77,7 +77,7 @@ class OpenAIConnector:
                     max_tokens=1,
                 )
 
-                rating = int(response.choices[0].message["content"].strip())
+                rating = int(response.choices[0].message.content.strip())
 
                 return rating
             except openai.OpenAIError as err:

@@ -75,12 +75,13 @@ class OpenAIConnector:
             f"Are there implications for community services and residents' quality of life? Do the provisions align with existing municipal laws and regulations? "
             f"Craft a comprehensive analysis that guides decision-makers in understanding the consequences of these provisions for municipalities."
         )
-
+        
         response = self.client.chat.completions.create(
             model="gpt-4",
             messages=[role_system, {"role": "user", "content": prompt}],
         )
-        return response.choices[0].message["content"].strip()
+
+        return response.choices[0].message.content.strip()
 
 
 class BillProcessor:
