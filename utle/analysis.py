@@ -95,7 +95,7 @@ class BillProcessor:
             self.db_connector.conn.begin()  # Begin a transaction
 
             self.db_connector.cursor.execute(
-                "SELECT guid, highlighted_provisions FROM bills WHERE ai_analysis IS NULL AND last_action_owner NOT LIKE '%not pass%'"
+                "SELECT guid, highlighted_provisions FROM bills WHERE ai_analysis IS NULL AND last_action_owner NOT LIKE '%not pass%' and bill_year >= 2023"
             )
             rows = self.db_connector.cursor.fetchall()
 
