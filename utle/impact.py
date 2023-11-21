@@ -62,6 +62,7 @@ class OpenAIConnector:
 
                 prompt = (
                     "Rate the potential negative impact on Utah municipalities from the provided text on a scale of 1 to 5, using whole numbers only. "
+                    "On this scale, 1 is least impact, 2 is slight impact, 3 is moderate impact, 4 is substaintial impact, and 5 is highest impact. "
                     "Consider highlighted provisions, impact analysis, and Utah Code references for your rating. "
                     "If the referenced Utah Code is not in the specified categories (10, 11, 13, 17, 17B, 35A, 52, 53, 54, 59, 63A), rate it as 1. "
                     "Areas to consider include local government operations, revenue, budgets, ordinances, and new restrictions on municipalities. "
@@ -72,7 +73,7 @@ class OpenAIConnector:
                 ).format(highlighted_provisions, text, code_sections)
 
                 response = self.client.chat.completions.create(
-                    model="gpt-3.5-turbo",
+                    model="gpt-4",
                     messages=[role_system, {"role": "user", "content": prompt}],
                     max_tokens=1,
                 )
