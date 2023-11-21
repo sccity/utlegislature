@@ -17,7 +17,6 @@
 # limitations under the License.
 import os, sys, yaml, pymysql, time, logging
 from openai import AsyncOpenAI, OpenAI
-from cachetools import cached, TTLCache
 from .settings import settings_data
 
 
@@ -48,12 +47,10 @@ class DatabaseConnector:
 
 
 class OpenAIConnector:
-    cache = TTLCache(maxsize=100, ttl=3600)
 
     def __init__(self, api_key):
         self.client = OpenAI(api_key=api_key)
 
-    @cached(cache)
     def analyze_provisions(self, provisions):
         role_system = {
             "role": "system",
@@ -68,7 +65,7 @@ class OpenAIConnector:
         }
         prompt = (
             f"Summarize in a single sentence whether the highlighted provisions have a potential impact on municipalities in Utah. "
-            f"Then, provide an in-depth analysis of the following provisions: {provisions}\n\n"
+            f"Then, provide an in-depth one page analysis of the following provisions: {provisions}\n\n"
             f"Focus on both positive and negative effects across economic, social, and legal dimensions. "
             f"Provide insights into local government operations, community resources, resident well-being, and legal frameworks. "
             f"In your analysis, address specific examples: How might these provisions affect local businesses and tax revenue? "
@@ -77,7 +74,7 @@ class OpenAIConnector:
         )
 
         response = self.client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=[role_system, {"role": "user", "content": prompt}],
         )
 
