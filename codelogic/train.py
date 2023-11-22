@@ -57,7 +57,7 @@ def run():
 
     llm_predictor = LLMPredictor(
         llm=ChatOpenAI(
-            temperature=0, model_name="gpt-3.5-turbo", max_tokens=num_outputs
+            temperature=1, model_name="gpt-4", max_tokens=num_outputs
         )
     )
 
