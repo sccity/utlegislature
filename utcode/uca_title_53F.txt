@@ -593,12 +593,11 @@ Utah Code Annotated § 53F-2-314(2)(a)(ii)(A): for each student who is eligible 
 Utah Code Annotated § 53F-2-314(2)(a)(ii)(B): for each student with limited English proficiency, up to .1 total weighted pupil units.
 Utah Code Annotated § 53F-2-314(2)(b): (2)(a)(i)(A); (B) Funding for a student who falls within both Subsections
 Utah Code Annotated § 53F-2-314(3): An LEA governing board shall use money distributed under this section to improve the academic achievement of students who are at-risk.
-Utah Code Annotated § 53F-2-314(4): 53F-2-601(2)(a); (2) For a year in which an allocation to an LEA under this section is less than the allocation to the LEA under the Enhancement for At-Risk Students Program in the 2021 fiscal year, the Executive Appropriations Committee shall include a one-time appropriation in the public education budget to supplement the difference between the two amounts, less any amount of state guarantee money that an LEA receives under Subsection
-Utah Code Annotated § 53F-2-314(5): 
-Utah Code Annotated § 53F-2-314(5)(a): Annually, an LEA shall provide the following information to the state board:
-Utah Code Annotated § 53F-2-314(5)(a)(i): a report of the LEA's use of funds allocated under this section through the annual financial reporting process; and
-Utah Code Annotated § 53F-2-314(5)(a)(ii): the LEA's outcome data or a report of intervention effectiveness related to the use of the LEA's use of funds allocated under this section.
-Utah Code Annotated § 53F-2-314(5)(b): The state board shall monitor the learning outcomes resulting from the LEA's use of funds under this section.
+Utah Code Annotated § 53F-2-314(4): 
+Utah Code Annotated § 53F-2-314(4)(a): Annually, an LEA shall provide the following information to the state board:
+Utah Code Annotated § 53F-2-314(4)(a)(i): a report of the LEA's use of funds allocated under this section through the annual financial reporting process; and
+Utah Code Annotated § 53F-2-314(4)(a)(ii): the LEA's outcome data or a report of intervention effectiveness related to the use of the LEA's use of funds allocated under this section.
+Utah Code Annotated § 53F-2-314(4)(b): The state board shall monitor the learning outcomes resulting from the LEA's use of funds under this section.
 
 
 Utah Code Annotated § 53F-2-401 Appropriation for adult education programs.

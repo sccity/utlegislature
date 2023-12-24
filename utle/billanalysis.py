@@ -2,7 +2,7 @@
 # * CATEGORY  SOFTWARE
 # * GROUP     GOV. AFFAIRS
 # * AUTHOR    LANCE HAYNIE <LHAYNIE@SCCITY.ORG>
-# * FILE      ANALYSIS.PY
+# * FILE      BILLANALYSIS.PY
 # **********************************************************
 # Utah Legislature Automation
 # Copyright Santa Clara City
@@ -47,11 +47,10 @@ class DatabaseConnector:
 
 
 class OpenAIConnector:
-
     def __init__(self, api_key):
         self.client = OpenAI(api_key=api_key)
 
-    def analyze_provisions(self, provisions):
+    def analyze_bill(self, bill_text):
         role_system = {
             "role": "system",
             "content": (
@@ -64,8 +63,8 @@ class OpenAIConnector:
             ),
         }
         prompt = (
-            f"Summarize in a single sentence whether the highlighted provisions have a potential impact on municipalities in Utah. "
-            f"Then, provide an in-depth one page analysis of the following provisions: {provisions}\n\n"
+            f"Summarize in a single sentence whether the bill may have a potential impact on municipalities in Utah. "
+            f"Then, provide an in-depth one page analysis of the following bill text: {bill_text}\n\n"
             f"Focus on both positive and negative effects across economic, social, and legal dimensions. "
             f"Provide insights into local government operations, community resources, resident well-being, and legal frameworks. "
             f"In your analysis, address specific examples: How might these provisions affect local businesses and tax revenue? "
@@ -92,27 +91,22 @@ class BillProcessor:
             self.db_connector.conn.begin()  # Begin a transaction
 
             self.db_connector.cursor.execute(
-                "SELECT id, highlighted_provisions FROM utle_bills WHERE ai_analysis IS NULL AND last_action_owner NOT LIKE '%not pass%' and bill_year >= 2023"
+                "SELECT id, bill_text FROM aia_billanalysis WHERE ai_analysis IS NULL or ai_analysis = ''"
             )
             rows = self.db_connector.cursor.fetchall()
 
             for row in rows:
-                id, highlighted_provisions = row
+                id, bill_text = row
                 try:
                     print(f"Processing bill with id: {id}")
-                    if (
-                        highlighted_provisions is not None
-                        and highlighted_provisions.strip()
-                    ):
+                    if bill_text is not None and bill_text.strip():
                         print("Performing analysis...")
-                        analysis = self.openai_connector.analyze_provisions(
-                            highlighted_provisions
-                        )
+                        analysis = self.openai_connector.analyze_bill(bill_text)
                         self.update_bill_analysis(id, analysis)
                         self.db_connector.conn.commit()  # Commit changes after each iteration
                     else:
                         print(
-                            f"Skipping processing for bill with id {id} due to empty or None highlighted_provisions"
+                            f"Skipping processing for bill with id {id} due to empty or None bill_text"
                         )
                 except Exception as inner_err:
                     print(
@@ -128,11 +122,11 @@ class BillProcessor:
             self.db_connector.disconnect()
 
     def update_bill_analysis(self, id, analysis):
-        update_query = "UPDATE utle_bills SET ai_analysis = %s WHERE id = %s"
+        update_query = "UPDATE aia_billanalysis SET ai_analysis = %s WHERE id = %s"
         self.db_connector.cursor.execute(update_query, (analysis, id))
 
 
-def process_analysis():
+def bill_analysis():
     db_host = settings_data["database"]["host"]
     db_user = settings_data["database"]["user"]
     db_password = settings_data["database"]["password"]
@@ -142,8 +136,13 @@ def process_analysis():
     db_connector = DatabaseConnector(db_user, db_password, db_host, db_name)
     openai_connector = OpenAIConnector(openai_api_key)
     bill_processor = BillProcessor(db_connector, openai_connector)
-    bill_processor.process_bills()
 
+    while True:
+        try:
+            bill_processor.process_bills()
+            time.sleep(60)
+        except Exception as e:
+            print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
-    process_analysis()
+    bill_analysis()

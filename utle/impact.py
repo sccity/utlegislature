@@ -108,28 +108,28 @@ class BillProcessor:
             self.db_connector.conn.begin()  # Begin a transaction
 
             self.db_connector.cursor.execute(
-                "SELECT guid, ai_analysis, highlighted_provisions, code_sections FROM bills WHERE ai_impact_rating IS NULL OR ai_impact_rating = 0 AND last_action_owner NOT LIKE '%not pass%'"
+                "SELECT id, ai_analysis, highlighted_provisions, code_sections FROM utle_bills WHERE ai_impact_rating IS NULL OR ai_impact_rating = 0 AND last_action_owner NOT LIKE '%not pass%'"
             )
             rows = self.db_connector.cursor.fetchall()
 
             for row in rows:
-                guid, ai_analysis, highlighted_provisions, code_sections = row
+                id, ai_analysis, highlighted_provisions, code_sections = row
                 try:
-                    print(f"Processing bill with guid: {guid}")
+                    print(f"Processing bill with id: {id}")
                     if ai_analysis is not None and ai_analysis.strip():
                         print("Performing impact rating...")
                         rating = self.openai_connector.rate_impact(
                             ai_analysis, highlighted_provisions, code_sections
                         )
-                        self.update_bill_rating(guid, rating)
+                        self.update_bill_rating(id, rating)
                         self.db_connector.conn.commit()  # Commit changes after each iteration
                     else:
                         print(
-                            f"Skipping processing for bill with guid {guid} due to empty or None ai_analysis"
+                            f"Skipping processing for bill with id {id} due to empty or None ai_analysis"
                         )
                 except Exception as inner_err:
                     print(
-                        f"An error occurred while processing bill with guid {guid}: {inner_err}"
+                        f"An error occurred while processing bill with id {id}: {inner_err}"
                     )
                     continue  # Skip to the next bill record on error
 
@@ -140,9 +140,9 @@ class BillProcessor:
         finally:
             self.db_connector.disconnect()
 
-    def update_bill_rating(self, guid, rating):
-        update_query = "UPDATE bills SET ai_impact_rating = %s WHERE guid = %s"
-        self.db_connector.cursor.execute(update_query, (rating, guid))
+    def update_bill_rating(self, id, rating):
+        update_query = "UPDATE utle_bills SET ai_impact_rating = %s WHERE id = %s"
+        self.db_connector.cursor.execute(update_query, (rating, id))
 
 
 def process_impact():

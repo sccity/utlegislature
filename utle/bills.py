@@ -129,7 +129,7 @@ class UtahLegislature:
             last_action_owner = bill_data["lastactionowner"]
 
             self.cursor.execute(
-                "SELECT * FROM bills WHERE bill_number = %s AND bill_year = %s AND session = %s",
+                "SELECT * FROM utle_bills WHERE bill_number = %s AND bill_year = %s AND session = %s",
                 (bill_number, self.year, self.session),
             )
             existing_bill = self.cursor.fetchone()
@@ -142,11 +142,11 @@ class UtahLegislature:
             )
 
             if existing_bill:
-                if last_action_date > existing_bill[13]:
+                if last_action_date > existing_bill[22]:
                     update_query = (
-                        "UPDATE bills "
+                        "UPDATE utle_bills "
                         "SET last_action = %s, last_action_owner = %s, last_action_date = %s, "
-                        "sponsor = %s, floor_sponsor = %s "
+                        "sponsor = %s, floor_sponsor = %s, date_modified = now() "
                         "WHERE bill_number = %s AND bill_year = %s AND session = %s"
                     )
                     update_values = (
@@ -163,8 +163,8 @@ class UtahLegislature:
                     self.connection.commit()
                 elif existing_bill[4] != tracking_id:
                     update_query = (
-                        "UPDATE bills "
-                        "SET tracking_id = %s "
+                        "UPDATE utle_bills "
+                        "SET tracking_id = %s, date_modified = now() "
                         "WHERE bill_number = %s AND bill_year = %s AND session = %s"
                     )
                     update_values = (
@@ -190,11 +190,11 @@ class UtahLegislature:
                 )
 
                 insert_query = (
-                    "INSERT INTO bills "
-                    "(guid, bill_year, session, bill_number, tracking_id, short_title, general_provisions, highlighted_provisions, "
+                    "INSERT INTO utle_bills "
+                    "(id, bill_year, session, bill_number, tracking_id, name, general_provisions, highlighted_provisions, "
                     "subjects, code_sections, appropriations, last_action, last_action_owner, last_action_date, "
-                    "bill_link, sponsor, floor_sponsor) "
-                    "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+                    "bill_link, sponsor, floor_sponsor, date_entered) "
+                    "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, now())"
                 )
                 insert_values = (
                     guid,

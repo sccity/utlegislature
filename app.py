@@ -58,6 +58,12 @@ def billfiles(year, session):
 def analysis():
     """Provide an In-depth Analysiss"""
     le.process_analysis()
+    
+    
+@main.command()
+def billanalysis():
+    """Provide an In-depth Analysiss"""
+    le.bill_analysis()
 
 
 @main.command()
@@ -69,8 +75,11 @@ def impact():
 @main.command()
 def updatecode():
     """Update Utah Code Files"""
-    uc = c.UtahCode()
-    uc.update()
+    #uc = c.UtahCode()
+    #uc.update()
+    uc2db = c.UtahCodeDatabase()
+    uc2db.update()
+    uc2db.close_db_connection()
 
 
 @main.command()

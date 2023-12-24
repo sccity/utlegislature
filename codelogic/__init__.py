@@ -20,3 +20,4 @@ from .code import *
 from .train import *
 from .interactive import *
 from .api import *
+from .code2db import *

@@ -109,7 +109,7 @@ class UtahLegislatureFiles:
 
             # Check if the record exists based on tracking_id, year, and session
             self.cursor.execute(
-                "SELECT * FROM billfiles WHERE tracking_id = %s AND year = %s AND session = %s",
+                "SELECT * FROM utle_billfiles WHERE id = %s AND year = %s AND session = %s",
                 (tracking_id, self.year, self.session),
             )
             existing_file = self.cursor.fetchone()
@@ -121,7 +121,7 @@ class UtahLegislatureFiles:
                     or existing_file[4] != sponsor
                     or existing_file[5] != status
                 ):
-                    update_query = "UPDATE billfiles SET short_title = %s, sponsor = %s, status = %s WHERE tracking_id = %s AND year = %s AND session = %s"
+                    update_query = "UPDATE utle_billfiles SET name = %s, sponsor = %s, status = %s, date_modified = NOW() WHERE id = %s AND year = %s AND session = %s"
                     update_values = (
                         short_title,
                         sponsor,
@@ -134,7 +134,7 @@ class UtahLegislatureFiles:
                     self.connection.commit()
             else:
                 # Insert new record with year and session
-                insert_query = "INSERT INTO billfiles (tracking_id, year, session, short_title, sponsor, status) VALUES (%s, %s, %s, %s, %s, %s)"
+                insert_query = "INSERT INTO utle_billfiles (id, year, session, name, sponsor, status, date_entered) VALUES (%s, %s, %s, %s, %s, %s, NOW())"
                 insert_values = (
                     tracking_id,
                     self.year,
