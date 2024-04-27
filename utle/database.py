@@ -1,9 +1,8 @@
-"""CODELOGIC."""
 # **********************************************************
 # * CATEGORY  SOFTWARE
 # * GROUP     GOV. AFFAIRS
 # * AUTHOR    LANCE HAYNIE <LHAYNIE@SCCITY.ORG>
-# * FILE      __INIT__.PY
+# * FILE      DATABASE.PY
 # **********************************************************
 # Utah Legislature Automation
 # Copyright Santa Clara City
@@ -16,8 +15,22 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-from .code import *
-from .train import *
-from .interactive import *
-from .api import *
-#from .code2db import *
+import pymysql
+from sqlalchemy import create_engine
+from .settings import settings_data
+
+
+def connect():
+    return pymysql.connect(
+        host=settings_data["database"]["host"],
+        user=settings_data["database"]["user"],
+        password=settings_data["database"]["password"],
+        database=settings_data["database"]["schema"],
+    )
+
+
+db = connect()
+cursor = db.cursor()
+cursor.execute("SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED")
+cursor.close()
+db.close()

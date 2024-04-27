@@ -18,36 +18,9 @@
 import os, sys, yaml, pymysql, time, logging
 from openai import AsyncOpenAI, OpenAI
 from .settings import settings_data
-
-
-class DatabaseConnector:
-    def __init__(self, user, password, host, database):
-        self.db_config = {
-            "user": user,
-            "password": password,
-            "host": host,
-            "db": database,
-        }
-        self.conn = None
-        self.cursor = None
-
-    def connect(self):
-        try:
-            self.conn = pymysql.connect(**self.db_config)
-            self.cursor = self.conn.cursor()
-        except pymysql.Error as err:
-            print(f"Error connecting to the database: {err}")
-            raise
-
-    def disconnect(self):
-        if self.cursor:
-            self.cursor.close()
-        if self.conn:
-            self.conn.close()
-
+from .database import connect
 
 class OpenAIConnector:
-
     def __init__(self, api_key):
         self.client = OpenAI(api_key=api_key)
 
@@ -82,19 +55,20 @@ class OpenAIConnector:
 
 
 class BillProcessor:
-    def __init__(self, db_connector, openai_connector):
-        self.db_connector = db_connector
+    def __init__(self, openai_connector):
         self.openai_connector = openai_connector
 
     def process_bills(self):
         try:
-            self.db_connector.connect()
-            self.db_connector.conn.begin()  # Begin a transaction
+            db = connect()
+            cursor = db.cursor()
 
-            self.db_connector.cursor.execute(
+            cursor.execute(
                 "SELECT id, highlighted_provisions FROM utle_bills WHERE ai_analysis IS NULL AND last_action_owner NOT LIKE '%not pass%' and bill_year >= 2023"
             )
-            rows = self.db_connector.cursor.fetchall()
+            rows = cursor.fetchall()
+            cursor.close()
+            db.close()
 
             for row in rows:
                 id, highlighted_provisions = row
@@ -109,7 +83,6 @@ class BillProcessor:
                             highlighted_provisions
                         )
                         self.update_bill_analysis(id, analysis)
-                        self.db_connector.conn.commit()  # Commit changes after each iteration
                     else:
                         print(
                             f"Skipping processing for bill with id {id} due to empty or None highlighted_provisions"
@@ -118,30 +91,32 @@ class BillProcessor:
                     print(
                         f"An error occurred while processing bill with id {id}: {inner_err}"
                     )
-                    continue  # Skip to the next bill record on error
+                    continue
 
-            self.db_connector.conn.commit()  # Commit the transaction
         except Exception as process_err:
             print(f"An error occurred while processing bills: {process_err}")
-            self.db_connector.conn.rollback()  # Rollback in case of error
-        finally:
-            self.db_connector.disconnect()
+            cursor.close()
+            db.close()
 
     def update_bill_analysis(self, id, analysis):
-        update_query = "UPDATE utle_bills SET ai_analysis = %s WHERE id = %s"
-        self.db_connector.cursor.execute(update_query, (analysis, id))
+        try:
+            db = connect()
+            cursor = db.cursor()
+            update_query = "UPDATE utle_bills SET ai_analysis = %s WHERE id = %s"
+            cursor.execute(update_query, (analysis, id))
+            db.commit()
+            cursor.close()
+            db.close()
+        except Exception as err:
+            print(f"An error occurred while updating analysis: {err}")
+            cursor.close()
+            db.close()
 
 
 def process_analysis():
-    db_host = settings_data["database"]["host"]
-    db_user = settings_data["database"]["user"]
-    db_password = settings_data["database"]["password"]
-    db_name = settings_data["database"]["schema"]
     openai_api_key = settings_data["api"]["openai"]
-
-    db_connector = DatabaseConnector(db_user, db_password, db_host, db_name)
     openai_connector = OpenAIConnector(openai_api_key)
-    bill_processor = BillProcessor(db_connector, openai_connector)
+    bill_processor = BillProcessor(openai_connector)
     bill_processor.process_bills()
 
 

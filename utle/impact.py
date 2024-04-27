@@ -94,7 +94,7 @@ class OpenAIConnector:
                         "Error occurred during impact rating calculation. Continuing to the next bill..."
                     )
                     break
-        return None  # or raise an exception, depending on your needs
+        return None
 
 
 class BillProcessor:
@@ -105,7 +105,7 @@ class BillProcessor:
     def process_bills(self):
         try:
             self.db_connector.connect()
-            self.db_connector.conn.begin()  # Begin a transaction
+            self.db_connector.conn.begin()
 
             self.db_connector.cursor.execute(
                 "SELECT id, ai_analysis, highlighted_provisions, code_sections FROM utle_bills WHERE ai_impact_rating IS NULL OR ai_impact_rating = 0 AND last_action_owner NOT LIKE '%not pass%'"
@@ -131,12 +131,12 @@ class BillProcessor:
                     print(
                         f"An error occurred while processing bill with id {id}: {inner_err}"
                     )
-                    continue  # Skip to the next bill record on error
+                    continue
 
-            self.db_connector.conn.commit()  # Commit the transaction
+            self.db_connector.conn.commit()
         except Exception as process_err:
             print(f"An error occurred while processing bills: {process_err}")
-            self.db_connector.conn.rollback()  # Rollback in case of error
+            self.db_connector.conn.rollback()
         finally:
             self.db_connector.disconnect()
 

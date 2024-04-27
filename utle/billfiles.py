@@ -18,6 +18,7 @@
 import requests
 import pymysql
 import logging
+import uuid
 from datetime import datetime
 from cachetools import cached, TTLCache
 from .settings import settings_data
@@ -109,7 +110,7 @@ class UtahLegislatureFiles:
 
             # Check if the record exists based on tracking_id, year, and session
             self.cursor.execute(
-                "SELECT * FROM utle_billfiles WHERE id = %s AND year = %s AND session = %s",
+                "SELECT * FROM bill_files WHERE id = %s AND year = %s AND session = %s",
                 (tracking_id, self.year, self.session),
             )
             existing_file = self.cursor.fetchone()
@@ -121,7 +122,7 @@ class UtahLegislatureFiles:
                     or existing_file[4] != sponsor
                     or existing_file[5] != status
                 ):
-                    update_query = "UPDATE utle_billfiles SET name = %s, sponsor = %s, status = %s, date_modified = NOW() WHERE id = %s AND year = %s AND session = %s"
+                    update_query = "UPDATE bill_files SET name = %s, sponsor = %s, status = %s, date_modified = NOW() WHERE id = %s AND year = %s AND session = %s"
                     update_values = (
                         short_title,
                         sponsor,
@@ -134,8 +135,10 @@ class UtahLegislatureFiles:
                     self.connection.commit()
             else:
                 # Insert new record with year and session
-                insert_query = "INSERT INTO utle_billfiles (id, year, session, name, sponsor, status, date_entered) VALUES (%s, %s, %s, %s, %s, %s, NOW())"
+                guid = str(uuid.uuid4())
+                insert_query = "INSERT INTO bill_files (guid, id, year, session, name, sponsor, status, date_entered) VALUES (%s, %s, %s, %s, %s, %s, %s, NOW())"
                 insert_values = (
+                    guid,
                     tracking_id,
                     self.year,
                     self.session,

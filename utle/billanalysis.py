@@ -15,127 +15,169 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import os, sys, yaml, pymysql, time, logging
+import os, sys, time, logging, requests
+from PyPDF2 import PdfReader
 from openai import AsyncOpenAI, OpenAI
 from .settings import settings_data
-
-
-class DatabaseConnector:
-    def __init__(self, user, password, host, database):
-        self.db_config = {
-            "user": user,
-            "password": password,
-            "host": host,
-            "db": database,
-        }
-        self.conn = None
-        self.cursor = None
-
-    def connect(self):
-        try:
-            self.conn = pymysql.connect(**self.db_config)
-            self.cursor = self.conn.cursor()
-        except pymysql.Error as err:
-            print(f"Error connecting to the database: {err}")
-            raise
-
-    def disconnect(self):
-        if self.cursor:
-            self.cursor.close()
-        if self.conn:
-            self.conn.close()
+from .database import connect
 
 
 class OpenAIConnector:
     def __init__(self, api_key):
         self.client = OpenAI(api_key=api_key)
 
-    def analyze_bill(self, bill_text):
+    def split_bill(self, bill_text, lines_per_page=60):
+        lines = bill_text.split("\n")
+        return [
+            lines[i : i + lines_per_page] for i in range(0, len(lines), lines_per_page)
+        ]
+
+    def summarize_page(self, text):
         role_system = {
             "role": "system",
             "content": (
                 "You are a legislative analyst familiar with Utah municipal affairs. "
-                "Your task is to review and analyze legislative bills that could impact municipalities in Utah. "
-                "Your analysis should cover economic, social, and legal aspects, considering local government operations, "
-                "community resources, resident well-being, and legal frameworks. Provide insights into potential effects on local businesses, "
-                "tax revenue, community services, and residents' quality of life. Your goal is to offer comprehensive insights "
-                "that aid decision-makers in understanding the potential consequences of these provisions for Utah municipalities."
+                "Your task is to review and analyze legislative bills. "
+                "You will review a single page of a bill and give a brief summary between 1 to 3 sentences. "
             ),
         }
-        prompt = (
-            f"Summarize in a single sentence whether the bill may have a potential impact on municipalities in Utah. "
-            f"Then, provide an in-depth one page analysis of the following bill text: {bill_text}\n\n"
-            f"Focus on both positive and negative effects across economic, social, and legal dimensions. "
-            f"Provide insights into local government operations, community resources, resident well-being, and legal frameworks. "
-            f"In your analysis, address specific examples: How might these provisions affect local businesses and tax revenue? "
-            f"Are there implications for community services and residents' quality of life? Do the provisions align with existing municipal laws and regulations? "
-            f"Craft a comprehensive analysis that ides decision-makers in understanding the consequences of these provisions for municipalities."
-        )
 
         response = self.client.chat.completions.create(
             model="gpt-4",
-            messages=[role_system, {"role": "user", "content": prompt}],
+            messages=[role_system, {"role": "user", "content": text}],
         )
-
         return response.choices[0].message.content.strip()
+
+    def summarize_bill(self, text):
+        role_system = {
+            "role": "system",
+            "content": (
+                "You are a legislative analyst familiar with Utah municipal affairs. "
+                "Your task is to review and analyze page summaries from a bill and create an overall summary and in-depth analysis. "
+                "Craft a comprehensive analysis that aids decision-makers in understanding the impacts of the bill. "
+            ),
+        }
+
+        response = self.client.chat.completions.create(
+            model="gpt-4",
+            messages=[role_system, {"role": "user", "content": text}],
+        )
+        return response.choices[0].message.content.strip()
+
+    def analyze_bill(self, bill_text):
+        pages = self.split_bill(bill_text, 60)
+
+        summarized_pages = [self.summarize_page("\n".join(page)) for page in pages]
+        summary = self.summarize_bill("\n".join(summarized_pages))
+
+        return summary
 
 
 class BillProcessor:
-    def __init__(self, db_connector, openai_connector):
-        self.db_connector = db_connector
+    def __init__(self, openai_connector):
         self.openai_connector = openai_connector
 
     def process_bills(self):
+        print("getting bills to analyze")
         try:
-            self.db_connector.connect()
-            self.db_connector.conn.begin()  # Begin a transaction
-
-            self.db_connector.cursor.execute(
-                "SELECT id, bill_text FROM aia_billanalysis WHERE ai_analysis IS NULL or ai_analysis = ''"
+            db = connect()
+            cursor = db.cursor()
+            cursor.execute(
+                "SELECT id, bill_text, pdflink FROM aia_billanalysis WHERE ai_analysis IS NULL or ai_analysis = ''"
             )
-            rows = self.db_connector.cursor.fetchall()
+            rows = cursor.fetchall()
+            cursor.close()
+            db.close()
 
+            print("looping over bills")
             for row in rows:
-                id, bill_text = row
                 try:
-                    print(f"Processing bill with id: {id}")
-                    if bill_text is not None and bill_text.strip():
-                        print("Performing analysis...")
-                        analysis = self.openai_connector.analyze_bill(bill_text)
-                        self.update_bill_analysis(id, analysis)
-                        self.db_connector.conn.commit()  # Commit changes after each iteration
+                    print("unpacking values")
+                    bill_id, bill_text, pdflink = row  # Unpack values from the row
+
+                    print(f"Processing bill with id: {bill_id}")
+
+                    if bill_text is None and pdflink is not None:
+                        print("processing bills with a pdf")
+                        try:
+                            print("downloading pdf")
+                            response = requests.get(pdflink)
+                            response.raise_for_status() 
+                            with open("/tmp/bill.pdf", "wb") as pdf_file:
+                                pdf_file.write(response.content)
+
+                            text = ""
+                            print("converting pdf to txt")
+                            with open("/tmp/bill.pdf", "rb") as pdf_file:
+                                pdf_reader = PdfReader(pdf_file)
+                                for page_num in range(len(pdf_reader.pages)):
+                                    text += pdf_reader.pages[page_num].extract_text()
+
+                            db = connect()
+                            cursor = db.cursor()
+                            print("updating bill text in table")
+                            update_sql = "UPDATE aia_billanalysis SET bill_text = %s WHERE id = %s"
+                            cursor.execute(update_sql, (text, bill_id))
+                            db.commit()
+                            cursor.close()
+                            db.close()
+
+                            print("analyzing text with ai")
+                            analysis = self.openai_connector.analyze_bill(text)
+                            print("updating analysis to table")
+                            self.update_bill_analysis(bill_id, analysis)
+
+                        except requests.exceptions.RequestException as req_err:
+                            print(
+                                f"Error fetching PDF for bill with id {bill_id}: {req_err}"
+                            )
+                            continue
+
+                    elif bill_text is not None and bill_text.strip():
+                        print("processing bills with bill text but no pdf")
+                        try:
+                            print("Performing analysis...")
+                            analysis = self.openai_connector.analyze_bill(bill_text)
+                            self.update_bill_analysis(bill_id, analysis)
+                        except Exception as analysis_err:
+                            print(
+                                f"Error performing analysis for bill with id {bill_id}: {analysis_err}"
+                            )
                     else:
                         print(
-                            f"Skipping processing for bill with id {id} due to empty or None bill_text"
+                            f"Skipping processing for bill with id {bill_id} due to empty or None bill_text"
                         )
-                except Exception as inner_err:
-                    print(
-                        f"An error occurred while processing bill with id {id}: {inner_err}"
-                    )
-                    continue  # Skip to the next bill record on error
 
-            self.db_connector.conn.commit()  # Commit the transaction
+                except Exception as outer_err:
+                    print(
+                        f"An error occurred while processing bill with id {bill_id}: {outer_err}"
+                    )
+                    continue
+
         except Exception as process_err:
             print(f"An error occurred while processing bills: {process_err}")
-            self.db_connector.conn.rollback()  # Rollback in case of error
-        finally:
-            self.db_connector.disconnect()
+            cursor.close()
+            db.close()
 
     def update_bill_analysis(self, id, analysis):
-        update_query = "UPDATE aia_billanalysis SET ai_analysis = %s WHERE id = %s"
-        self.db_connector.cursor.execute(update_query, (analysis, id))
+        try:
+            db = connect()
+            cursor = db.cursor()
+            update_query = "UPDATE aia_billanalysis SET ai_analysis = %s WHERE id = %s"
+            cursor.execute(update_query, (analysis, id))
+            db.commit()
+            cursor.close()
+            db.close()
+        except Exception as err:
+            print(f"An error occurred while updating analysis: {err}")
+            cursor.close()
+            db.close()
 
 
 def bill_analysis():
-    db_host = settings_data["database"]["host"]
-    db_user = settings_data["database"]["user"]
-    db_password = settings_data["database"]["password"]
-    db_name = settings_data["database"]["schema"]
     openai_api_key = settings_data["api"]["openai"]
-
-    db_connector = DatabaseConnector(db_user, db_password, db_host, db_name)
     openai_connector = OpenAIConnector(openai_api_key)
-    bill_processor = BillProcessor(db_connector, openai_connector)
+    bill_processor = BillProcessor(openai_connector)
 
     while True:
         try:
@@ -143,6 +185,7 @@ def bill_analysis():
             time.sleep(60)
         except Exception as e:
             print(f"An error occurred: {e}")
+
 
 if __name__ == "__main__":
     bill_analysis()
