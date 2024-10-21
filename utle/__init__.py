@@ -22,3 +22,4 @@ from .impact import *
 from .analysis import *
 from .billfiles import *
 from .billanalysis import *
+from .legislators import *
