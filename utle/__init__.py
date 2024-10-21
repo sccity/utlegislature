@@ -23,3 +23,5 @@ from .analysis import *
 from .billfiles import *
 from .billanalysis import *
 from .legislators import *
+from .committees import *
+from .legislative_calendar import *

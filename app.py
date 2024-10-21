@@ -56,6 +56,16 @@ def legislators():
     le.Legislators.update_legislators()
 
 @main.command()
+def committees():
+    """Process Committee Information"""
+    le.Committees.update_committees()
+
+@main.command()
+def calendar():
+    """Process Legislative Calendar"""
+    le.LegislativeCalendar.update_calendar()
+
+@main.command()
 def analysis():
     """Provide an In-depth Analysiss"""
     le.process_analysis()
