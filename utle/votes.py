@@ -3,6 +3,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse, parse_qs
 import html
 import re
+from datetime import datetime
 
 # Custom HTML parser to extract the Bill Status table
 class BillStatusParser(HTMLParser):
@@ -103,7 +104,10 @@ def get_vote_entries(html_content):
 
     for row in vote_parser.vote_entries:
         # Extract date
-        date = html.unescape(strip_tags(row[0]).strip())
+        raw_date = html.unescape(strip_tags(row[0]).strip())
+        # Process date to MySQL-compatible format
+        date = convert_to_mysql_datetime(raw_date)
+
         # Extract action
         action = html.unescape(strip_tags(row[1]).strip())
         # Extract location
@@ -117,7 +121,7 @@ def get_vote_entries(html_content):
         # Make location uppercase
         location = location.upper()
 
-        # Extract vote URL and vote count
+        # Extract vote URL
         link_html = row[3]
         vote_url_match = re.search(r'href="(.*?)">(.*?)</a>', link_html, re.DOTALL)
         vote_url = 'https://le.utah.gov' + vote_url_match.group(1) if vote_url_match else ''
@@ -129,6 +133,23 @@ def get_vote_entries(html_content):
         })
 
     return vote_entries
+
+def convert_to_mysql_datetime(raw_date):
+    # Check if time is included in the date string
+    if '(' in raw_date and ')' in raw_date:
+        # Extract date and time
+        date_part, time_part = re.match(r'(.*?)\s*\((.*?)\)', raw_date).groups()
+        date_part = date_part.strip()
+        time_part = time_part.strip()
+        # Parse date and time
+        datetime_obj = datetime.strptime(f"{date_part} {time_part}", '%m/%d/%Y %I:%M:%S %p')
+    else:
+        # Parse date only, set time to midnight
+        datetime_obj = datetime.strptime(raw_date, '%m/%d/%Y')
+        datetime_obj = datetime_obj.replace(hour=0, minute=0, second=0)
+
+    # Convert to MySQL datetime format
+    return datetime_obj.strftime('%Y-%m-%d %H:%M:%S')
 
 def strip_tags(html_content):
     # Simple function to remove HTML tags
@@ -360,5 +381,5 @@ def main(year, bill_number):
 if __name__ == '__main__':
     # Example inputs
     year = 2024
-    bill_number = 'HB0261'  # Replace with the bill number you're interested in
+    bill_number = 'SB0200'  # Replace with the bill number you're interested in
     main(year, bill_number)
