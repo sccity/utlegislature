@@ -1,29 +1,13 @@
-# **********************************************************
-# * CATEGORY  SOFTWARE
-# * GROUP     GOV. AFFAIRS
-# * AUTHOR    LANCE HAYNIE <LHAYNIE@SCCITY.ORG>
-# * FILE      COMMITTEES.PY
-# **********************************************************
-# Utah Legislature Automation
-# Copyright Santa Clara City
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.#
-# You may obtain a copy of the License at
-# http://www.apache.org/licenses/LICENSE-2.0
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
 import requests
 import pymysql
 import logging
 import uuid
-from datetime import datetime
+from datetime import datetime, timedelta
 import pytz
 from cachetools import cached, TTLCache
+from dateutil.relativedelta import relativedelta
+from calendar import monthrange
 from .settings import settings_data
-import re
 
 
 class LegislativeCalendar:
@@ -35,7 +19,7 @@ class LegislativeCalendar:
         self.db_user = db_user
         self.db_password = db_password
         self.db_name = db_name
-        self.base_url = f"https://glen.le.utah.gov/legcal/{self.api_key}"
+        self.base_url = "https://le.utah.gov/CalServ/CalServ"
         self.connection = None
         self.cursor = None
 
@@ -45,7 +29,7 @@ class LegislativeCalendar:
             filename="legislative_calendar.log",
             format="%(asctime)s - %(levelname)s - %(message)s",
         )
-        logging.debug("Setting up LegislativeCalendar instance...")
+        logging.debug("Setting up Legislative Calendar instance...")
         self.connection = pymysql.connect(
             host=self.db_host,
             user=self.db_user,
@@ -56,13 +40,13 @@ class LegislativeCalendar:
         logging.debug("Database connection established.")
 
     @cached(calendar_cache)
-    def fetch_calendar(self):
+    def fetch_calendar(self, month, year):
         try:
-            logging.debug("Fetching legislative calendar...")
-            response = requests.get(self.base_url)
+            logging.debug(f"Fetching legislative calendar for {month}/{year}...")
+            response = requests.get(f"{self.base_url}?month={month}&year={year}")
             if response.status_code == 200:
                 calendar_data = response.json()
-                return calendar_data.get("items", [])
+                return calendar_data.get("days", [])
             else:
                 logging.error(
                     f"API request failed with status code: {response.status_code}"
@@ -72,95 +56,161 @@ class LegislativeCalendar:
             logging.error(f"Error fetching calendar data: {error}")
             return []
 
-    def convert_utc_to_mst(self, utc_time_str):
-        utc_time = datetime.strptime(utc_time_str, "%Y-%m-%dT%H:%M:%S.000Z")
-        utc_time = utc_time.replace(tzinfo=pytz.utc)
-        denver_tz = pytz.timezone("America/Denver")
-        local_time = utc_time.astimezone(denver_tz)
-        return local_time
+    def prepend_url(self, url):
+        if url and not url.startswith("https://"):
+            return f"https://le.utah.gov{url}"
+        return url
 
-    def extract_committee_id(self, link):
-        match = re.search(r"com=([A-Z0-9]+)", link)
-        if match:
-            return match.group(1)
-        return None
-
-    def insert_or_update_calendar(self, calendar_item):
+    def insert_or_update_calendar(self, event_item, event_date):
         try:
-            committee = calendar_item.get("committee", "")
-            link = calendar_item.get("link", "")
-            committee_id = self.extract_committee_id(link)
-            mtg_time_utc = calendar_item.get("mtgTime", "")
-            mtg_place = calendar_item.get("mtgPlace", "")
+            description = event_item.get("desc", "")
+            link = self.prepend_url(event_item.get("itemurl", ""))
+            agenda_url = self.prepend_url(event_item.get("agenda", ""))
+            minutes_url = self.prepend_url(event_item.get("minutes", ""))
+            media_url = self.prepend_url(event_item.get("mediaurl", ""))
+            emtg_url = self.prepend_url(event_item.get("emtg", ""))
+            ics_url = self.prepend_url(event_item.get("ics", ""))
+            meeting_id = self.extract_meeting_id(link)
+            event_type = event_item.get("type", "")
+            start_time_str = event_item.get("time", "")
+            end_time_str = event_item.get("endtime", "")
+            location = event_item.get("location", "")
 
-            if mtg_time_utc:
-                mtg_time_local = self.convert_utc_to_mst(mtg_time_utc)
-                meeting_date = mtg_time_local.date()
-                meeting_time = mtg_time_local.time()
-            else:
-                logging.warning(f"No meeting time provided for committee: {committee}")
-                return
+            start_time = self.convert_time(start_time_str)
+            end_time = None
 
-            logging.debug(f"Processing meeting for {committee} on {meeting_date}")
+            if start_time and end_time_str:
+                end_time = self.convert_time(end_time_str)
+            elif start_time:
+                end_time = (
+                    datetime.combine(datetime.today(), start_time) + timedelta(hours=1)
+                ).time()
+
+            logging.debug(f"Processing event: {description} on {event_date}")
 
             self.cursor.execute(
                 """
-                SELECT mtg_time, mtg_place
+                SELECT agenda_url, minutes_url, media_url, emtg_url, ics_url, start_time, end_time, location
                 FROM legislative_calendar
-                WHERE committee_id = %s AND DATE(mtg_time) = %s
+                WHERE description = %s AND event_type = %s AND mtg_date = %s
                 """,
-                (committee_id, meeting_date),
+                (description, event_type, event_date),
             )
-            existing_meeting = self.cursor.fetchone()
+            existing_event = self.cursor.fetchone()
 
-            if existing_meeting:
-                existing_time, existing_place = existing_meeting
+            if existing_event:
+                (
+                    existing_agenda_url,
+                    existing_minutes_url,
+                    existing_media_url,
+                    existing_emtg_url,
+                    existing_ics_url,
+                    existing_start_time,
+                    existing_end_time,
+                    existing_location,
+                ) = existing_event
 
-                # Extract the time portion of both existing and new meeting times
-                existing_time_portion = existing_time.time()
-                new_time_portion = meeting_time
-
-                # Check if the time portion or meeting place has changed
                 if (
-                    existing_time_portion != new_time_portion
-                    or existing_place != mtg_place
+                    existing_agenda_url != agenda_url
+                    or existing_minutes_url != minutes_url
+                    or existing_media_url != media_url
+                    or existing_emtg_url != emtg_url
+                    or existing_ics_url != ics_url
+                    or existing_start_time != start_time
+                    or existing_end_time != end_time
+                    or existing_location != location
                 ):
-                    logging.debug(
-                        f"Updating meeting for {committee} at {mtg_time_local}"
-                    )
+                    logging.debug(f"Updating event: {description}")
                     update_query = """
-                        UPDATE legislative_calendar 
-                        SET mtg_time = %s, mtg_place = %s, date_modified = NOW()
-                        WHERE committee_id = %s AND DATE(mtg_time) = %s
+                        UPDATE legislative_calendar
+                        SET agenda_url = %s, minutes_url = %s, media_url = %s, emtg_url = %s, ics_url = %s,
+                            start_time = %s, end_time = %s, location = %s, date_modified = NOW()
+                        WHERE description = %s AND event_type = %s AND mtg_date = %s
                     """
                     self.cursor.execute(
                         update_query,
-                        (mtg_time_local, mtg_place, committee_id, meeting_date),
+                        (
+                            agenda_url,
+                            minutes_url,
+                            media_url,
+                            emtg_url,
+                            ics_url,
+                            start_time,
+                            end_time,
+                            location,
+                            description,
+                            event_type,
+                            event_date,
+                        ),
                     )
                     self.connection.commit()
-                    logging.debug(f"Updated meeting for {committee} on {meeting_date}")
+                    logging.debug(f"Updated event: {description}")
                 else:
-                    logging.debug(
-                        f"No changes detected for meeting: {committee} on {meeting_date}"
-                    )
+                    logging.debug(f"No changes detected for event: {description}")
             else:
-                logging.debug(f"Inserting new meeting for {committee}")
+                logging.debug(f"Inserting new event: {description}")
                 guid = str(uuid.uuid4())
                 insert_query = """
-                    INSERT INTO legislative_calendar (guid, committee, committee_id, link, mtg_time, mtg_place, date_entered)
-                    VALUES (%s, %s, %s, %s, %s, %s, NOW())
+                    INSERT INTO legislative_calendar (guid, description, meeting_id, event_type, link, mtg_date, 
+                        start_time, end_time, location, agenda_url, minutes_url, media_url, emtg_url, ics_url, date_entered)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, NOW())
                 """
                 self.cursor.execute(
                     insert_query,
-                    (guid, committee, committee_id, link, mtg_time_local, mtg_place),
+                    (
+                        guid,
+                        description,
+                        meeting_id,
+                        event_type,
+                        link,
+                        event_date,
+                        start_time,
+                        end_time,
+                        location,
+                        agenda_url,
+                        minutes_url,
+                        media_url,
+                        emtg_url,
+                        ics_url,
+                    ),
                 )
                 self.connection.commit()
-                logging.debug(f"Inserted new meeting for {committee} on {meeting_date}")
+                logging.debug(f"Inserted new event: {description}")
 
         except pymysql.Error as db_error:
             logging.error(f"MySQL error: {db_error}")
         except Exception as ex:
             logging.error(f"General error: {ex}")
+
+    def extract_meeting_id(self, link):
+        if link:
+            return link.split("com=")[-1] if "com=" in link else None
+        return None
+
+    def convert_time(self, time_str):
+        try:
+            if time_str:
+                return datetime.strptime(time_str, "%I:%M %p").time()
+        except ValueError as e:
+            logging.error(f"Error converting time: {e}")
+        return None
+
+    def process_calendar(self, month, year):
+        calendar_days = self.fetch_calendar(month, year)
+        if calendar_days:
+            logging.debug(
+                f"Fetched calendar successfully. Total days: {len(calendar_days)}"
+            )
+            for day_data in calendar_days:
+                day = int(day_data["day"])
+                if 1 <= day <= monthrange(year, month)[1]:
+                    event_date = datetime(year, month, day).date()
+                    for event in day_data.get("events", []):
+                        self.insert_or_update_calendar(event, event_date)
+                else:
+                    logging.debug(f"Invalid day {day} for month {month}, year {year}")
+        else:
+            logging.debug("No calendar data fetched.")
 
     def close_connection(self):
         if self.cursor:
@@ -168,23 +218,15 @@ class LegislativeCalendar:
         if self.connection:
             self.connection.close()
 
-    def run(self):
+    def run(self, month, year):
         self.setup()
-        calendar_items = self.fetch_calendar()
-        if calendar_items:
-            logging.debug(
-                f"Fetched calendar successfully. Total items: {len(calendar_items)}"
-            )
-
-            for item in calendar_items:
-                self.insert_or_update_calendar(item)
-        else:
-            logging.debug("No calendar data fetched.")
-
+        self.process_calendar(month, year)
         self.close_connection()
 
     @staticmethod
     def update_calendar():
+        current_date = datetime.now()
+        start_date = current_date - relativedelta(months=3)
         etlProcessor = LegislativeCalendar(
             api_key=settings_data["api"]["utle"],
             db_host=settings_data["database"]["host"],
@@ -192,7 +234,13 @@ class LegislativeCalendar:
             db_password=settings_data["database"]["password"],
             db_name=settings_data["database"]["schema"],
         )
-        etlProcessor.run()
+        for i in range(-3, 7):
+            month_date = current_date + relativedelta(months=i)
+            month = month_date.month
+            year = month_date.year
+            logging.debug(f"Updating calendar for {month}/{year}")
+            print(f"Updating calendar for {month}/{year}")
+            etlProcessor.run(month, year)
 
 
 if __name__ == "__main__":

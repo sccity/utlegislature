@@ -66,6 +66,12 @@ def calendar():
     le.LegislativeCalendar.update_calendar()
 
 @main.command()
+def i360():
+    """Sync I360 Data"""
+    le.DataSync.sync_data()
+
+
+@main.command()
 def analysis():
     """Provide an In-depth Analysiss"""
     le.process_analysis()
