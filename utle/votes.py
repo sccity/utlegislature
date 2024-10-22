@@ -140,45 +140,56 @@ def get_legislator_names_from_table(table_html):
     return [html.unescape(name.strip()) for name in names if name.strip()]
 
 def parse_svotes(html_content):
-    # Check for voice vote
-    voice_vote_match = re.search(r'>(Passed|Failed) on voice vote<', html_content)
-    if voice_vote_match:
-        result = voice_vote_match.group(1).upper()
-        yeas_count = nays_count = absent_count = 0
-        yeas_legislators = nays_legislators = absent_legislators = []
-    else:
-        # Existing code to parse recorded votes
-        # Extract vote counts
-        vote_counts_match = re.search(r'Yeas\s*(\d+).*?Nays\s*(\d+).*?(?:N/V|Absent or not voting|Not Voting)\s*(\d+)', html_content, re.DOTALL)
-        if vote_counts_match:
-            yeas_count = int(vote_counts_match.group(1))
-            nays_count = int(vote_counts_match.group(2))
-            absent_count = int(vote_counts_match.group(3))
-        else:
+    # Extract the text inside <b> tags
+    b_tag_content_match = re.search(r'<b>(.*?)</b>', html_content, re.DOTALL)
+    if b_tag_content_match:
+        b_content = b_tag_content_match.group(1)
+        # Search for "Passed on voice vote" or "Failed on voice vote"
+        voice_vote_match = re.search(r'(Passed|Failed)\s+on\s+voice\s+vote', b_content, re.IGNORECASE)
+        if voice_vote_match:
+            result = voice_vote_match.group(1).upper()
             yeas_count = nays_count = absent_count = 0
+            yeas_legislators = nays_legislators = absent_legislators = []
+            return {
+                'result': result,
+                'vote_breakdown': {
+                    'yeas': {'count': yeas_count, 'legislators': yeas_legislators},
+                    'nays': {'count': nays_count, 'legislators': nays_legislators},
+                    'absent': {'count': absent_count, 'legislators': absent_legislators},
+                }
+            }
+    # Existing code to parse recorded votes
+    # Extract vote counts
+    vote_counts_match = re.search(r'Yeas\s*(\d+).*?Nays\s*(\d+).*?(?:N/V|Absent or not voting|Not Voting)\s*(\d+)', html_content, re.DOTALL)
+    if vote_counts_match:
+        yeas_count = int(vote_counts_match.group(1))
+        nays_count = int(vote_counts_match.group(2))
+        absent_count = int(vote_counts_match.group(3))
+    else:
+        yeas_count = nays_count = absent_count = 0
 
-        # Extract legislator names for Yeas
-        yeas_section_match = re.search(r'Yeas\s*-\s*\d+.*?<table>(.*?)</table>', html_content, re.DOTALL)
-        yeas_legislators = get_legislator_names_from_table(yeas_section_match.group(1)) if yeas_section_match else []
+    # Extract legislator names for Yeas
+    yeas_section_match = re.search(r'Yeas\s*-\s*\d+.*?<table>(.*?)</table>', html_content, re.DOTALL)
+    yeas_legislators = get_legislator_names_from_table(yeas_section_match.group(1)) if yeas_section_match else []
 
-        # Extract legislator names for Nays
-        nays_section_match = re.search(r'Nays\s*-\s*\d+.*?<table>(.*?)</table>', html_content, re.DOTALL)
-        nays_legislators = get_legislator_names_from_table(nays_section_match.group(1)) if nays_section_match else []
+    # Extract legislator names for Nays
+    nays_section_match = re.search(r'Nays\s*-\s*\d+.*?<table>(.*?)</table>', html_content, re.DOTALL)
+    nays_legislators = get_legislator_names_from_table(nays_section_match.group(1)) if nays_section_match else []
 
-        # Extract legislator names for Absent or not voting
-        absent_section_match = re.search(r'(?:Absent or not voting|Not Voting)\s*-\s*\d+.*?<table>(.*?)</table>', html_content, re.DOTALL)
-        absent_legislators = get_legislator_names_from_table(absent_section_match.group(1)) if absent_section_match else []
+    # Extract legislator names for Absent or not voting
+    absent_section_match = re.search(r'(?:Absent or not voting|Not Voting)\s*-\s*\d+.*?<table>(.*?)</table>', html_content, re.DOTALL)
+    absent_legislators = get_legislator_names_from_table(absent_section_match.group(1)) if absent_section_match else []
 
-        # Update counts if they were not correctly parsed
-        yeas_count = len(yeas_legislators)
-        nays_count = len(nays_legislators)
-        absent_count = len(absent_legislators)
+    # Update counts if they were not correctly parsed
+    yeas_count = len(yeas_legislators)
+    nays_count = len(nays_legislators)
+    absent_count = len(absent_legislators)
 
-        # Determine the result based on counts
-        if yeas_count > nays_count:
-            result = 'PASSED'
-        else:
-            result = 'FAILED'
+    # Determine the result based on counts
+    if yeas_count > nays_count:
+        result = 'PASSED'
+    else:
+        result = 'FAILED'
 
     return {
         'result': result,
@@ -190,47 +201,59 @@ def parse_svotes(html_content):
     }
 
 def parse_mtgvotes(html_content):
-    # Check for voice vote
-    voice_vote_match = re.search(r'>(Passed|Failed) on voice vote<', html_content)
-    if voice_vote_match:
-        result = voice_vote_match.group(1).upper()
-        yeas_count = nays_count = absent_count = 0
-        yeas_legislators = nays_legislators = absent_legislators = []
-    else:
-        # Existing code to parse recorded votes
-        # Extract vote counts
-        vote_counts_match = re.search(
-            r'Yeas\s*-\s*(\d+).*?Nays\s*-\s*(\d+).*?(?:Absent|Excused|Not Present)\s*-\s*(\d+)', html_content, re.DOTALL)
-        if vote_counts_match:
-            yeas_count = int(vote_counts_match.group(1))
-            nays_count = int(vote_counts_match.group(2))
-            absent_count = int(vote_counts_match.group(3))
-        else:
+    # Extract the text inside <b> tags
+    b_tag_content_match = re.search(r'<b>(.*?)</b>', html_content, re.DOTALL)
+    if b_tag_content_match:
+        b_content = b_tag_content_match.group(1)
+        # Search for "Passed on voice vote" or "Failed on voice vote"
+        voice_vote_match = re.search(r'(Passed|Failed)\s+on\s+voice\s+vote', b_content, re.IGNORECASE)
+        if voice_vote_match:
+            result = voice_vote_match.group(1).upper()
             yeas_count = nays_count = absent_count = 0
-
-        # Extract legislator names
-        names_section_match = re.search(
-            r'<tr>\s*<td valign="top">(.*?)</td>\s*<td></td>\s*<td valign="top">(.*?)</td>\s*<td></td>\s*<td valign="top">(.*?)</td>', html_content, re.DOTALL)
-        if names_section_match:
-            yeas_section = names_section_match.group(1)
-            nays_section = names_section_match.group(2)
-            absent_section = names_section_match.group(3)
-            yeas_legislators = [html.unescape(strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', yeas_section) if name.strip()]
-            nays_legislators = [html.unescape(strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', nays_section) if name.strip()]
-            absent_legislators = [html.unescape(strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', absent_section) if name.strip()]
-        else:
             yeas_legislators = nays_legislators = absent_legislators = []
+            return {
+                'result': result,
+                'vote_breakdown': {
+                    'yeas': {'count': yeas_count, 'legislators': yeas_legislators},
+                    'nays': {'count': nays_count, 'legislators': nays_legislators},
+                    'absent': {'count': absent_count, 'legislators': absent_legislators},
+                }
+            }
+    # Existing code to parse recorded votes
+    # Extract vote counts
+    vote_counts_match = re.search(
+        r'Yeas\s*-\s*(\d+).*?Nays\s*-\s*(\d+).*?(?:Absent|Excused|Not Present)\s*-\s*(\d+)', html_content, re.DOTALL)
+    if vote_counts_match:
+        yeas_count = int(vote_counts_match.group(1))
+        nays_count = int(vote_counts_match.group(2))
+        absent_count = int(vote_counts_match.group(3))
+    else:
+        yeas_count = nays_count = absent_count = 0
 
-        # Update counts if they were not correctly parsed
-        yeas_count = len(yeas_legislators)
-        nays_count = len(nays_legislators)
-        absent_count = len(absent_legislators)
+    # Extract legislator names
+    names_section_match = re.search(
+        r'<tr>\s*<td valign="top">(.*?)</td>\s*<td></td>\s*<td valign="top">(.*?)</td>\s*<td></td>\s*<td valign="top">(.*?)</td>',
+        html_content, re.DOTALL)
+    if names_section_match:
+        yeas_section = names_section_match.group(1)
+        nays_section = names_section_match.group(2)
+        absent_section = names_section_match.group(3)
+        yeas_legislators = [html.unescape(strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', yeas_section) if name.strip()]
+        nays_legislators = [html.unescape(strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', nays_section) if name.strip()]
+        absent_legislators = [html.unescape(strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', absent_section) if name.strip()]
+    else:
+        yeas_legislators = nays_legislators = absent_legislators = []
 
-        # Determine the result based on counts
-        if yeas_count > nays_count:
-            result = 'PASSED'
-        else:
-            result = 'FAILED'
+    # Update counts if they were not correctly parsed
+    yeas_count = len(yeas_legislators)
+    nays_count = len(nays_legislators)
+    absent_count = len(absent_legislators)
+
+    # Determine the result based on counts
+    if yeas_count > nays_count:
+        result = 'PASSED'
+    else:
+        result = 'FAILED'
 
     return {
         'result': result,
@@ -337,5 +360,5 @@ def main(year, bill_number):
 if __name__ == '__main__':
     # Example inputs
     year = 2024
-    bill_number = 'SB0200'  # Replace with the bill number you're interested in
+    bill_number = 'HB0261'  # Replace with the bill number you're interested in
     main(year, bill_number)
