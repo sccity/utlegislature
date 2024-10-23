@@ -66,6 +66,11 @@ def calendar():
     le.LegislativeCalendar.update_calendar()
 
 @main.command()
+def votes():
+    """Process Voting Information"""
+    le.Votes.get_votes(2016)
+
+@main.command()
 def i360():
     """Sync I360 Data"""
     le.DataSync.sync_data()
