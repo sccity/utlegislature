@@ -26,12 +26,12 @@ from datetime import datetime
 from .settings import settings_data
 
 # Setup logging
-logging.basicConfig(
-    level=logging.DEBUG,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    filename='status.log',
-    filemode='a'
-)
+#logging.basicConfig(
+#    level=logging.DEBUG,
+#    format='%(asctime)s - %(levelname)s - %(message)s',
+#    filename='status.log',
+#    filemode='a'
+#)
 
 class StatusEntry(HTMLParser):
     def __init__(self):
