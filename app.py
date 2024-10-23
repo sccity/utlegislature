@@ -68,7 +68,13 @@ def calendar():
 @main.command()
 def votes():
     """Process Voting Information"""
-    le.Votes.get_votes(2016)
+    le.Votes.get_votes(2024)
+    #le.Votes.get_vote_history()
+
+@main.command()
+def status():
+    """Process Voting Information"""
+    le.Status.get_status(2016)
 
 @main.command()
 def i360():
