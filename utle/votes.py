@@ -157,97 +157,78 @@ class Votes:
 
     def process_legislator_votes(self, legislators, vote_guid, vote_type):
         for legislator in legislators:
+            # Split the legislator name (vote data) into last name and initials
             last_name, initials = legislator.split(", ")
+            initials_clean = initials.replace(".", "").strip()
+            first_initial = initials_clean[0]  # First initial
+            middle_initial = initials_clean[1:] if len(initials_clean) > 1 else ""  # Middle initial, if exists
+            last_name_clean = last_name.strip()
 
             logging.debug(f"Processing legislator: {legislator}")
 
-            initials_clean = initials.replace(".", "")
-            first_initial = initials_clean[0]
-            middle_initial = initials_clean[1:] if len(initials_clean) > 1 else ""
-
+            # Step 1: Try matching using full_name (removing periods)
             select_legislator_query = """
-                SELECT guid, full_name FROM legislators WHERE REPLACE(full_name, '.', '') LIKE %s
+                SELECT guid, full_name FROM legislators 
+                WHERE REPLACE(full_name, '.', '') LIKE %s
             """
-            full_name_like = f"{last_name}%, {first_initial}%"
+            full_name_like = f"{last_name_clean}%, {first_initial}%"
             self.cursor.execute(select_legislator_query, (full_name_like,))
             legislator_record = self.cursor.fetchone()
 
-            if legislator_record:
-                logging.debug(
-                    f"Exact match found in full_name: {legislator_record['full_name']} for {legislator}"
-                )
-            else:
-
+            # Step 2: Try matching using format_name (removing periods)
+            if not legislator_record:
+                logging.debug(f"No match found for {legislator} in full_name, trying format_name.")
                 select_legislator_query = """
-                    SELECT guid, format_name FROM legislators WHERE REPLACE(format_name, '.', '') LIKE %s
+                    SELECT guid, format_name FROM legislators 
+                    WHERE REPLACE(format_name, '.', '') LIKE %s
                 """
-                format_name_like = f"{first_initial}%, {last_name}%"
+                format_name_like = f"{first_initial}%, {last_name_clean}%"
                 self.cursor.execute(select_legislator_query, (format_name_like,))
                 legislator_record = self.cursor.fetchone()
 
-                if legislator_record:
-                    logging.debug(
-                        f"Exact match found in format_name: {legislator_record['format_name']} for {legislator}"
-                    )
-
+            # Step 3: Try matching with both initials (if available)
             if not legislator_record and middle_initial:
-                logging.debug(
-                    f"Trying to match using both initials: {first_initial} {middle_initial} for {legislator}"
-                )
+                logging.debug(f"Trying to match using both initials for {legislator}.")
                 select_legislator_query = """
                     SELECT guid, full_name FROM legislators 
                     WHERE REPLACE(full_name, '.', '') LIKE %s AND REPLACE(full_name, '.', '') LIKE %s
                 """
-                full_name_like_first = f"{last_name}%, {first_initial}%"
+                full_name_like_first = f"{last_name_clean}%, {first_initial}%"
                 full_name_like_middle = f"% {middle_initial}%"
-                self.cursor.execute(
-                    select_legislator_query,
-                    (full_name_like_first, full_name_like_middle),
-                )
+                self.cursor.execute(select_legislator_query, (full_name_like_first, full_name_like_middle))
                 legislator_record = self.cursor.fetchone()
 
-                if legislator_record:
-                    logging.debug(
-                        f"Match found using both initials: {legislator_record['full_name']} for {legislator}"
-                    )
-
+            # Step 4: Fuzzy matching as a fallback if no match found
             if not legislator_record:
-                logging.debug(
-                    f"No exact match found, attempting fuzzy matching for {legislator}"
-                )
-                all_legislators = self.get_all_legislators()
+                logging.debug(f"No exact match found for {legislator}, attempting fuzzy matching.")
+                all_legislators = self.get_all_legislators()  # Fetch all legislators from the DB
                 best_match = None
                 highest_score = 0
-
                 for db_legislator in all_legislators:
-                    similarity_score = fuzz.partial_ratio(
-                        db_legislator["full_name"], legislator
-                    )
+                    normalized_db_name = db_legislator['full_name'].replace('.', '').strip()
+                    normalized_vote_name = legislator.replace('.', '').strip()
+                    similarity_score = fuzz.partial_ratio(normalized_db_name, normalized_vote_name)
+
                     if similarity_score > highest_score:
                         highest_score = similarity_score
                         best_match = db_legislator
 
-                if highest_score > 80:
+                if highest_score > 80:  # 80% similarity threshold for fuzzy matching
                     legislator_record = best_match
-                    logging.debug(
-                        f"Fuzzy match found: {legislator_record['full_name']} with score {highest_score} for {legislator}"
-                    )
+                    logging.debug(f"Fuzzy match found: {legislator_record['full_name']} with score {highest_score} for {legislator}")
                 else:
-                    logging.warning(
-                        f"No match found for {legislator} after all attempts"
-                    )
+                    logging.warning(f"No match found for {legislator}, even after fuzzy matching.")
 
+            # Insert into votes_legislators if a match was found
             if legislator_record:
-                legislator_guid = legislator_record["guid"]
-
+                legislator_guid = legislator_record['guid']
                 select_vote_legislator_query = """
                     SELECT * FROM votes_legislators WHERE vote_guid = %s AND legislator_guid = %s
                 """
-                self.cursor.execute(
-                    select_vote_legislator_query, (vote_guid, legislator_guid)
-                )
+                self.cursor.execute(select_vote_legislator_query, (vote_guid, legislator_guid))
                 vote_legislator_record = self.cursor.fetchone()
 
+                # Insert new record if it doesn't exist yet
                 if not vote_legislator_record:
                     insert_vote_legislator_query = """
                         INSERT INTO votes_legislators (guid, vote_guid, legislator_guid, vote)
@@ -255,16 +236,12 @@ class Votes:
                     """
                     self.cursor.execute(
                         insert_vote_legislator_query,
-                        (str(uuid.uuid4()), vote_guid, legislator_guid, vote_type),
+                        (str(uuid.uuid4()), vote_guid, legislator_guid, vote_type)
                     )
                     self.connection.commit()
-                    logging.debug(
-                        f"Inserted legislator {legislator_guid} with vote {vote_type} for vote {vote_guid}."
-                    )
+                    logging.debug(f"Inserted legislator {legislator_guid} with vote {vote_type} for vote {vote_guid}.")
                 else:
-                    logging.debug(
-                        f"Vote record already exists for legislator {legislator_guid} and vote {vote_guid}, skipping."
-                    )
+                    logging.debug(f"Vote record already exists for legislator {legislator_guid} and vote {vote_guid}, skipping.")
             else:
                 logging.warning(f"Could not find legislator match for {legislator}.")
 
