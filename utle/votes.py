@@ -174,71 +174,69 @@ class Votes:
     def process_legislator_votes(self, legislators, vote_guid, vote_type):
         for legislator in legislators:
             logging.debug(f"Processing legislator from vote: {legislator}")
-            
-            # Normalize the legislator from the vote data (remove periods and keep first initial)
-            legislator_normalized = re.sub(r'\.', '', legislator).strip()  # Remove periods
-            last_name_vote, first_initial_vote = legislator_normalized.split(", ")
-            first_initial_vote = first_initial_vote.strip()[0]  # Extract just the first initial
-            logging.debug(f"Normalized legislator from vote: {last_name_vote}, {first_initial_vote}")
 
-            # Function to normalize the full_name from the database
+            legislator_normalized = re.sub(r"\.", "", legislator).strip()
+            last_name_vote, first_initial_vote = legislator_normalized.split(", ")
+            first_initial_vote = first_initial_vote.strip()[0]
+            logging.debug(
+                f"Normalized legislator from vote: {last_name_vote}, {first_initial_vote}"
+            )
+
             def normalize_full_name(full_name):
-                # Remove periods, keep last name, and extract the first initial of the first name
-                full_name_cleaned = re.sub(r'\.', '', full_name)  # Remove periods
+                full_name_cleaned = re.sub(r"\.", "", full_name)
                 last_name_db, first_name_db = full_name_cleaned.split(", ")
 
-                # Remove any middle initials (single letters after the first name)
-                first_name_db = re.sub(r'\b[A-Z]\b', '', first_name_db).strip()
+                first_name_db = re.sub(r"\b[A-Z]\b", "", first_name_db).strip()
 
-                # Keep only the first initial of the first name
-                first_initial_db = first_name_db[0] if first_name_db else ''
+                first_initial_db = first_name_db[0] if first_name_db else ""
                 return f"{last_name_db}, {first_initial_db}"
 
-            # Step 1: Try matching using normalized full_name
             select_legislator_query = """
                 SELECT guid, full_name FROM legislators
             """
             self.cursor.execute(select_legislator_query)
             all_legislators = self.cursor.fetchall()
 
-            legislator_record = None  # Reset for each iteration
+            legislator_record = None
 
-            # Primary exact match logic (using normalized names)
             for db_legislator in all_legislators:
-                normalized_db_name = normalize_full_name(db_legislator['full_name'])
-                logging.debug(f"Comparing vote name '{last_name_vote}, {first_initial_vote}' with DB name '{normalized_db_name}'")
+                normalized_db_name = normalize_full_name(db_legislator["full_name"])
+                logging.debug(
+                    f"Comparing vote name '{last_name_vote}, {first_initial_vote}' with DB name '{normalized_db_name}'"
+                )
 
-                # Compare the normalized vote name with the normalized DB name
                 if normalized_db_name == f"{last_name_vote}, {first_initial_vote}":
                     legislator_record = db_legislator
-                    logging.debug(f"Exact match found: {legislator_record['full_name']}")
+                    logging.debug(
+                        f"Exact match found: {legislator_record['full_name']}"
+                    )
                     break
-            
-            # Step 2: Enhanced fallback matching logic if primary matching fails
+
             if not legislator_record:
-                logging.debug(f"No exact match found for {legislator}, attempting enhanced relaxed matching.")
+                logging.debug(
+                    f"No exact match found for {legislator}, attempting enhanced relaxed matching."
+                )
 
                 for db_legislator in all_legislators:
-                    full_name_db = re.sub(r'\.', '', db_legislator['full_name'])  # Remove periods for comparison
+                    full_name_db = re.sub(r"\.", "", db_legislator["full_name"])
                     last_name_db, full_first_name_db = full_name_db.split(", ")
 
-                    # Fallback 1: Check if the last names match
                     if last_name_vote == last_name_db:
-                        # Check if the first initial from the vote JSON matches any part of the first name or middle name in the DB
-                        first_name_parts_db = full_first_name_db.split()  # Split first name into parts (e.g., "A. Cory")
+                        first_name_parts_db = full_first_name_db.split()
                         match_found = False
 
                         for part in first_name_parts_db:
-                            if first_initial_vote == part[0]:  # Match first initial
-                                logging.debug(f"Relaxed match found: {db_legislator['full_name']} for {legislator}")
+                            if first_initial_vote == part[0]:
+                                logging.debug(
+                                    f"Relaxed match found: {db_legislator['full_name']} for {legislator}"
+                                )
                                 legislator_record = db_legislator
                                 match_found = True
                                 break
-                        
+
                         if match_found:
                             break
 
-                # Step 3: If no match found, attempt fuzzy matching (optional final fallback)
                 if not legislator_record:
                     logging.debug(f"No relaxed match found, attempting fuzzy matching.")
 
@@ -246,28 +244,35 @@ class Votes:
                     highest_score = 0
 
                     for db_legislator in all_legislators:
-                        full_name_db = db_legislator['full_name']
+                        full_name_db = db_legislator["full_name"]
                         similarity_score = fuzz.partial_ratio(full_name_db, legislator)
 
-                        logging.debug(f"Fuzzy comparison between '{full_name_db}' and '{legislator}' gave score {similarity_score}")
+                        logging.debug(
+                            f"Fuzzy comparison between '{full_name_db}' and '{legislator}' gave score {similarity_score}"
+                        )
 
                         if similarity_score > highest_score:
                             highest_score = similarity_score
                             best_match = db_legislator
 
-                    if highest_score > 80:  # 80% similarity threshold for fuzzy matching
+                    if highest_score > 80:
                         legislator_record = best_match
-                        logging.debug(f"Fuzzy match found: {legislator_record['full_name']} with score {highest_score} for {legislator}")
+                        logging.debug(
+                            f"Fuzzy match found: {legislator_record['full_name']} with score {highest_score} for {legislator}"
+                        )
                     else:
-                        print(f"Failed to match '{legislator}' with any legislator in the database after all attempts.")
-            
-            # Insert into votes_legislators if a match was found
+                        print(
+                            f"Failed to match '{legislator}' with any legislator in the database after all attempts."
+                        )
+
             if legislator_record:
-                legislator_guid = legislator_record['guid']
+                legislator_guid = legislator_record["guid"]
                 select_vote_legislator_query = """
                     SELECT * FROM votes_legislators WHERE vote_guid = %s AND legislator_guid = %s
                 """
-                self.cursor.execute(select_vote_legislator_query, (vote_guid, legislator_guid))
+                self.cursor.execute(
+                    select_vote_legislator_query, (vote_guid, legislator_guid)
+                )
                 vote_legislator_record = self.cursor.fetchone()
 
                 if not vote_legislator_record:
@@ -275,17 +280,25 @@ class Votes:
                         INSERT INTO votes_legislators (guid, vote_guid, legislator_guid, vote)
                         VALUES (%s, %s, %s, %s)
                     """
-                    logging.debug(f"Inserting vote for legislator {legislator_guid} with vote type {vote_type}")
+                    logging.debug(
+                        f"Inserting vote for legislator {legislator_guid} with vote type {vote_type}"
+                    )
                     self.cursor.execute(
                         insert_vote_legislator_query,
-                        (str(uuid.uuid4()), vote_guid, legislator_guid, vote_type)
+                        (str(uuid.uuid4()), vote_guid, legislator_guid, vote_type),
                     )
                     self.connection.commit()
-                    logging.debug(f"Inserted legislator {legislator_guid} with vote {vote_type} for vote {vote_guid}.")
+                    logging.debug(
+                        f"Inserted legislator {legislator_guid} with vote {vote_type} for vote {vote_guid}."
+                    )
                 else:
-                    logging.debug(f"Vote record already exists for legislator {legislator_guid} and vote {vote_guid}, skipping.")
+                    logging.debug(
+                        f"Vote record already exists for legislator {legislator_guid} and vote {vote_guid}, skipping."
+                    )
             else:
-                print(f"Could not find legislator match for '{legislator}' using vote name '{last_name_vote}, {first_initial_vote}'.")
+                print(
+                    f"Could not find legislator match for '{legislator}' using vote name '{last_name_vote}, {first_initial_vote}'."
+                )
 
     def close_connection(self):
         if self.connection and self.connection.open:
@@ -398,7 +411,6 @@ class Votes:
             elif tag == "tr" and self.in_row:
                 self.in_row = False
                 if len(self.current_row) >= 4:
-                    # Check if the last cell contains a vote link
                     if (
                         'href="/mtgvotes.jsp' in self.current_row[3]
                         or 'href="/DynaBill' in self.current_row[3]
@@ -559,29 +571,34 @@ class Votes:
         }
 
     def parse_mtgvotes(self, html_content):
-        # Extract the text inside <b> tags
-        b_tag_content_match = re.search(r'<b>(.*?)</b>', html_content, re.DOTALL)
+        b_tag_content_match = re.search(r"<b>(.*?)</b>", html_content, re.DOTALL)
         if b_tag_content_match:
             b_content = b_tag_content_match.group(1)
-            # Search for "Passed on voice vote" or "Failed on voice vote"
-            voice_vote_match = re.search(r'(Passed|Failed)\s+on\s+voice\s+vote', b_content, re.IGNORECASE)
+            voice_vote_match = re.search(
+                r"(Passed|Failed)\s+on\s+voice\s+vote", b_content, re.IGNORECASE
+            )
             if voice_vote_match:
                 result = voice_vote_match.group(1).upper()
                 yeas_count = nays_count = absent_count = 0
                 yeas_legislators = nays_legislators = absent_legislators = []
 
                 return {
-                    'result': result,
-                    'vote_breakdown': {
-                        'yeas': {'count': yeas_count, 'legislators': yeas_legislators},
-                        'nays': {'count': nays_count, 'legislators': nays_legislators},
-                        'absent': {'count': absent_count, 'legislators': absent_legislators},
-                    }
+                    "result": result,
+                    "vote_breakdown": {
+                        "yeas": {"count": yeas_count, "legislators": yeas_legislators},
+                        "nays": {"count": nays_count, "legislators": nays_legislators},
+                        "absent": {
+                            "count": absent_count,
+                            "legislators": absent_legislators,
+                        },
+                    },
                 }
-        # Existing code to parse recorded votes
-        # Extract vote counts
+
         vote_counts_match = re.search(
-            r'Yeas\s*-\s*(\d+).*?Nays\s*-\s*(\d+).*?(?:Absent|Excused|Not Present)\s*-\s*(\d+)', html_content, re.DOTALL)
+            r"Yeas\s*-\s*(\d+).*?Nays\s*-\s*(\d+).*?(?:Absent|Excused|Not Present)\s*-\s*(\d+)",
+            html_content,
+            re.DOTALL,
+        )
         if vote_counts_match:
             yeas_count = int(vote_counts_match.group(1))
             nays_count = int(vote_counts_match.group(2))
@@ -589,38 +606,49 @@ class Votes:
         else:
             yeas_count = nays_count = absent_count = 0
 
-        # Extract legislator names
         names_section_match = re.search(
             r'<tr>\s*<td valign="top">(.*?)</td>\s*<td></td>\s*<td valign="top">(.*?)</td>\s*<td></td>\s*<td valign="top">(.*?)</td>',
-            html_content, re.DOTALL)
+            html_content,
+            re.DOTALL,
+        )
         if names_section_match:
             yeas_section = names_section_match.group(1)
             nays_section = names_section_match.group(2)
             absent_section = names_section_match.group(3)
-            yeas_legislators = [html.unescape(self.strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', yeas_section) if name.strip()]
-            nays_legislators = [html.unescape(self.strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', nays_section) if name.strip()]
-            absent_legislators = [html.unescape(self.strip_tags(name.strip())) for name in re.split(r'<br\s*/?>', absent_section) if name.strip()]
+            yeas_legislators = [
+                html.unescape(self.strip_tags(name.strip()))
+                for name in re.split(r"<br\s*/?>", yeas_section)
+                if name.strip()
+            ]
+            nays_legislators = [
+                html.unescape(self.strip_tags(name.strip()))
+                for name in re.split(r"<br\s*/?>", nays_section)
+                if name.strip()
+            ]
+            absent_legislators = [
+                html.unescape(self.strip_tags(name.strip()))
+                for name in re.split(r"<br\s*/?>", absent_section)
+                if name.strip()
+            ]
         else:
             yeas_legislators = nays_legislators = absent_legislators = []
 
-        # Update counts if they were not correctly parsed
         yeas_count = len(yeas_legislators)
         nays_count = len(nays_legislators)
         absent_count = len(absent_legislators)
 
-        # Determine the result based on counts
         if yeas_count > nays_count:
-            result = 'PASSED'
+            result = "PASSED"
         else:
-            result = 'FAILED'
+            result = "FAILED"
 
         return {
-            'result': result,
-            'vote_breakdown': {
-                'yeas': {'count': yeas_count, 'legislators': yeas_legislators},
-                'nays': {'count': nays_count, 'legislators': nays_legislators},
-                'absent': {'count': absent_count, 'legislators': absent_legislators},
-            }
+            "result": result,
+            "vote_breakdown": {
+                "yeas": {"count": yeas_count, "legislators": yeas_legislators},
+                "nays": {"count": nays_count, "legislators": nays_legislators},
+                "absent": {"count": absent_count, "legislators": absent_legislators},
+            },
         }
 
     def determine_vote_type(self, vote_url):

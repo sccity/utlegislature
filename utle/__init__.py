@@ -1,4 +1,5 @@
 """UTLE."""
+
 # **********************************************************
 # * CATEGORY  SOFTWARE
 # * GROUP     GOV. AFFAIRS
@@ -8,7 +9,7 @@
 # Utah Legislature Automation
 # Copyright Santa Clara City
 # Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.#
+# you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 # http://www.apache.org/licenses/LICENSE-2.0
 # Unless required by applicable law or agreed to in writing, software
@@ -25,6 +26,8 @@ from .billanalysis import *
 from .legislators import *
 from .committees import *
 from .legislative_calendar import *
+from .i360_dev_sync import *
 from .i360_sync import *
 from .votes import *
 from .status import *
+from .score import *

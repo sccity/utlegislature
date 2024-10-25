@@ -83,11 +83,14 @@ class Committees:
             meetings_json = json.dumps(meetings)
             members_json = json.dumps(members)
 
-            self.cursor.execute("""
+            self.cursor.execute(
+                """
                 SELECT description, link, meetings, members 
                 FROM committees 
                 WHERE id = %s
-            """, (committee_id,))
+            """,
+                (committee_id,),
+            )
             existing_committee = self.cursor.fetchone()
 
             if existing_committee:
@@ -97,26 +100,43 @@ class Committees:
                     or existing_committee[2] != meetings_json
                     or existing_committee[3] != members_json
                 ):
-                    logging.debug(f"Fields have changed, updating committee: {committee_id}")
+                    logging.debug(
+                        f"Fields have changed, updating committee: {committee_id}"
+                    )
                     update_query = """
                         UPDATE committees 
                         SET description = %s, link = %s, meetings = %s, members = %s, active = 1, date_modified = NOW()
                         WHERE id = %s
                     """
-                    update_values = (description, link, meetings_json, members_json, committee_id)
+                    update_values = (
+                        description,
+                        link,
+                        meetings_json,
+                        members_json,
+                        committee_id,
+                    )
                     self.cursor.execute(update_query, update_values)
                     self.connection.commit()
                     logging.debug(f"Updated committee: {committee_id}")
                 else:
                     logging.debug(f"No changes detected for committee: {committee_id}")
             else:
-                logging.debug(f"Committee {committee_id} does not exist, inserting new record.")
+                logging.debug(
+                    f"Committee {committee_id} does not exist, inserting new record."
+                )
                 guid = str(uuid.uuid4())
                 insert_query = """
                     INSERT INTO committees (guid, id, description, link, meetings, members, active, date_entered)
                     VALUES (%s, %s, %s, %s, %s, %s, 1, NOW())
                 """
-                insert_values = (guid, committee_id, description, link, meetings_json, members_json)
+                insert_values = (
+                    guid,
+                    committee_id,
+                    description,
+                    link,
+                    meetings_json,
+                    members_json,
+                )
                 self.cursor.execute(insert_query, insert_values)
                 self.connection.commit()
                 logging.debug(f"Inserted committee: {committee_id}")
@@ -143,7 +163,9 @@ class Committees:
                         (committee_id,),
                     )
                 self.connection.commit()
-                logging.debug(f"Deactivated {len(missing_committees)} committees missing from API.")
+                logging.debug(
+                    f"Deactivated {len(missing_committees)} committees missing from API."
+                )
             else:
                 logging.debug("No committees to deactivate.")
         except pymysql.Error as db_error:

@@ -7,7 +7,7 @@
 # Utah Legislature Automation
 # Copyright Santa Clara City
 # Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.#
+# you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 # http://www.apache.org/licenses/LICENSE-2.0
 # Unless required by applicable law or agreed to in writing, software
@@ -15,36 +15,59 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import os, sys, yaml, pymysql, time, logging
+import logging
+import os
+import sys
+import time
+
+import pymysql
+import yaml
 from openai import AsyncOpenAI, OpenAI
-from .settings import settings_data
+
 from .database import connect
+from .settings import settings_data
+
 
 class OpenAIConnector:
     def __init__(self, api_key):
         self.client = OpenAI(api_key=api_key)
 
+    def get_options(self):
+        try:
+            db = connect()
+            cursor = db.cursor()
+
+            query = """
+                SELECT name, value 
+                FROM options 
+                WHERE name IN ('analysis_system_prompt', 'analysis_prompt')
+            """
+            cursor.execute(query)
+            rows = cursor.fetchall()
+            cursor.close()
+            db.close()
+
+            prompt_data = {}
+            for row in rows:
+                name, value = row
+                prompt_data[name] = value
+
+            return prompt_data
+        except Exception as e:
+            print(f"Error fetching prompt data from database: {e}")
+            return None
+
     def analyze_provisions(self, provisions):
-        role_system = {
-            "role": "system",
-            "content": (
-                "You are a legislative analyst familiar with Utah municipal affairs. "
-                "Your task is to review and analyze legislative bills that could impact municipalities in Utah. "
-                "Your analysis should cover economic, social, and legal aspects, considering local government operations, "
-                "community resources, resident well-being, and legal frameworks. Provide insights into potential effects on local businesses, "
-                "tax revenue, community services, and residents' quality of life. Your goal is to offer comprehensive insights "
-                "that aid decision-makers in understanding the potential consequences of these provisions for Utah municipalities."
-            ),
-        }
-        prompt = (
-            f"Summarize in a single sentence whether the highlighted provisions have a potential impact on municipalities in Utah. "
-            f"Then, provide an in-depth one page analysis of the following provisions: {provisions}\n\n"
-            f"Focus on both positive and negative effects across economic, social, and legal dimensions. "
-            f"Provide insights into local government operations, community resources, resident well-being, and legal frameworks. "
-            f"In your analysis, address specific examples: How might these provisions affect local businesses and tax revenue? "
-            f"Are there implications for community services and residents' quality of life? Do the provisions align with existing municipal laws and regulations? "
-            f"Craft a comprehensive analysis that ides decision-makers in understanding the consequences of these provisions for municipalities."
-        )
+        prompt_data = self.get_options()
+        if prompt_data is None:
+            return "Error: Could not fetch prompt data."
+
+        role_system_value = prompt_data.get("score_system_prompt", "")
+        prompt_value = prompt_data.get("score_prompt", "")
+
+        role_system = {"role": "system", "content": role_system_value}
+
+        prompt = prompt_value.replace("{provisions}", provisions)
 
         response = self.client.chat.completions.create(
             model="gpt-4",
@@ -64,7 +87,7 @@ class BillProcessor:
             cursor = db.cursor()
 
             cursor.execute(
-                "SELECT id, highlighted_provisions FROM utle_bills WHERE ai_analysis IS NULL AND last_action_owner NOT LIKE '%not pass%' and bill_year >= 2023"
+                "SELECT guid, highlighted_provisions FROM bills WHERE ai_analysis IS NULL AND last_action_owner NOT LIKE '%not pass%' and bill_year >= 2024"
             )
             rows = cursor.fetchall()
             cursor.close()
@@ -102,7 +125,7 @@ class BillProcessor:
         try:
             db = connect()
             cursor = db.cursor()
-            update_query = "UPDATE utle_bills SET ai_analysis = %s WHERE id = %s"
+            update_query = "UPDATE bills SET ai_analysis = %s WHERE guid = %s"
             cursor.execute(update_query, (analysis, id))
             db.commit()
             cursor.close()

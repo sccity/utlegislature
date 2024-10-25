@@ -7,7 +7,7 @@
 # Utah Legislature Automation
 # Copyright Santa Clara City
 # Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.#
+# you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 # http://www.apache.org/licenses/LICENSE-2.0
 # Unless required by applicable law or agreed to in writing, software
@@ -32,10 +32,10 @@ def bills(year, session):
     """Process Legislative Bills"""
     if year and session:
         click.echo(f"Processing bills for year {year} and session {session}")
-        le.UtahLegislature.import_bills(year=year, session=session)
+        le.Bills.import_bills(year=year, session=session)
     else:
         click.echo("Processing bills for current year and general session")
-        le.UtahLegislature.import_bills()
+        le.Bills.import_bills()
 
 
 @main.command()
@@ -45,41 +45,52 @@ def billfiles(year, session):
     """Process Legislative Bill Files"""
     if year and session:
         click.echo(f"Processing bill files for year {year} and session {session}")
-        le.UtahLegislatureFiles.import_files(year=year, session=session)
+        le.BillFiles.import_files(year=year, session=session)
     else:
         click.echo("Processing bills for current year and general session")
-        le.UtahLegislatureFiles.import_files()
+        le.BillFiles.import_files()
+
 
 @main.command()
 def legislators():
     """Process Legislator Information"""
     le.Legislators.update_legislators()
 
+
 @main.command()
 def committees():
     """Process Committee Information"""
     le.Committees.update_committees()
+
 
 @main.command()
 def calendar():
     """Process Legislative Calendar"""
     le.LegislativeCalendar.update_calendar()
 
+
 @main.command()
 def votes():
     """Process Voting Information"""
     le.Votes.get_votes(2024)
-    #le.Votes.get_vote_history()
+
 
 @main.command()
 def status():
     """Process Voting Information"""
     le.Status.get_status(2016)
 
+
 @main.command()
 def i360():
     """Sync I360 Data"""
     le.DataSync.sync_data()
+
+
+@main.command()
+def i360dev():
+    """Sync I360 Dev Data"""
+    le.DevDataSync.sync_data()
 
 
 @main.command()
@@ -98,6 +109,13 @@ def billanalysis():
 def impact():
     """Calculate Impact Analysis"""
     le.process_impact()
+
+
+@main.command()
+def score():
+    """Calculate Bill Scores"""
+    le.process_scores()
+
 
 if __name__ == "__main__":
     main()

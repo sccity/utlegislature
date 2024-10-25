@@ -7,7 +7,7 @@
 # Utah Legislature Automation
 # Copyright Santa Clara City
 # Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.#
+# you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 # http://www.apache.org/licenses/LICENSE-2.0
 # Unless required by applicable law or agreed to in writing, software
@@ -22,7 +22,7 @@ from cachetools import cached, TTLCache
 from .settings import settings_data
 
 
-class UtahLegislature:
+class Bills:
     bill_list_cache = TTLCache(maxsize=1024, ttl=360)
     bill_detail_cache = TTLCache(maxsize=1024, ttl=360)
     legislator_cache = TTLCache(maxsize=1024, ttl=360)
@@ -46,7 +46,7 @@ class UtahLegislature:
             filename="bills.log",
             format="%(asctime)s - %(levelname)s - %(message)s",
         )
-        logging.debug("Setting up UtahLegislature instance...")
+        logging.debug("Setting up Bills instance...")
         self.base_bill_url = "https://glen.le.utah.gov/bills/{year}{session}/".format(
             year=self.year, session=self.session
         )
@@ -295,7 +295,7 @@ class UtahLegislature:
         current_year = datetime.now().year
         year = year if year else current_year
 
-        etlProcessor = UtahLegislature(
+        etlProcessor = Bills(
             api_key=settings_data["api"]["utle"],
             db_host=settings_data["database"]["host"],
             db_user=settings_data["database"]["user"],

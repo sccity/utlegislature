@@ -20,7 +20,7 @@ import logging
 from .settings import settings_data
 
 
-class DataSync:
+class DevDataSync:
     def __init__(self, db_host, db_user, db_password, db_name):
         self.db_host = db_host
         self.db_user = db_user
@@ -48,7 +48,7 @@ class DataSync:
     def bills(self):
         try:
             insert_query = """
-            INSERT INTO influence360.bills (
+            INSERT INTO influence360_dev.bills (
               guid, tracking_id, bill_year, session, bill_number, short_title, 
               general_provisions, highlighted_provisions, subjects, code_sections, 
               appropriations, last_action, last_action_owner, last_action_date, 
@@ -123,7 +123,7 @@ class DataSync:
     def billfiles(self):
         try:
             insert_query = """
-                INSERT INTO influence360.bill_files (billid, guid, name, status, session, year, is_tracked, sponsor, created_at, updated_at)
+                INSERT INTO influence360_dev.bill_files (billid, guid, name, status, session, year, is_tracked, sponsor, created_at, updated_at)
                 SELECT id, guid, name, status, session, year, 0 AS is_tracked, sponsor, date_entered, date_modified
                 FROM govaffairs.bill_files
                 ON DUPLICATE KEY UPDATE
@@ -148,7 +148,7 @@ class DataSync:
     def bill_status(self):
         try:
             insert_query = """
-                INSERT INTO influence360.bill_status (guid, bill_number, bill_year, date, action, location, date_entered)
+                INSERT INTO influence360_dev.bill_status (guid, bill_number, bill_year, date, action, location, date_entered)
                 SELECT guid, bill_number, bill_year, date, action, location, date_entered
                 FROM govaffairs.bill_status
                 ON DUPLICATE KEY UPDATE
@@ -172,7 +172,7 @@ class DataSync:
     def committees(self):
         try:
             insert_query = """
-                INSERT INTO influence360.committees (guid, id, description, link, meetings, members, active, date_entered, date_modified)
+                INSERT INTO influence360_dev.committees (guid, id, description, link, meetings, members, active, date_entered, date_modified)
                 SELECT guid, id, description, link, meetings, members, active, date_entered, date_modified
                 FROM govaffairs.committees
                 ON DUPLICATE KEY UPDATE
@@ -198,7 +198,7 @@ class DataSync:
     def legislators(self):
         try:
             insert_query = """
-                INSERT INTO influence360.legislators (
+                INSERT INTO influence360_dev.legislators (
                     guid, id, full_name, format_name, party, position, district, house, address, email, 
                     cell, work_phone, service_start, profession, professional_affiliations, education, 
                     recognitions_and_honors, counties, legislation_url, demographic_url, image_url, 
@@ -248,7 +248,7 @@ class DataSync:
     def votes(self):
         try:
             insert_query = """
-                INSERT INTO influence360.votes (
+                INSERT INTO influence360_dev.votes (
                     guid, bill_number, bill_year, date, action, location, result, yeas, nays, absent, 
                     yea_votes, nay_votes, absent_votes, date_entered, date_modified
                 )
@@ -297,7 +297,7 @@ class DataSync:
                     break
 
                 insert_query = """
-                    INSERT INTO influence360.votes_legislators (guid, vote_guid, legislator_guid, vote)
+                    INSERT INTO influence360_dev.votes_legislators (guid, vote_guid, legislator_guid, vote)
                     VALUES (%s, %s, %s, %s)
                     ON DUPLICATE KEY UPDATE
                         vote_guid = VALUES(vote_guid),
@@ -337,7 +337,7 @@ class DataSync:
 
     @staticmethod
     def sync_data():
-        sync = DataSync(
+        sync = DevDataSync(
             db_host=settings_data["database"]["host"],
             db_user=settings_data["database"]["user"],
             db_password=settings_data["database"]["password"],
@@ -347,4 +347,4 @@ class DataSync:
 
 
 if __name__ == "__main__":
-    DataSync.sync_data()
+    DevDataSync.sync_data()
